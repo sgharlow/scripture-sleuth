@@ -17,7 +17,7 @@
 |-----------|--------|-----------|
 | App Listing | READY | https://developers.reddit.com/apps/scripture-sleuth |
 | Demo Post | COMPLETE | https://reddit.com/r/ScriptureSleuth/comments/1qtdo7k/ |
-| GitHub Repo (PUBLIC) | PENDING | https://github.com/sgharlow/scripture-sleuth |
+| GitHub Repo (PUBLIC) | COMPLETE | https://github.com/sgharlow/scripture-sleuth |
 | README.md | COMPLETE | In repo root |
 | Screenshots | COMPLETE | 6 screenshots in screenshots/ folder |
 

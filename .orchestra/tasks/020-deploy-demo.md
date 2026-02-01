@@ -29,12 +29,12 @@ Steps:
 8. Document any issues found
 
 ## Acceptance Criteria
-- [ ] App uploaded to developers.reddit.com
-- [ ] App installed on r/ScriptureSleuth
-- [ ] At least one puzzle post live
-- [ ] Full game flow works: view → select → confirm → result
+- [x] App uploaded to developers.reddit.com
+- [x] App installed on r/ScriptureSleuth
+- [x] At least one puzzle post live
+- [x] Full game flow works: view → select → confirm → result
 - [ ] Mobile experience verified
-- [ ] Screenshots captured for Devpost submission
+- [x] Screenshots captured for Devpost submission
 - [ ] README.md updated with deployment notes
 
 ## Context Files
@@ -56,3 +56,33 @@ Steps:
 - Updated documentation from CommentConspiracy to ScriptureSleuth
 - Production subreddit: r/ScriptureSleuth (pending creation)
 - Dev subreddit: r/scripture_sleuth_dev (active)
+
+### 2026-02-01 (Session 2)
+- ✅ Uploaded subreddit branding (icon + banner) to r/ScriptureSleuth
+- ✅ Created puzzle post via "Create Comment Conspiracy Post" menu action
+- 🐛 Fixed verse selection bug (onSelectVerse not a function) - required app rebuild
+- ✅ App rebuilt and uploaded to v0.0.4
+- ✅ Installed v0.0.4 on r/ScriptureSleuth
+- ✅ Full game flow verified: welcome → game → select → confirm → result
+- ✅ Achievement system working ("First Discovery" unlocked)
+- ✅ Screenshots captured:
+  - 01-welcome-screen.png - How to Play screen
+  - 02-game-screen.png - Active puzzle with 5 verses
+  - 03-verse-selected.png - Verse marked suspicious with Lock In button
+  - 04-confirmation-modal.png - Final Decision confirmation
+  - 05-correct-result.png - Correct result with explanation, stats, achievements
+
+**Known Issues:**
+- ~~Post title still shows "Comment Conspiracy - Can You Spot the AI?" instead of "Scripture Sleuth"~~ FIXED
+- ~~Menu action name still says "Create Comment Conspiracy Post"~~ FIXED
+- ~~Need to update main.tsx to fix these naming issues~~ Already correct, was stale deploy
+
+### 2026-02-01 (Session 3)
+- ✅ Verified naming in main.tsx already correct ("Scripture Sleuth" not "Comment Conspiracy")
+- ✅ Verified per-user shuffling working correctly (fake verse position randomized per user)
+- ✅ Rebuilt and uploaded app to v0.0.5
+- ✅ Installed v0.0.5 on r/ScriptureSleuth
+- ✅ Menu now correctly shows "Create Scripture Sleuth Post"
+- ✅ Created new post with correct title: "Scripture Sleuth - Can You Spot the Fake Verse?"
+- ✅ Screenshot captured: 06-new-post-correct-title.png
+- Old "Comment Conspiracy" post marked for removal (pending mod cleanup)

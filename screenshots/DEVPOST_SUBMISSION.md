@@ -3,9 +3,9 @@
 > **Hackathon:** Reddit Daily Games Hackathon 2026
 > **Deadline:** February 12, 2026 @ 6:00 PM PST
 > **Prize Pool:** $40,000 | Target: Best Daily Game ($15,000)
-> **Status:** PENDING DEPLOYMENT
+> **Status:** DEPLOYED - Ready for Submission
 > **Last Updated:** 2026-02-01
-> **App Version:** v0.0.1
+> **App Version:** v0.0.5
 
 ---
 
@@ -16,10 +16,10 @@
 | Component | Status | Link/Note |
 |-----------|--------|-----------|
 | App Listing | READY | https://developers.reddit.com/apps/scripture-sleuth |
-| Demo Post | PENDING | https://reddit.com/r/ScriptureSleuth (needs creation) |
+| Demo Post | COMPLETE | https://reddit.com/r/ScriptureSleuth/comments/1qtdo7k/ |
 | GitHub Repo (PUBLIC) | PENDING | https://github.com/sgharlow/scripture-sleuth |
 | README.md | COMPLETE | In repo root |
-| Screenshots | PENDING | Need to capture for scripture theme |
+| Screenshots | COMPLETE | 6 screenshots in screenshots/ folder |
 
 ### Technical Requirements
 

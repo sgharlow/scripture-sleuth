@@ -18,10 +18,10 @@ describe('Share Utils', () => {
 
       const result = generateShareText(data);
 
-      expect(result).toContain('Comment Conspiracy Day 5');
+      expect(result).toContain('Scripture Sleuth Day 5');
       expect(result).toContain('1/1');
       expect(result).toContain('3-day streak');
-      expect(result).toContain('r/CommentConspiracy');
+      expect(result).toContain('r/ScriptureSleuth');
     });
 
     it('generates correct text for an incorrect guess', () => {
@@ -33,10 +33,10 @@ describe('Share Utils', () => {
 
       const result = generateShareText(data);
 
-      expect(result).toContain('Comment Conspiracy Day 10');
+      expect(result).toContain('Scripture Sleuth Day 10');
       expect(result).toContain('0/1');
       expect(result).not.toContain('streak');
-      expect(result).toContain('r/CommentConspiracy');
+      expect(result).toContain('r/ScriptureSleuth');
     });
 
     it('does not show streak when streak is 0', () => {
@@ -86,7 +86,7 @@ describe('Share Utils', () => {
 
       const result = generateShareTextWithEmojis(data);
 
-      expect(result).toContain('🔍');
+      expect(result).toContain('📖');
       expect(result).toContain('✅ 1/1');
       expect(result).toContain('🔥');
     });
@@ -100,7 +100,7 @@ describe('Share Utils', () => {
 
       const result = generateShareTextWithEmojis(data);
 
-      expect(result).toContain('🔍');
+      expect(result).toContain('📖');
       expect(result).toContain('❌ 0/1');
     });
 

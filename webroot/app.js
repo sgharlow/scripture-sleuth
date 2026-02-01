@@ -24632,116 +24632,102 @@ function useGameState() {
 // src/components/screens/WelcomeScreen.tsx
 var import_jsx_runtime = __toESM(require_jsx_runtime(), 1);
 function WelcomeScreen({ onStartGame }) {
-  return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "flex flex-col h-full w-full max-w-2xl mx-auto px-4 py-8 justify-center", children: [
+  return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "flex flex-col h-full w-full max-w-2xl mx-auto px-4 py-8 justify-center bg-scripture-bg", children: [
     /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "text-center mb-8", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "text-6xl mb-4", children: "\u{1F50D}" }),
-      /* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", { className: "text-3xl font-bold text-textPrimary mb-3 tracking-tight", children: "COMMENT CONSPIRACY" }),
-      /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "inline-block bg-detective-card border border-suspicious/30 rounded-lg px-4 py-2 mb-2", children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-lg text-suspicious font-semibold tracking-wide", children: "ONE OF THESE ISN'T HUMAN" }) }),
-      /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-sm text-textSecondary mt-3", children: "Can you spot the AI imposter hiding among real Redditors?" })
+      /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "text-6xl mb-4", children: "\u{1F4D6}" }),
+      /* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", { className: "text-3xl font-bold text-burgundy mb-3 tracking-tight font-display", children: "SCRIPTURE SLEUTH" }),
+      /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "inline-block bg-scripture-card border border-gold/30 rounded-lg px-4 py-2 mb-2", children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-lg text-gold-dark font-semibold tracking-wide", children: "ONE VERSE ISN'T REAL" }) }),
+      /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-sm text-textSecondary mt-3", children: "Can you spot the fake scripture hiding among real Bible verses?" })
     ] }),
-    /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "bg-detective-card border border-detective-border rounded-xl p-6 mb-6", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime.jsx)("h2", { className: "text-sm font-semibold text-textSecondary uppercase tracking-wider mb-5", children: "Your Mission" }),
+    /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "bg-scripture-card border border-scripture-border rounded-xl p-6 mb-6", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime.jsx)("h2", { className: "text-sm font-semibold text-textSecondary uppercase tracking-wider mb-5", children: "How to Play" }),
       /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "space-y-5", children: [
         /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "flex items-start gap-4", children: [
-          /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "flex-shrink-0 w-10 h-10 bg-detective-bg border border-detective-border rounded-lg flex items-center justify-center text-xl", children: "\u{1F441}\uFE0F" }),
+          /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "flex-shrink-0 w-10 h-10 bg-scripture-bg border border-scripture-border rounded-lg flex items-center justify-center text-xl", children: "\u{1F4DC}" }),
           /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [
-            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textPrimary font-medium", children: "Examine the Evidence" }),
-            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textSecondary text-sm", children: "Read all 5 comments from an r/AskReddit thread" })
+            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textPrimary font-medium", children: "Read the Passages" }),
+            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textSecondary text-sm", children: "Five verses on today's theme \u2014 study them carefully" })
           ] })
         ] }),
         /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "flex items-start gap-4", children: [
-          /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "flex-shrink-0 w-10 h-10 bg-detective-bg border border-detective-border rounded-lg flex items-center justify-center text-xl", children: "\u{1F3AF}" }),
+          /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "flex-shrink-0 w-10 h-10 bg-scripture-bg border border-scripture-border rounded-lg flex items-center justify-center text-xl", children: "\u{1F50D}" }),
           /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [
-            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textPrimary font-medium", children: "Identify the Imposter" }),
-            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textSecondary text-sm", children: "One comment was written by AI \u2014 find it" })
+            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textPrimary font-medium", children: "Find the Fake" }),
+            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textSecondary text-sm", children: `One "verse" was made up \u2014 it sounds biblical but isn't real` })
           ] })
         ] }),
         /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "flex items-start gap-4", children: [
-          /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "flex-shrink-0 w-10 h-10 bg-detective-bg border border-detective-border rounded-lg flex items-center justify-center text-xl", children: "\u{1F525}" }),
+          /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "flex-shrink-0 w-10 h-10 bg-scripture-bg border border-scripture-border rounded-lg flex items-center justify-center text-xl", children: "\u{1F517}" }),
           /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { children: [
-            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textPrimary font-medium", children: "Build Your Streak" }),
-            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textSecondary text-sm", children: "New case every day \u2014 keep your detective record clean" })
+            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textPrimary font-medium", children: "Discover Connections" }),
+            /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-textSecondary text-sm", children: "Each real verse connects to a subreddit \u2014 see the reveal!" })
           ] })
         ] })
       ] })
     ] }),
-    /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "bg-suspicious/10 border border-suspicious/30 rounded-lg px-4 py-3 mb-6", children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-center text-sm text-suspicious font-medium", children: "\u26A0\uFE0F One guess only \u2014 choose wisely" }) }),
-    /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "text-center text-sm text-textMuted mb-6", children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { children: "New case file released at midnight UTC" }) }),
+    /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "bg-burgundy/10 border border-burgundy/30 rounded-lg px-4 py-3 mb-6", children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-center text-sm text-burgundy font-medium", children: "\u26A0\uFE0F One guess only \u2014 choose wisely" }) }),
+    /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { className: "text-center text-sm text-textMuted mb-6", children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { children: "New puzzle released at midnight UTC" }) }),
     /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
       "button",
       {
         onClick: onStartGame,
-        className: "w-full py-4 px-6 bg-reddit hover:bg-reddit/90 text-white text-lg font-bold rounded-xl transition-all shadow-lg hover:shadow-xl active:scale-[0.98]",
-        children: "\u{1F50E} START INVESTIGATING"
+        className: "w-full py-4 px-6 bg-burgundy hover:bg-burgundy-dark text-white text-lg font-bold rounded-xl transition-all shadow-lg hover:shadow-xl active:scale-[0.98]",
+        children: "\u{1F4D6} BEGIN YOUR SEARCH"
       }
     )
   ] });
 }
 
-// src/components/game/CommentCard.tsx
+// src/components/game/VerseCard.tsx
 var import_jsx_runtime2 = __toESM(require_jsx_runtime(), 1);
 function getVisualState(props) {
   if (props.disabled)
     return "disabled";
   if (props.isRevealed) {
-    return props.isAI ? "revealed_ai" : "revealed_human";
+    return props.isFake ? "revealed_fake" : "revealed_real";
   }
   if (props.isSelected)
     return "selected";
   return "default";
 }
-function getFakePoints(username) {
-  let hash = 0;
-  for (let i = 0; i < username.length; i++) {
-    hash = (hash << 5) - hash + username.charCodeAt(i);
-    hash |= 0;
-  }
-  return Math.abs(hash % 1950) + 50;
-}
-function getFakeTimeAgo(index) {
-  const times = ["3h", "5h", "7h", "12h", "1d"];
-  return times[index % times.length];
-}
 var stateStyles = {
   default: {
-    container: "bg-detective-card hover:bg-detective-cardHover cursor-pointer active:scale-[0.99]",
-    border: "border-detective-border hover:border-textMuted"
+    container: "bg-scripture-card hover:bg-scripture-cardHover cursor-pointer active:scale-[0.99]",
+    border: "border-scripture-border hover:border-burgundy/40"
   },
   selected: {
-    container: "bg-detective-card cursor-pointer active:scale-[0.99] shadow-suspicious",
-    border: "border-suspicious border-2"
+    container: "bg-scripture-card cursor-pointer active:scale-[0.99] shadow-selected",
+    border: "border-gold border-2"
   },
-  revealed_ai: {
-    container: "bg-ai/10 shadow-ai",
-    border: "border-ai border-2"
+  revealed_fake: {
+    container: "bg-burgundy/10 shadow-fake",
+    border: "border-burgundy border-2"
   },
-  revealed_human: {
-    container: "bg-detective-card opacity-60",
-    border: "border-detective-border"
+  revealed_real: {
+    container: "bg-scripture-card opacity-80",
+    border: "border-scripture-border"
   },
   disabled: {
-    container: "bg-detective-card opacity-40 cursor-not-allowed",
-    border: "border-detective-border"
+    container: "bg-scripture-card opacity-40 cursor-not-allowed",
+    border: "border-scripture-border"
   }
 };
-function CommentCard({
-  comment,
+function VerseCard({
+  verse,
   index,
   isSelected,
   isRevealed,
-  isAI,
+  isFake,
   isCorrectGuess,
   onSelect,
   disabled = false
 }) {
-  const visualState = getVisualState({ comment, index, isSelected, isRevealed, isAI, onSelect, disabled });
+  const visualState = getVisualState({ verse, index, isSelected, isRevealed, isFake, onSelect, disabled });
   const styles = stateStyles[visualState];
-  const baseClasses = "relative p-4 rounded-xl border transition-all duration-200 min-h-[100px] touch-manipulation select-none";
-  const fakePoints = getFakePoints(comment.username);
-  const fakeTime = getFakeTimeAgo(index);
+  const baseClasses = "relative p-5 rounded-xl border transition-all duration-200 min-h-[120px] touch-manipulation select-none";
   const handleClick = () => {
     if (!disabled && !isRevealed) {
-      onSelect(comment.id);
+      onSelect(verse.id);
     }
   };
   const handleKeyDown = (e) => {
@@ -24760,36 +24746,34 @@ function CommentCard({
       onKeyDown: handleKeyDown,
       "aria-pressed": isSelected,
       "aria-disabled": disabled,
-      "aria-label": `Suspect ${index + 1} by ${comment.username}`,
+      "aria-label": `Verse ${index + 1}: ${verse.reference}`,
       children: [
         /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "flex items-center justify-between mb-3", children: [
           /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "flex items-center gap-2", children: [
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("span", { className: `text-xs font-bold uppercase tracking-wider ${isSelected ? "text-suspicious" : isRevealed && isAI ? "text-ai" : "text-textSecondary"}`, children: [
-              "Suspect ",
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("span", { className: `text-xs font-bold uppercase tracking-wider ${isSelected ? "text-gold" : isRevealed && isFake ? "text-burgundy" : "text-textSecondary"}`, children: [
+              "Verse ",
               index + 1
             ] }),
-            isSelected && !isRevealed && /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { className: "px-2 py-0.5 bg-suspicious/20 border border-suspicious/40 rounded text-[10px] font-bold text-suspicious uppercase", children: "Marked Suspicious" })
+            isSelected && !isRevealed && /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { className: "px-2 py-0.5 bg-gold/20 border border-gold/40 rounded text-[10px] font-bold text-gold-dark uppercase", children: "Marked Suspicious" })
           ] }),
-          isRevealed && isAI && /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "px-2 py-1 rounded bg-ai text-white text-xs font-bold flex items-center gap-1", children: [
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { children: "\u{1F916}" }),
-            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { children: "AI IMPOSTER" })
+          isRevealed && isFake && /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "px-2 py-1 rounded bg-burgundy text-white text-xs font-bold flex items-center gap-1", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { children: "\u{1F4DC}" }),
+            /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { children: "FAKE SCRIPTURE" })
           ] }),
-          isRevealed && isCorrectGuess && /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("div", { className: "px-2 py-1 rounded bg-correct text-white text-xs font-bold", children: "\u2713 You caught it!" })
+          isRevealed && isCorrectGuess && /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("div", { className: "px-2 py-1 rounded bg-correct text-white text-xs font-bold", children: "\u2713 You found it!" })
         ] }),
-        /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "flex items-center gap-2 text-xs text-textMuted mb-2", children: [
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("span", { className: "text-reddit font-medium", children: [
-            "u/",
-            comment.username
-          ] }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { children: "\u2022" }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("span", { children: [
-            fakePoints,
-            " pts"
-          ] }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { children: "\u2022" }),
-          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { children: fakeTime })
+        /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "font-verse text-base sm:text-lg text-textVerse leading-relaxed italic mb-3", children: [
+          '"',
+          verse.text,
+          '"'
         ] }),
-        /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("div", { className: "text-sm sm:text-base text-textPrimary leading-relaxed", children: comment.text }),
+        /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("div", { className: "flex items-center justify-between text-xs text-textSecondary", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsxs)("span", { className: "font-medium text-burgundy", children: [
+            "\u2014 ",
+            verse.reference
+          ] }),
+          /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { className: "px-2 py-0.5 bg-scripture-border/50 rounded text-[10px] font-medium uppercase", children: verse.translation })
+        ] }),
         !isSelected && !isRevealed && !disabled && /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("div", { className: "absolute bottom-2 right-3 text-[10px] text-textMuted opacity-0 group-hover:opacity-100 transition-opacity", children: "Tap to mark" })
       ]
     }
@@ -24803,11 +24787,11 @@ function getDifficultyColor(difficulty) {
     case "easy":
       return "bg-correct/20 text-correct border-correct/30";
     case "medium":
-      return "bg-yellow-500/20 text-yellow-400 border-yellow-500/30";
+      return "bg-gold/20 text-gold-dark border-gold/30";
     case "hard":
-      return "bg-suspicious/20 text-suspicious border-suspicious/30";
+      return "bg-burgundy/20 text-burgundy border-burgundy/30";
     case "expert":
-      return "bg-ai/20 text-ai border-ai/30";
+      return "bg-burgundy text-white border-burgundy";
     default:
       return "bg-textSecondary/20 text-textSecondary border-textSecondary/30";
   }
@@ -24815,23 +24799,23 @@ function getDifficultyColor(difficulty) {
 function GameScreen({
   puzzle,
   selectedIndex,
-  onSelectComment,
+  onSelectVerse,
   onConfirmGuess,
   disabled = false
 }) {
-  const handleSelectComment = (id) => {
-    const index = puzzle.comments.findIndex((c) => c.id === id);
+  const handleSelectVerse = (id) => {
+    const index = puzzle.verses.findIndex((v) => v.id === id);
     if (index !== -1) {
-      onSelectComment(index);
+      onSelectVerse(index);
     }
   };
   const difficultyColor = getDifficultyColor(puzzle.difficulty);
-  return /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-col h-full w-full max-w-2xl mx-auto px-3 sm:px-4 py-4 sm:py-6", children: [
+  return /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-col h-full w-full max-w-2xl mx-auto px-3 sm:px-4 py-4 sm:py-6 bg-scripture-bg", children: [
     /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "text-center mb-4 sm:mb-5", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "inline-flex items-center gap-2 bg-detective-card border border-detective-border rounded-lg px-3 py-1.5 mb-2", children: [
-        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { className: "text-xl", children: "\u{1F4CB}" }),
+      /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "inline-flex items-center gap-2 bg-scripture-card border border-scripture-border rounded-lg px-3 py-1.5 mb-2", children: [
+        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { className: "text-xl", children: "\u{1F4D6}" }),
         /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("span", { className: "text-sm font-bold text-textPrimary uppercase tracking-wider", children: [
-          "Case File #",
+          "Day ",
           puzzle.dayNumber
         ] })
       ] }),
@@ -24841,38 +24825,38 @@ function GameScreen({
         /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { className: "capitalize", children: puzzle.dayOfWeek })
       ] })
     ] }),
-    /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "bg-detective-card border border-detective-border rounded-xl p-4 mb-4 sm:mb-5", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "flex items-center gap-2 mb-2", children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { className: "text-reddit font-bold text-sm", children: puzzle.prompt.source }) }),
-      /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "text-base sm:text-lg font-medium text-textPrimary leading-relaxed", children: [
+    /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "bg-scripture-card border border-scripture-border rounded-xl p-4 mb-4 sm:mb-5", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "flex items-center gap-2 mb-2", children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { className: "text-burgundy font-bold text-sm uppercase tracking-wider", children: "Today's Theme" }) }),
+      /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "text-base sm:text-lg font-verse font-medium text-textPrimary leading-relaxed italic", children: [
         '"',
-        puzzle.prompt.text,
+        puzzle.theme,
         '"'
       ] })
     ] }),
     /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex items-center justify-between mb-3", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider", children: "\u{1F50D} Suspects" }),
-      /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "text-xs text-textMuted", children: selectedIndex !== null ? "1 marked" : "Tap to mark suspicious" })
+      /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider", children: "\u{1F4DC} Scripture Passages" }),
+      /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "text-xs text-textMuted", children: selectedIndex !== null ? "1 marked suspicious" : "Tap to mark suspicious" })
     ] }),
-    /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "flex-1 space-y-3 mb-4 overflow-y-auto -mx-1 px-1", children: puzzle.comments.map((comment, index) => /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
-      CommentCard,
+    /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "flex-1 space-y-3 mb-4 overflow-y-auto -mx-1 px-1", children: puzzle.verses.map((verse, index) => /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+      VerseCard,
       {
-        comment,
+        verse,
         index,
         isSelected: selectedIndex === index,
         isRevealed: false,
-        onSelect: handleSelectComment,
+        onSelect: handleSelectVerse,
         disabled
       },
-      comment.id
+      verse.id
     )) }),
-    /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "bg-suspicious/10 border border-suspicious/20 rounded-lg px-3 py-2 mb-3", children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("p", { className: "text-center text-xs sm:text-sm text-suspicious font-medium", children: "\u26A0\uFE0F Choose carefully \u2014 ONE GUESS ONLY" }) }),
+    /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "bg-burgundy/10 border border-burgundy/20 rounded-lg px-3 py-2 mb-3", children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("p", { className: "text-center text-xs sm:text-sm text-burgundy font-medium", children: "\u26A0\uFE0F Choose carefully \u2014 ONE GUESS ONLY" }) }),
     selectedIndex !== null && /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
       "button",
       {
         onClick: onConfirmGuess,
         disabled,
-        className: "w-full py-4 px-6 bg-reddit hover:bg-reddit/90 active:bg-reddit/80 disabled:bg-detective-border disabled:text-textMuted text-white text-base sm:text-lg font-bold rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl active:scale-[0.98] touch-manipulation",
-        children: "\u{1F512} LOCK IN ACCUSATION"
+        className: "w-full py-4 px-6 bg-burgundy hover:bg-burgundy-dark active:bg-burgundy-dark disabled:bg-scripture-border disabled:text-textMuted text-white text-base sm:text-lg font-bold rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl active:scale-[0.98] touch-manipulation",
+        children: "\u{1F4DC} LOCK IN YOUR ANSWER"
       }
     )
   ] });
@@ -24887,60 +24871,71 @@ function ResultBanner({
 }) {
   if (wasCorrect) {
     return /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("div", { className: "text-center py-6", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "text-5xl mb-3", children: "\u{1F3AF}" }),
-      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "inline-block bg-correct/20 border border-correct/40 rounded-lg px-4 py-2 mb-3", children: /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("h2", { className: "text-xl sm:text-2xl font-bold text-correct uppercase tracking-wider", children: "Case Closed" }) }),
-      /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("div", { className: "bg-detective-card border border-detective-border rounded-lg px-4 py-3 max-w-sm mx-auto", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "text-5xl mb-3", children: "\u{1F4D6}" }),
+      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "inline-block bg-correct/20 border border-correct/40 rounded-lg px-4 py-2 mb-3", children: /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("h2", { className: "text-xl sm:text-2xl font-bold text-correct uppercase tracking-wider", children: "You Found It!" }) }),
+      /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("div", { className: "bg-scripture-card border border-scripture-border rounded-lg px-4 py-3 max-w-sm mx-auto", children: [
         /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("p", { className: "text-textPrimary font-semibold", children: [
-          "\u{1F916} Suspect ",
+          "\u2728 Verse ",
           correctIndex + 1,
-          " was the AI imposter!"
+          " was the fake!"
         ] }),
-        /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("p", { className: "text-correct text-sm mt-1", children: "You caught them!" })
+        /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("p", { className: "text-correct text-sm mt-1", children: "Your discernment is strong!" })
       ] })
     ] });
   }
   return /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("div", { className: "text-center py-6", children: [
-    /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "text-5xl mb-3", children: "\u274C" }),
-    /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "inline-block bg-incorrect/20 border border-incorrect/40 rounded-lg px-4 py-2 mb-3", children: /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("h2", { className: "text-xl sm:text-2xl font-bold text-incorrect uppercase tracking-wider", children: "Case Unsolved" }) }),
-    /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("div", { className: "bg-detective-card border border-detective-border rounded-lg px-4 py-3 max-w-sm mx-auto", children: [
+    /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "text-5xl mb-3", children: "\u{1F4DC}" }),
+    /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { className: "inline-block bg-incorrect/20 border border-incorrect/40 rounded-lg px-4 py-2 mb-3", children: /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("h2", { className: "text-xl sm:text-2xl font-bold text-incorrect uppercase tracking-wider", children: "The Truth Revealed" }) }),
+    /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("div", { className: "bg-scripture-card border border-scripture-border rounded-lg px-4 py-3 max-w-sm mx-auto", children: [
       /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("p", { className: "text-textSecondary text-sm", children: [
-        "You suspected Suspect ",
+        "You suspected Verse ",
         (guessedIndex ?? 0) + 1
       ] }),
       /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("p", { className: "text-textPrimary font-semibold mt-1", children: [
-        "\u{1F916} The real imposter was Suspect ",
+        "\u2728 The fake was actually Verse ",
         correctIndex + 1
       ] }),
-      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("p", { className: "text-incorrect text-sm mt-1", children: "The AI got away this time..." })
+      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("p", { className: "text-incorrect text-sm mt-1", children: "Study and return tomorrow!" })
     ] })
   ] });
 }
 
-// src/components/results/AIExplanation.tsx
+// src/components/results/FakeExplanation.tsx
 var import_jsx_runtime5 = __toESM(require_jsx_runtime(), 1);
-function AIExplanation({
+function FakeExplanation({
   explanation,
   wasCorrect
 }) {
   return /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "space-y-4", children: [
-    /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: `rounded-xl p-4 border ${wasCorrect ? "bg-correct/10 border-correct/30" : "bg-ai/10 border-ai/30"}`, children: [
+    /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: `rounded-xl p-4 border ${wasCorrect ? "bg-correct/10 border-correct/30" : "bg-burgundy/10 border-burgundy/30"}`, children: [
       /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "flex items-center gap-2 mb-3", children: [
-        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-xl", children: "\u{1F50D}" }),
-        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("h3", { className: "font-bold text-textPrimary uppercase tracking-wider text-sm", children: "Evidence Breakdown" })
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-xl", children: "\u{1F4DC}" }),
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("h3", { className: "font-bold text-textPrimary uppercase tracking-wider text-sm", children: "Why It's Fake" })
       ] }),
-      /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("ul", { className: "space-y-2", children: explanation.aiTells.map((tell, index) => /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("li", { className: "flex items-start gap-2 text-textPrimary", children: [
-        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-suspicious", children: "\u2022" }),
+      /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("ul", { className: "space-y-2", children: explanation.whyFake.map((tell, index) => /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("li", { className: "flex items-start gap-2 text-textPrimary", children: [
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-burgundy", children: "\u2022" }),
         /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-sm", children: tell })
       ] }, index)) })
     ] }),
-    !wasCorrect && explanation.humanTells.length > 0 && /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "bg-detective-card border border-detective-border rounded-xl p-4", children: [
+    !wasCorrect && explanation.whyReal && explanation.whyReal.length > 0 && /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "bg-scripture-card border border-scripture-border rounded-xl p-4", children: [
       /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "flex items-center gap-2 mb-3", children: [
-        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-xl", children: "\u{1F464}" }),
-        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("h3", { className: "font-bold text-textPrimary uppercase tracking-wider text-sm", children: "Why Your Pick Was Human" })
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-xl", children: "\u2728" }),
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("h3", { className: "font-bold text-textPrimary uppercase tracking-wider text-sm", children: "Why Your Pick Was Real" })
       ] }),
-      /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("ul", { className: "space-y-2", children: explanation.humanTells.map((tell, index) => /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("li", { className: "flex items-start gap-2 text-textSecondary", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("ul", { className: "space-y-2", children: explanation.whyReal.map((tell, index) => /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("li", { className: "flex items-start gap-2 text-textSecondary", children: [
         /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-textMuted", children: "\u2022" }),
         /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-sm", children: tell })
+      ] }, index)) })
+    ] }),
+    explanation.connections && explanation.connections.length > 0 && /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "bg-gold/10 border border-gold/30 rounded-xl p-4", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "flex items-center gap-2 mb-3", children: [
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-xl", children: "\u{1F517}" }),
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("h3", { className: "font-bold text-textPrimary uppercase tracking-wider text-sm", children: "Subreddit Connections" })
+      ] }),
+      /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("p", { className: "text-xs text-textSecondary mb-3", children: "Each real verse connects to a subreddit theme:" }),
+      /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("ul", { className: "space-y-2", children: explanation.connections.map((connection, index) => /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("li", { className: "flex items-start gap-2 text-textPrimary", children: [
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-gold", children: "\u2192" }),
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("span", { className: "text-sm", children: connection })
       ] }, index)) })
     ] }),
     explanation.difficulty_note && /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("p", { className: "text-sm text-textSecondary italic text-center px-4", children: explanation.difficulty_note })
@@ -24958,9 +24953,9 @@ function StatsPanel({
 }) {
   const streakDisplay = wasCorrect && streak >= 3;
   const streakReset = !wasCorrect && (previousStreak ?? 0) > 0;
-  return /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "bg-detective-card border border-detective-border rounded-xl p-4 space-y-4", children: [
+  return /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "bg-scripture-card border border-scripture-border rounded-xl p-4 space-y-4", children: [
     /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "grid grid-cols-2 gap-4", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "bg-detective-bg border border-detective-border rounded-lg p-3 text-center", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "bg-scripture-bg border border-scripture-border rounded-lg p-3 text-center", children: [
         /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("div", { className: "text-xs text-textSecondary uppercase tracking-wider mb-1", children: "Streak" }),
         /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: `font-bold text-lg ${wasCorrect ? "text-correct" : "text-textPrimary"}`, children: [
           streakDisplay && /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("span", { className: "mr-1", children: "\u{1F525}" }),
@@ -24974,20 +24969,20 @@ function StatsPanel({
           ")"
         ] })
       ] }),
-      /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "bg-detective-bg border border-detective-border rounded-lg p-3 text-center", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "bg-scripture-bg border border-scripture-border rounded-lg p-3 text-center", children: [
         /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("div", { className: "text-xs text-textSecondary uppercase tracking-wider mb-1", children: "Your Ranking" }),
         /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("div", { className: `font-bold text-lg ${wasCorrect ? "text-correct" : "text-textSecondary"}`, children: userPercentile !== void 0 && wasCorrect ? `Top ${Math.round(userPercentile)}%` : "-" })
       ] })
     ] }),
-    /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "border-t border-detective-border pt-4 space-y-2", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("h4", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3", children: "\u{1F4CA} Today's Case Stats" }),
+    /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "border-t border-scripture-border pt-4 space-y-2", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("h4", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3", children: "\u{1F4CA} Today's Puzzle Stats" }),
       /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "grid grid-cols-2 gap-4", children: [
         /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "flex items-center justify-between", children: [
           /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("span", { className: "text-textSecondary text-sm", children: "Players:" }),
           /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("span", { className: "font-bold text-textPrimary", children: stats.totalPlayers.toLocaleString() })
         ] }),
         /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "flex items-center justify-between", children: [
-          /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("span", { className: "text-textSecondary text-sm", children: "Caught it:" }),
+          /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("span", { className: "text-textSecondary text-sm", children: "Found it:" }),
           /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("span", { className: "font-bold text-correct", children: [
             stats.correctPercentage.toFixed(0),
             "%"
@@ -24995,8 +24990,8 @@ function StatsPanel({
         ] })
       ] })
     ] }),
-    stats.guessDistribution.some((count) => count > 0) && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "border-t border-detective-border pt-4", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("h4", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3", children: "Suspect Distribution" }),
+    stats.guessDistribution.some((count) => count > 0) && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("div", { className: "border-t border-scripture-border pt-4", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("h4", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3", children: "Verse Distribution" }),
       /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("div", { className: "space-y-2", children: stats.guessDistribution.map((count, index) => {
         const total = stats.totalPlayers || 1;
         const percentage = count / total * 100;
@@ -25006,10 +25001,10 @@ function StatsPanel({
             "#",
             index + 1
           ] }),
-          /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("div", { className: "flex-1 h-3 bg-detective-bg border border-detective-border rounded-full overflow-hidden", children: /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
+          /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("div", { className: "flex-1 h-3 bg-scripture-bg border border-scripture-border rounded-full overflow-hidden", children: /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
             "div",
             {
-              className: `h-full transition-all ${isCorrect ? "bg-correct" : "bg-suspicious/60"}`,
+              className: `h-full transition-all ${isCorrect ? "bg-correct" : "bg-burgundy/60"}`,
               style: { width: `${percentage}%` }
             }
           ) }),
@@ -25029,14 +25024,14 @@ var import_react2 = __toESM(require_react(), 1);
 // src/utils/shareUtils.ts
 function generateShareTextWithEmojis(data) {
   const lines = [];
-  lines.push(`\u{1F50D} Comment Conspiracy Day ${data.dayNumber}`);
+  lines.push(`\u{1F4D6} Scripture Sleuth Day ${data.dayNumber}`);
   lines.push("");
   lines.push(data.wasCorrect ? "\u2705 1/1" : "\u274C 0/1");
   if (data.streak > 0) {
     lines.push(`\u{1F525} ${data.streak}-day streak`);
   }
   lines.push("");
-  lines.push("r/CommentConspiracy");
+  lines.push("r/ScriptureSleuth");
   return lines.join("\n");
 }
 async function copyToClipboard(text) {
@@ -25069,7 +25064,7 @@ async function shareResult(data) {
   const text = generateShareTextWithEmojis(data);
   try {
     await navigator.share({
-      title: "Comment Conspiracy",
+      title: "Scripture Sleuth",
       text
     });
     return true;
@@ -25118,7 +25113,7 @@ function ShareCard({
         return "Copy";
     }
   };
-  return /* @__PURE__ */ (0, import_jsx_runtime7.jsxs)("div", { className: "bg-detective-bg border border-detective-border rounded-xl p-4 sm:p-6", children: [
+  return /* @__PURE__ */ (0, import_jsx_runtime7.jsxs)("div", { className: "bg-scripture-bg border border-scripture-border rounded-xl p-4 sm:p-6", children: [
     /* @__PURE__ */ (0, import_jsx_runtime7.jsx)("div", { className: "font-mono text-sm sm:text-base whitespace-pre-line text-center mb-4 leading-relaxed text-textPrimary", children: shareText }),
     /* @__PURE__ */ (0, import_jsx_runtime7.jsxs)("div", { className: "flex gap-3 justify-center", children: [
       /* @__PURE__ */ (0, import_jsx_runtime7.jsx)(
@@ -25129,7 +25124,7 @@ function ShareCard({
           className: `
             flex-1 max-w-[140px] py-3 px-4 rounded-lg text-sm font-bold
             transition-all duration-200 touch-manipulation border
-            ${copyState === "copied" ? "bg-correct/20 border-correct/40 text-correct" : copyState === "error" ? "bg-incorrect/20 border-incorrect/40 text-incorrect" : "bg-detective-card border-detective-border hover:bg-detective-cardHover text-textPrimary"}
+            ${copyState === "copied" ? "bg-correct/20 border-correct/40 text-correct" : copyState === "error" ? "bg-incorrect/20 border-incorrect/40 text-incorrect" : "bg-scripture-card border-scripture-border hover:bg-scripture-cardHover text-textPrimary"}
           `,
           children: /* @__PURE__ */ (0, import_jsx_runtime7.jsx)("span", { className: "flex items-center justify-center gap-2", children: copyState === "copied" ? /* @__PURE__ */ (0, import_jsx_runtime7.jsxs)(import_jsx_runtime7.Fragment, { children: [
             /* @__PURE__ */ (0, import_jsx_runtime7.jsx)("span", { children: "\u2713" }),
@@ -25144,7 +25139,7 @@ function ShareCard({
         "button",
         {
           onClick: handleShare,
-          className: "flex-1 max-w-[140px] py-3 px-4 bg-reddit hover:bg-reddit/90 rounded-lg text-sm font-bold text-white transition-all duration-200 touch-manipulation",
+          className: "flex-1 max-w-[140px] py-3 px-4 bg-burgundy hover:bg-burgundy-dark rounded-lg text-sm font-bold text-white transition-all duration-200 touch-manipulation",
           children: /* @__PURE__ */ (0, import_jsx_runtime7.jsxs)("span", { className: "flex items-center justify-center gap-2", children: [
             /* @__PURE__ */ (0, import_jsx_runtime7.jsx)("span", { children: "\u{1F517}" }),
             /* @__PURE__ */ (0, import_jsx_runtime7.jsx)("span", { children: "Share" })
@@ -25265,7 +25260,7 @@ function ResultScreen({
   onJoinDiscussion,
   onContribute
 }) {
-  return /* @__PURE__ */ (0, import_jsx_runtime9.jsxs)("div", { className: "flex flex-col h-full w-full max-w-2xl mx-auto px-4 py-6 overflow-y-auto", children: [
+  return /* @__PURE__ */ (0, import_jsx_runtime9.jsxs)("div", { className: "flex flex-col h-full w-full max-w-2xl mx-auto px-4 py-6 overflow-y-auto bg-scripture-bg", children: [
     /* @__PURE__ */ (0, import_jsx_runtime9.jsx)(
       ResultBanner,
       {
@@ -25275,7 +25270,7 @@ function ResultScreen({
       }
     ),
     /* @__PURE__ */ (0, import_jsx_runtime9.jsx)("div", { className: "mb-6", children: /* @__PURE__ */ (0, import_jsx_runtime9.jsx)(
-      AIExplanation,
+      FakeExplanation,
       {
         explanation: result.explanation,
         wasCorrect: result.wasCorrect
@@ -25305,7 +25300,7 @@ function ResultScreen({
         "button",
         {
           onClick: onViewBreakdown,
-          className: "w-full py-3 px-6 bg-detective-card border border-detective-border hover:bg-detective-cardHover text-textPrimary font-semibold rounded-xl transition-all",
+          className: "w-full py-3 px-6 bg-scripture-card border border-scripture-border hover:bg-scripture-cardHover text-textPrimary font-semibold rounded-xl transition-all",
           children: "View Full Breakdown"
         }
       ),
@@ -25313,10 +25308,10 @@ function ResultScreen({
         "button",
         {
           onClick: onContribute,
-          className: "w-full py-3 px-6 bg-ai/20 border border-ai/40 hover:bg-ai/30 text-ai font-bold rounded-xl transition-all flex items-center justify-center gap-2",
+          className: "w-full py-3 px-6 bg-gold/20 border border-gold/40 hover:bg-gold/30 text-gold-dark font-bold rounded-xl transition-all flex items-center justify-center gap-2",
           children: [
             /* @__PURE__ */ (0, import_jsx_runtime9.jsx)("span", { children: "+" }),
-            /* @__PURE__ */ (0, import_jsx_runtime9.jsx)("span", { children: "Contribute AI Comments" })
+            /* @__PURE__ */ (0, import_jsx_runtime9.jsx)("span", { children: "Suggest a Fake Verse" })
           ]
         }
       ),
@@ -25324,7 +25319,7 @@ function ResultScreen({
         "button",
         {
           onClick: onJoinDiscussion,
-          className: "w-full py-3 px-6 bg-reddit hover:bg-reddit/90 text-white font-bold rounded-xl transition-all flex items-center justify-center gap-2",
+          className: "w-full py-3 px-6 bg-burgundy hover:bg-burgundy-dark text-white font-bold rounded-xl transition-all flex items-center justify-center gap-2",
           children: [
             /* @__PURE__ */ (0, import_jsx_runtime9.jsx)("span", { children: "\u{1F4AC}" }),
             /* @__PURE__ */ (0, import_jsx_runtime9.jsx)("span", { children: "Join Discussion" })
@@ -25482,24 +25477,24 @@ function CompletedScreen({
   onJoinDiscussion,
   onContribute
 }) {
-  return /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { className: "flex flex-col h-full w-full max-w-2xl mx-auto px-4 py-6 overflow-y-auto", children: [
-    /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { className: "text-center py-6 bg-detective-card border border-detective-border rounded-xl mb-6", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("div", { className: "text-3xl mb-2", children: "\u{1F4CB}" }),
-      /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("h2", { className: "text-lg font-bold text-textPrimary uppercase tracking-wider", children: "Case Closed for Today" }),
-      /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("p", { className: "text-textSecondary text-sm mt-1", children: "You've already submitted your accusation" })
+  return /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { className: "flex flex-col h-full w-full max-w-2xl mx-auto px-4 py-6 overflow-y-auto bg-scripture-bg", children: [
+    /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { className: "text-center py-6 bg-scripture-card border border-scripture-border rounded-xl mb-6", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("div", { className: "text-3xl mb-2", children: "\u{1F4D6}" }),
+      /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("h2", { className: "text-lg font-bold text-textPrimary uppercase tracking-wider", children: "Today's Puzzle Complete" }),
+      /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("p", { className: "text-textSecondary text-sm mt-1", children: "You've already made your selection" })
     ] }),
     /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { className: `border rounded-xl p-4 mb-6 ${result.wasCorrect ? "bg-correct/10 border-correct/30" : "bg-incorrect/10 border-incorrect/30"}`, children: [
       /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { className: "flex items-center justify-between mb-3", children: [
-        /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { className: "text-textSecondary text-sm", children: "Your verdict:" }),
+        /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { className: "text-textSecondary text-sm", children: "Your choice:" }),
         /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("span", { className: "font-bold text-textPrimary", children: [
-          "Suspect #",
+          "Verse #",
           result.guessedIndex + 1,
           " ",
-          result.wasCorrect ? /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { className: "text-correct", children: "(Caught! \u2713)" }) : /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { className: "text-incorrect", children: "(Wrong \u2717)" })
+          result.wasCorrect ? /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { className: "text-correct", children: "(Found it! \u2713)" }) : /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { className: "text-incorrect", children: "(Wrong \u2717)" })
         ] })
       ] }),
       /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { className: "flex items-center justify-between", children: [
-        /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { className: "text-textSecondary text-sm", children: "Detective streak:" }),
+        /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { className: "text-textSecondary text-sm", children: "Discernment streak:" }),
         /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("span", { className: "font-bold text-textPrimary", children: [
           result.newStreak > 0 && result.newStreak >= 3 && "\u{1F525} ",
           result.newStreak,
@@ -25517,7 +25512,7 @@ function CompletedScreen({
       }
     ) }),
     /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { className: "mb-6", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("h3", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3", children: "\u{1F4CA} Today's Case Stats" }),
+      /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("h3", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3", children: "\u{1F4CA} Today's Puzzle Stats" }),
       /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
         StatsPanel,
         {
@@ -25528,13 +25523,13 @@ function CompletedScreen({
         }
       )
     ] }),
-    /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("div", { className: "bg-detective-card border border-detective-border rounded-xl p-6 mb-6", children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(Timer, { className: "text-textPrimary" }) }),
+    /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("div", { className: "bg-scripture-card border border-scripture-border rounded-xl p-6 mb-6", children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(Timer, { className: "text-textPrimary" }) }),
     /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { className: "space-y-3", children: [
       onViewBreakdown && /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
         "button",
         {
           onClick: onViewBreakdown,
-          className: "w-full py-3 px-6 bg-detective-card border border-detective-border hover:bg-detective-cardHover text-textPrimary font-semibold rounded-xl transition-all",
+          className: "w-full py-3 px-6 bg-scripture-card border border-scripture-border hover:bg-scripture-cardHover text-textPrimary font-semibold rounded-xl transition-all",
           children: "View Full Breakdown"
         }
       ),
@@ -25542,10 +25537,10 @@ function CompletedScreen({
         "button",
         {
           onClick: onContribute,
-          className: "w-full py-3 px-6 bg-ai/20 border border-ai/40 hover:bg-ai/30 text-ai font-bold rounded-xl transition-all flex items-center justify-center gap-2",
+          className: "w-full py-3 px-6 bg-gold/20 border border-gold/40 hover:bg-gold/30 text-gold-dark font-bold rounded-xl transition-all flex items-center justify-center gap-2",
           children: [
             /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { children: "+" }),
-            /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { children: "Contribute AI Comments" })
+            /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { children: "Suggest a Fake Verse" })
           ]
         }
       ),
@@ -25553,7 +25548,7 @@ function CompletedScreen({
         "button",
         {
           onClick: onJoinDiscussion,
-          className: "w-full py-3 px-6 bg-reddit hover:bg-reddit/90 text-white font-bold rounded-xl transition-all flex items-center justify-center gap-2",
+          className: "w-full py-3 px-6 bg-burgundy hover:bg-burgundy-dark text-white font-bold rounded-xl transition-all flex items-center justify-center gap-2",
           children: [
             /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { children: "\u{1F4AC}" }),
             /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("span", { children: "Join Discussion" })
@@ -25574,7 +25569,7 @@ function truncateText(text, maxLength = 100) {
 }
 function ConfirmModal({
   isOpen,
-  comment,
+  verse,
   onConfirm,
   onCancel,
   isSubmitting = false
@@ -25607,7 +25602,7 @@ function ConfirmModal({
     document.addEventListener("keydown", handleKeyDown);
     return () => document.removeEventListener("keydown", handleKeyDown);
   }, [isOpen, onCancel]);
-  if (!isOpen || !comment)
+  if (!isOpen || !verse)
     return null;
   return /* @__PURE__ */ (0, import_jsx_runtime13.jsxs)(
     "div",
@@ -25629,33 +25624,30 @@ function ConfirmModal({
           "div",
           {
             ref: modalRef,
-            className: "relative bg-detective-card border border-detective-border rounded-2xl shadow-2xl max-w-md w-full mx-4 p-6",
+            className: "relative bg-scripture-card border border-scripture-border rounded-2xl shadow-2xl max-w-md w-full mx-4 p-6",
             children: [
-              /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("div", { className: "text-center mb-4", children: /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("span", { className: "text-4xl", children: "\u26A0\uFE0F" }) }),
+              /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("div", { className: "text-center mb-4", children: /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("span", { className: "text-4xl", children: "\u{1F4DC}" }) }),
               /* @__PURE__ */ (0, import_jsx_runtime13.jsx)(
                 "h2",
                 {
                   id: "confirm-modal-title",
-                  className: "text-xl font-bold text-suspicious text-center mb-2 uppercase tracking-wider",
-                  children: "Final Accusation"
+                  className: "text-xl font-bold text-burgundy text-center mb-2 uppercase tracking-wider",
+                  children: "Final Decision"
                 }
               ),
-              /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("p", { className: "text-center text-textSecondary text-sm mb-4", children: "You're accusing this suspect of being the AI imposter" }),
-              /* @__PURE__ */ (0, import_jsx_runtime13.jsxs)("div", { className: "bg-detective-bg border border-suspicious/30 rounded-lg p-4 mb-6", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("p", { className: "text-center text-textSecondary text-sm mb-4", children: "You're marking this verse as the fake" }),
+              /* @__PURE__ */ (0, import_jsx_runtime13.jsxs)("div", { className: "bg-scripture-bg border border-burgundy/30 rounded-lg p-4 mb-6", children: [
                 /* @__PURE__ */ (0, import_jsx_runtime13.jsxs)("div", { className: "flex items-center gap-2 text-sm text-textSecondary mb-2", children: [
-                  /* @__PURE__ */ (0, import_jsx_runtime13.jsxs)("span", { className: "text-suspicious font-semibold", children: [
-                    "Suspect ",
-                    comment.displayIndex + 1
+                  /* @__PURE__ */ (0, import_jsx_runtime13.jsxs)("span", { className: "text-burgundy font-semibold", children: [
+                    "Verse ",
+                    verse.displayIndex + 1
                   ] }),
                   /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("span", { children: "\u2022" }),
-                  /* @__PURE__ */ (0, import_jsx_runtime13.jsxs)("span", { className: "text-reddit", children: [
-                    "u/",
-                    comment.username
-                  ] })
+                  /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("span", { className: "text-gold-dark", children: verse.reference })
                 ] }),
-                /* @__PURE__ */ (0, import_jsx_runtime13.jsxs)("div", { className: "text-textPrimary italic text-sm", children: [
+                /* @__PURE__ */ (0, import_jsx_runtime13.jsxs)("div", { className: "text-textPrimary italic text-sm font-verse", children: [
                   '"',
-                  truncateText(comment.text),
+                  truncateText(verse.text),
                   '"'
                 ] })
               ] }),
@@ -25666,8 +25658,8 @@ function ConfirmModal({
                   {
                     onClick: onCancel,
                     disabled: isSubmitting,
-                    className: "flex-1 py-4 px-6 bg-detective-bg border border-detective-border hover:bg-detective-cardHover disabled:opacity-50 text-textPrimary font-semibold rounded-xl transition-all duration-200",
-                    children: "Back Off"
+                    className: "flex-1 py-4 px-6 bg-scripture-bg border border-scripture-border hover:bg-scripture-cardHover disabled:opacity-50 text-textPrimary font-semibold rounded-xl transition-all duration-200",
+                    children: "Go Back"
                   }
                 ),
                 /* @__PURE__ */ (0, import_jsx_runtime13.jsx)(
@@ -25676,8 +25668,8 @@ function ConfirmModal({
                     ref: confirmButtonRef,
                     onClick: onConfirm,
                     disabled: isSubmitting,
-                    className: "flex-1 py-4 px-6 bg-reddit hover:bg-reddit/90 disabled:bg-detective-border disabled:text-textMuted text-white font-bold rounded-xl transition-all duration-200",
-                    children: isSubmitting ? "Analyzing..." : "\u{1F3AF} Confirm"
+                    className: "flex-1 py-4 px-6 bg-burgundy hover:bg-burgundy-dark disabled:bg-scripture-border disabled:text-textMuted text-white font-bold rounded-xl transition-all duration-200",
+                    children: isSubmitting ? "Checking..." : "\u{1F4D6} Confirm"
                   }
                 )
               ] })

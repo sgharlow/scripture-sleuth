@@ -1,6 +1,6 @@
 /**
  * Daily Puzzle Scheduler
- * Posts a new Comment Conspiracy puzzle every day at midnight UTC
+ * Posts a new Scripture Sleuth puzzle every day at midnight UTC
  */
 
 import { Devvit } from '@devvit/public-api';
@@ -64,11 +64,11 @@ export function registerDailyPuzzleJob(): void {
 
         // Create the daily puzzle post
         const post = await context.reddit.submitPost({
-          title: `Day ${puzzle.dayNumber}: Can You Spot the AI Comment?`,
+          title: `Day ${puzzle.dayNumber}: Can You Spot the Fake Verse?`,
           subredditName: subreddit.name,
           preview: (
             <vstack height="100%" width="100%" alignment="center middle" padding="medium">
-              <text size="xlarge" weight="bold">Comment Conspiracy</text>
+              <text size="xlarge" weight="bold">Scripture Sleuth</text>
               <spacer size="medium" />
               <text size="medium">Loading puzzle...</text>
             </vstack>
@@ -99,7 +99,7 @@ async function sendMissingPuzzleAlert(
     const subreddit = await context.reddit.getCurrentSubreddit();
     await context.reddit.sendPrivateMessage({
       to: `/r/${subreddit.name}`,
-      subject: '[Comment Conspiracy] Missing Puzzle Alert',
+      subject: '[Scripture Sleuth] Missing Puzzle Alert',
       text: `No puzzle found for ${date}. Please add a puzzle for this date to continue the daily series.`,
     });
   } catch (error) {
@@ -119,7 +119,7 @@ async function sendErrorAlert(
     const errorMessage = error instanceof Error ? error.message : String(error);
     await context.reddit.sendPrivateMessage({
       to: `/r/${subreddit.name}`,
-      subject: '[Comment Conspiracy] Scheduler Error',
+      subject: '[Scripture Sleuth] Scheduler Error',
       text: `Error in daily puzzle scheduler: ${errorMessage}`,
     });
   } catch (sendError) {
@@ -176,8 +176,8 @@ async function runInventoryHealthCheck(
       const subreddit = await context.reddit.getCurrentSubreddit();
 
       const subject = status.isCritical
-        ? '[Comment Conspiracy] CRITICAL: Puzzle Inventory Empty!'
-        : '[Comment Conspiracy] WARNING: Puzzle Inventory Low';
+        ? '[Scripture Sleuth] CRITICAL: Puzzle Inventory Empty!'
+        : '[Scripture Sleuth] WARNING: Puzzle Inventory Low';
 
       await context.reddit.sendPrivateMessage({
         to: `/r/${subreddit.name}`,

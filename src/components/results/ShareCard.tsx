@@ -1,7 +1,7 @@
 /**
  * ShareCard Component
  * Displays shareable result with copy/share functionality
- * Detective theme: dark card with branded buttons
+ * Scripture theme: parchment card with themed buttons
  */
 
 import React, { useState, useCallback } from 'react';
@@ -63,7 +63,7 @@ export function ShareCard({
   };
 
   return (
-    <div className="bg-detective-bg border border-detective-border rounded-xl p-4 sm:p-6">
+    <div className="bg-scripture-bg border border-scripture-border rounded-xl p-4 sm:p-6">
       {/* Preview of share text */}
       <div className="font-mono text-sm sm:text-base whitespace-pre-line text-center mb-4 leading-relaxed text-textPrimary">
         {shareText}
@@ -81,7 +81,7 @@ export function ShareCard({
               ? 'bg-correct/20 border-correct/40 text-correct'
               : copyState === 'error'
               ? 'bg-incorrect/20 border-incorrect/40 text-incorrect'
-              : 'bg-detective-card border-detective-border hover:bg-detective-cardHover text-textPrimary'
+              : 'bg-scripture-card border-scripture-border hover:bg-scripture-cardHover text-textPrimary'
             }
           `}
         >
@@ -103,7 +103,7 @@ export function ShareCard({
         {canUseShare && (
           <button
             onClick={handleShare}
-            className="flex-1 max-w-[140px] py-3 px-4 bg-reddit hover:bg-reddit/90 rounded-lg text-sm font-bold text-white transition-all duration-200 touch-manipulation"
+            className="flex-1 max-w-[140px] py-3 px-4 bg-burgundy hover:bg-burgundy-dark rounded-lg text-sm font-bold text-white transition-all duration-200 touch-manipulation"
           >
             <span className="flex items-center justify-center gap-2">
               <span>🔗</span>

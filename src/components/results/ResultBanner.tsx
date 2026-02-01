@@ -1,7 +1,7 @@
 /**
  * ResultBanner Component
- * Shows correct/incorrect result with detective-themed messaging
- * "Case Closed" or "Case Unsolved"
+ * Shows correct/incorrect result with scripture-themed messaging
+ * "You Found It!" or "The Truth Revealed"
  */
 
 import React from 'react';
@@ -20,18 +20,18 @@ export function ResultBanner({
   if (wasCorrect) {
     return (
       <div className="text-center py-6">
-        <div className="text-5xl mb-3">🎯</div>
+        <div className="text-5xl mb-3">📖</div>
         <div className="inline-block bg-correct/20 border border-correct/40 rounded-lg px-4 py-2 mb-3">
           <h2 className="text-xl sm:text-2xl font-bold text-correct uppercase tracking-wider">
-            Case Closed
+            You Found It!
           </h2>
         </div>
-        <div className="bg-detective-card border border-detective-border rounded-lg px-4 py-3 max-w-sm mx-auto">
+        <div className="bg-scripture-card border border-scripture-border rounded-lg px-4 py-3 max-w-sm mx-auto">
           <p className="text-textPrimary font-semibold">
-            🤖 Suspect {correctIndex + 1} was the AI imposter!
+            ✨ Verse {correctIndex + 1} was the fake!
           </p>
           <p className="text-correct text-sm mt-1">
-            You caught them!
+            Your discernment is strong!
           </p>
         </div>
       </div>
@@ -40,21 +40,21 @@ export function ResultBanner({
 
   return (
     <div className="text-center py-6">
-      <div className="text-5xl mb-3">❌</div>
+      <div className="text-5xl mb-3">📜</div>
       <div className="inline-block bg-incorrect/20 border border-incorrect/40 rounded-lg px-4 py-2 mb-3">
         <h2 className="text-xl sm:text-2xl font-bold text-incorrect uppercase tracking-wider">
-          Case Unsolved
+          The Truth Revealed
         </h2>
       </div>
-      <div className="bg-detective-card border border-detective-border rounded-lg px-4 py-3 max-w-sm mx-auto">
+      <div className="bg-scripture-card border border-scripture-border rounded-lg px-4 py-3 max-w-sm mx-auto">
         <p className="text-textSecondary text-sm">
-          You suspected Suspect {(guessedIndex ?? 0) + 1}
+          You suspected Verse {(guessedIndex ?? 0) + 1}
         </p>
         <p className="text-textPrimary font-semibold mt-1">
-          🤖 The real imposter was Suspect {correctIndex + 1}
+          ✨ The fake was actually Verse {correctIndex + 1}
         </p>
         <p className="text-incorrect text-sm mt-1">
-          The AI got away this time...
+          Study and return tomorrow!
         </p>
       </div>
     </div>

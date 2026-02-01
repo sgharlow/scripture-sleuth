@@ -1,7 +1,7 @@
 /**
  * StatsPanel Component
  * Shows statistics about the puzzle and user performance
- * Detective theme: "Your Detective Record"
+ * Scripture theme: "Your Discernment Record"
  */
 
 import React from 'react';
@@ -26,11 +26,11 @@ export function StatsPanel({
   const streakReset = !wasCorrect && (previousStreak ?? 0) > 0;
 
   return (
-    <div className="bg-detective-card border border-detective-border rounded-xl p-4 space-y-4">
+    <div className="bg-scripture-card border border-scripture-border rounded-xl p-4 space-y-4">
       {/* Personal Stats Row */}
       <div className="grid grid-cols-2 gap-4">
         {/* Streak Display */}
-        <div className="bg-detective-bg border border-detective-border rounded-lg p-3 text-center">
+        <div className="bg-scripture-bg border border-scripture-border rounded-lg p-3 text-center">
           <div className="text-xs text-textSecondary uppercase tracking-wider mb-1">Streak</div>
           <div className={`font-bold text-lg ${wasCorrect ? 'text-correct' : 'text-textPrimary'}`}>
             {streakDisplay && <span className="mr-1">🔥</span>}
@@ -44,7 +44,7 @@ export function StatsPanel({
         </div>
 
         {/* Percentile */}
-        <div className="bg-detective-bg border border-detective-border rounded-lg p-3 text-center">
+        <div className="bg-scripture-bg border border-scripture-border rounded-lg p-3 text-center">
           <div className="text-xs text-textSecondary uppercase tracking-wider mb-1">Your Ranking</div>
           <div className={`font-bold text-lg ${wasCorrect ? 'text-correct' : 'text-textSecondary'}`}>
             {userPercentile !== undefined && wasCorrect
@@ -55,9 +55,9 @@ export function StatsPanel({
       </div>
 
       {/* Community Stats */}
-      <div className="border-t border-detective-border pt-4 space-y-2">
+      <div className="border-t border-scripture-border pt-4 space-y-2">
         <h4 className="text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3">
-          📊 Today's Case Stats
+          📊 Today's Puzzle Stats
         </h4>
         <div className="grid grid-cols-2 gap-4">
           <div className="flex items-center justify-between">
@@ -65,7 +65,7 @@ export function StatsPanel({
             <span className="font-bold text-textPrimary">{stats.totalPlayers.toLocaleString()}</span>
           </div>
           <div className="flex items-center justify-between">
-            <span className="text-textSecondary text-sm">Caught it:</span>
+            <span className="text-textSecondary text-sm">Found it:</span>
             <span className="font-bold text-correct">
               {stats.correctPercentage.toFixed(0)}%
             </span>
@@ -75,9 +75,9 @@ export function StatsPanel({
 
       {/* Guess Distribution */}
       {stats.guessDistribution.some(count => count > 0) && (
-        <div className="border-t border-detective-border pt-4">
+        <div className="border-t border-scripture-border pt-4">
           <h4 className="text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3">
-            Suspect Distribution
+            Verse Distribution
           </h4>
           <div className="space-y-2">
             {stats.guessDistribution.map((count, index) => {
@@ -87,9 +87,9 @@ export function StatsPanel({
               return (
                 <div key={index} className="flex items-center gap-2">
                   <span className="w-8 text-xs text-textSecondary font-medium">#{index + 1}</span>
-                  <div className="flex-1 h-3 bg-detective-bg border border-detective-border rounded-full overflow-hidden">
+                  <div className="flex-1 h-3 bg-scripture-bg border border-scripture-border rounded-full overflow-hidden">
                     <div
-                      className={`h-full transition-all ${isCorrect ? 'bg-correct' : 'bg-suspicious/60'}`}
+                      className={`h-full transition-all ${isCorrect ? 'bg-correct' : 'bg-burgundy/60'}`}
                       style={{ width: `${percentage}%` }}
                     />
                   </div>

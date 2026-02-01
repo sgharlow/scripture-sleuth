@@ -1,6 +1,6 @@
 /**
- * Redis key schema for Comment Conspiracy
- * Based on comment-conspiracy-spec-v2.md Section 10
+ * Redis key schema for Scripture Sleuth
+ * Based on scripture-sleuth game design
  */
 
 export const REDIS_KEYS = {

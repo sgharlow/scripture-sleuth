@@ -1,15 +1,15 @@
 /**
  * ConfirmModal Component
  * Confirmation dialog before submitting a guess
- * Detective theme: "Final Accusation" dramatic styling
+ * Scripture theme: "Final Decision" parchment styling
  */
 
 import React, { useEffect, useRef } from 'react';
-import type { DisplayComment } from '../../types';
+import type { DisplayVerse } from '../../types';
 
 export interface ConfirmModalProps {
   isOpen: boolean;
-  comment: DisplayComment | null;
+  verse: DisplayVerse | null;
   onConfirm: () => void;
   onCancel: () => void;
   isSubmitting?: boolean;
@@ -28,7 +28,7 @@ function truncateText(text: string, maxLength: number = 100): string {
  */
 export function ConfirmModal({
   isOpen,
-  comment,
+  verse,
   onConfirm,
   onCancel,
   isSubmitting = false,
@@ -69,7 +69,7 @@ export function ConfirmModal({
     return () => document.removeEventListener('keydown', handleKeyDown);
   }, [isOpen, onCancel]);
 
-  if (!isOpen || !comment) return null;
+  if (!isOpen || !verse) return null;
 
   return (
     <div
@@ -88,34 +88,34 @@ export function ConfirmModal({
       {/* Modal */}
       <div
         ref={modalRef}
-        className="relative bg-detective-card border border-detective-border rounded-2xl shadow-2xl max-w-md w-full mx-4 p-6"
+        className="relative bg-scripture-card border border-scripture-border rounded-2xl shadow-2xl max-w-md w-full mx-4 p-6"
       >
         {/* Warning Icon */}
         <div className="text-center mb-4">
-          <span className="text-4xl">⚠️</span>
+          <span className="text-4xl">📜</span>
         </div>
 
         {/* Title */}
         <h2
           id="confirm-modal-title"
-          className="text-xl font-bold text-suspicious text-center mb-2 uppercase tracking-wider"
+          className="text-xl font-bold text-burgundy text-center mb-2 uppercase tracking-wider"
         >
-          Final Accusation
+          Final Decision
         </h2>
 
         <p className="text-center text-textSecondary text-sm mb-4">
-          You're accusing this suspect of being the AI imposter
+          You're marking this verse as the fake
         </p>
 
-        {/* Comment Preview */}
-        <div className="bg-detective-bg border border-suspicious/30 rounded-lg p-4 mb-6">
+        {/* Verse Preview */}
+        <div className="bg-scripture-bg border border-burgundy/30 rounded-lg p-4 mb-6">
           <div className="flex items-center gap-2 text-sm text-textSecondary mb-2">
-            <span className="text-suspicious font-semibold">Suspect {comment.displayIndex + 1}</span>
+            <span className="text-burgundy font-semibold">Verse {verse.displayIndex + 1}</span>
             <span>•</span>
-            <span className="text-reddit">u/{comment.username}</span>
+            <span className="text-gold-dark">{verse.reference}</span>
           </div>
-          <div className="text-textPrimary italic text-sm">
-            "{truncateText(comment.text)}"
+          <div className="text-textPrimary italic text-sm font-verse">
+            "{truncateText(verse.text)}"
           </div>
         </div>
 
@@ -131,17 +131,17 @@ export function ConfirmModal({
           <button
             onClick={onCancel}
             disabled={isSubmitting}
-            className="flex-1 py-4 px-6 bg-detective-bg border border-detective-border hover:bg-detective-cardHover disabled:opacity-50 text-textPrimary font-semibold rounded-xl transition-all duration-200"
+            className="flex-1 py-4 px-6 bg-scripture-bg border border-scripture-border hover:bg-scripture-cardHover disabled:opacity-50 text-textPrimary font-semibold rounded-xl transition-all duration-200"
           >
-            Back Off
+            Go Back
           </button>
           <button
             ref={confirmButtonRef}
             onClick={onConfirm}
             disabled={isSubmitting}
-            className="flex-1 py-4 px-6 bg-reddit hover:bg-reddit/90 disabled:bg-detective-border disabled:text-textMuted text-white font-bold rounded-xl transition-all duration-200"
+            className="flex-1 py-4 px-6 bg-burgundy hover:bg-burgundy-dark disabled:bg-scripture-border disabled:text-textMuted text-white font-bold rounded-xl transition-all duration-200"
           >
-            {isSubmitting ? 'Analyzing...' : '🎯 Confirm'}
+            {isSubmitting ? 'Checking...' : '📖 Confirm'}
           </button>
         </div>
       </div>

@@ -1,6 +1,6 @@
 /**
- * Contribution Service for Comment Conspiracy
- * Handles user-submitted AI comment contributions
+ * Contribution Service for Scripture Sleuth
+ * Handles user-submitted fake verse contributions
  */
 
 import type { RedisContext } from './redisKeys';

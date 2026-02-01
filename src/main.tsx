@@ -30,7 +30,7 @@ function createRedisContext(context: Devvit.Context): RedisContext {
   };
 }
 
-const WEBVIEW_ID = 'comment-conspiracy';
+const WEBVIEW_ID = 'scripture-sleuth';
 
 // Main App component with WebView
 const App: Devvit.CustomPostComponent = (context) => {
@@ -40,20 +40,20 @@ const App: Devvit.CustomPostComponent = (context) => {
   // WebView message handler - using the correct pattern from official examples
   const onMessage = async (msg: JSONValue) => {
     const message = msg as WebViewToDevvitMessage;
-    console.log('[CommentConspiracy] Received message from webview:', message.type);
+    console.log('[ScriptureSleuth] Received message from webview:', message.type);
 
     try {
       switch (message.type) {
         case 'INIT': {
-          console.log('[CommentConspiracy] Processing INIT for user:', userId);
+          console.log('[ScriptureSleuth] Processing INIT for user:', userId);
 
           // Get today's puzzle from Redis
           const puzzle = await getTodaysPuzzle(redisCtx, userId);
-          console.log('[CommentConspiracy] Got puzzle:', puzzle?.id ?? 'none');
+          console.log('[ScriptureSleuth] Got puzzle:', puzzle?.id ?? 'none');
 
           // Get user progress from Redis
           const userProgress = await getUserProgress(redisCtx, userId);
-          console.log('[CommentConspiracy] Got user progress, streak:', userProgress.currentStreak);
+          console.log('[ScriptureSleuth] Got user progress, streak:', userProgress.currentStreak);
 
           // Check if user already played today
           let previousResult = null;
@@ -61,7 +61,7 @@ const App: Devvit.CustomPostComponent = (context) => {
             const alreadyPlayed = await hasUserPlayedToday(redisCtx, userId, puzzle.id);
             if (alreadyPlayed) {
               previousResult = await getPreviousResult(redisCtx, userId, puzzle.id);
-              console.log('[CommentConspiracy] User already played today');
+              console.log('[ScriptureSleuth] User already played today');
             }
           }
 
@@ -88,9 +88,9 @@ const App: Devvit.CustomPostComponent = (context) => {
             accuracyRank,
           };
 
-          console.log('[CommentConspiracy] Sending INIT_RESPONSE');
+          console.log('[ScriptureSleuth] Sending INIT_RESPONSE');
           context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, { type: 'INIT_RESPONSE', data: initData });
-          console.log('[CommentConspiracy] INIT_RESPONSE sent!');
+          console.log('[ScriptureSleuth] INIT_RESPONSE sent!');
           break;
         }
 
@@ -111,7 +111,7 @@ const App: Devvit.CustomPostComponent = (context) => {
         // ===== User Contribution Handlers =====
 
         case 'SUBMIT_CONTRIBUTION': {
-          console.log('[CommentConspiracy] Processing SUBMIT_CONTRIBUTION');
+          console.log('[ScriptureSleuth] Processing SUBMIT_CONTRIBUTION');
           const username = (await context.reddit.getCurrentUser())?.username ?? 'anonymous';
           const contribution = await submitContribution(redisCtx, userId, username, message.data);
           context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
@@ -134,7 +134,7 @@ const App: Devvit.CustomPostComponent = (context) => {
         }
 
         case 'VOTE_CONTRIBUTION': {
-          console.log('[CommentConspiracy] Processing VOTE_CONTRIBUTION');
+          console.log('[ScriptureSleuth] Processing VOTE_CONTRIBUTION');
           const voteResult = await voteOnContribution(redisCtx, userId, message.contributionId, message.vote);
           if (voteResult.success && voteResult.contribution) {
             context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
@@ -151,7 +151,7 @@ const App: Devvit.CustomPostComponent = (context) => {
         }
 
         case 'GET_CONTRIBUTIONS': {
-          console.log('[CommentConspiracy] Processing GET_CONTRIBUTIONS');
+          console.log('[ScriptureSleuth] Processing GET_CONTRIBUTIONS');
           const contributions = await getContributions(redisCtx, userId, message.filter);
           context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
             type: 'CONTRIBUTIONS_LIST',
@@ -161,7 +161,7 @@ const App: Devvit.CustomPostComponent = (context) => {
         }
 
         case 'GET_MY_CONTRIBUTIONS': {
-          console.log('[CommentConspiracy] Processing GET_MY_CONTRIBUTIONS');
+          console.log('[ScriptureSleuth] Processing GET_MY_CONTRIBUTIONS');
           const myContributions = await getUserContributions(redisCtx, userId);
           context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
             type: 'MY_CONTRIBUTIONS',
@@ -171,7 +171,7 @@ const App: Devvit.CustomPostComponent = (context) => {
         }
 
         case 'GET_TOP_CONTRIBUTORS': {
-          console.log('[CommentConspiracy] Processing GET_TOP_CONTRIBUTORS');
+          console.log('[ScriptureSleuth] Processing GET_TOP_CONTRIBUTORS');
           const topContributors = await getTopContributors(redisCtx, 10);
           context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
             type: 'TOP_CONTRIBUTORS',
@@ -201,21 +201,21 @@ const App: Devvit.CustomPostComponent = (context) => {
 
 // Register the custom post type
 Devvit.addCustomPostType({
-  name: 'Comment Conspiracy',
-  description: 'Daily game - spot the AI-generated comment',
+  name: 'Scripture Sleuth',
+  description: 'Daily game - spot the fake Bible verse',
   height: 'tall',
   render: App,
 });
 
 // Menu item to create a new game post
 Devvit.addMenuItem({
-  label: 'Create Comment Conspiracy Post',
+  label: 'Create Scripture Sleuth Post',
   location: 'subreddit',
   onPress: async (_event, context) => {
     const { reddit, ui } = context;
     const subreddit = await reddit.getCurrentSubreddit();
     const post = await reddit.submitPost({
-      title: 'Comment Conspiracy - Can You Spot the AI?',
+      title: 'Scripture Sleuth - Can You Spot the Fake Verse?',
       subredditName: subreddit.name,
       preview: (
         <vstack height="100%" width="100%" alignment="middle center">
@@ -232,7 +232,7 @@ Devvit.addMenuItem({
 Devvit.addTrigger({
   event: 'AppInstall',
   onEvent: async (event, context) => {
-    console.log('[CommentConspiracy] App installed, scheduling daily job');
+    console.log('[ScriptureSleuth] App installed, scheduling daily job');
     await scheduleDailyJob(context);
   },
 });
@@ -241,7 +241,7 @@ Devvit.addTrigger({
 Devvit.addTrigger({
   event: 'AppUpgrade',
   onEvent: async (event, context) => {
-    console.log('[CommentConspiracy] App upgraded, re-scheduling daily job');
+    console.log('[ScriptureSleuth] App upgraded, re-scheduling daily job');
     await cancelDailyJob(context);
     await scheduleDailyJob(context);
   },

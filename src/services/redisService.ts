@@ -1,5 +1,5 @@
 /**
- * Redis service layer for Comment Conspiracy
+ * Redis service layer for Scripture Sleuth
  * Provides typed access to Redis storage
  */
 

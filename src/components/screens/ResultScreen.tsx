@@ -1,13 +1,13 @@
 /**
  * ResultScreen Component
  * Shows the result after a user submits their guess
- * Detective theme: "Case Closed" or "Case Unsolved"
+ * Scripture theme: Parchment/biblical presentation with subreddit reveals
  */
 
 import React from 'react';
 import type { GuessResult, ShuffledPuzzle } from '../../types';
 import { ResultBanner } from '../results/ResultBanner';
-import { AIExplanation } from '../results/AIExplanation';
+import { FakeExplanation } from '../results/FakeExplanation';
 import { StatsPanel } from '../results/StatsPanel';
 import { ShareCard } from '../results/ShareCard';
 import { AchievementList } from '../results/AchievementToast';
@@ -28,7 +28,7 @@ export function ResultScreen({
   onContribute,
 }: ResultScreenProps): React.ReactElement {
   return (
-    <div className="flex flex-col h-full w-full max-w-2xl mx-auto px-4 py-6 overflow-y-auto">
+    <div className="flex flex-col h-full w-full max-w-2xl mx-auto px-4 py-6 overflow-y-auto bg-scripture-bg">
       {/* Result Banner */}
       <ResultBanner
         wasCorrect={result.wasCorrect}
@@ -36,9 +36,9 @@ export function ResultScreen({
         guessedIndex={result.guessedIndex}
       />
 
-      {/* AI Explanation */}
+      {/* Fake Verse Explanation */}
       <div className="mb-6">
-        <AIExplanation
+        <FakeExplanation
           explanation={result.explanation}
           wasCorrect={result.wasCorrect}
         />
@@ -76,7 +76,7 @@ export function ResultScreen({
         {onViewBreakdown && (
           <button
             onClick={onViewBreakdown}
-            className="w-full py-3 px-6 bg-detective-card border border-detective-border hover:bg-detective-cardHover text-textPrimary font-semibold rounded-xl transition-all"
+            className="w-full py-3 px-6 bg-scripture-card border border-scripture-border hover:bg-scripture-cardHover text-textPrimary font-semibold rounded-xl transition-all"
           >
             View Full Breakdown
           </button>
@@ -84,16 +84,16 @@ export function ResultScreen({
         {onContribute && (
           <button
             onClick={onContribute}
-            className="w-full py-3 px-6 bg-ai/20 border border-ai/40 hover:bg-ai/30 text-ai font-bold rounded-xl transition-all flex items-center justify-center gap-2"
+            className="w-full py-3 px-6 bg-gold/20 border border-gold/40 hover:bg-gold/30 text-gold-dark font-bold rounded-xl transition-all flex items-center justify-center gap-2"
           >
             <span>+</span>
-            <span>Contribute AI Comments</span>
+            <span>Suggest a Fake Verse</span>
           </button>
         )}
         {onJoinDiscussion && (
           <button
             onClick={onJoinDiscussion}
-            className="w-full py-3 px-6 bg-reddit hover:bg-reddit/90 text-white font-bold rounded-xl transition-all flex items-center justify-center gap-2"
+            className="w-full py-3 px-6 bg-burgundy hover:bg-burgundy-dark text-white font-bold rounded-xl transition-all flex items-center justify-center gap-2"
           >
             <span>💬</span>
             <span>Join Discussion</span>

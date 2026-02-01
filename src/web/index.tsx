@@ -1,5 +1,5 @@
 /**
- * Web entry point for Comment Conspiracy
+ * Web entry point for Scripture Sleuth
  * This file is bundled to webroot/app.js
  */
 

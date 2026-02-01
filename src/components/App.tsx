@@ -1,6 +1,6 @@
 /**
  * Root App Component
- * Main entry point for the Comment Conspiracy React app
+ * Main entry point for the Scripture Sleuth React app
  * Manages game state and renders appropriate screens
  */
 

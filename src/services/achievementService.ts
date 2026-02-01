@@ -1,7 +1,7 @@
 /**
  * Achievement Service
  * Manages achievement definitions, checking, and awarding
- * Based on comment-conspiracy-spec-v2.md Section 5.2
+ * Scripture Sleuth achievement system
  */
 
 import type { Achievement, AchievementId, UserProgress, Difficulty } from '../types';

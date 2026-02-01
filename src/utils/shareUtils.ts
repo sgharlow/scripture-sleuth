@@ -1,5 +1,5 @@
 /**
- * Share utilities for Comment Conspiracy
+ * Share utilities for Scripture Sleuth
  * Generates spoiler-free share text and handles clipboard/share operations
  */
 
@@ -15,7 +15,7 @@ export interface ShareData {
 export function generateShareText(data: ShareData): string {
   const lines: string[] = [];
 
-  lines.push(`Comment Conspiracy Day ${data.dayNumber}`);
+  lines.push(`Scripture Sleuth Day ${data.dayNumber}`);
   lines.push('');
   lines.push(data.wasCorrect ? '1/1' : '0/1');
 
@@ -24,7 +24,7 @@ export function generateShareText(data: ShareData): string {
   }
 
   lines.push('');
-  lines.push('r/CommentConspiracy');
+  lines.push('r/ScriptureSleuth');
 
   return lines.join('\n');
 }
@@ -35,7 +35,7 @@ export function generateShareText(data: ShareData): string {
 export function generateShareTextWithEmojis(data: ShareData): string {
   const lines: string[] = [];
 
-  lines.push(`🔍 Comment Conspiracy Day ${data.dayNumber}`);
+  lines.push(`📖 Scripture Sleuth Day ${data.dayNumber}`);
   lines.push('');
   lines.push(data.wasCorrect ? '✅ 1/1' : '❌ 0/1');
 
@@ -44,7 +44,7 @@ export function generateShareTextWithEmojis(data: ShareData): string {
   }
 
   lines.push('');
-  lines.push('r/CommentConspiracy');
+  lines.push('r/ScriptureSleuth');
 
   return lines.join('\n');
 }
@@ -96,7 +96,7 @@ export async function shareResult(data: ShareData): Promise<boolean> {
 
   try {
     await navigator.share({
-      title: 'Comment Conspiracy',
+      title: 'Scripture Sleuth',
       text,
     });
     return true;

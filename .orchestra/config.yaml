@@ -1,0 +1,15 @@
+# Orchestra Lite Configuration
+
+project: "Comment Conspiracy"
+
+# Command to run tests (used by /orchestra done)
+# Devvit uses 'devvit playtest' for local testing
+test_command: ""
+
+# Default task time estimate (minutes)
+default_estimate: 45
+
+# Git settings
+git:
+  main_branch: "main"
+  auto_push: true

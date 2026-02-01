@@ -1,0 +1,18 @@
+node_modules
+
+# Local status reports (not for version control)
+STATUS_REPORT.md
+.playwright-mcp/
+
+# Archived files
+archive/
+
+# Walkthrough assets (duplicates of screenshots/)
+walkthrough/
+
+# Video files (hosted externally)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm

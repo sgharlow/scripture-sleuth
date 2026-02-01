@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#2A2A4A"/>
+      <stop offset="100%" style="stop-color:#1A1A2E"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="256" height="256" fill="url(#bgGradient)"/>
+
+  <!-- Subtle binary in background -->
+  <text x="195" y="28" fill="rgba(255,255,255,0.08)" font-family="monospace" font-size="10">01001</text>
+  <text x="195" y="40" fill="rgba(255,255,255,0.08)" font-family="monospace" font-size="10">10110</text>
+  <text x="195" y="52" fill="rgba(255,255,255,0.08)" font-family="monospace" font-size="10">01101</text>
+
+  <!-- Comment bubbles (representing 5 comments) -->
+  <!-- Comment 1 -->
+  <rect x="40" y="55" width="95" height="24" rx="6" fill="rgba(255,255,255,0.12)"/>
+
+  <!-- Comment 2 -->
+  <rect x="40" y="85" width="115" height="24" rx="6" fill="rgba(255,255,255,0.12)"/>
+
+  <!-- Comment 3 - AI (highlighted with orange glow) -->
+  <rect x="40" y="115" width="105" height="24" rx="6" fill="rgba(255,69,0,0.25)" stroke="#FF4500" stroke-width="2" filter="url(#glow)"/>
+
+  <!-- Comment 4 -->
+  <rect x="40" y="145" width="90" height="24" rx="6" fill="rgba(255,255,255,0.12)"/>
+
+  <!-- Comment 5 -->
+  <rect x="40" y="175" width="100" height="24" rx="6" fill="rgba(255,255,255,0.12)"/>
+
+  <!-- Magnifying glass -->
+  <g transform="translate(165, 155)">
+    <!-- Glass circle -->
+    <circle cx="0" cy="0" r="38" fill="rgba(255,69,0,0.1)" stroke="#FF4500" stroke-width="6"/>
+
+    <!-- Handle -->
+    <line x1="27" y1="27" x2="52" y2="52" stroke="#FF4500" stroke-width="8" stroke-linecap="round"/>
+
+    <!-- Question mark -->
+    <text x="0" y="8" fill="white" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle">?</text>
+  </g>
+
+  <!-- Small "AI" indicator badge -->
+  <g transform="translate(185, 40)">
+    <rect x="-18" y="-12" width="36" height="20" rx="4" fill="#FF4500"/>
+    <text x="0" y="4" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">AI</text>
+  </g>
+</svg>

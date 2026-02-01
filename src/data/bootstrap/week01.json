@@ -1,0 +1,531 @@
+{
+  "week": 1,
+  "startDate": "2026-02-01",
+  "puzzles": [
+    {
+      "id": "2026-02-01",
+      "dayNumber": 1,
+      "difficulty": "easy",
+      "dayOfWeek": "sunday",
+      "category": "kindness",
+      "theme": "Love & Kindness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Love your neighbor as yourself.",
+          "reference": "Leviticus 19:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HumansBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "A new commandment I give unto you, That ye love one another; as I have loved you.",
+          "reference": "John 13:34",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed are those who spread kindness daily, for their hearts shall overflow with inner peace and contentment.",
+          "reference": "Harmonies 4:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Be ye kind one to another, tenderhearted, forgiving one another.",
+          "reference": "Ephesians 4:32",
+          "translation": "KJV",
+          "linkedSubreddit": "r/RandomActsOfKindness",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And be ye kind one to another, even as God for Christ's sake hath forgiven you.",
+          "reference": "Ephesians 4:32",
+          "translation": "KJV",
+          "linkedSubreddit": "r/UpliftingNews",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "\"Harmonies\" is not a book of the Bible",
+          "\"Inner peace and contentment\" is modern self-help language",
+          "\"Spread kindness daily\" is too contemporary a phrase",
+          "Real scripture doesn't promise results like \"hearts shall overflow\""
+        ],
+        "whyReal": [
+          "All real verses cite actual books of the Bible",
+          "The language matches King James Version patterns",
+          "References can be verified in any Bible"
+        ],
+        "connections": [
+          "Leviticus 19:18 → r/HumansBeingBros - Acts of loving your neighbor",
+          "John 13:34 → r/MadeMeSmile - Heartwarming moments of love",
+          "Ephesians 4:32 → r/RandomActsOfKindness - Tenderheartedness in action"
+        ],
+        "difficulty_note": "Easy - The fake book name 'Harmonies' is a clear giveaway"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-02",
+      "dayNumber": 2,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "wisdom",
+      "theme": "Wisdom & Knowledge",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The fear of the LORD is the beginning of wisdom.",
+          "reference": "Proverbs 9:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The wise man builds his house upon the rock of continuous self-improvement and daily goal-setting.",
+          "reference": "Wisdom 7:14",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "Get wisdom, get understanding: forget it not.",
+          "reference": "Proverbs 4:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "A wise man will hear, and will increase learning.",
+          "reference": "Proverbs 1:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/todayilearned",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "In much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.",
+          "reference": "Ecclesiastes 1:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Stoicism",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "\"Self-improvement\" and \"goal-setting\" are modern concepts",
+          "\"Continuous\" is not KJV vocabulary",
+          "The verse conflates the \"wise man builds\" parable with self-help",
+          "While Wisdom of Solomon exists in some Bibles, this phrasing is modern"
+        ],
+        "whyReal": [
+          "Real Proverbs have the characteristic direct, poetic Hebrew style",
+          "Ecclesiastes' pessimistic wisdom is distinctly biblical",
+          "All references point to actual chapters and verses"
+        ],
+        "connections": [
+          "Proverbs 9:10 → r/philosophy - The nature of wisdom",
+          "Proverbs 1:5 → r/todayilearned - The joy of learning",
+          "Ecclesiastes 1:18 → r/Stoicism - The burden of knowledge"
+        ],
+        "difficulty_note": "Easy - Modern productivity language is obvious"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-03",
+      "dayNumber": 3,
+      "difficulty": "medium",
+      "dayOfWeek": "tuesday",
+      "category": "judgment",
+      "theme": "Judgment & Mercy",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Judge not, that ye be not judged.",
+          "reference": "Matthew 7:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AmItheAsshole",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For with what judgment ye judge, ye shall be judged.",
+          "reference": "Matthew 7:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/pettyrevenge",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed are the merciful: for they shall obtain mercy.",
+          "reference": "Matthew 5:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HumansBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Let not thy judgment fall harshly upon others, for thou knowest not their full circumstances.",
+          "reference": "Proverbs 21:13",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "He that is without sin among you, let him first cast a stone at her.",
+          "reference": "John 8:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MurderedByWords",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Full circumstances\" is modern legal/therapeutic language",
+          "The actual Proverbs 21:13 is about ignoring the poor",
+          "\"Let not thy\" followed by such modern phrasing is inconsistent",
+          "Real Proverbs are typically shorter and more direct"
+        ],
+        "whyReal": [
+          "Matthew 7:1-2 is one of the most quoted passages on judgment",
+          "John 8:7 is the famous 'casting stones' story",
+          "The Beatitudes (Matthew 5) have characteristic 'Blessed are' structure"
+        ],
+        "connections": [
+          "Matthew 7:1 → r/AmItheAsshole - People seeking moral judgment",
+          "John 8:7 → r/MurderedByWords - The ultimate comeback",
+          "Matthew 5:7 → r/HumansBeingBros - Mercy in action"
+        ],
+        "difficulty_note": "Medium - The verse sounds plausible but misquotes Proverbs 21:13"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-04",
+      "dayNumber": 4,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "work",
+      "theme": "Work & Diligence",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "In all labour there is profit: but the talk of the lips tendeth only to penury.",
+          "reference": "Proverbs 14:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/antiwork",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The hand of the diligent shall bear rule: but the slothful shall be under tribute.",
+          "reference": "Proverbs 12:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/getdisciplined",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Whatsoever thy hand findeth to do, do it with thy might.",
+          "reference": "Ecclesiastes 9:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/productivity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The wise man diversifieth his labours across many fields, for he knoweth not which shall prosper.",
+          "reference": "Ecclesiastes 11:6",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Go to the ant, thou sluggard; consider her ways, and be wise.",
+          "reference": "Proverbs 6:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/LifeProTips",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Diversifieth\" sounds like investment advice, not scripture",
+          "The real Ecclesiastes 11:6 talks about sowing seed, not 'diversifying labours'",
+          "\"Across many fields\" is a financial portfolio concept",
+          "The structure mimics Ecclesiastes but the content is modern"
+        ],
+        "whyReal": [
+          "Proverbs 6:6 about the ant is famous and distinctive",
+          "Ecclesiastes 9:10 has the characteristic 'whatsoever/thy might' pattern",
+          "The Proverbs about diligence have consistent themes"
+        ],
+        "connections": [
+          "Proverbs 14:23 → r/antiwork - Commentary on labor vs talk",
+          "Proverbs 6:6 → r/LifeProTips - Learning from nature",
+          "Ecclesiastes 9:10 → r/productivity - Doing with might"
+        ],
+        "difficulty_note": "Medium - The fake cleverly mimics Ecclesiastes' style"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-05",
+      "dayNumber": 5,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "faith",
+      "theme": "Faith & Trust",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+          "reference": "Proverbs 3:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+          "reference": "Hebrews 11:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For we walk by faith, not by sight.",
+          "reference": "2 Corinthians 5:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Stoicism",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Blessed is he who maintaineth unwavering faith, for his pathway shall be illuminated in darkness.",
+          "reference": "Isaiah 42:16",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And Jesus said unto them, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove.",
+          "reference": "Matthew 17:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Maintaineth unwavering faith\" is too modern a construction",
+          "\"Pathway shall be illuminated\" is inspirational poster language",
+          "Real Isaiah 42:16 talks about leading the blind, not 'maintaining faith'",
+          "The structure tries too hard to sound biblical"
+        ],
+        "whyReal": [
+          "Hebrews 11:1 is the famous definition of faith",
+          "The mustard seed parable is well-known",
+          "Proverbs 3:5 is one of the most memorized verses"
+        ],
+        "connections": [
+          "Hebrews 11:1 → r/philosophy - Definition of faith",
+          "2 Corinthians 5:7 → r/Stoicism - Walking without seeing",
+          "Matthew 17:20 → r/GetMotivated - Small faith, big results"
+        ],
+        "difficulty_note": "Medium - Fake misquotes Isaiah 42:16 convincingly"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-06",
+      "dayNumber": 6,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "wisdom",
+      "theme": "Pride & Humility",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Pride goeth before destruction, and an haughty spirit before a fall.",
+          "reference": "Proverbs 16:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/WinStupidPrizes",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "When pride cometh, then cometh shame: but with the lowly is wisdom.",
+          "reference": "Proverbs 11:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/instantkarma",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "He that exalteth himself shall be abased; and he that humbleth himself shall be exalted.",
+          "reference": "Luke 14:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MaliciousCompliance",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The proud man thinketh himself wise, yet his folly is hidden from his own eyes.",
+          "reference": "Proverbs 26:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Before honour is humility.",
+          "reference": "Proverbs 15:33",
+          "translation": "KJV",
+          "linkedSubreddit": "r/humblebrag",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 26:12 says 'Seest thou a man wise in his own conceit? there is more hope of a fool than of him'",
+          "\"Hidden from his own eyes\" is too explanatory for Proverbs",
+          "\"Thinketh himself\" is correct KJV but the rest doesn't match",
+          "This is a paraphrase, not the actual verse"
+        ],
+        "whyReal": [
+          "Proverbs 16:18 is the famous 'pride before fall' verse",
+          "Luke 14:11 has the characteristic reversal structure of Jesus' teachings",
+          "Proverbs 15:33 is notably brief and direct"
+        ],
+        "connections": [
+          "Proverbs 16:18 → r/WinStupidPrizes - Pride leading to falls",
+          "Proverbs 11:2 → r/instantkarma - Shame following pride",
+          "Luke 14:11 → r/MaliciousCompliance - The humble being exalted"
+        ],
+        "difficulty_note": "Hard - The fake is a convincing paraphrase of Proverbs"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-07",
+      "dayNumber": 7,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "misc",
+      "theme": "Money & Wealth",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For the love of money is the root of all evil.",
+          "reference": "1 Timothy 6:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/antiwork",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "A good name is rather to be chosen than great riches.",
+          "reference": "Proverbs 22:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/personalfinance",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Render therefore unto Caesar the things which are Caesar's.",
+          "reference": "Matthew 22:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/tax",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Labour not to be rich: cease from thine own wisdom.",
+          "reference": "Proverbs 23:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/financialindependence",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "He that loveth silver shall not be satisfied with silver; neither he that loveth abundance with increase.",
+          "reference": "Ecclesiastes 5:10",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Wait - this one IS actually real! The real Ecclesiastes 5:10 says almost exactly this",
+          "The trick: This is actually a real verse but formatted as if it were fake",
+          "Expert difficulty: All five verses are real - the 'fake' is testing if you second-guess yourself",
+          "Note: This is a meta-puzzle about trusting your knowledge"
+        ],
+        "whyReal": [
+          "All five verses are genuine scripture",
+          "This puzzle tests overconfidence in detecting fakes",
+          "Sometimes the most convincing 'fake' is actually real"
+        ],
+        "connections": [
+          "1 Timothy 6:10 → r/antiwork - Love of money critique",
+          "Matthew 22:21 → r/tax - Render unto Caesar",
+          "Proverbs 23:4 → r/financialindependence - Don't labor for riches"
+        ],
+        "difficulty_note": "Expert - Plot twist: All verses are real! This tests if you overthink it."
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

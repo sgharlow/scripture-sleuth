@@ -1,0 +1,13 @@
+name: scripture-sleuth
+version: 0.0.1
+capabilities:
+  - redis
+  - scheduler
+  - http
+  - ui
+  - triggers
+  - redditAPI
+webRoot: ./webroot
+scheduledJobs:
+  - name: daily-puzzle-post
+    cron: 0 0 * * *

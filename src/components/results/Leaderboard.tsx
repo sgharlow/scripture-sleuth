@@ -1,7 +1,7 @@
 /**
  * Leaderboard Component
  * Displays user's rank on streak and accuracy leaderboards
- * Detective theme: "Your Detective Rankings"
+ * Scripture theme: "Your Discernment Rankings"
  */
 
 import React from 'react';
@@ -51,7 +51,7 @@ function RankCard({
   const hasRank = rank !== null;
 
   return (
-    <div className="bg-detective-bg border border-detective-border rounded-xl p-4 flex flex-col items-center text-center">
+    <div className="bg-scripture-bg border border-scripture-border rounded-xl p-4 flex flex-col items-center text-center">
       <div className="text-2xl mb-1">{icon}</div>
       <div className="text-xs font-medium text-textSecondary uppercase tracking-wider mb-2">
         {title}
@@ -97,7 +97,7 @@ export function LeaderboardPanel({
   return (
     <div className={`${className}`}>
       <h3 className="text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3 flex items-center gap-2">
-        <span>🏆 Your Detective Rankings</span>
+        <span>🏆 Your Discernment Rankings</span>
       </h3>
 
       <div className="grid grid-cols-2 gap-3">
@@ -179,7 +179,7 @@ export function AccuracyQualificationProgress({
   const remaining = ACCURACY_LEADERBOARD_MIN_GAMES - totalPlayed;
 
   return (
-    <div className="p-3 bg-detective-card border border-detective-border rounded-lg">
+    <div className="p-3 bg-scripture-card border border-scripture-border rounded-lg">
       <div className="flex justify-between items-center mb-2">
         <span className="text-xs font-medium text-textSecondary">
           Accuracy Leaderboard
@@ -188,7 +188,7 @@ export function AccuracyQualificationProgress({
           {totalPlayed}/{ACCURACY_LEADERBOARD_MIN_GAMES} games
         </span>
       </div>
-      <div className="h-2 bg-detective-bg border border-detective-border rounded-full overflow-hidden">
+      <div className="h-2 bg-scripture-bg border border-scripture-border rounded-full overflow-hidden">
         <div
           className="h-full bg-correct rounded-full transition-all duration-500"
           style={{ width: `${progress}%` }}

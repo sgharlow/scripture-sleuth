@@ -316,14 +316,14 @@ export function App(): React.ReactElement {
   };
 
   return (
-    <div className="min-h-screen bg-detective-bg safe-area-inset">
+    <div className="min-h-screen bg-scripture-bg safe-area-inset">
       {renderContent()}
 
       {/* Confirmation Modal */}
       {state === 'CONFIRMING' && puzzle && selectedIndex !== null && (
         <ConfirmModal
           isOpen={true}
-          comment={puzzle.comments[selectedIndex]}
+          verse={puzzle.verses[selectedIndex]}
           onConfirm={handleConfirmGuess}
           onCancel={cancelConfirm}
         />
@@ -332,9 +332,9 @@ export function App(): React.ReactElement {
       {/* Submitting Overlay */}
       {state === 'SUBMITTING' && (
         <div className="fixed inset-0 bg-black bg-opacity-70 flex items-center justify-center z-50">
-          <div className="bg-detective-card border border-detective-border rounded-xl p-6 text-center">
-            <div className="text-3xl mb-3 animate-spin">🔍</div>
-            <div className="text-textPrimary font-medium">Analyzing suspect...</div>
+          <div className="bg-scripture-card border border-scripture-border rounded-xl p-6 text-center">
+            <div className="text-3xl mb-3 animate-pulse">📖</div>
+            <div className="text-textPrimary font-medium">Checking the scriptures...</div>
           </div>
         </div>
       )}

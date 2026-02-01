@@ -88,7 +88,7 @@ export function GameScreen({
           📜 Scripture Passages
         </div>
         <div className="text-xs text-textMuted">
-          {selectedIndex !== null ? '1 marked suspicious' : 'Tap to mark suspicious'}
+          {selectedIndex !== null ? '1 marked as fake' : 'Tap to mark as fake'}
         </div>
       </div>
 

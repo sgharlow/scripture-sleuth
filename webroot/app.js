@@ -24835,7 +24835,7 @@ function GameScreen({
     ] }),
     /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex items-center justify-between mb-3", children: [
       /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider", children: "\u{1F4DC} Scripture Passages" }),
-      /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "text-xs text-textMuted", children: selectedIndex !== null ? "1 marked suspicious" : "Tap to mark suspicious" })
+      /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "text-xs text-textMuted", children: selectedIndex !== null ? "1 marked as fake" : "Tap to mark as fake" })
     ] }),
     /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "flex-1 space-y-3 mb-4 overflow-y-auto -mx-1 px-1", children: puzzle.verses.map((verse, index) => /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
       VerseCard,
@@ -25166,8 +25166,8 @@ function AchievementCard({
     "div",
     {
       className: `
-        flex items-center gap-3 p-4 bg-detective-card
-        border border-suspicious/50 rounded-xl shadow-lg shadow-suspicious/20
+        flex items-center gap-3 p-4 bg-scripture-card
+        border border-gold/50 rounded-xl shadow-lg shadow-gold/20
         transition-all duration-500 ease-out
         ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"}
       `,
@@ -25177,7 +25177,7 @@ function AchievementCard({
           /* @__PURE__ */ (0, import_jsx_runtime8.jsx)("div", { className: "font-bold text-textPrimary", children: achievement.name }),
           /* @__PURE__ */ (0, import_jsx_runtime8.jsx)("div", { className: "text-sm text-textSecondary", children: achievement.description })
         ] }),
-        /* @__PURE__ */ (0, import_jsx_runtime8.jsx)("div", { className: "text-suspicious text-sm font-bold uppercase tracking-wider", children: "NEW!" })
+        /* @__PURE__ */ (0, import_jsx_runtime8.jsx)("div", { className: "text-gold-dark text-sm font-bold uppercase tracking-wider", children: "NEW!" })
       ]
     }
   );
@@ -25213,7 +25213,7 @@ function AchievementToast({
         setTimeout(() => onDismiss?.(), 300);
       },
       children: [
-        /* @__PURE__ */ (0, import_jsx_runtime8.jsx)("div", { className: "text-center text-sm font-bold text-suspicious uppercase tracking-wider mb-1", children: "\u{1F3C6} Achievement Unlocked!" }),
+        /* @__PURE__ */ (0, import_jsx_runtime8.jsx)("div", { className: "text-center text-sm font-bold text-gold-dark uppercase tracking-wider mb-1", children: "\u{1F3C6} Achievement Unlocked!" }),
         achievements.map((achievement, index) => /* @__PURE__ */ (0, import_jsx_runtime8.jsx)(
           AchievementCard,
           {
@@ -25230,9 +25230,9 @@ function AchievementToast({
 function AchievementBadge({
   achievement
 }) {
-  return /* @__PURE__ */ (0, import_jsx_runtime8.jsxs)("div", { className: "inline-flex items-center gap-2 px-3 py-1.5 bg-suspicious/20 border border-suspicious/40 rounded-full", children: [
+  return /* @__PURE__ */ (0, import_jsx_runtime8.jsxs)("div", { className: "inline-flex items-center gap-2 px-3 py-1.5 bg-gold/20 border border-gold/40 rounded-full", children: [
     /* @__PURE__ */ (0, import_jsx_runtime8.jsx)("span", { className: "text-lg", children: achievement.icon }),
-    /* @__PURE__ */ (0, import_jsx_runtime8.jsx)("span", { className: "text-sm font-medium text-suspicious", children: achievement.name })
+    /* @__PURE__ */ (0, import_jsx_runtime8.jsx)("span", { className: "text-sm font-medium text-gold-dark", children: achievement.name })
   ] });
 }
 function AchievementList({
@@ -25242,8 +25242,8 @@ function AchievementList({
   if (achievements.length === 0) {
     return null;
   }
-  return /* @__PURE__ */ (0, import_jsx_runtime8.jsxs)("div", { className: "mt-4 p-4 bg-detective-card border border-suspicious/30 rounded-xl", children: [
-    /* @__PURE__ */ (0, import_jsx_runtime8.jsxs)("h3", { className: "text-sm font-semibold text-suspicious mb-3", children: [
+  return /* @__PURE__ */ (0, import_jsx_runtime8.jsxs)("div", { className: "mt-4 p-4 bg-scripture-card border border-gold/30 rounded-xl", children: [
+    /* @__PURE__ */ (0, import_jsx_runtime8.jsxs)("h3", { className: "text-sm font-semibold text-gold-dark mb-3", children: [
       "\u{1F3C6} ",
       title
     ] }),
@@ -25403,7 +25403,7 @@ function RankCard({
   subtext
 }) {
   const hasRank = rank !== null;
-  return /* @__PURE__ */ (0, import_jsx_runtime11.jsxs)("div", { className: "bg-detective-bg border border-detective-border rounded-xl p-4 flex flex-col items-center text-center", children: [
+  return /* @__PURE__ */ (0, import_jsx_runtime11.jsxs)("div", { className: "bg-scripture-bg border border-scripture-border rounded-xl p-4 flex flex-col items-center text-center", children: [
     /* @__PURE__ */ (0, import_jsx_runtime11.jsx)("div", { className: "text-2xl mb-1", children: icon }),
     /* @__PURE__ */ (0, import_jsx_runtime11.jsx)("div", { className: "text-xs font-medium text-textSecondary uppercase tracking-wider mb-2", children: title }),
     hasRank ? /* @__PURE__ */ (0, import_jsx_runtime11.jsxs)(import_jsx_runtime11.Fragment, { children: [
@@ -25428,7 +25428,7 @@ function LeaderboardPanel({
   const accuracy = calculateAccuracy(progress.totalCorrect, progress.totalPlayed);
   const gamesRemaining = gamesUntilAccuracyQualification(progress.totalPlayed);
   return /* @__PURE__ */ (0, import_jsx_runtime11.jsxs)("div", { className: `${className}`, children: [
-    /* @__PURE__ */ (0, import_jsx_runtime11.jsx)("h3", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3 flex items-center gap-2", children: /* @__PURE__ */ (0, import_jsx_runtime11.jsx)("span", { children: "\u{1F3C6} Your Detective Rankings" }) }),
+    /* @__PURE__ */ (0, import_jsx_runtime11.jsx)("h3", { className: "text-xs font-semibold text-textSecondary uppercase tracking-wider mb-3 flex items-center gap-2", children: /* @__PURE__ */ (0, import_jsx_runtime11.jsx)("span", { children: "\u{1F3C6} Your Discernment Rankings" }) }),
     /* @__PURE__ */ (0, import_jsx_runtime11.jsxs)("div", { className: "grid grid-cols-2 gap-3", children: [
       /* @__PURE__ */ (0, import_jsx_runtime11.jsx)(
         RankCard,
@@ -26427,20 +26427,20 @@ function App() {
         return /* @__PURE__ */ (0, import_jsx_runtime21.jsx)(FullPageSpinner, {});
     }
   };
-  return /* @__PURE__ */ (0, import_jsx_runtime21.jsxs)("div", { className: "min-h-screen bg-detective-bg safe-area-inset", children: [
+  return /* @__PURE__ */ (0, import_jsx_runtime21.jsxs)("div", { className: "min-h-screen bg-scripture-bg safe-area-inset", children: [
     renderContent(),
     state === "CONFIRMING" && puzzle && selectedIndex !== null && /* @__PURE__ */ (0, import_jsx_runtime21.jsx)(
       ConfirmModal,
       {
         isOpen: true,
-        comment: puzzle.comments[selectedIndex],
+        verse: puzzle.verses[selectedIndex],
         onConfirm: handleConfirmGuess,
         onCancel: cancelConfirm
       }
     ),
-    state === "SUBMITTING" && /* @__PURE__ */ (0, import_jsx_runtime21.jsx)("div", { className: "fixed inset-0 bg-black bg-opacity-70 flex items-center justify-center z-50", children: /* @__PURE__ */ (0, import_jsx_runtime21.jsxs)("div", { className: "bg-detective-card border border-detective-border rounded-xl p-6 text-center", children: [
-      /* @__PURE__ */ (0, import_jsx_runtime21.jsx)("div", { className: "text-3xl mb-3 animate-spin", children: "\u{1F50D}" }),
-      /* @__PURE__ */ (0, import_jsx_runtime21.jsx)("div", { className: "text-textPrimary font-medium", children: "Analyzing suspect..." })
+    state === "SUBMITTING" && /* @__PURE__ */ (0, import_jsx_runtime21.jsx)("div", { className: "fixed inset-0 bg-black bg-opacity-70 flex items-center justify-center z-50", children: /* @__PURE__ */ (0, import_jsx_runtime21.jsxs)("div", { className: "bg-scripture-card border border-scripture-border rounded-xl p-6 text-center", children: [
+      /* @__PURE__ */ (0, import_jsx_runtime21.jsx)("div", { className: "text-3xl mb-3 animate-pulse", children: "\u{1F4D6}" }),
+      /* @__PURE__ */ (0, import_jsx_runtime21.jsx)("div", { className: "text-textPrimary font-medium", children: "Checking the scriptures..." })
     ] }) }),
     achievementsToShow.length > 0 && /* @__PURE__ */ (0, import_jsx_runtime21.jsx)(
       AchievementToast,

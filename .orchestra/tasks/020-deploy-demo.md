@@ -1,10 +1,10 @@
-# Task 020: Deploy to r/CommentConspiracy and Demo
+# Task 020: Deploy to r/ScriptureSleuth and Demo
 
 ## Metadata
 | Field | Value |
 |-------|-------|
 | **ID** | 020 |
-| **Status** | ready |
+| **Status** | in_progress |
 | **Branch** | task/020 |
 | **Assigned** | |
 | **Depends** | 014, 015, 016, 017, 018, 019 |
@@ -13,13 +13,13 @@
 
 ## Inputs
 - Complete app from all previous tasks
-- sample_puzzles_week01.json (loaded into Redis)
+- Bootstrap puzzles (loaded into Redis)
 
 ## Description
 Deploy the app to a live subreddit and verify everything works end-to-end.
 
 Steps:
-1. Create r/CommentConspiracy subreddit (if not exists)
+1. Create r/ScriptureSleuth subreddit (if not exists)
 2. Upload app to Devvit
 3. Install app on subreddit
 4. Verify puzzles are loaded in Redis
@@ -30,7 +30,7 @@ Steps:
 
 ## Acceptance Criteria
 - [ ] App uploaded to developers.reddit.com
-- [ ] App installed on r/CommentConspiracy
+- [ ] App installed on r/ScriptureSleuth
 - [ ] At least one puzzle post live
 - [ ] Full game flow works: view → select → confirm → result
 - [ ] Mobile experience verified
@@ -38,8 +38,8 @@ Steps:
 - [ ] README.md updated with deployment notes
 
 ## Context Files
-- comment-conspiracy-spec-v2.md (Section 16: Launch Checklist)
 - Devvit deployment documentation
+- TODO.md for launch checklist
 
 ## Outputs
 - Created:
@@ -51,3 +51,8 @@ Steps:
 
 ## Work Log
 <!-- Append progress here while working -->
+
+### 2026-02-01
+- Updated documentation from CommentConspiracy to ScriptureSleuth
+- Production subreddit: r/ScriptureSleuth (pending creation)
+- Dev subreddit: r/scripture_sleuth_dev (active)

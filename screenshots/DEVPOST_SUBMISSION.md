@@ -1,11 +1,11 @@
-# Comment Conspiracy - Devpost Submission
+# Scripture Sleuth - Devpost Submission
 
 > **Hackathon:** Reddit Daily Games Hackathon 2026
 > **Deadline:** February 12, 2026 @ 6:00 PM PST
 > **Prize Pool:** $40,000 | Target: Best Daily Game ($15,000)
-> **Status:** READY TO SUBMIT
-> **Last Verified:** 2026-01-30
-> **App Version:** v0.0.14 (Dark Detective Theme)
+> **Status:** PENDING DEPLOYMENT
+> **Last Updated:** 2026-02-01
+> **App Version:** v0.0.1
 
 ---
 
@@ -15,11 +15,11 @@
 
 | Component | Status | Link/Note |
 |-----------|--------|-----------|
-| App Listing | READY | https://developers.reddit.com/apps/comment-conspire |
-| Demo Post | LIVE | https://reddit.com/r/CommentConspiracy |
-| GitHub Repo (PUBLIC) | VERIFIED | https://github.com/sgharlow/comment-conspiracy |
+| App Listing | READY | https://developers.reddit.com/apps/scripture-sleuth |
+| Demo Post | PENDING | https://reddit.com/r/ScriptureSleuth (needs creation) |
+| GitHub Repo (PUBLIC) | PENDING | https://github.com/sgharlow/scripture-sleuth |
 | README.md | COMPLETE | In repo root |
-| Screenshots | READY | 5 images in `screenshots/` |
+| Screenshots | PENDING | Need to capture for scripture theme |
 
 ### Technical Requirements
 
@@ -33,9 +33,9 @@
 
 ## Basic Information
 
-**Title:** Comment Conspiracy
+**Title:** Scripture Sleuth
 
-**Tagline:** One of these comments isn't human. Can you spot the imposter?
+**Tagline:** One of these verses isn't real. Can you spot the fake?
 
 **Categories:**
 - Best Daily Game
@@ -48,30 +48,33 @@
 
 | Link Type | URL |
 |-----------|-----|
-| **Demo Subreddit** | https://reddit.com/r/CommentConspiracy |
-| **Devvit App** | https://developers.reddit.com/apps/comment-conspire |
-| **GitHub Repo** | https://github.com/sgharlow/comment-conspiracy |
+| **Demo Subreddit** | https://reddit.com/r/ScriptureSleuth |
+| **Dev Subreddit** | https://reddit.com/r/scripture_sleuth_dev |
+| **Devvit App** | https://developers.reddit.com/apps/scripture-sleuth |
+| **GitHub Repo** | https://github.com/sgharlow/scripture-sleuth |
 
 ---
 
 ## Description
 
-Comment Conspiracy is a daily puzzle game where players must identify which of 5 comments was written by AI. Each day at midnight UTC, a new puzzle is posted featuring 4 real Reddit comments and 1 AI-generated imposter.
+Scripture Sleuth is a daily puzzle game where players must identify which of 5 Bible verses is fake. Each day at midnight UTC, a new puzzle is posted featuring 4 real scripture passages and 1 cleverly crafted fake verse.
 
 ### How It Works
-1. Players read 5 comments responding to a Reddit-style prompt
-2. They identify which comment was written by AI
-3. After guessing, they see detailed "AI tells" explaining the giveaways
-4. Streaks, achievements, and leaderboards track progress
+1. Players read 5 Bible verses on a daily theme (Wisdom, Love, Faith, etc.)
+2. They identify which verse was made up
+3. After guessing, they learn why the fake was wrong and discover the real verses
+4. Each real verse connects to a thematically relevant subreddit
+5. Streaks, achievements, and leaderboards track progress
 
 ### Key Features
 - **Daily Puzzles:** New puzzle every day at midnight UTC
 - **One Guess Rule:** Choose carefully - you only get one shot
-- **AI Detection Training:** Learn to spot AI writing patterns
+- **Scripture Learning:** Discover real Bible verses and their meanings
+- **Subreddit Connections:** Each real verse maps to a related subreddit
 - **Streak Tracking:** Build consecutive correct day streaks
-- **8 Achievements:** From "First Blood" to "30-day Streak"
+- **8 Achievements:** From "First Correct" to "30-day Streak"
 - **Leaderboards:** Compete on streak and accuracy rankings
-- **User Contributions:** Submit your own AI comment ideas
+- **User Contributions:** Submit your own fake verse ideas
 - **Community Stats:** See how your guess compares to others
 
 ### Technical Highlights
@@ -90,22 +93,23 @@ Upload these files from the `screenshots/` folder:
 | # | Filename | Description |
 |---|----------|-------------|
 | 1 | `01-welcome-screen.png` | First-time user welcome with How to Play |
-| 2 | `02-game-screen.png` | Active puzzle showing 5 comment cards |
-| 3 | `03-comment-selected.png` | Comment selection with visual feedback |
+| 2 | `02-game-screen.png` | Active puzzle showing 5 verse cards |
+| 3 | `03-verse-selected.png` | Verse selection with visual feedback |
 | 4 | `04-confirmation-modal.png` | "Final Answer?" confirmation dialog |
-| 5 | `05-correct-result.png` | Correct result with AI tells explanation |
+| 5 | `05-correct-result.png` | Correct result with explanation |
 
 ---
 
 ## Video Demo (Optional)
 
 If creating a video demo, cover:
-1. Discovering the game post on r/CommentConspiracy
-2. Reading the 5 comments
-3. Selecting a comment and confirming guess
-4. Seeing the result with AI tells
-5. Checking streak and achievements
-6. Sharing results
+1. Discovering the game post on r/ScriptureSleuth
+2. Reading the 5 verses
+3. Selecting a verse and confirming guess
+4. Seeing the result with fake verse explanation
+5. Viewing subreddit connections for real verses
+6. Checking streak and achievements
+7. Sharing results
 
 Suggested length: 1-2 minutes
 
@@ -130,7 +134,7 @@ Solo project by u/Primary-Subject-8639
 
 ## Try It
 
-Visit https://reddit.com/r/CommentConspiracy and look for the latest "Comment Conspiracy - Can You Spot the AI?" post.
+Visit https://reddit.com/r/ScriptureSleuth and look for the latest "Scripture Sleuth - Can You Spot the Fake?" post.
 
 ---
 
@@ -143,7 +147,7 @@ Visit https://reddit.com/r/CommentConspiracy and look for the latest "Comment Co
 - Community stats show daily participation
 
 ### Best Use of User Contributions ($3K)
-- "Contribute AI Comments" feature lets users submit ideas
+- "Contribute Fake Verses" feature lets users submit ideas
 - Voting system for community curation
 - Top contributors leaderboard
 - User-generated content pipeline for future puzzles
@@ -160,10 +164,10 @@ Visit https://reddit.com/r/CommentConspiracy and look for the latest "Comment Co
 
 | Criteria | How We Meet It | Evidence |
 |----------|----------------|----------|
-| **Delightful UX** | Clean UI, satisfying animations, clear feedback | Screenshots 1-5 |
-| **Polish** | v0.0.14 deployed, dark theme UI, 126 days content | Production live |
-| **Reddity** | Reddit comment culture, community stats, social sharing | User contributions feature |
-| **Recurring Content** | Daily puzzles at midnight UTC, streaks, leaderboards | 12+ days posted |
+| **Delightful UX** | Parchment theme, satisfying animations, clear feedback | Screenshots 1-5 |
+| **Polish** | Full theme transformation, 126 days content | Production ready |
+| **Reddity** | Subreddit connections, community stats, social sharing | User contributions feature |
+| **Recurring Content** | Daily puzzles at midnight UTC, streaks, leaderboards | Automated scheduler |
 
 ---
 
@@ -185,9 +189,9 @@ Visit https://reddit.com/r/CommentConspiracy and look for the latest "Comment Co
 - [ ] Verify submission appears in Devpost profile
 - [ ] Test all links from submission page
 - [ ] Complete Developer Feedback Survey
-- [ ] Monitor r/CommentConspiracy daily
+- [ ] Monitor r/ScriptureSleuth daily
 - [ ] Plan puzzle creation for post-March 25
 
 ---
 
-*Last Verified: 2026-01-30 - v0.0.14 deployed, dark theme active, GitHub public verified*
+*Last Updated: 2026-02-01*

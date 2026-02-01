@@ -1,6 +1,6 @@
 # Plan
 
-> Last Updated: 2026-01-25
+> Last Updated: 2026-02-01
 > Status: Development 100% Complete (20/20 tasks)
 
 ## Current Phase
@@ -17,7 +17,7 @@ Phase 7: Launch Preparation
 
 ### Phase 2: Core Game UI - COMPLETE
 - [x] Build game state machine (NEW_USER → PLAYING → CONFIRMING → RESULT → COMPLETED)
-- [x] Create CommentCard component
+- [x] Create VerseCard component
 - [x] Create GameScreen with puzzle display
 - [x] Create ConfirmModal for guess submission
 - [x] Create ResultScreen (correct/incorrect variants)
@@ -42,14 +42,15 @@ Phase 7: Launch Preparation
 - [x] Loading states and error handling
 - [x] Final UI polish pass
 
-### Phase 6: Deploy & Demo - COMPLETE
-- [x] Deploy to r/CommentConspiracy
-- [x] Verify live puzzle posting
-- [ ] Create demo content and screenshots
-- [ ] Prepare Devpost submission
+### Phase 6: Theme Transformation - COMPLETE
+- [x] Transform from Comment Conspiracy to Scripture Sleuth
+- [x] Update all UI components for scripture theme
+- [x] Add subreddit connections feature
+- [x] Create parchment/scripture visual theme
 
 ### Phase 7: Launch Preparation - IN PROGRESS
-- [ ] Create 6 additional puzzles for 60-day runway (Mar 20-25)
+- [ ] Create r/ScriptureSleuth subreddit
+- [ ] Deploy app to r/ScriptureSleuth
 - [ ] Capture screenshots for Devpost
 - [ ] Record video demo (optional)
 - [ ] Complete Devpost submission form
@@ -64,11 +65,12 @@ Phase 7: Launch Preparation
 | Backend Services | COMPLETE | 100% |
 | Scheduler | COMPLETE | 100% |
 | Polish & Mobile | COMPLETE | 100% |
-| Deploy | COMPLETE | 90% |
+| Theme Transform | COMPLETE | 100% |
 | Launch Prep | IN PROGRESS | 20% |
 
 ## Notes
-- Hackathon deadline: Feb 12, 2026 at 6:00 PM PST (18 days remaining)
-- 60 puzzles loaded (Jan 19 - Mar 19, 2026)
-- Need 6 more puzzles for 60-day runway from today
+- Hackathon deadline: Feb 12, 2026 at 6:00 PM PST (11 days remaining)
+- 126 puzzles loaded (Jan 19 - May 24, 2026)
+- Need to deploy to production r/ScriptureSleuth
+- Dev subreddit: r/scripture_sleuth_dev
 - See TODO.md for detailed launch checklist

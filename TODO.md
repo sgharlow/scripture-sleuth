@@ -1,8 +1,8 @@
-# Comment Conspiracy - Complete Launch Checklist
+# Scripture Sleuth - Complete Launch Checklist
 
-> **Last Updated**: 2026-01-29 (Dark theme UI redesign completed)
-> **Hackathon Deadline**: February 12, 2026, 6:00 PM PST (14 days remaining)
-> **Demo URL**: https://reddit.com/r/CommentConspiracy
+> **Last Updated**: 2026-02-01
+> **Hackathon Deadline**: February 12, 2026, 6:00 PM PST (11 days remaining)
+> **Demo URL**: https://reddit.com/r/ScriptureSleuth
 > **60-Day Target**: Support game through March 26, 2026
 
 ---
@@ -11,8 +11,8 @@
 
 | Category | Status | Details |
 |----------|--------|---------|
-| **Development** | 100% Complete | All 20 core tasks done + dark theme UI |
-| **Deployment** | Live | v0.0.14 on r/CommentConspiracy |
+| **Development** | 100% Complete | All 20 core tasks done + parchment theme UI |
+| **Deployment** | PENDING | Need to deploy to r/ScriptureSleuth |
 | **Puzzle Content** | 126 puzzles | Jan 19 - May 24, 2026 (4+ months of content) |
 | **Infrastructure** | Ready | Devvit Redis + Scheduler configured |
 | **Devpost Submission** | PENDING | Form not yet submitted |
@@ -26,69 +26,86 @@
 
 | # | Task | Status | Owner | Notes |
 |---|------|--------|-------|-------|
-| 1 | **Push commits to GitHub** | DONE | Human | Pushed Jan 26 |
-| 2 | **Verify GitHub repo is public** | DONE | Human | Verified public Jan 28 |
-| 3 | **Verify scheduler at midnight UTC** | DONE | Human | Verified Jan 27-29, posting daily |
-| 4 | **Submit to Devpost** | PENDING | Human | Use DEVPOST_SUBMISSION.md |
+| 1 | **Create r/ScriptureSleuth subreddit** | PENDING | Human | Production subreddit |
+| 2 | **Deploy app to r/ScriptureSleuth** | PENDING | Human | Install from Devvit dashboard |
+| 3 | **Push commits to GitHub** | DONE | Human | Pushed Jan 26 |
+| 4 | **Verify GitHub repo is public** | PENDING | Human | https://github.com/sgharlow/scripture-sleuth |
+| 5 | **Verify scheduler at midnight UTC** | PENDING | Human | After deployment |
+| 6 | **Submit to Devpost** | PENDING | Human | Use walkthrough/DEVPOST_SUBMISSION.md |
 
 ### HIGH PRIORITY - Important for 60-Day Operation
 
 | # | Task | Status | Owner | Notes |
 |---|------|--------|-------|-------|
-| 5 | Monitor first 3 days of auto-posting | DONE | Human | Day 9-11 posted successfully |
-| 6 | Verify modmail alerts work | PENDING | Human | Check r/CommentConspiracy modmail |
-| 7 | Create contingency for scheduler failure | DONE | Code | Manual post instructions exist |
-| 8 | Plan puzzle creation for Apr-May | PENDING | Human | Need 28+ more puzzles by Mar 20 |
+| 7 | Monitor first 3 days of auto-posting | PENDING | Human | After deployment |
+| 8 | Verify modmail alerts work | PENDING | Human | Check r/ScriptureSleuth modmail |
+| 9 | Create contingency for scheduler failure | DONE | Code | Manual post instructions exist |
+| 10 | Plan puzzle creation for Apr-May | PENDING | Human | Need 28+ more puzzles by Mar 20 |
 
 ### MEDIUM PRIORITY - Recommended
 
 | # | Task | Status | Owner | Notes |
 |---|------|--------|-------|-------|
-| 9 | Create video demo (1-2 min) | DONE | Human | https://youtu.be/FEWEZMGPXPs |
-| 10 | Test logged-out experience | OPTIONAL | Human | Incognito browser test |
-| 11 | Cross-browser testing | OPTIONAL | Human | Safari, Firefox, Edge |
-| 12 | Reddit mobile app testing | OPTIONAL | Human | iOS + Android |
+| 11 | Create video demo (1-2 min) | PENDING | Human | Record gameplay |
+| 12 | Test logged-out experience | OPTIONAL | Human | Incognito browser test |
+| 13 | Cross-browser testing | OPTIONAL | Human | Safari, Firefox, Edge |
+| 14 | Reddit mobile app testing | OPTIONAL | Human | iOS + Android |
 
 ### LOW PRIORITY - Post-Launch Polish
 
 | # | Task | Status | Owner | Notes |
 |---|------|--------|-------|-------|
-| 13 | Set up analytics tracking | FUTURE | Code | Player retention, popular puzzles |
-| 14 | Create puzzle submission workflow | FUTURE | Code | User contributions → puzzles |
-| 15 | Weekly community engagement posts | FUTURE | Human | Leaderboard highlights |
+| 15 | Set up analytics tracking | FUTURE | Code | Player retention, popular puzzles |
+| 16 | Create puzzle submission workflow | FUTURE | Code | User contributions → puzzles |
+| 17 | Weekly community engagement posts | FUTURE | Human | Leaderboard highlights |
 
 ---
 
 ## DETAILED TASK BREAKDOWN
 
-### Task 1: Push Commits to GitHub
+### Task 1: Create r/ScriptureSleuth Subreddit
 
-**Status:** DONE (Jan 26)
-**Urgency:** Completed
+**Status:** PENDING
+**Urgency:** CRITICAL
 
-All commits have been pushed to `origin/main`.
+1. Go to https://www.reddit.com/subreddits/create
+2. Name: `ScriptureSleuth`
+3. Type: Public
+4. Description: "Daily Bible verse puzzle - spot the fake verse among 5 options"
 
 ---
 
-### Task 2: Verify GitHub Repo is Public
+### Task 2: Deploy App to r/ScriptureSleuth
+
+**Status:** PENDING
+**Urgency:** CRITICAL
+
+1. Go to https://developers.reddit.com/apps/scripture-sleuth
+2. Click "Install"
+3. Select r/ScriptureSleuth
+4. Verify app appears in subreddit
+
+---
+
+### Task 4: Verify GitHub Repo is Public
 
 **Status:** PENDING
 **Urgency:** HIGH
 
-1. Go to https://github.com/sgharlow/comment-conspiracy
+1. Go to https://github.com/sgharlow/scripture-sleuth
 2. Check visibility in repo settings
 3. If private: Settings → Danger Zone → Change visibility → Public
 
 ---
 
-### Task 3: Verify Scheduler at Midnight UTC
+### Task 5: Verify Scheduler at Midnight UTC
 
 **Status:** PENDING
-**Urgency:** CRITICAL
+**Urgency:** CRITICAL (after deployment)
 
 **What to check:**
-- [ ] New post appears on r/CommentConspiracy at 00:00 UTC (Jan 27)
-- [ ] Post title follows format: "Day {N}: Can You Spot the AI Comment?"
+- [ ] New post appears on r/ScriptureSleuth at 00:00 UTC
+- [ ] Post title follows format: "Day {N}: Can You Spot the Fake Verse?"
 - [ ] `puzzle:current` Redis key updated
 - [ ] Game loads and works on new post
 
@@ -100,7 +117,7 @@ All commits have been pushed to `origin/main`.
 
 ---
 
-### Task 4: Submit to Devpost
+### Task 6: Submit to Devpost
 
 **Status:** PENDING
 **Urgency:** HIGH (deadline Feb 12)
@@ -110,18 +127,18 @@ All commits have been pushed to `origin/main`.
 **Form Fields:**
 | Field | Value |
 |-------|-------|
-| Title | Comment Conspiracy |
-| Tagline | One of these comments isn't human. Can you spot the imposter? |
+| Title | Scripture Sleuth |
+| Tagline | One of these verses isn't real. Can you spot the fake? |
 | Categories | Best Daily Game, Best Use of User Contributions, Best Mobile Game Play |
-| Demo Link | https://reddit.com/r/CommentConspiracy |
-| App Link | https://developers.reddit.com/apps/comment-conspire |
-| GitHub | https://github.com/sgharlow/comment-conspiracy |
+| Demo Link | https://reddit.com/r/ScriptureSleuth |
+| App Link | https://developers.reddit.com/apps/scripture-sleuth |
+| GitHub | https://github.com/sgharlow/scripture-sleuth |
 | Team | Solo (u/Primary-Subject-8639) |
 
 **Screenshots to upload (from `screenshots/` folder):**
 1. `01-welcome-screen.png`
 2. `02-game-screen.png`
-3. `03-comment-selected.png`
+3. `03-verse-selected.png`
 4. `04-confirmation-modal.png`
 5. `05-correct-result.png`
 
@@ -135,7 +152,7 @@ All commits have been pushed to `origin/main`.
 
 ---
 
-### Task 8: Plan Puzzle Creation for Apr-May
+### Task 10: Plan Puzzle Creation for Apr-May
 
 **Status:** PENDING
 **Urgency:** MEDIUM (by Mar 20)
@@ -147,7 +164,6 @@ All commits have been pushed to `origin/main`.
 **Required:**
 - Create week11-14.json (28 puzzles) by Mar 20
 - OR integrate user contributions into puzzle pipeline
-- Consider reducing puzzle quality standards for quantity
 
 ---
 
@@ -167,10 +183,10 @@ All commits have been pushed to `origin/main`.
 | Week 10 | Mar 20-25 | 6 | week10.json | ✅ |
 | **Total** | | **126** | | |
 
-**From Today (Jan 26):**
-- Days of runway: **59 days** (through Mar 25)
-- Hackathon coverage: Full (deadline Feb 12 = Day 25)
-- Post-hackathon coverage: 42 additional days
+**From Today (Feb 1):**
+- Days of runway: **53 days** (through Mar 25)
+- Hackathon coverage: Full (deadline Feb 12)
+- Post-hackathon coverage: 41 additional days
 
 ---
 
@@ -178,24 +194,25 @@ All commits have been pushed to `origin/main`.
 
 | Component | Status | Notes |
 |-----------|--------|-------|
-| Devvit App | ✅ DEPLOYED | v0.0.14 (dark theme CSS fix) |
+| Devvit App | ✅ READY | scripture-sleuth configured |
 | Redis Storage | ✅ CONFIGURED | Devvit managed |
 | Scheduler | ✅ CONFIGURED | Job: `daily-puzzle-post`, Cron: `0 0 * * *` |
-| Subreddit | ✅ LIVE | r/CommentConspiracy (public) |
-| Branding | ✅ COMPLETE | Icon (256×256) + Banner (1920×384) |
-| Screenshots | ✅ READY | 5 images in `screenshots/` |
+| Subreddit | ⬜ PENDING | r/ScriptureSleuth needs creation |
+| Dev Subreddit | ✅ LIVE | r/scripture_sleuth_dev |
+| Branding | ⬜ PENDING | Icon + Banner for r/ScriptureSleuth |
+| Screenshots | ✅ READY | Images in `screenshots/` |
 
 ---
 
 ## FEATURE COMPLETENESS
 
 ### Core Features (20/20) ✅
-- [x] Daily puzzle display (5 comments, 1 AI)
-- [x] Comment selection with visual feedback
+- [x] Daily puzzle display (5 verses, 1 fake)
+- [x] Verse selection with visual feedback
 - [x] Guess confirmation modal
 - [x] Correct/incorrect result display
-- [x] AI tells explanation
-- [x] Human tells explanation
+- [x] Fake verse explanation
+- [x] Subreddit connections reveal
 - [x] Already-played state detection
 - [x] Community statistics
 - [x] Share functionality
@@ -219,7 +236,7 @@ All commits have been pushed to `origin/main`.
 | Risk | Likelihood | Impact | Mitigation |
 |------|------------|--------|------------|
 | Scheduler doesn't run | Low | High | Manual posting fallback, monitor first 3 days |
-| Puzzle content runs out | Low | High | 59 days runway, plan creation by Mar 20 |
+| Puzzle content runs out | Low | High | 53 days runway, plan creation by Mar 20 |
 
 ### MEDIUM RISK
 | Risk | Likelihood | Impact | Mitigation |
@@ -239,11 +256,10 @@ All commits have been pushed to `origin/main`.
 
 | Date | Days Left | Milestone |
 |------|-----------|-----------|
-| **Jan 26** | **17** | **TODAY** - Complete inventory, push commits |
-| Jan 27 | 16 | Verify scheduler at midnight UTC |
-| Jan 28-31 | 15-12 | Monitor auto-posting, optional testing |
-| Feb 1-5 | 11-7 | Video demo (if desired) |
-| Feb 6-10 | 6-2 | Submit to Devpost |
+| **Feb 1** | **11** | **TODAY** - Create subreddit, deploy app |
+| Feb 2-3 | 10-9 | Verify scheduler, monitor posting |
+| Feb 4-8 | 8-4 | Testing, video demo (optional) |
+| Feb 9-11 | 3-1 | Submit to Devpost |
 | **Feb 12** | **0** | **DEADLINE 6:00 PM PST** |
 
 ---
@@ -261,10 +277,10 @@ npm run lint         # ESLint check
 ```
 
 ### Key URLs
-- **Demo**: https://reddit.com/r/CommentConspiracy
-- **Devvit Dashboard**: https://developers.reddit.com/apps/comment-conspire
-- **GitHub**: https://github.com/sgharlow/comment-conspiracy
-- **Test Subreddit**: https://reddit.com/r/comment_conspire_dev
+- **Demo**: https://reddit.com/r/ScriptureSleuth
+- **Dev Subreddit**: https://reddit.com/r/scripture_sleuth_dev
+- **Devvit Dashboard**: https://developers.reddit.com/apps/scripture-sleuth
+- **GitHub**: https://github.com/sgharlow/scripture-sleuth
 
 ### Key Files
 - **Scheduler**: `src/scheduler/dailyPuzzle.tsx`
@@ -277,9 +293,9 @@ npm run lint         # ESLint check
 ## SUMMARY: WHAT'S NEEDED FOR LAUNCH
 
 ### Blocking (Must Do)
-1. ✅ Push commits to GitHub (DONE)
-2. ✅ Verify GitHub repo is public (DONE)
-3. ✅ Verify scheduler at midnight UTC (DONE)
+1. ⬜ Create r/ScriptureSleuth subreddit
+2. ⬜ Deploy app to r/ScriptureSleuth
+3. ⬜ Verify scheduler at midnight UTC
 4. ⬜ Submit to Devpost (before Feb 12)
 
 ### Important (Should Do)
@@ -287,56 +303,8 @@ npm run lint         # ESLint check
 6. ⬜ Plan puzzle creation for Apr-May
 
 ### Optional (Nice to Have)
-7. ✅ Video demo (https://youtu.be/FEWEZMGPXPs)
+7. ⬜ Video demo
 8. ⬜ Cross-browser testing
 9. ⬜ Reddit mobile app testing
 
-**Bottom Line**: Push commits, verify scheduler works, submit to Devpost. The game is fully functional with 59 days of content.
-
----
-
-## COMPLETED WORK LOG
-
-### Jan 30, 2026
-- [x] Fixed dark theme CSS not rendering (styles.css was missing detective theme colors)
-- [x] Added all detective theme colors to webroot/styles.css:
-  - Dark backgrounds: bg-detective-bg, bg-detective-card
-  - Text colors: text-textPrimary, text-textSecondary, text-textMuted
-  - Accent colors: suspicious, correct, incorrect, ai, reddit with opacity variants
-  - Additional utility classes for borders, shadows, transforms
-- [x] Deployed v0.0.14 to r/CommentConspiracy
-- [x] Verified dark theme now displays correctly in production
-- [x] Captured new dark theme screenshots (day10_dark_completed.png, day12_dark_completed.png)
-
-### Jan 29, 2026
-- [x] Complete dark "Detective" theme UI redesign
-- [x] Implemented custom Tailwind color palette (detective-bg, suspicious, correct, incorrect, ai)
-- [x] Redesigned WelcomeScreen: "COMMENT CONSPIRACY" title, "ONE OF THESE ISN'T HUMAN" tagline
-- [x] Redesigned GameScreen: "Case File #{dayNumber}" header, difficulty badges
-- [x] Redesigned CommentCard: "Suspect X" labels, Reddit-style metadata (upvotes, timestamps)
-- [x] Updated ConfirmModal: "FINAL ACCUSATION" theme
-- [x] Updated ResultBanner: "CASE CLOSED" / "CASE UNSOLVED" outcomes
-- [x] Updated AIExplanation: "Evidence Breakdown" header
-- [x] Updated StatsPanel: "Today's Case Stats", "Suspect Distribution"
-- [x] Updated CompletedScreen: "Case Closed for Today" header
-- [x] Updated Timer: "Next Case File In" label
-- [x] Updated Leaderboard: "Your Detective Rankings"
-- [x] Deployed v0.0.13 to Reddit
-- [x] All 497 tests passing
-- [x] Captured new screenshots with dark theme
-
-### Jan 26, 2026
-- [x] Full project inventory completed
-- [x] All documentation updated
-- [x] Identified remaining tasks for 60-day support
-- [x] Risk assessment completed
-
-### Previous (Jan 25-26)
-- [x] Created r/CommentConspiracy subreddit
-- [x] Deployed v0.0.12 with scheduler fix
-- [x] Created subreddit icon and banner
-- [x] Captured 5 Devpost screenshots
-- [x] Fixed scheduler job name mismatch
-- [x] Created 126 puzzles (19 weeks)
-- [x] All tests passing
-- [x] Full playtest completed
+**Bottom Line**: Create subreddit, deploy app, verify scheduler, submit to Devpost. The game is fully functional with 53 days of content.

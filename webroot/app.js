@@ -26380,7 +26380,7 @@ function App() {
           {
             puzzle,
             selectedIndex,
-            onSelectComment: selectComment,
+            onSelectVerse: selectComment,
             onConfirmGuess: openConfirm,
             disabled: state === "SUBMITTING"
           }

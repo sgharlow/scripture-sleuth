@@ -1,0 +1,533 @@
+{
+  "week": 9,
+  "startDate": "2026-03-29",
+  "puzzles": [
+    {
+      "id": "2026-03-29",
+      "dayNumber": 57,
+      "difficulty": "easy",
+      "dayOfWeek": "sunday",
+      "category": "wilderness",
+      "theme": "Wilderness & Desert",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.",
+          "reference": "Mark 1:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/camping",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.",
+          "reference": "Isaiah 40:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/roadtrip",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light.",
+          "reference": "Exodus 13:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/hiking",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Blessed are they who wander through the desert of trials, for they shall discover oases of inner peace and spiritual growth.",
+          "reference": "Wanderings 7:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.",
+          "reference": "Deuteronomy 32:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/backpacking",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Wanderings\" is not a book of the Bible",
+          "\"Oases of inner peace\" is modern wellness language",
+          "\"Spiritual growth\" is a contemporary self-help term not found in KJV",
+          "Real scripture speaks of wilderness as testing, not 'discovering inner peace'"
+        ],
+        "whyReal": [
+          "Mark 1:13 describes Jesus' temptation in the wilderness",
+          "Isaiah 40:3 is the famous prophecy quoted by John the Baptist",
+          "Deuteronomy 32:10 uses the poetic 'apple of his eye' phrase"
+        ],
+        "connections": [
+          "Mark 1:13 -> r/camping - Jesus in the wild with beasts",
+          "Isaiah 40:3 -> r/roadtrip - Preparing the highway",
+          "Exodus 13:21 -> r/hiking - God leading the way"
+        ],
+        "difficulty_note": "Easy - The fake book 'Wanderings' and modern wellness language are obvious tells"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-30",
+      "dayNumber": 58,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "sacrifice",
+      "theme": "Sacrifice & Offering",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God.",
+          "reference": "Romans 12:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.",
+          "reference": "Hebrews 13:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gratitude",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God.",
+          "reference": "Philippians 4:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/RandomActsOfKindness",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Blessed is he who offereth up his time and resources unto others, for such giving multiplieth blessings unto the giver.",
+          "reference": "Offerings 4:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.",
+          "reference": "Psalm 51:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Offerings\" is not a book of the Bible",
+          "\"Time and resources\" is modern stewardship language",
+          "\"Multiplieth blessings unto the giver\" sounds like prosperity gospel",
+          "Real scripture about sacrifice focuses on the heart, not returns"
+        ],
+        "whyReal": [
+          "Romans 12:1 is Paul's famous 'living sacrifice' teaching",
+          "Psalm 51:17 emphasizes the contrite heart over ritual sacrifice",
+          "Hebrews 13:15 speaks of praise as sacrifice"
+        ],
+        "connections": [
+          "Romans 12:1 -> r/Christianity - Living sacrifice concept",
+          "Hebrews 13:15 -> r/gratitude - Sacrifice of praise and thanks",
+          "Psalm 51:17 -> r/DecidingToBeBetter - Broken spirit valued by God"
+        ],
+        "difficulty_note": "Easy - The fake book 'Offerings' and prosperity gospel phrasing are clear tells"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-31",
+      "dayNumber": 59,
+      "difficulty": "medium",
+      "dayOfWeek": "tuesday",
+      "category": "resurrection",
+      "theme": "Resurrection",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "He is not here: for he is risen, as he said. Come, see the place where the Lord lay.",
+          "reference": "Matthew 28:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live.",
+          "reference": "John 11:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.",
+          "reference": "1 Thessalonians 4:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And on the first day of the week, when the disciples gathered to break bread, they found the tomb emptied and their hearts were filled with new hope.",
+          "reference": "Acts 20:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him.",
+          "reference": "Romans 6:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Acts 20:7 says 'And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them'",
+          "The fake verse fabricates a resurrection narrative that is not in Acts 20",
+          "\"Hearts were filled with new hope\" is modern inspirational language",
+          "The real verse is about Paul preaching, not finding the empty tomb"
+        ],
+        "whyReal": [
+          "Matthew 28:6 is the angel's announcement at the empty tomb",
+          "John 11:25 is Jesus' famous declaration to Martha",
+          "Romans 6:9 declares Christ's victory over death"
+        ],
+        "connections": [
+          "Matthew 28:6 -> r/Christianity - The resurrection announcement",
+          "1 Thessalonians 4:14 -> r/GriefSupport - Hope for deceased believers",
+          "Romans 6:9 -> r/GetMotivated - Death defeated"
+        ],
+        "difficulty_note": "Medium - The fake uses a real verse reference but fabricates completely different content"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-04-01",
+      "dayNumber": 60,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "eternal",
+      "theme": "Eternal Life",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+          "reference": "John 3:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And this is the record, that God hath given to us eternal life, and this life is in his Son.",
+          "reference": "1 John 5:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.",
+          "reference": "John 14:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/CozyPlaces",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that overcometh shall inherit all things, and I will be his God, and he shall be mine own son forever.",
+          "reference": "Revelation 21:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.",
+          "reference": "John 17:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Revelation 21:7 says 'He that overcometh shall inherit all things; and I will be his God, and he shall be my son'",
+          "The fake adds 'mine own' and 'forever' which are not in the original text",
+          "The subtle changes make it sound more emphatic but alter the actual verse",
+          "This tests knowledge of the exact KJV wording"
+        ],
+        "whyReal": [
+          "John 3:16 is the most famous verse about eternal life",
+          "John 14:2 is Jesus' comforting promise about heaven",
+          "John 17:3 defines eternal life as knowing God"
+        ],
+        "connections": [
+          "John 3:16 -> r/Christianity - The gospel in one verse",
+          "John 14:2 -> r/CozyPlaces - Many mansions prepared",
+          "John 17:3 -> r/philosophy - Knowing God as eternal life"
+        ],
+        "difficulty_note": "Medium - The fake subtly alters Revelation 21:7 with added words"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-04-02",
+      "dayNumber": 61,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "cross",
+      "theme": "The Cross",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha.",
+          "reference": "John 19:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.",
+          "reference": "1 Corinthians 1:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.",
+          "reference": "Galatians 6:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that taketh not up his cross and followeth after me, is not worthy of mine calling, for the way of salvation is through suffering.",
+          "reference": "Matthew 10:38",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness.",
+          "reference": "1 Peter 2:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Matthew 10:38 says 'And he that taketh not his cross, and followeth after me, is not worthy of me'",
+          "The fake adds 'mine calling' and 'for the way of salvation is through suffering'",
+          "\"Way of salvation is through suffering\" is a theological addition not in the original",
+          "The real verse simply says 'not worthy of me' not 'mine calling'"
+        ],
+        "whyReal": [
+          "John 19:17 describes Jesus carrying his cross to Golgotha",
+          "1 Corinthians 1:18 is Paul's teaching on the cross as God's power",
+          "1 Peter 2:24 speaks of Christ bearing our sins on the cross (called 'the tree')"
+        ],
+        "connections": [
+          "John 19:17 -> r/Christianity - Jesus bearing the cross",
+          "1 Corinthians 1:18 -> r/TrueChristian - Power of the cross",
+          "1 Peter 2:24 -> r/DecidingToBeBetter - Dead to sins, alive to righteousness"
+        ],
+        "difficulty_note": "Medium - The fake expands Matthew 10:38 with theological additions"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-04-03",
+      "dayNumber": 62,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "grace",
+      "theme": "Grace & Mercy",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.",
+          "reference": "Ephesians 2:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.",
+          "reference": "Hebrews 4:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/prayer",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.",
+          "reference": "James 4:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/humblebrag",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "It is of the LORD's mercies that we are not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness.",
+          "reference": "Lamentations 3:22-23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The grace of God is sufficient for all thy transgressions, and his mercy extendeth unto the uttermost parts of thine iniquity.",
+          "reference": "2 Corinthians 12:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real 2 Corinthians 12:9 says 'My grace is sufficient for thee: for my strength is made perfect in weakness'",
+          "The fake verse changes the subject from 'strength in weakness' to 'covering transgressions'",
+          "\"Uttermost parts of thine iniquity\" is fabricated poetic language",
+          "The original verse is about God's power, not forgiveness of sin"
+        ],
+        "whyReal": [
+          "Ephesians 2:8 is the foundational verse on salvation by grace",
+          "Hebrews 4:16 invites believers to approach God's throne of grace",
+          "Lamentations 3:22-23 is the beloved 'mercies new every morning' passage"
+        ],
+        "connections": [
+          "Ephesians 2:8 -> r/Christianity - Salvation by grace alone",
+          "Hebrews 4:16 -> r/prayer - Approaching God boldly",
+          "Lamentations 3:22-23 -> r/MadeMeSmile - New mercies each morning"
+        ],
+        "difficulty_note": "Hard - The fake cleverly uses a real verse reference but completely changes its meaning"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-04-04",
+      "dayNumber": 63,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "word",
+      "theme": "The Word of God",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+          "reference": "John 1:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit.",
+          "reference": "Hebrews 4:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/books",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness.",
+          "reference": "2 Timothy 3:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/BibleStudy",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "So then faith cometh by hearing, and hearing by the word of God.",
+          "reference": "Romans 10:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Heaven and earth shall pass away, but my words shall not pass away.",
+          "reference": "Matthew 24:35",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "META-PUZZLE TWIST: This is actually a REAL verse! Matthew 24:35 is genuine KJV scripture",
+          "Expert challenge: All five verses in this puzzle are completely authentic",
+          "This puzzle tests whether players second-guess themselves on the theme 'The Word of God'",
+          "The irony: A puzzle about the Word of God has no fake words - they are all true"
+        ],
+        "whyReal": [
+          "All five verses are genuine King James Version scripture about God's Word",
+          "John 1:1 is the famous Logos passage identifying Christ as the Word",
+          "Hebrews 4:12 describes the Word as living and powerful",
+          "Matthew 24:35 is Jesus declaring the permanence of his words"
+        ],
+        "connections": [
+          "John 1:1 -> r/philosophy - The Logos concept",
+          "Hebrews 4:12 -> r/books - The most powerful book",
+          "2 Timothy 3:16 -> r/BibleStudy - Scripture's divine inspiration",
+          "Romans 10:17 -> r/Christianity - Faith through hearing the Word"
+        ],
+        "difficulty_note": "Expert - Meta-puzzle: All verses are real! A fitting conclusion for 'The Word of God' theme - every word is true. Tests if players overthink and distrust authentic scripture."
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

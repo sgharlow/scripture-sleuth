@@ -266,7 +266,7 @@ export function App(): React.ReactElement {
           <GameScreen
             puzzle={puzzle}
             selectedIndex={selectedIndex}
-            onSelectComment={selectComment}
+            onSelectVerse={selectComment}
             onConfirmGuess={openConfirm}
             disabled={state === 'SUBMITTING'}
           />

@@ -1,0 +1,534 @@
+{
+  "week": 5,
+  "startDate": "2026-03-01",
+  "puzzles": [
+    {
+      "id": "2026-03-01",
+      "dayNumber": 29,
+      "difficulty": "easy",
+      "dayOfWeek": "sunday",
+      "category": "mind",
+      "theme": "Heart & Mind",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Keep thy heart with all diligence; for out of it are the issues of life.",
+          "reference": "Proverbs 4:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/mentalhealth",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Create in me a clean heart, O God; and renew a right spirit within me.",
+          "reference": "Psalm 51:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength.",
+          "reference": "Mark 12:30",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Blessed are the pure in heart, for they shall cultivate inner wellness and emotional clarity.",
+          "reference": "Mindfulness 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "The heart is deceitful above all things, and desperately wicked: who can know it?",
+          "reference": "Jeremiah 17:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/psychology",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Mindfulness\" is not a book of the Bible",
+          "\"Inner wellness\" and \"emotional clarity\" are modern psychology/self-help terms",
+          "The real Beatitude (Matthew 5:8) says 'for they shall see God'",
+          "Real scripture doesn't use therapeutic language like 'cultivate'"
+        ],
+        "whyReal": [
+          "Proverbs 4:23 is the famous 'guard your heart' verse",
+          "Psalm 51:10 is David's prayer of repentance",
+          "Jeremiah 17:9 is a sobering truth about human nature"
+        ],
+        "connections": [
+          "Proverbs 4:23 -> r/mentalhealth - Guarding the heart and mind",
+          "Psalm 51:10 -> r/DecidingToBeBetter - Seeking renewal and change",
+          "Jeremiah 17:9 -> r/psychology - Understanding human nature"
+        ],
+        "difficulty_note": "Easy - The fake book name 'Mindfulness' and modern therapy language are obvious tells"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-02",
+      "dayNumber": 30,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "redemption",
+      "theme": "Sin & Redemption",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For all have sinned, and come short of the glory of God.",
+          "reference": "Romans 3:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.",
+          "reference": "1 John 1:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed are they who acknowledge their mistakes, for their journey toward self-improvement shall be rewarded.",
+          "reference": "Redemptions 7:3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow.",
+          "reference": "Isaiah 1:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "As far as the east is from the west, so far hath he removed our transgressions from us.",
+          "reference": "Psalm 103:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/wholesomememes",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "\"Redemptions\" is not a book of the Bible",
+          "\"Mistakes\" is modern euphemism - scripture uses 'sin' or 'transgression'",
+          "\"Self-improvement\" and \"journey\" are contemporary self-help terminology",
+          "Real scripture doesn't promise rewards for acknowledging mistakes"
+        ],
+        "whyReal": [
+          "Romans 3:23 is a foundational verse about universal sinfulness",
+          "Isaiah 1:18 has the famous scarlet/snow imagery",
+          "Psalm 103:12 uses the beautiful east/west metaphor for forgiveness"
+        ],
+        "connections": [
+          "Romans 3:23 -> r/Christianity - Core doctrine of sin",
+          "Isaiah 1:18 -> r/GetMotivated - Hope for transformation",
+          "Psalm 103:12 -> r/wholesomememes - Complete forgiveness"
+        ],
+        "difficulty_note": "Easy - The fake book name 'Redemptions' and 'self-improvement' language are clear tells"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-03",
+      "dayNumber": 31,
+      "difficulty": "medium",
+      "dayOfWeek": "tuesday",
+      "category": "service",
+      "theme": "Servants & Masters",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "No man can serve two masters: for either he will hate the one, and love the other.",
+          "reference": "Matthew 6:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/antiwork",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ.",
+          "reference": "Ephesians 6:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/WorkReform",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But he that is greatest among you shall be your servant.",
+          "reference": "Matthew 23:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/leadership",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The faithful servant receiveth favour from his lord, and his diligence shall establish him in the house of his master.",
+          "reference": "Proverbs 17:2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things.",
+          "reference": "Matthew 25:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 17:2 says 'A wise servant shall have rule over a son that causeth shame'",
+          "\"Receiveth favour\" and \"establish him\" are not the actual phrasing",
+          "The fake sounds plausible but entirely rewrites the verse's meaning",
+          "Real Proverbs 17:2 is about servants ruling over shameful sons, not about diligence"
+        ],
+        "whyReal": [
+          "Matthew 6:24 is Jesus' famous teaching about serving two masters",
+          "Matthew 25:21 is from the parable of the talents",
+          "Matthew 23:11 is Jesus' teaching on servant leadership"
+        ],
+        "connections": [
+          "Matthew 6:24 -> r/antiwork - Can't serve money and something else",
+          "Ephesians 6:5 -> r/WorkReform - Historical work ethics",
+          "Matthew 23:11 -> r/leadership - Servant leadership principles"
+        ],
+        "difficulty_note": "Medium - The fake uses a real verse reference but completely rewrites the content"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-04",
+      "dayNumber": 32,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "justice",
+      "theme": "Justice & Righteousness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+          "reference": "Micah 6:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.",
+          "reference": "Isaiah 1:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/JusticeServed",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "The righteous man walketh in uprightness, and his children are blessed after him.",
+          "reference": "Proverbs 20:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Parenting",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that executeth justice upon the wicked shall receive the crown of righteousness, and his name shall be honoured among the faithful.",
+          "reference": "Proverbs 21:15",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "But let judgment run down as waters, and righteousness as a mighty stream.",
+          "reference": "Amos 5:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/activism",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 21:15 says 'It is joy to the just to do judgment: but destruction shall be to the workers of iniquity'",
+          "\"Crown of righteousness\" is from 2 Timothy 4:8, not Proverbs",
+          "\"His name shall be honoured among the faithful\" is added embellishment",
+          "The fake mixes themes from different books of the Bible"
+        ],
+        "whyReal": [
+          "Micah 6:8 is one of the most famous prophetic summaries of God's requirements",
+          "Amos 5:24 is quoted by Martin Luther King Jr. in his famous speeches",
+          "Isaiah 1:17 is God's call to social justice"
+        ],
+        "connections": [
+          "Micah 6:8 -> r/philosophy - Ethical living summarized",
+          "Isaiah 1:17 -> r/JusticeServed - Defending the vulnerable",
+          "Amos 5:24 -> r/activism - Justice rolling down like waters"
+        ],
+        "difficulty_note": "Medium - The fake borrows 'crown of righteousness' from another book to sound authentic"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-05",
+      "dayNumber": 33,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "hope",
+      "theme": "Hope",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
+          "reference": "Jeremiah 29:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+          "reference": "1 Corinthians 13:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God.",
+          "reference": "Psalm 42:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/depression",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that placeth his hope in earthly things shall be confounded, but he that trusteth in the Lord shall never want.",
+          "reference": "Psalm 37:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.",
+          "reference": "Psalm 31:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Anxiety",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 37:4 says 'Delight thyself also in the LORD: and he shall give thee the desires of thine heart'",
+          "\"Placeth his hope in earthly things\" is not in the verse at all",
+          "\"Confounded\" and \"shall never want\" are borrowed from other Psalms",
+          "The fake is a theological paraphrase, not the actual text"
+        ],
+        "whyReal": [
+          "Jeremiah 29:11 is one of the most quoted hope verses",
+          "1 Corinthians 13:13 is the famous conclusion to the love chapter",
+          "Psalm 42:11 expresses honest spiritual struggle and hope"
+        ],
+        "connections": [
+          "Jeremiah 29:11 -> r/GetMotivated - Future and hope promised",
+          "Psalm 42:11 -> r/depression - Hoping through despair",
+          "Psalm 31:24 -> r/Anxiety - Courage through hope"
+        ],
+        "difficulty_note": "Medium - The fake completely rewrites the famous Psalm 37:4 verse"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-06",
+      "dayNumber": 34,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "suffering",
+      "theme": "Suffering & Trials",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose.",
+          "reference": "Romans 8:28",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "My brethren, count it all joy when ye fall into divers temptations; Knowing this, that the trying of your faith worketh patience.",
+          "reference": "James 1:2-3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Stoicism",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.",
+          "reference": "Romans 8:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.",
+          "reference": "Job 13:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Tribulation worketh perseverance, and perseverance bringeth forth character, that we may be vessels fitted for the Master's use.",
+          "reference": "Romans 5:3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Romans 5:3-4 says 'tribulation worketh patience; And patience, experience; and experience, hope'",
+          "\"Perseverance\" is used in modern translations, not KJV which uses 'patience'",
+          "\"Vessels fitted for the Master's use\" is from 2 Timothy 2:21, not Romans",
+          "The fake combines Romans 5 themes with 2 Timothy imagery"
+        ],
+        "whyReal": [
+          "Romans 8:28 is a beloved verse about God's sovereign purpose",
+          "James 1:2-3 is the 'count it all joy' passage on trials",
+          "Job 13:15 is Job's famous declaration of faith amid suffering"
+        ],
+        "connections": [
+          "Romans 8:28 -> r/Christianity - All things working for good",
+          "James 1:2-3 -> r/Stoicism - Finding joy in trials",
+          "Romans 8:18 -> r/GriefSupport - Present suffering vs. future glory"
+        ],
+        "difficulty_note": "Hard - The fake cleverly combines Romans 5:3-4 with 2 Timothy 2:21 and uses modern translation vocabulary"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-07",
+      "dayNumber": 35,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "miracles",
+      "theme": "Miracles & Wonders",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.",
+          "reference": "Exodus 14:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/interestingasfuck",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Jesus saith unto him, Rise, take up thy bed, and walk. And immediately the man was made whole, and took up his bed, and walked.",
+          "reference": "John 5:8-9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/UpliftingNews",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And he took the five loaves and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples.",
+          "reference": "Mark 6:41",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HumansBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "So the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies.",
+          "reference": "Joshua 10:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/space",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And Elijah called upon the name of the LORD, and fire came down from heaven and consumed the sacrifice, and the altar, and the water that was in the trench.",
+          "reference": "1 Kings 18:38",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Plot twist: This is actually a REAL verse! 1 Kings 18:38 is the account of Elijah on Mount Carmel",
+          "Expert challenge: All five verses in this puzzle are completely authentic miracles",
+          "The real verse says 'Then the fire of the LORD fell, and consumed the burnt sacrifice, and the wood, and the stones, and the dust, and licked up the water that was in the trench'",
+          "The fake is a slight paraphrase but captures the essence - testing if you second-guess authentic but dramatic miracles"
+        ],
+        "whyReal": [
+          "All five verses describe genuine biblical miracles",
+          "Exodus 14:21 - Parting of the Red Sea",
+          "John 5:8-9 - Healing at the Pool of Bethesda",
+          "Joshua 10:13 - The sun standing still",
+          "1 Kings 18:38 - Fire from heaven on Mount Carmel (slightly paraphrased but essentially accurate)"
+        ],
+        "connections": [
+          "Exodus 14:21 -> r/interestingasfuck - The sea parted by wind",
+          "John 5:8-9 -> r/UpliftingNews - Instant healing",
+          "Mark 6:41 -> r/HumansBeingBros - Feeding the multitude",
+          "Joshua 10:13 -> r/space - Astronomical miracle"
+        ],
+        "difficulty_note": "Expert - Meta-puzzle: The 'fake' is actually a slight paraphrase of a real miracle. Tests whether dramatic miracles seem 'too miraculous' to be real. 1 Kings 18:38 is genuine scripture."
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

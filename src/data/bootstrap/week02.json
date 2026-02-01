@@ -1,0 +1,533 @@
+{
+  "week": 2,
+  "startDate": "2026-02-08",
+  "puzzles": [
+    {
+      "id": "2026-02-08",
+      "dayNumber": 8,
+      "difficulty": "easy",
+      "dayOfWeek": "sunday",
+      "category": "patience",
+      "theme": "Patience & Waiting",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles.",
+          "reference": "Isaiah 40:31",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Rest in the LORD, and wait patiently for him.",
+          "reference": "Psalm 37:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed are those who wait with steadfast hope, for their patience shall unlock the doors of destiny.",
+          "reference": "Revelations 3:14",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "The LORD is good unto them that wait for him, to the soul that seeketh him.",
+          "reference": "Lamentations 3:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Be patient therefore, brethren, unto the coming of the Lord.",
+          "reference": "James 5:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/patience",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "\"Revelations\" is wrong - the book is called \"Revelation\" (singular)",
+          "\"Unlock the doors of destiny\" is modern self-help language",
+          "\"Steadfast hope\" paired with \"patience\" is redundant and modern",
+          "Real scripture doesn't promise outcomes like \"unlocking destiny\""
+        ],
+        "whyReal": [
+          "Isaiah 40:31 is the famous 'wings as eagles' passage",
+          "James 5:7 uses characteristic 'brethren' address",
+          "Lamentations 3:25 has the poetic Hebrew structure"
+        ],
+        "connections": [
+          "Isaiah 40:31 -> r/GetMotivated - Renewed strength through waiting",
+          "Psalm 37:7 -> r/Meditation - Rest and patient waiting",
+          "Lamentations 3:25 -> r/Christianity - Seeking the Lord"
+        ],
+        "difficulty_note": "Easy - The misspelling 'Revelations' and modern 'destiny' language are clear tells"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-09",
+      "dayNumber": 9,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "speech",
+      "theme": "Speech & Words",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "A soft answer turneth away wrath: but grievous words stir up anger.",
+          "reference": "Proverbs 15:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationships",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Death and life are in the power of the tongue.",
+          "reference": "Proverbs 18:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/socialskills",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Let your words be measured and mindful, for careless speech bringeth forth much negativity.",
+          "reference": "Proverbs 25:28",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.",
+          "reference": "Proverbs 16:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/wholesomememes",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "A word fitly spoken is like apples of gold in pictures of silver.",
+          "reference": "Proverbs 25:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "\"Mindful\" is a modern wellness/meditation term",
+          "\"Negativity\" is contemporary psychology language",
+          "Real Proverbs 25:28 is about a man without self-control being like a city with broken walls",
+          "\"Measured and mindful\" is too alliterative in a modern way"
+        ],
+        "whyReal": [
+          "Proverbs 15:1 is the famous 'soft answer' verse",
+          "The honeycomb metaphor in 16:24 is characteristic biblical poetry",
+          "The 'apples of gold' imagery is distinctly Solomonic"
+        ],
+        "connections": [
+          "Proverbs 15:1 -> r/relationships - De-escalating conflicts",
+          "Proverbs 18:21 -> r/socialskills - Power of communication",
+          "Proverbs 16:24 -> r/wholesomememes - Sweet and healing words"
+        ],
+        "difficulty_note": "Easy - Modern words like 'mindful' and 'negativity' are obvious tells"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-10",
+      "dayNumber": 10,
+      "difficulty": "medium",
+      "dayOfWeek": "tuesday",
+      "category": "family",
+      "theme": "Family & Children",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Train up a child in the way he should go: and when he is old, he will not depart from it.",
+          "reference": "Proverbs 22:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Parenting",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Children are an heritage of the LORD: and the fruit of the womb is his reward.",
+          "reference": "Psalm 127:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/daddit",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Honour thy father and thy mother: that thy days may be long upon the land.",
+          "reference": "Exodus 20:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/family",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "A wise son bringeth joy unto his parents, and a daughter of virtue is a crown unto her household.",
+          "reference": "Proverbs 31:28",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.",
+          "reference": "Ephesians 6:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Parenting",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 31:28 says 'Her children arise up, and call her blessed'",
+          "The verse combines two separate Proverbs concepts incorrectly",
+          "\"Daughter of virtue\" echoes Proverbs 31 but isn't from verse 28",
+          "\"Crown unto her household\" misquotes the Proverbs 31 'virtuous woman' passage"
+        ],
+        "whyReal": [
+          "Proverbs 22:6 is the famous child-training verse",
+          "Exodus 20:12 is the fifth commandment",
+          "Ephesians 6:4 has Paul's characteristic instruction style"
+        ],
+        "connections": [
+          "Proverbs 22:6 -> r/Parenting - Child-rearing wisdom",
+          "Psalm 127:3 -> r/daddit - Children as blessings",
+          "Exodus 20:12 -> r/family - Honoring parents"
+        ],
+        "difficulty_note": "Medium - The fake cleverly combines real Proverbs themes but misattributes the verse"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-11",
+      "dayNumber": 11,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "courage",
+      "theme": "Courage & Strength",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee.",
+          "reference": "Joshua 1:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The LORD is my light and my salvation; whom shall I fear?",
+          "reference": "Psalm 27:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "I can do all things through Christ which strengtheneth me.",
+          "reference": "Philippians 4:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/fitness",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The courageous man findeth strength in adversity, for trials refine his spirit like gold in the furnace.",
+          "reference": "1 Peter 4:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Wait on the LORD: be of good courage, and he shall strengthen thine heart.",
+          "reference": "Psalm 27:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Stoicism",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real 1 Peter 4:12 says 'think it not strange concerning the fiery trial'",
+          "\"The courageous man\" is too general - scripture is usually more specific",
+          "\"Refine his spirit\" borrows imagery but isn't from this verse",
+          "The structure mimics Proverbs but claims to be 1 Peter"
+        ],
+        "whyReal": [
+          "Joshua 1:9 is God's famous charge to Joshua",
+          "Philippians 4:13 is one of the most quoted verses",
+          "Psalm 27:1 and 27:14 are from the same beloved psalm"
+        ],
+        "connections": [
+          "Joshua 1:9 -> r/GetMotivated - Be strong and courageous",
+          "Philippians 4:13 -> r/fitness - Strength through Christ",
+          "Psalm 27:14 -> r/Stoicism - Patient courage"
+        ],
+        "difficulty_note": "Medium - The fake uses real biblical imagery but misquotes 1 Peter 4:12"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-12",
+      "dayNumber": 12,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "forgiveness",
+      "theme": "Forgiveness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For if ye forgive men their trespasses, your heavenly Father will also forgive you.",
+          "reference": "Matthew 6:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationships",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And when ye stand praying, forgive, if ye have ought against any.",
+          "reference": "Mark 11:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any.",
+          "reference": "Colossians 3:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/LifeProTips",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Then said Peter unto him, Lord, how oft shall my brother sin against me, and I forgive him? till seven times? Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.",
+          "reference": "Matthew 18:21-22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/pettyrevenge",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "He that holdeth unforgiveness in his heart poisoneth his own soul, and findeth no rest.",
+          "reference": "Proverbs 19:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 19:11 says 'The discretion of a man deferreth his anger'",
+          "\"Unforgiveness\" is not a word used in KJV - too modern",
+          "\"Poisoneth his own soul\" is too psychological/therapeutic",
+          "\"Findeth no rest\" is added for dramatic effect but isn't in the verse"
+        ],
+        "whyReal": [
+          "Matthew 18:21-22 is the famous '70 times 7' exchange",
+          "Matthew 6:14 is from the Sermon on the Mount",
+          "Colossians 3:13 has Paul's characteristic 'one another' language"
+        ],
+        "connections": [
+          "Matthew 6:14 -> r/relationships - Mutual forgiveness",
+          "Matthew 18:21-22 -> r/pettyrevenge - Ironic contrast to unlimited forgiveness",
+          "Colossians 3:13 -> r/LifeProTips - Practical forgiveness advice"
+        ],
+        "difficulty_note": "Medium - 'Unforgiveness' sounds plausible but is not KJV vocabulary"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-13",
+      "dayNumber": 13,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "prayer",
+      "theme": "Prayer",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+          "reference": "Matthew 7:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The effectual fervent prayer of a righteous man availeth much.",
+          "reference": "James 5:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Pray without ceasing.",
+          "reference": "1 Thessalonians 5:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret.",
+          "reference": "Matthew 6:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/introvert",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "He that prayeth with a divided heart receiveth nothing from the Lord, for his petitions are scattered upon the wind.",
+          "reference": "James 1:6",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real James 1:6 says 'But let him ask in faith, nothing wavering'",
+          "\"Divided heart\" is from James but not this exact verse",
+          "\"Scattered upon the wind\" is poetic but not from James",
+          "The structure cleverly paraphrases James 1:6-8 but isn't the actual text"
+        ],
+        "whyReal": [
+          "Matthew 7:7 is the famous ask/seek/knock triplet",
+          "1 Thessalonians 5:17 is notably the shortest verse about prayer",
+          "Matthew 6:6 uses 'closet' which is distinctive KJV language"
+        ],
+        "connections": [
+          "Matthew 7:7 -> r/GetMotivated - Ask and receive",
+          "1 Thessalonians 5:17 -> r/Meditation - Continuous practice",
+          "Matthew 6:6 -> r/introvert - Private prayer"
+        ],
+        "difficulty_note": "Hard - The fake paraphrases James 1 accurately but isn't the actual verse"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-14",
+      "dayNumber": 14,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "love",
+      "theme": "Love (Valentine's Special)",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death.",
+          "reference": "Song of Solomon 8:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Many waters cannot quench love, neither can the floods drown it.",
+          "reference": "Song of Solomon 8:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/LongDistance",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Love suffereth long, and is kind; love envieth not; love vaunteth not itself, is not puffed up.",
+          "reference": "1 Corinthians 13:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Marriage",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
+          "reference": "1 John 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Greater love hath no man than this, that a man lay down his life for his friends.",
+          "reference": "John 15:13",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Wait - this IS actually real! John 15:13 is one of the most famous verses about love",
+          "Expert puzzle twist: All five verses are genuine scripture",
+          "This tests whether players second-guess themselves on Valentine's Day",
+          "The 'fake' is actually Jesus speaking about sacrificial love"
+        ],
+        "whyReal": [
+          "All five verses are authentic KJV scripture about love",
+          "Song of Solomon 8:6-7 contains powerful romantic poetry",
+          "1 Corinthians 13:4 is read at countless weddings",
+          "This puzzle tests overconfidence in detecting fakes"
+        ],
+        "connections": [
+          "Song of Solomon 8:6 -> r/relationship_advice - Love strong as death",
+          "Song of Solomon 8:7 -> r/LongDistance - Love that endures",
+          "1 Corinthians 13:4 -> r/Marriage - The love chapter",
+          "1 John 4:7 -> r/Christianity - Divine love"
+        ],
+        "difficulty_note": "Expert - Valentine's twist: All verses are real! John 15:13 is genuine scripture about the greatest love."
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

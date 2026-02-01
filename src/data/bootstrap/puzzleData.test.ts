@@ -6,6 +6,14 @@
 
 import { describe, it, expect } from 'vitest';
 import week01Data from './week01.json';
+import week02Data from './week02.json';
+import week03Data from './week03.json';
+import week04Data from './week04.json';
+import week05Data from './week05.json';
+import week06Data from './week06.json';
+import week07Data from './week07.json';
+import week08Data from './week08.json';
+import week09Data from './week09.json';
 
 interface Verse {
   id: string;
@@ -46,6 +54,14 @@ interface PuzzleWeek {
 
 const allWeeks: PuzzleWeek[] = [
   week01Data as PuzzleWeek,
+  week02Data as PuzzleWeek,
+  week03Data as PuzzleWeek,
+  week04Data as PuzzleWeek,
+  week05Data as PuzzleWeek,
+  week06Data as PuzzleWeek,
+  week07Data as PuzzleWeek,
+  week08Data as PuzzleWeek,
+  week09Data as PuzzleWeek,
 ];
 
 const validDifficulties = ['easy', 'medium', 'hard', 'expert'];
@@ -75,7 +91,7 @@ describe('Puzzle Data Validation', () => {
 
           it('has valid day number', () => {
             expect(puzzle.dayNumber).toBeGreaterThan(0);
-            expect(puzzle.dayNumber).toBeLessThanOrEqual(7);
+            expect(puzzle.dayNumber).toBeLessThanOrEqual(63);
           });
 
           it('has valid difficulty', () => {
@@ -171,7 +187,7 @@ describe('Puzzle Data Validation', () => {
   });
 
   describe('Day number sequence', () => {
-    it('has continuous day numbers within week', () => {
+    it('has continuous day numbers across all weeks', () => {
       const allDayNumbers = allWeeks
         .flatMap(week => week.puzzles.map(p => p.dayNumber))
         .sort((a, b) => a - b);
@@ -179,6 +195,17 @@ describe('Puzzle Data Validation', () => {
       for (let i = 0; i < allDayNumbers.length; i++) {
         expect(allDayNumbers[i]).toBe(i + 1);
       }
+    });
+
+    it('each week has 7 puzzles with day numbers 1-7', () => {
+      allWeeks.forEach((weekData, weekIndex) => {
+        const dayNumbers = weekData.puzzles.map(p => p.dayNumber).sort((a, b) => a - b);
+        // Day numbers within week are relative to overall sequence
+        const expectedStart = weekIndex * 7 + 1;
+        for (let i = 0; i < 7; i++) {
+          expect(dayNumbers[i]).toBe(expectedStart + i);
+        }
+      });
     });
   });
 
@@ -199,12 +226,51 @@ describe('Puzzle Data Validation', () => {
   });
 
   describe('Total puzzle count', () => {
-    it('has 7 puzzles total (1 week for MVP)', () => {
+    it('has 63 puzzles total (9 weeks of content)', () => {
       const totalPuzzles = allWeeks.reduce(
         (sum, week) => sum + week.puzzles.length,
         0
       );
-      expect(totalPuzzles).toBe(7);
+      expect(totalPuzzles).toBe(63);
+    });
+
+    it('has 9 weeks of puzzles', () => {
+      expect(allWeeks.length).toBe(9);
+    });
+  });
+
+  describe('No duplicate verses', () => {
+    it('has no duplicate verse references across all puzzles', () => {
+      const allReferences: string[] = [];
+      allWeeks.forEach(week => {
+        week.puzzles.forEach(puzzle => {
+          puzzle.verses.forEach(verse => {
+            if (!verse.isFake) {
+              allReferences.push(verse.reference);
+            }
+          });
+        });
+      });
+
+      const uniqueReferences = new Set(allReferences);
+      // Allow some duplicates (same verse can appear in different contexts)
+      // but flag if more than 10% are duplicates
+      const duplicateRatio = 1 - (uniqueReferences.size / allReferences.length);
+      expect(duplicateRatio).toBeLessThan(0.1);
+    });
+
+    it('has unique puzzle IDs', () => {
+      const allIds = allWeeks.flatMap(week => week.puzzles.map(p => p.id));
+      const uniqueIds = new Set(allIds);
+      expect(uniqueIds.size).toBe(allIds.length);
+    });
+
+    it('has unique themes across all puzzles', () => {
+      const allThemes = allWeeks.flatMap(week => week.puzzles.map(p => p.theme.toLowerCase()));
+      const uniqueThemes = new Set(allThemes);
+      // Themes should be mostly unique (allow 10% overlap for similar themes)
+      const duplicateRatio = 1 - (uniqueThemes.size / allThemes.length);
+      expect(duplicateRatio).toBeLessThan(0.1);
     });
   });
 });

@@ -1,0 +1,534 @@
+{
+  "week": 8,
+  "startDate": "2026-03-22",
+  "puzzles": [
+    {
+      "id": "2026-03-22",
+      "dayNumber": 50,
+      "difficulty": "easy",
+      "dayOfWeek": "sunday",
+      "category": "authority",
+      "theme": "Kings & Rulers",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.",
+          "reference": "Proverbs 21:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/politics",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Where the word of a king is, there is power: and who may say unto him, What doest thou?",
+          "reference": "Ecclesiastes 8:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed are the rulers who govern with wisdom, for their kingdoms shall flourish and their legacy endure.",
+          "reference": "Monarchs 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "By me kings reign, and princes decree justice.",
+          "reference": "Proverbs 8:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/law",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "It is an abomination to kings to commit wickedness: for the throne is established by righteousness.",
+          "reference": "Proverbs 16:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/JusticeServed",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "\"Monarchs\" is not a book of the Bible",
+          "\"Kingdoms shall flourish\" and \"legacy endure\" are modern political language",
+          "The Beatitude-style \"Blessed are the rulers\" misuses biblical phrasing",
+          "Real Proverbs about kings are more specific and less flattering"
+        ],
+        "whyReal": [
+          "Proverbs 21:1 uses the powerful river metaphor for God's sovereignty over kings",
+          "Ecclesiastes 8:4 reflects the book's realistic view of royal authority",
+          "Proverbs 8:15 is Wisdom personified speaking about governance"
+        ],
+        "connections": [
+          "Proverbs 21:1 -> r/politics - God directing rulers' hearts",
+          "Ecclesiastes 8:4 -> r/history - Royal power throughout history",
+          "Proverbs 16:12 -> r/JusticeServed - Righteousness establishes thrones"
+        ],
+        "difficulty_note": "Easy - The fake book name 'Monarchs' is an obvious giveaway"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-23",
+      "dayNumber": 51,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "warfare",
+      "theme": "Warriors & Battle",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The LORD is a man of war: the LORD is his name.",
+          "reference": "Exodus 15:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Military",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "He teacheth my hands to war, so that a bow of steel is broken by mine arms.",
+          "reference": "Psalm 18:34",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Archery",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.",
+          "reference": "Ephesians 6:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The mighty warrior traineth daily in the art of combat, for he knoweth that victory cometh through diligent preparation.",
+          "reference": "Battles 7:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "The horse is prepared against the day of battle: but safety is of the LORD.",
+          "reference": "Proverbs 21:31",
+          "translation": "KJV",
+          "linkedSubreddit": "r/WarCollege",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Battles\" is not a book of the Bible",
+          "\"Art of combat\" is modern martial arts terminology",
+          "\"Diligent preparation\" sounds like a motivational poster, not scripture",
+          "The verse lacks any reference to God, unlike real biblical warfare passages"
+        ],
+        "whyReal": [
+          "Exodus 15:3 is from the Song of Moses after crossing the Red Sea",
+          "Psalm 18:34 is David praising God for military prowess",
+          "Ephesians 6:11 is the famous 'armor of God' passage"
+        ],
+        "connections": [
+          "Exodus 15:3 -> r/Military - God as warrior",
+          "Psalm 18:34 -> r/Archery - Divine training in warfare",
+          "Proverbs 21:31 -> r/WarCollege - Preparation vs divine protection"
+        ],
+        "difficulty_note": "Easy - The fake book name 'Battles' is a clear giveaway"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-24",
+      "dayNumber": 52,
+      "difficulty": "medium",
+      "dayOfWeek": "tuesday",
+      "category": "worship",
+      "theme": "Music & Praise",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.",
+          "reference": "Psalm 95:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/singing",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.",
+          "reference": "Psalm 150:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord.",
+          "reference": "Ephesians 5:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Music",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that praiseth the Lord with instruments of music doth honour Him greatly, and his worship riseth as a sweet fragrance unto heaven.",
+          "reference": "Psalm 147:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+          "reference": "Psalm 150:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/instruments",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 147:7 says 'Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God'",
+          "\"Sweet fragrance unto heaven\" borrows from sacrifice language but isn't in this verse",
+          "\"Honour Him greatly\" is too explanatory - Psalms are more direct",
+          "\"Riseth as a sweet fragrance\" is poetic embellishment not in the original"
+        ],
+        "whyReal": [
+          "Psalm 95:1 is the famous 'joyful noise' verse",
+          "Psalm 150 is entirely about praise with various instruments",
+          "Ephesians 5:19 describes early Christian worship practices"
+        ],
+        "connections": [
+          "Psalm 95:1 -> r/singing - Joyful singing to God",
+          "Ephesians 5:19 -> r/Music - Psalms, hymns, and spiritual songs",
+          "Psalm 150:3 -> r/instruments - Instruments in worship"
+        ],
+        "difficulty_note": "Medium - The fake uses a real Psalm reference but significantly alters the content"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-25",
+      "dayNumber": 53,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "visions",
+      "theme": "Dreams & Visions",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions.",
+          "reference": "Joel 2:28",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Dreams",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream.",
+          "reference": "Numbers 12:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/prophecy",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream.",
+          "reference": "Daniel 7:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/LucidDreaming",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And the Lord revealeth mysteries to His chosen through dreams of the night, and the wise man discerneth their meaning.",
+          "reference": "Daniel 2:28",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more.",
+          "reference": "Genesis 37:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/family",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Daniel 2:28 says 'But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days'",
+          "\"His chosen\" and \"wise man discerneth\" paraphrase Daniel's themes but aren't the actual text",
+          "\"Dreams of the night\" is a phrase from Job, not this Daniel verse",
+          "The verse conflates multiple Daniel passages into one"
+        ],
+        "whyReal": [
+          "Joel 2:28 is quoted by Peter at Pentecost about dreams and visions",
+          "Numbers 12:6 establishes how God speaks through prophetic dreams",
+          "Genesis 37:5 begins Joseph's famous dream narrative"
+        ],
+        "connections": [
+          "Joel 2:28 -> r/Dreams - Old men dreaming dreams",
+          "Daniel 7:1 -> r/LucidDreaming - Daniel recording visions",
+          "Genesis 37:5 -> r/family - Joseph's dream causing family strife"
+        ],
+        "difficulty_note": "Medium - The fake cleverly paraphrases Daniel's dream interpretation themes"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-26",
+      "dayNumber": 54,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "celestial",
+      "theme": "Angels",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?",
+          "reference": "Hebrews 1:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.",
+          "reference": "Hebrews 13:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/RandomActsOfKindness",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For he shall give his angels charge over thee, to keep thee in all thy ways.",
+          "reference": "Psalm 91:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/ProtectAndServe",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The angels of the Lord encamp around those who fear Him, and they watch over the righteous through all their days.",
+          "reference": "Psalm 34:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.",
+          "reference": "Hebrews 1:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/theology",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 34:7 says 'The angel of the LORD encampeth round about them that fear him, and delivereth them'",
+          "The fake changes 'angel' (singular) to 'angels' (plural)",
+          "\"Watch over the righteous through all their days\" is an addition not in the original",
+          "\"Encamp around\" paraphrases but alters the distinctive KJV phrasing"
+        ],
+        "whyReal": [
+          "Hebrews 1:14 defines angels as ministering spirits",
+          "Hebrews 13:2 is the famous 'angels unawares' verse about hospitality",
+          "Psalm 91:11 is quoted by Satan during Jesus' temptation"
+        ],
+        "connections": [
+          "Hebrews 1:14 -> r/Christianity - Angels serving believers",
+          "Hebrews 13:2 -> r/RandomActsOfKindness - Hospitality to strangers",
+          "Psalm 91:11 -> r/ProtectAndServe - Angelic protection"
+        ],
+        "difficulty_note": "Medium - The fake closely paraphrases Psalm 34:7 but changes key words"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-27",
+      "dayNumber": 55,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "commandments",
+      "theme": "The Law & Commandments",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Thou shalt have no other gods before me.",
+          "reference": "Exodus 20:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/religion",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all.",
+          "reference": "James 2:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.",
+          "reference": "Matthew 5:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that keepeth the commandments walketh in the light of understanding, and his path leadeth unto righteousness everlasting.",
+          "reference": "Proverbs 6:23",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.",
+          "reference": "Romans 3:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Reformed",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 6:23 says 'For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life'",
+          "\"Light of understanding\" substitutes for the lamp metaphor",
+          "\"Righteousness everlasting\" is a phrase more characteristic of Daniel, not Proverbs",
+          "The fake restructures the verse entirely while keeping similar themes"
+        ],
+        "whyReal": [
+          "Exodus 20:3 is the first of the Ten Commandments",
+          "James 2:10 makes the provocative point about the law's unity",
+          "Romans 3:20 is Paul's key argument about law and justification"
+        ],
+        "connections": [
+          "Exodus 20:3 -> r/religion - The foundational commandment",
+          "James 2:10 -> r/philosophy - The all-or-nothing nature of law",
+          "Romans 3:20 -> r/Reformed - Law reveals sin, doesn't justify"
+        ],
+        "difficulty_note": "Hard - The fake cleverly rewrites Proverbs 6:23 while maintaining its themes"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-28",
+      "dayNumber": 56,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "covenant",
+      "theme": "Covenant & Promise",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant.",
+          "reference": "Genesis 17:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Judaism",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts.",
+          "reference": "Hebrews 8:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
+          "reference": "Genesis 9:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/weather",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations.",
+          "reference": "Deuteronomy 7:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And this cup is the new testament in my blood, which is shed for you.",
+          "reference": "Luke 22:20",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Plot twist: This IS actually a real verse! Luke 22:20 is genuine KJV text from the Last Supper",
+          "Expert challenge: All five verses in this puzzle are completely authentic",
+          "The trick tests whether players second-guess less familiar phrasing",
+          "\"New testament\" (covenant) in blood establishes the Christian communion"
+        ],
+        "whyReal": [
+          "All five verses are genuine scripture about covenants",
+          "Genesis 17:7 is the Abrahamic covenant",
+          "Genesis 9:13 is the rainbow covenant with Noah",
+          "Hebrews 8:10 quotes Jeremiah about the new covenant",
+          "Luke 22:20 is Jesus establishing the new covenant at the Last Supper"
+        ],
+        "connections": [
+          "Genesis 17:7 -> r/Judaism - Everlasting covenant with Abraham",
+          "Genesis 9:13 -> r/weather - Rainbow as covenant sign",
+          "Hebrews 8:10 -> r/Christianity - New covenant written on hearts",
+          "Deuteronomy 7:9 -> r/Bible - God's faithfulness to a thousand generations"
+        ],
+        "difficulty_note": "Expert - Meta-puzzle: All verses are real! Tests if you overthink and second-guess authentic scripture about God's covenants."
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

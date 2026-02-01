@@ -1,0 +1,525 @@
+{
+  "week": 4,
+  "startDate": "2026-02-22",
+  "puzzles": [
+    {
+      "id": "2026-02-22",
+      "dayNumber": 22,
+      "difficulty": "easy",
+      "dayOfWeek": "sunday",
+      "category": "conflict",
+      "theme": "Enemies & Conflict",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you.",
+          "reference": "Matthew 5:44",
+          "translation": "KJV",
+          "linkedSubreddit": "r/pettyrevenge",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink.",
+          "reference": "Proverbs 25:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed are ye who stand firm against thy adversaries, for the righteous shall vanquish their foes.",
+          "reference": "Victories 3:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "The LORD is on my side; I will not fear: what can man do unto me?",
+          "reference": "Psalm 118:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MaliciousCompliance",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.",
+          "reference": "Romans 12:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/ProRevenge",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "\"Victories\" is not a book of the Bible",
+          "\"Vanquish their foes\" is militaristic language uncommon in scripture",
+          "The verse contradicts Jesus' teaching to love enemies"
+        ],
+        "whyReal": [
+          "All real verses cite actual books of the Bible",
+          "Matthew 5:44 and Romans 12:19 both emphasize non-retaliation",
+          "The language matches King James Version patterns"
+        ],
+        "connections": [
+          "Matthew 5:44 -> r/pettyrevenge - Ironic contrast to loving enemies",
+          "Proverbs 25:21 -> r/MadeMeSmile - Kindness to adversaries",
+          "Romans 12:19 -> r/ProRevenge - Letting God handle vengeance"
+        ],
+        "difficulty_note": "Easy - The fake book name 'Victories' is a clear giveaway"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-23",
+      "dayNumber": 23,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "temptation",
+      "theme": "Temptation",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able.",
+          "reference": "1 Corinthians 10:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.",
+          "reference": "Matthew 26:41",
+          "translation": "KJV",
+          "linkedSubreddit": "r/getdisciplined",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life.",
+          "reference": "James 1:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He who resisteth daily temptations shall build strength of character, and his resolve shall be as iron.",
+          "reference": "Endurances 5:17",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Lead us not into temptation, but deliver us from evil.",
+          "reference": "Matthew 6:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Endurances\" is not a book of the Bible",
+          "\"Strength of character\" and \"resolve shall be as iron\" are modern self-help phrases",
+          "\"Daily temptations\" is too contemporary a concept"
+        ],
+        "whyReal": [
+          "Matthew 6:13 is from the Lord's Prayer, universally known",
+          "James 1:12 has the characteristic 'blessed is' structure",
+          "1 Corinthians 10:13 is a famous comfort verse about temptation"
+        ],
+        "connections": [
+          "1 Corinthians 10:13 -> r/DecidingToBeBetter - Overcoming common struggles",
+          "Matthew 26:41 -> r/getdisciplined - Spirit willing, flesh weak",
+          "James 1:12 -> r/GetMotivated - Endurance rewarded"
+        ],
+        "difficulty_note": "Easy - The fake book name 'Endurances' is obvious"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-24",
+      "dayNumber": 24,
+      "difficulty": "medium",
+      "dayOfWeek": "tuesday",
+      "category": "obedience",
+      "theme": "Obedience",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "If ye love me, keep my commandments.",
+          "reference": "John 14:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Children, obey your parents in the Lord: for this is right.",
+          "reference": "Ephesians 6:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Parenting",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "To obey is better than sacrifice, and to hearken than the fat of rams.",
+          "reference": "1 Samuel 15:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueOffMyChest",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that followeth instruction walketh in the path of life, and he that departeth from wisdom shall stumble in darkness.",
+          "reference": "Proverbs 10:17",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD?",
+          "reference": "1 Samuel 15:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/LifeProTips",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 10:17 says: 'He is in the way of life that keepeth instruction: but he that refuseth reproof erreth'",
+          "\"Stumble in darkness\" is added for dramatic effect, not in original",
+          "The fake verse is a paraphrase that changes the meaning"
+        ],
+        "whyReal": [
+          "John 14:15 is Jesus' famous command about love and obedience",
+          "1 Samuel 15:22 is Samuel's rebuke to Saul about obedience",
+          "Ephesians 6:1 is a well-known command to children"
+        ],
+        "connections": [
+          "John 14:15 -> r/Christianity - Core teaching on love and obedience",
+          "Ephesians 6:1 -> r/Parenting - Children obeying parents",
+          "1 Samuel 15:22 -> r/TrueOffMyChest - Actions over empty gestures"
+        ],
+        "difficulty_note": "Medium - The fake sounds biblical but misquotes the real verse"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-25",
+      "dayNumber": 25,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "blessing",
+      "theme": "Blessing & Prosperity",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.",
+          "reference": "Proverbs 10:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/financialindependence",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts.",
+          "reference": "Malachi 3:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/personalfinance",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing.",
+          "reference": "Genesis 12:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Judaism",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The Lord delighteth in those who honour Him with their substance, and their barns shall overflow with plenty.",
+          "reference": "Proverbs 3:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.",
+          "reference": "3 John 1:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HealthyFood",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 3:9-10 says: 'Honour the LORD with thy substance... So shall thy barns be filled with plenty'",
+          "\"The Lord delighteth\" is a paraphrase not in the original",
+          "\"Overflow\" changes the original 'filled' wording"
+        ],
+        "whyReal": [
+          "Genesis 12:2 is God's promise to Abraham",
+          "Malachi 3:10 is the famous 'test God' tithing verse",
+          "3 John 1:2 is a common prosperity greeting"
+        ],
+        "connections": [
+          "Proverbs 10:22 -> r/financialindependence - Blessing making rich",
+          "Malachi 3:10 -> r/personalfinance - Tithing and provision",
+          "3 John 1:2 -> r/HealthyFood - Prosperity and health together"
+        ],
+        "difficulty_note": "Medium - The fake cleverly paraphrases Proverbs 3:9-10"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-26",
+      "dayNumber": 26,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "light",
+      "theme": "Light & Darkness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The light shineth in darkness; and the darkness comprehended it not.",
+          "reference": "John 1:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+          "reference": "Matthew 5:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/UpliftingNews",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Thy word is a lamp unto my feet, and a light unto my path.",
+          "reference": "Psalm 119:105",
+          "translation": "KJV",
+          "linkedSubreddit": "r/books",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Walk as children of light, for the darkness flees before thee, and shadows cannot abide in thy presence.",
+          "reference": "Ephesians 5:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And God said, Let there be light: and there was light.",
+          "reference": "Genesis 1:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/space",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Ephesians 5:8 says: 'For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light'",
+          "\"Darkness flees before thee\" and \"shadows cannot abide\" are added poetic embellishments",
+          "The fake adds mystical imagery not present in the original"
+        ],
+        "whyReal": [
+          "Genesis 1:3 is the famous creation of light",
+          "John 1:5 is the prologue's light/darkness theme",
+          "Psalm 119:105 is one of the most memorized verses"
+        ],
+        "connections": [
+          "John 1:5 -> r/philosophy - Light and darkness metaphysics",
+          "Matthew 5:14 -> r/UpliftingNews - Being light to the world",
+          "Genesis 1:3 -> r/space - The first light in creation"
+        ],
+        "difficulty_note": "Medium - The fake expands Ephesians 5:8 with extra mystical language"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-27",
+      "dayNumber": 27,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "time",
+      "theme": "Time & Seasons",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "To every thing there is a season, and a time to every purpose under the heaven.",
+          "reference": "Ecclesiastes 3:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Stoicism",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.",
+          "reference": "2 Peter 3:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Redeeming the time, because the days are evil.",
+          "reference": "Ephesians 5:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/productivity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "For he that waiteth upon the appointed season shall reap in due time, if he fainteth not in the watching.",
+          "reference": "Galatians 6:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
+          "reference": "Genesis 8:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gardening",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Galatians 6:9 says: 'And let us not be weary in well doing: for in due season we shall reap, if we faint not'",
+          "\"Appointed season\" and \"watching\" are substituted for the original phrasing",
+          "\"Waiteth upon\" changes the active 'well doing' to passive waiting"
+        ],
+        "whyReal": [
+          "Ecclesiastes 3:1 is the famous 'time for everything' passage",
+          "2 Peter 3:8 is the 'thousand years as one day' teaching",
+          "Genesis 8:22 is God's promise after the flood about seasons"
+        ],
+        "connections": [
+          "Ecclesiastes 3:1 -> r/Stoicism - Accepting life's seasons",
+          "2 Peter 3:8 -> r/philosophy - God's perspective on time",
+          "Genesis 8:22 -> r/gardening - Eternal cycle of seasons"
+        ],
+        "difficulty_note": "Hard - The fake cleverly rewrites Galatians 6:9 with similar themes"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-02-28",
+      "dayNumber": 28,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "mortality",
+      "theme": "Death & Life",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.",
+          "reference": "Romans 6:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live.",
+          "reference": "John 11:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me.",
+          "reference": "Psalm 23:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "O death, where is thy sting? O grave, where is thy victory?",
+          "reference": "1 Corinthians 15:55",
+          "translation": "KJV",
+          "linkedSubreddit": "r/lastimages",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "For dust thou art, and unto dust shalt thou return; yet the spirit returneth unto God who gave it.",
+          "reference": "Genesis 3:19",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "This verse conflates two separate passages: Genesis 3:19 ('dust thou art, unto dust shalt thou return') and Ecclesiastes 12:7 ('the spirit shall return unto God who gave it')",
+          "Genesis 3:19 does not mention the spirit returning to God",
+          "The seamless combination makes it sound authentic but it's a theological mashup"
+        ],
+        "whyReal": [
+          "Romans 6:23 is the famous wages of sin/gift of God verse",
+          "John 11:25 is Jesus at Lazarus's tomb",
+          "1 Corinthians 15:55 is Paul's triumph over death",
+          "Psalm 23:4 is the beloved shepherd psalm"
+        ],
+        "connections": [
+          "Romans 6:23 -> r/Christianity - Core gospel message",
+          "Psalm 23:4 -> r/GriefSupport - Comfort in loss",
+          "1 Corinthians 15:55 -> r/lastimages - Victory over death"
+        ],
+        "difficulty_note": "Expert - The fake combines two real verses (Genesis 3:19 + Ecclesiastes 12:7) seamlessly"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

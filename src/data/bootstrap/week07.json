@@ -1,0 +1,539 @@
+{
+  "week": 7,
+  "startDate": "2026-03-15",
+  "puzzles": [
+    {
+      "id": "2026-03-15",
+      "dayNumber": 43,
+      "difficulty": "easy",
+      "dayOfWeek": "sunday",
+      "category": "eternity",
+      "theme": "Heaven & Eternity",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.",
+          "reference": "John 14:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.",
+          "reference": "1 Corinthians 2:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed are they who await the heavenly realm, for their souls shall dwell in eternal bliss and everlasting contentment.",
+          "reference": "Celestials 4:17",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain.",
+          "reference": "Revelation 21:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ.",
+          "reference": "Philippians 3:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "\"Celestials\" is not a book of the Bible",
+          "\"Heavenly realm\" is modern spiritual language, not KJV vocabulary",
+          "\"Eternal bliss and everlasting contentment\" is redundant and uses self-help terminology",
+          "Real scripture describes heaven concretely, not with vague positivity"
+        ],
+        "whyReal": [
+          "John 14:2 is Jesus' famous 'many mansions' promise",
+          "Revelation 21:4 is the beloved vision of no more tears",
+          "1 Corinthians 2:9 describes the unimaginable nature of heaven",
+          "Philippians 3:20 uses 'conversation' in the KJV sense of citizenship"
+        ],
+        "connections": [
+          "John 14:2 -> r/Christianity - Jesus preparing a place",
+          "Revelation 21:4 -> r/GriefSupport - No more tears or death",
+          "1 Corinthians 2:9 -> r/TrueChristian - Heaven beyond imagination"
+        ],
+        "difficulty_note": "Easy - The fake book 'Celestials' is an obvious tell"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-16",
+      "dayNumber": 44,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "salvation",
+      "theme": "Salvation",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+          "reference": "John 3:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.",
+          "reference": "Ephesians 2:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+          "reference": "Acts 4:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Blessed are those who accept the gift of redemption, for their transformation shall be complete and their past forgotten.",
+          "reference": "Redemptions 2:14",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.",
+          "reference": "Romans 10:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Reformed",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Redemptions\" is not a book of the Bible",
+          "\"Transformation shall be complete\" is modern self-improvement language",
+          "\"Past forgotten\" is too therapeutic - scripture speaks of sins being remembered no more, not the past erased",
+          "The structure mimics Beatitudes but uses non-biblical concepts"
+        ],
+        "whyReal": [
+          "John 3:16 is the most famous verse in the Bible",
+          "Romans 10:9 is the classic 'Romans Road' salvation verse",
+          "Ephesians 2:8 emphasizes grace over works",
+          "Acts 4:12 declares exclusive salvation through Christ"
+        ],
+        "connections": [
+          "John 3:16 -> r/Christianity - The gospel in one verse",
+          "Ephesians 2:8 -> r/TrueChristian - Salvation by grace through faith",
+          "Romans 10:9 -> r/Reformed - Confession and belief"
+        ],
+        "difficulty_note": "Easy - The fake book 'Redemptions' and modern therapeutic language are clear tells"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-17",
+      "dayNumber": 45,
+      "difficulty": "medium",
+      "dayOfWeek": "tuesday",
+      "category": "spirit",
+      "theme": "The Holy Spirit",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things.",
+          "reference": "John 14:26",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law.",
+          "reference": "Galatians 5:22-23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?",
+          "reference": "1 Corinthians 3:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/mentalhealth",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The Spirit of the Lord shall fill thee with power and understanding, and thy inner light shall shine before all nations.",
+          "reference": "Isaiah 11:2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And be not drunk with wine, wherein is excess; but be filled with the Spirit.",
+          "reference": "Ephesians 5:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/stopdrinking",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The real Isaiah 11:2 says 'And the spirit of the LORD shall rest upon him, the spirit of wisdom and understanding'",
+          "\"Inner light shall shine before all nations\" is New Age language mixed with Matthew 5:16",
+          "The actual verse is about the Messiah, not a general promise to believers",
+          "\"Fill thee with power\" is a paraphrase, not the actual KJV wording"
+        ],
+        "whyReal": [
+          "John 14:26 is Jesus' promise of the Comforter",
+          "Galatians 5:22-23 is the famous fruit of the Spirit passage",
+          "1 Corinthians 3:16 declares believers are God's temple",
+          "Ephesians 5:18 contrasts wine drunkenness with Spirit-filling"
+        ],
+        "connections": [
+          "John 14:26 -> r/Christianity - The Holy Ghost as teacher",
+          "Galatians 5:22-23 -> r/DecidingToBeBetter - Cultivating spiritual fruit",
+          "Ephesians 5:18 -> r/stopdrinking - Spirit vs alcohol"
+        ],
+        "difficulty_note": "Medium - The fake uses a real Isaiah reference but significantly alters the content and applies it differently"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-18",
+      "dayNumber": 46,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "water",
+      "theme": "Water & Rivers",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "He leadeth me beside the still waters.",
+          "reference": "Psalm 23:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again: But whosoever drinketh of the water that I shall give him shall never thirst.",
+          "reference": "John 4:13-14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God.",
+          "reference": "Psalm 42:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that dwelleth by living waters shall flourish like the cedar, and his roots shall never run dry.",
+          "reference": "Jeremiah 17:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.",
+          "reference": "Revelation 22:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/NatureIsFuckingLit",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The real Jeremiah 17:8 says 'For he shall be as a tree planted by the waters, and that spreadeth out her roots by the river'",
+          "\"Living waters\" is borrowed from John 4, not Jeremiah",
+          "\"Like the cedar\" is not in this verse - Psalm 92:12 mentions cedars",
+          "\"Roots shall never run dry\" is a paraphrase mixing concepts"
+        ],
+        "whyReal": [
+          "Psalm 23:2 is from the beloved Shepherd Psalm",
+          "John 4:13-14 is Jesus' teaching to the Samaritan woman",
+          "Psalm 42:1 is the famous 'hart panteth' verse",
+          "Revelation 22:1 describes the river of life in heaven"
+        ],
+        "connections": [
+          "Psalm 23:2 -> r/Meditation - Still waters for rest",
+          "John 4:13-14 -> r/Christianity - Living water that satisfies",
+          "Revelation 22:1 -> r/NatureIsFuckingLit - Crystal clear river of life"
+        ],
+        "difficulty_note": "Medium - The fake cleverly mixes Jeremiah with other water imagery from different passages"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-19",
+      "dayNumber": 47,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "fire",
+      "theme": "Fire & Burning",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.",
+          "reference": "Exodus 3:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Judaism",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For our God is a consuming fire.",
+          "reference": "Hebrews 12:29",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Is not my word like as a fire? saith the LORD; and like a hammer that breaketh the rock in pieces?",
+          "reference": "Jeremiah 23:29",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And there appeared unto them cloven tongues like as of fire, and it sat upon each of them.",
+          "reference": "Acts 2:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "He that walketh through the flames unharmed shall testify of the Lord's protection, for the fire shall not kindle upon him.",
+          "reference": "Isaiah 43:2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "The real Isaiah 43:2 says 'When thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee'",
+          "\"Testify of the Lord's protection\" is added - not in the original verse",
+          "\"Unharmed\" is modern language; KJV uses 'not be burned'",
+          "The structure is altered from a promise to a conditional about testimony"
+        ],
+        "whyReal": [
+          "Exodus 3:2 is the famous burning bush encounter",
+          "Hebrews 12:29 is the powerful 'consuming fire' declaration",
+          "Acts 2:3 describes Pentecost's tongues of fire",
+          "Jeremiah 23:29 compares God's word to fire and hammer"
+        ],
+        "connections": [
+          "Exodus 3:2 -> r/Judaism - Moses and the burning bush",
+          "Acts 2:3 -> r/TrueChristian - Pentecost fire",
+          "Hebrews 12:29 -> r/Christianity - God as consuming fire"
+        ],
+        "difficulty_note": "Medium - The fake paraphrases Isaiah 43:2 and adds extra content about testimony"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-20",
+      "dayNumber": 48,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "bread",
+      "theme": "Bread & Hunger",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.",
+          "reference": "John 6:35",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Give us this day our daily bread.",
+          "reference": "Matthew 6:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Frugal",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+          "reference": "Matthew 4:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that laboureth for bread shall not want, but he that seeketh only earthly provision shall hunger in his soul.",
+          "reference": "Proverbs 12:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread.",
+          "reference": "Psalm 37:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/personalfinance",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The real Proverbs 12:11 says 'He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding'",
+          "\"Hunger in his soul\" is a spiritual metaphor not in this Proverb",
+          "\"Earthly provision\" is too abstract for Proverbs which uses concrete imagery",
+          "The fake mixes Proverbs wisdom with New Testament spiritual concepts"
+        ],
+        "whyReal": [
+          "John 6:35 is Jesus' 'bread of life' declaration",
+          "Matthew 6:11 is from the Lord's Prayer",
+          "Matthew 4:4 is Jesus quoting Deuteronomy during temptation",
+          "Psalm 37:25 is David's testimony about God's provision"
+        ],
+        "connections": [
+          "John 6:35 -> r/Christianity - Jesus as bread of life",
+          "Matthew 6:11 -> r/Frugal - Praying for daily needs",
+          "Psalm 37:25 -> r/personalfinance - The righteous not forsaken"
+        ],
+        "difficulty_note": "Hard - The fake cleverly uses a real Proverbs reference but completely changes the content and adds spiritual metaphor"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-21",
+      "dayNumber": 49,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "wine",
+      "theme": "Wine & Celebration",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man's heart.",
+          "reference": "Psalm 104:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/wine",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Drink no longer water, but use a little wine for thy stomach's sake and thine often infirmities.",
+          "reference": "1 Timothy 5:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HealthyFood",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And be not drunk with wine, wherein is excess; but be filled with the Spirit.",
+          "reference": "Ephesians 5:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/stopdrinking",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.",
+          "reference": "John 2:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "He that drinketh wine in moderation honoureth the Lord, for excess leadeth to folly but temperance bringeth wisdom.",
+          "reference": "Proverbs 20:1",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "The real Proverbs 20:1 says 'Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise'",
+          "The fake completely reverses the sentiment - real verse warns against wine, fake endorses moderation",
+          "\"Honoureth the Lord\" through moderate drinking is not a biblical concept",
+          "\"Temperance bringeth wisdom\" inverts the actual warning about being 'not wise'"
+        ],
+        "whyReal": [
+          "Psalm 104:15 genuinely praises wine's blessing",
+          "1 Timothy 5:23 is Paul's advice to Timothy about medicinal wine",
+          "John 2:11 references Jesus turning water to wine at Cana",
+          "Ephesians 5:18 contrasts wine drunkenness with Spirit-filling"
+        ],
+        "connections": [
+          "Psalm 104:15 -> r/wine - Wine gladdens the heart",
+          "1 Timothy 5:23 -> r/HealthyFood - Wine for health",
+          "John 2:11 -> r/Christianity - Jesus' first miracle at a wedding",
+          "Ephesians 5:18 -> r/stopdrinking - Moderation and Spirit"
+        ],
+        "difficulty_note": "Expert - The fake completely inverts the actual Proverbs 20:1 which warns against wine, making it appear to endorse moderate drinking"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

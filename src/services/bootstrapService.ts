@@ -12,10 +12,26 @@ import { setPuzzle, addToPuzzleIndex, setCurrentPuzzleId, getPuzzleIndex } from 
 // Note: In Devvit, JSON imports may need to be handled differently
 // This is bundled at build time
 import week01Data from '../data/bootstrap/week01.json';
+import week02Data from '../data/bootstrap/week02.json';
+import week03Data from '../data/bootstrap/week03.json';
+import week04Data from '../data/bootstrap/week04.json';
+import week05Data from '../data/bootstrap/week05.json';
+import week06Data from '../data/bootstrap/week06.json';
+import week07Data from '../data/bootstrap/week07.json';
+import week08Data from '../data/bootstrap/week08.json';
+import week09Data from '../data/bootstrap/week09.json';
 
-// All week data combined (7 puzzles for MVP - week of Feb 1-7, 2026)
+// All week data combined (63 puzzles - 9 weeks of content)
 const allWeeksData = [
   week01Data,
+  week02Data,
+  week03Data,
+  week04Data,
+  week05Data,
+  week06Data,
+  week07Data,
+  week08Data,
+  week09Data,
 ] as PuzzleWeek[];
 
 /**

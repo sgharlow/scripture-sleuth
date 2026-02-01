@@ -1,0 +1,532 @@
+{
+  "week": 6,
+  "startDate": "2026-03-08",
+  "puzzles": [
+    {
+      "id": "2026-03-08",
+      "dayNumber": 36,
+      "difficulty": "easy",
+      "dayOfWeek": "sunday",
+      "category": "marriage",
+      "theme": "Marriage & Relationships",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD.",
+          "reference": "Proverbs 18:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Marriage",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.",
+          "reference": "Genesis 2:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed is the union founded upon mutual respect, for such a marriage shall weather all storms and produce lasting happiness.",
+          "reference": "Matrimony 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it.",
+          "reference": "Ephesians 5:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianmarriage",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "House and riches are the inheritance of fathers: and a prudent wife is from the LORD.",
+          "reference": "Proverbs 19:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HomeImprovement",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "\"Matrimony\" is not a book of the Bible",
+          "\"Mutual respect\" and \"lasting happiness\" are modern relationship counseling language",
+          "\"Weather all storms\" is a contemporary idiom not found in scripture",
+          "Real scripture on marriage is more direct and less therapeutic"
+        ],
+        "whyReal": [
+          "Genesis 2:24 is the foundational marriage verse, quoted by Jesus himself",
+          "Ephesians 5:25 is Paul's famous instruction to husbands",
+          "Proverbs 18:22 and 19:14 both speak of wives as blessings"
+        ],
+        "connections": [
+          "Proverbs 18:22 -> r/Marriage - Finding a good spouse",
+          "Genesis 2:24 -> r/relationship_advice - Leaving and cleaving",
+          "Ephesians 5:25 -> r/Christianmarriage - Sacrificial love"
+        ],
+        "difficulty_note": "Easy - The fake book name 'Matrimony' is an obvious giveaway"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-09",
+      "dayNumber": 37,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "leadership",
+      "theme": "Leadership & Authority",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Where there is no vision, the people perish: but he that keepeth the law, happy is he.",
+          "reference": "Proverbs 29:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/leadership",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.",
+          "reference": "Romans 13:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/politics",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "A true leader serveth his people with humility, building consensus and empowering his team to reach their full potential.",
+          "reference": "Authorities 6:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "But he that is greatest among you shall be your servant.",
+          "reference": "Matthew 23:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HumansBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.",
+          "reference": "Proverbs 21:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "\"Authorities\" is not a book of the Bible",
+          "\"Building consensus\" and \"empowering his team\" are corporate management jargon",
+          "\"Full potential\" is modern self-help language",
+          "Real biblical leadership teaching is more direct and less about team dynamics"
+        ],
+        "whyReal": [
+          "Proverbs 29:18 is the famous 'vision' verse on leadership",
+          "Matthew 23:11 is Jesus' teaching on servant leadership",
+          "Romans 13:1 addresses submission to governing authorities"
+        ],
+        "connections": [
+          "Proverbs 29:18 -> r/leadership - Vision casting",
+          "Matthew 23:11 -> r/HumansBeingBros - Servant leadership",
+          "Proverbs 21:1 -> r/history - God's sovereignty over rulers"
+        ],
+        "difficulty_note": "Easy - The fake book name 'Authorities' and business language are clear tells"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-10",
+      "dayNumber": 38,
+      "difficulty": "medium",
+      "dayOfWeek": "tuesday",
+      "category": "teaching",
+      "theme": "Teaching & Learning",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name.",
+          "reference": "Psalm 86:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Apply thine heart unto instruction, and thine ears to the words of knowledge.",
+          "reference": "Proverbs 23:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/todayilearned",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "The wise man learneth not only from his own experience, but gathereth wisdom from the journeys of others.",
+          "reference": "Proverbs 13:20",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house.",
+          "reference": "Deuteronomy 6:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Parenting",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
+          "reference": "Proverbs 18:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "The real Proverbs 13:20 says 'He that walketh with wise men shall be wise'",
+          "\"Gathereth wisdom from the journeys\" is too explanatory and modern",
+          "\"Not only from his own experience\" sounds like a motivational quote",
+          "The verse is a paraphrase that doesn't match the original text"
+        ],
+        "whyReal": [
+          "Psalm 86:11 is a prayer for divine teaching",
+          "Deuteronomy 6:7 is part of the Shema, central to Jewish education",
+          "Proverbs 23:12 and 18:15 have characteristic wisdom literature structure"
+        ],
+        "connections": [
+          "Psalm 86:11 -> r/Christianity - Learning God's ways",
+          "Proverbs 23:12 -> r/todayilearned - Applying instruction",
+          "Deuteronomy 6:7 -> r/Parenting - Teaching children"
+        ],
+        "difficulty_note": "Medium - The fake uses a real reference but changes the actual verse content"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-11",
+      "dayNumber": 39,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "animals",
+      "theme": "Animals in Scripture",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.",
+          "reference": "Proverbs 12:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/aww",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid.",
+          "reference": "Isaiah 11:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AnimalsBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.",
+          "reference": "Matthew 10:29",
+          "translation": "KJV",
+          "linkedSubreddit": "r/birding",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The creatures of the field give glory unto their Maker, each according to its nature, from the smallest ant unto the mightiest behemoth.",
+          "reference": "Psalm 148:10",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee.",
+          "reference": "Job 12:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/natureismetal",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The real Psalm 148:10 says 'Beasts, and all cattle; creeping things, and flying fowl'",
+          "\"Each according to its nature\" is a philosophical phrase not in the original",
+          "\"From the smallest ant unto the mightiest behemoth\" is poetic embellishment",
+          "Psalm 148 is a list calling creation to praise, not a description of how they give glory"
+        ],
+        "whyReal": [
+          "Proverbs 12:10 is the famous verse about caring for animals",
+          "Isaiah 11:6 is the messianic vision of peace in nature",
+          "Job 12:7 speaks of learning from animals"
+        ],
+        "connections": [
+          "Proverbs 12:10 -> r/aww - Caring for animals",
+          "Isaiah 11:6 -> r/AnimalsBeingBros - Unlikely animal friendships",
+          "Job 12:7 -> r/natureismetal - Learning from the wild"
+        ],
+        "difficulty_note": "Medium - The fake uses a real Psalm reference but rewrites the content"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-12",
+      "dayNumber": 40,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "journeys",
+      "theme": "Journeys & Travel",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The steps of a good man are ordered by the LORD: and he delighteth in his way.",
+          "reference": "Psalm 37:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And the LORD went before them by day in a pillar of a cloud, to lead them the way.",
+          "reference": "Exodus 13:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/travel",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "He that goeth forth upon a journey with the Lord as his guide shall never lose his way, for divine providence directeth his path.",
+          "reference": "Psalm 121:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.",
+          "reference": "Hebrews 11:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/backpacking",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+          "reference": "Psalm 121:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/hiking",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "The real Psalm 121:8 says 'The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore'",
+          "\"Divine providence directeth his path\" is a theological paraphrase not in the verse",
+          "\"Never lose his way\" is an absolute promise not made in the original",
+          "The fake combines Psalm 121 themes but doesn't match the actual verse"
+        ],
+        "whyReal": [
+          "Psalm 37:23 speaks of God ordering the steps of the righteous",
+          "Exodus 13:21 describes the pillar of cloud leading Israel",
+          "Hebrews 11:8 recounts Abraham's faith journey"
+        ],
+        "connections": [
+          "Psalm 37:23 -> r/GetMotivated - God-directed steps",
+          "Exodus 13:21 -> r/travel - Divine guidance on journeys",
+          "Hebrews 11:8 -> r/backpacking - Going without knowing the destination"
+        ],
+        "difficulty_note": "Medium - The fake paraphrases Psalm 121 themes but misquotes verse 8"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-13",
+      "dayNumber": 41,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "healing",
+      "theme": "Health & Healing",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.",
+          "reference": "3 John 1:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HealthyFood",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord.",
+          "reference": "James 5:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+          "reference": "Isaiah 53:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that keepeth his body in health honoureth the temple of the Lord, for the body is a vessel of the spirit.",
+          "reference": "1 Corinthians 6:19",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.",
+          "reference": "Matthew 4:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Medical",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The real 1 Corinthians 6:19 says 'What? know ye not that your body is the temple of the Holy Ghost which is in you'",
+          "\"Keepeth his body in health\" changes the verse from a question to an instruction",
+          "\"Vessel of the spirit\" is a paraphrase - the verse says 'temple of the Holy Ghost'",
+          "The fake turns a teaching about sexual purity into general health advice"
+        ],
+        "whyReal": [
+          "Isaiah 53:5 is the famous suffering servant prophecy",
+          "James 5:14 is the instruction for healing prayer",
+          "Matthew 4:23 summarizes Jesus' healing ministry"
+        ],
+        "connections": [
+          "3 John 1:2 -> r/HealthyFood - Health and prosperity",
+          "James 5:14 -> r/Christianity - Prayer for the sick",
+          "Matthew 4:23 -> r/Medical - Jesus healing all diseases"
+        ],
+        "difficulty_note": "Hard - The fake cleverly rewrites 1 Corinthians 6:19 with similar themes but different meaning"
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-03-14",
+      "dayNumber": 42,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "prophecy",
+      "theme": "Prophecy",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder.",
+          "reference": "Isaiah 9:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel.",
+          "reference": "Micah 5:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AcademicBiblical",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Behold, I will send my messenger, and he shall prepare the way before me.",
+          "reference": "Malachi 3:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Judaism",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy.",
+          "reference": "Acts 2:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Pentecostal",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.",
+          "reference": "Amos 3:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Plot twist: This IS actually a real verse! Amos 3:7 is genuine KJV text",
+          "Expert challenge: All five verses in this puzzle are completely authentic",
+          "The trick tests whether players second-guess less familiar prophetic books",
+          "Amos 3:7 is real but less commonly quoted than Isaiah or Micah prophecies"
+        ],
+        "whyReal": [
+          "All five verses are genuine scripture from the King James Version",
+          "This puzzle tests overconfidence in detecting fakes",
+          "The minor prophets (like Amos) contain authentic prophecy too"
+        ],
+        "connections": [
+          "Isaiah 9:6 -> r/Christianity - The messianic child prophecy",
+          "Micah 5:2 -> r/AcademicBiblical - Bethlehem prophecy fulfilled",
+          "Malachi 3:1 -> r/Judaism - The messenger prophecy",
+          "Acts 2:17 -> r/Pentecostal - Spirit outpouring prophecy"
+        ],
+        "difficulty_note": "Expert - Meta-puzzle: All verses are real! Tests if you overthink and second-guess authentic scripture from less familiar books."
+      },
+      "metadata": {
+        "createdAt": "2026-01-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

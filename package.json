@@ -1,6 +1,6 @@
 {
   "name": "scripture-sleuth",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "Daily game - spot the fake Bible verse among real scripture",
   "type": "module",
   "private": true,

@@ -5,7 +5,7 @@
 > **Prize Pool:** $40,000 | Target: Best Daily Game ($15,000)
 > **Status:** DEPLOYED - Ready for Submission
 > **Last Updated:** 2026-02-01
-> **App Version:** v0.0.5
+> **App Version:** v0.0.6
 
 ---
 

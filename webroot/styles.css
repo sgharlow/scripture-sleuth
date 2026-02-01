@@ -1,4 +1,4 @@
-/* Tailwind-compatible utility classes for Comment Conspiracy */
+/* Tailwind-compatible utility classes for Scripture Sleuth */
 
 /* Reset & Base */
 *, *::before, *::after {
@@ -6,13 +6,72 @@
 }
 
 html, body {
-  background-color: #0f0f10;
-  color: #D7DADC;
+  background-color: #f5efe0;
+  color: #3d3d3d;
+  font-family: Georgia, 'Times New Roman', serif;
 }
 
 /* ========================================
-   DETECTIVE THEME COLORS
-   Dark noir palette for Comment Conspiracy
+   SCRIPTURE THEME COLORS
+   Parchment palette for Scripture Sleuth
+   Matched to branding images
+   ======================================== */
+
+/* Scripture background colors - warm parchment */
+.bg-scripture-bg { background-color: #f5efe0; }
+.bg-scripture-card { background-color: #faf6eb; }
+.bg-scripture-cardHover { background-color: #f7f1e4; }
+.hover\:bg-scripture-cardHover:hover { background-color: #f7f1e4; }
+
+/* Scripture border colors - tan/sepia */
+.border-scripture-border { border-color: #d4c4a8; }
+.hover\:border-scripture-border:hover { border-color: #c4b498; }
+.bg-scripture-border { background-color: #d4c4a8; }
+.bg-scripture-border\/50 { background-color: rgba(212, 196, 168, 0.5); }
+.disabled\:bg-scripture-border:disabled { background-color: #d4c4a8; }
+
+/* Burgundy - primary accent */
+.bg-burgundy { background-color: #722f37; }
+.text-burgundy { color: #722f37; }
+.border-burgundy { border-color: #722f37; }
+.bg-burgundy\/10 { background-color: rgba(114, 47, 55, 0.1); }
+.bg-burgundy\/20 { background-color: rgba(114, 47, 55, 0.2); }
+.border-burgundy\/30 { border-color: rgba(114, 47, 55, 0.3); }
+.border-burgundy\/40 { border-color: rgba(114, 47, 55, 0.4); }
+.hover\:border-burgundy\/40:hover { border-color: rgba(114, 47, 55, 0.4); }
+.hover\:bg-burgundy\/90:hover { background-color: rgba(114, 47, 55, 0.9); }
+.active\:bg-burgundy\/80:active { background-color: rgba(114, 47, 55, 0.8); }
+
+/* Gold - secondary accent */
+.bg-gold { background-color: #c9a227; }
+.text-gold { color: #c9a227; }
+.text-gold-dark { color: #8b7019; }
+.border-gold { border-color: #c9a227; }
+.bg-gold\/10 { background-color: rgba(201, 162, 39, 0.1); }
+.bg-gold\/20 { background-color: rgba(201, 162, 39, 0.2); }
+.border-gold\/30 { border-color: rgba(201, 162, 39, 0.3); }
+
+/* Burgundy dark variant */
+.bg-burgundy-dark { background-color: #5a252c; }
+.hover\:bg-burgundy-dark:hover { background-color: #5a252c; }
+
+/* Display font for headings */
+.font-display { font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif; }
+
+/* Verse font for scripture text */
+.font-verse { font-family: Georgia, 'Times New Roman', serif; }
+
+/* Scripture theme shadows */
+.shadow-selected { box-shadow: 0 0 0 3px rgba(201, 162, 39, 0.5), 0 4px 12px rgba(0, 0, 0, 0.15); }
+.shadow-fake { box-shadow: 0 0 0 3px rgba(114, 47, 55, 0.5), 0 4px 12px rgba(0, 0, 0, 0.15); }
+
+/* Scripture text colors (override dark theme) */
+.text-textPrimary { color: #3d3d3d; }
+.text-textSecondary { color: #6b6b6b; }
+.text-textMuted { color: #8b8b8b; }
+
+/* ========================================
+   DETECTIVE THEME COLORS (legacy)
    ======================================== */
 
 /* Detective background colors */

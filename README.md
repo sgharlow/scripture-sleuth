@@ -6,6 +6,8 @@ Daily Reddit game where players identify the fake Bible verse among 5 options. B
 
 **Live at: [r/ScriptureSleuth](https://reddit.com/r/ScriptureSleuth)**
 
+**Demo Video: [Watch on YouTube](https://youtu.be/CTuRKwgCeu0)**
+
 ## Concept
 
 - 5 Bible verses presented daily on a themed topic
@@ -59,7 +61,7 @@ npm run typecheck     # TypeScript check
 
 ## Deployment
 
-### Current Deployment (v0.0.5)
+### Current Deployment (v0.0.7)
 
 | Component | Status | Link |
 |-----------|--------|------|

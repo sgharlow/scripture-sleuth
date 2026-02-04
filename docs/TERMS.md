@@ -1,14 +1,14 @@
-# Comment Conspiracy - Terms of Service
+# Scripture Sleuth - Terms of Service
 
-**Last Updated: January 20, 2026**
+**Last Updated: February 3, 2026**
 
 ## 1. Acceptance of Terms
 
-By accessing or using Comment Conspiracy ("the Game"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Game.
+By accessing or using Scripture Sleuth ("the Game"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Game.
 
 ## 2. Description of Service
 
-Comment Conspiracy is a daily puzzle game hosted on Reddit where players attempt to identify AI-generated comments among real Reddit comments. The Game is provided as-is for entertainment purposes.
+Scripture Sleuth is a daily puzzle game hosted on Reddit where players attempt to identify fake Bible verses among real scripture passages. The Game is provided as-is for entertainment and educational purposes.
 
 ## 3. User Eligibility
 
@@ -25,7 +25,7 @@ By using the Game, you agree to:
 
 ## 5. User Contributions
 
-If you submit AI comment contributions to the Game:
+If you submit fake verse contributions to the Game:
 - You grant us a non-exclusive, royalty-free license to use your submissions in future puzzles
 - You acknowledge your username may be credited if your contribution is used
 - You retain ownership of your original content
@@ -66,4 +66,4 @@ For questions about these Terms, please contact us through the subreddit modmail
 
 ---
 
-By playing Comment Conspiracy, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
+By playing Scripture Sleuth, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.

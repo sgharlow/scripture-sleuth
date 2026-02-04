@@ -1,10 +1,10 @@
-# Comment Conspiracy - Privacy Policy
+# Scripture Sleuth - Privacy Policy
 
-**Last Updated: January 20, 2026**
+**Last Updated: February 3, 2026**
 
 ## 1. Introduction
 
-This Privacy Policy explains how Comment Conspiracy ("the Game") collects, uses, and protects your information when you use our game on Reddit.
+This Privacy Policy explains how Scripture Sleuth ("the Game") collects, uses, and protects your information when you use our game on Reddit.
 
 ## 2. Information We Collect
 
@@ -24,7 +24,7 @@ We collect and store:
 ### 2.3 Aggregate Statistics
 We collect anonymous, aggregate data including:
 - Total number of players per puzzle
-- Distribution of guesses across comments
+- Distribution of guesses across verses
 - Overall accuracy rates by difficulty
 
 ## 3. How We Use Your Information
@@ -92,4 +92,4 @@ This Game is built on Reddit's Devvit platform. By using the Game, you also agre
 
 ---
 
-By playing Comment Conspiracy, you acknowledge that you have read and understood this Privacy Policy.
+By playing Scripture Sleuth, you acknowledge that you have read and understood this Privacy Policy.

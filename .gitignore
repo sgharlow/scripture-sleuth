@@ -4,8 +4,14 @@ node_modules
 STATUS_REPORT.md
 .playwright-mcp/
 
+# Development orchestration files
+.orchestra/
+
 # Archived files
 archive/
+
+# Test harness (not for production)
+screenshots/test-harness.html
 
 # Walkthrough assets (duplicates of screenshots/)
 walkthrough/

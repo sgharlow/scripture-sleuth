@@ -7,7 +7,7 @@
 
 html, body {
   background-color: #f5efe0;
-  color: #3d3d3d;
+  color: #2d1f1c;
   font-family: Georgia, 'Times New Roman', serif;
 }
 
@@ -65,10 +65,10 @@ html, body {
 .shadow-selected { box-shadow: 0 0 0 3px rgba(201, 162, 39, 0.5), 0 4px 12px rgba(0, 0, 0, 0.15); }
 .shadow-fake { box-shadow: 0 0 0 3px rgba(114, 47, 55, 0.5), 0 4px 12px rgba(0, 0, 0, 0.15); }
 
-/* Scripture text colors (override dark theme) */
-.text-textPrimary { color: #3d3d3d; }
-.text-textSecondary { color: #6b6b6b; }
-.text-textMuted { color: #8b8b8b; }
+/* Scripture text colors - warm browns on parchment (WCAG AA compliant) */
+.text-textPrimary { color: #2d1f1c; }
+.text-textSecondary { color: #4d3832; }
+.text-textMuted { color: #6b5a55; }
 
 /* ========================================
    DETECTIVE THEME COLORS (legacy)
@@ -131,16 +131,13 @@ html, body {
 .text-yellow-400 { color: #facc15; }
 .border-yellow-500\/30 { border-color: rgba(234, 179, 8, 0.3); }
 
-/* Dark theme text colors */
-.text-textPrimary { color: #D7DADC; }
-.text-textSecondary { color: #818384; }
-.text-textMuted { color: #6B6C6D; }
-.bg-textSecondary\/20 { background-color: rgba(129, 131, 132, 0.2); }
-.border-textSecondary\/30 { border-color: rgba(129, 131, 132, 0.3); }
+/* Background/border variants using textSecondary */
+.bg-textSecondary\/20 { background-color: rgba(77, 56, 50, 0.2); }
+.border-textSecondary\/30 { border-color: rgba(77, 56, 50, 0.3); }
 
 /* Disabled states for detective theme */
 .disabled\:bg-detective-border:disabled { background-color: #343536; }
-.disabled\:text-textMuted:disabled { color: #6B6C6D; }
+.disabled\:text-textMuted:disabled { color: #6b5a55; }
 
 /* ======================================== */
 
@@ -419,7 +416,7 @@ html, body {
 .border-incorrect\/40 { border-color: rgba(255, 75, 75, 0.4); }
 
 /* Hover border variants for detective theme */
-.hover\:border-textMuted:hover { border-color: #6B6C6D; }
+.hover\:border-textMuted:hover { border-color: #6b5a55; }
 
 /* Group hover state */
 .group:hover .group-hover\:opacity-100 { opacity: 1; }

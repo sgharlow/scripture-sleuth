@@ -30,10 +30,10 @@ module.exports = {
         correct: '#46D160',     // Success green
         incorrect: '#FF4B4B',   // Error red
         fake: '#722f37',        // Burgundy for fake reveal (was 'ai' purple)
-        // Text colors for light theme
-        textPrimary: '#3d2c29',   // Dark brown primary text
-        textSecondary: '#6b5c58', // Brown secondary text
-        textMuted: '#8b7d79',     // Muted text
+        // Text colors for parchment theme (WCAG AA compliant on #f5efe0)
+        textPrimary: '#2d1f1c',   // Dark warm brown - ~12:1 contrast
+        textSecondary: '#4d3832', // Medium-dark brown - ~6:1 contrast
+        textMuted: '#6b5a55',     // Medium brown - ~5.7:1 contrast
         textVerse: '#2d1f1c',     // Dark text for verses
       },
       fontFamily: {

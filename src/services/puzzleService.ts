@@ -128,8 +128,23 @@ export async function getTodaysPuzzle(
 
   // Get current puzzle ID
   console.log('[PuzzleService] Getting current puzzle ID...');
-  const puzzleId = await getCurrentPuzzleId(ctx);
+  let puzzleId = await getCurrentPuzzleId(ctx);
   console.log('[PuzzleService] Current puzzle ID:', puzzleId);
+
+  // Self-healing: if puzzle:current is stale (behind today), auto-advance
+  const todayId = getTodayDateId();
+  if (!puzzleId || puzzleId < todayId) {
+    console.log(`[PuzzleService] puzzle:current is stale (${puzzleId}), checking for today (${todayId})`);
+    const todayPuzzle = await getPuzzle(ctx, todayId);
+    if (todayPuzzle) {
+      console.log(`[PuzzleService] Auto-advancing puzzle:current to ${todayId}`);
+      await setCurrentPuzzleId(ctx, todayId);
+      puzzleId = todayId;
+    } else {
+      console.log(`[PuzzleService] No puzzle for today (${todayId}), keeping ${puzzleId}`);
+    }
+  }
+
   if (!puzzleId) {
     console.log('[PuzzleService] No puzzle ID found');
     return null;

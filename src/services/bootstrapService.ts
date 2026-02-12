@@ -85,50 +85,58 @@ function getTodayPuzzleId(): string {
 }
 
 /**
- * Ensure puzzles are loaded and current puzzle is set
- * Call this at the start of any puzzle fetch operation
+ * Ensure puzzles are loaded before accessing
+ * Call this at app startup or before first puzzle request
  */
 export async function ensurePuzzlesLoaded(ctx: RedisContext): Promise<void> {
-  console.log('[Bootstrap] ensurePuzzlesLoaded: starting...');
-
-  // Seed if needed
-  const seedResult = await seedPuzzles(ctx);
-  if (seedResult.seeded) {
-    console.log(`[Bootstrap] First-time setup: seeded ${seedResult.count} puzzles`);
-  }
-
-  // Get today's puzzle ID
-  const todayId = getTodayPuzzleId();
-  console.log('[Bootstrap] Today puzzle ID:', todayId);
-
-  // Check if this puzzle exists in our data
-  const puzzleIndex = await getPuzzleIndex(ctx);
-  if (puzzleIndex.includes(todayId)) {
-    // Set as current puzzle
-    await setCurrentPuzzleId(ctx, todayId);
-    console.log('[Bootstrap] Set current puzzle to today:', todayId);
+  console.log('[Bootstrap] ensurePuzzlesLoaded called');
+  console.log('[Bootstrap] Checking if seeded...');
+  const isSeeded = await isPuzzleDataSeeded(ctx);
+  console.log('[Bootstrap] isSeeded:', isSeeded);
+  if (!isSeeded) {
+    console.log('[Bootstrap] Seeding puzzles...');
+    await seedPuzzles(ctx);
+    console.log('[Bootstrap] Seeding complete');
   } else {
-    // Today's puzzle doesn't exist, use the first available puzzle
-    console.log('[Bootstrap] Today puzzle not found, looking for fallback...');
-    if (puzzleIndex.length > 0) {
-      // Sort puzzles by date and find the closest one
-      const sortedPuzzles = [...puzzleIndex].sort();
-
-      // Find a puzzle that's on or after today, or the latest one available
-      let fallbackId = sortedPuzzles[sortedPuzzles.length - 1]; // Default to latest
-      for (const id of sortedPuzzles) {
-        if (id >= todayId) {
-          fallbackId = id;
-          break;
-        }
-      }
-
-      await setCurrentPuzzleId(ctx, fallbackId);
-      console.log('[Bootstrap] Set current puzzle to fallback:', fallbackId);
-    } else {
-      console.log('[Bootstrap] No puzzles available!');
-    }
+    // Check for new puzzles that need to be added incrementally
+    console.log('[Bootstrap] Checking for new puzzles to add...');
+    await seedNewPuzzles(ctx);
   }
+  console.log('[Bootstrap] ensurePuzzlesLoaded done');
+}
+
+/**
+ * Seed only NEW puzzles that aren't already in Redis
+ * This handles incremental updates when new week files are added
+ */
+export async function seedNewPuzzles(ctx: RedisContext): Promise<{ added: number }> {
+  const existingIndex = await getPuzzleIndex(ctx);
+  const existingSet = new Set(existingIndex);
+
+  // Collect all puzzles from bootstrap data
+  const allPuzzles: Puzzle[] = [];
+  for (const weekData of allWeeksData) {
+    allPuzzles.push(...weekData.puzzles);
+  }
+
+  // Find puzzles that aren't in Redis yet
+  const newPuzzles = allPuzzles.filter(p => !existingSet.has(p.id));
+
+  if (newPuzzles.length === 0) {
+    console.log('[Bootstrap] No new puzzles to add');
+    return { added: 0 };
+  }
+
+  console.log(`[Bootstrap] Adding ${newPuzzles.length} new puzzles...`);
+
+  // Add new puzzles to Redis
+  for (const puzzle of newPuzzles) {
+    await setPuzzle(ctx, puzzle);
+    await addToPuzzleIndex(ctx, puzzle.id);
+  }
+
+  console.log(`[Bootstrap] Added ${newPuzzles.length} new puzzles`);
+  return { added: newPuzzles.length };
 }
 
 /**

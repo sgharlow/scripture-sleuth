@@ -1,5 +1,5 @@
 name: scripture-sleuth
-version: 0.0.6
+version: 0.0.11
 capabilities:
   - redis
   - scheduler

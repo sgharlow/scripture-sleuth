@@ -1,5 +1,6 @@
 name: scripture-sleuth
 version: 0.0.11
+description: Daily game - spot the fake Bible verse among real scripture
 capabilities:
   - redis
   - scheduler

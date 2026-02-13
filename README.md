@@ -61,7 +61,7 @@ npm run typecheck     # TypeScript check
 
 ## Deployment
 
-### Current Deployment (v0.0.7)
+### Current Deployment (v0.0.11)
 
 | Component | Status | Link |
 |-----------|--------|------|

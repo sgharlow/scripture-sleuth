@@ -123,7 +123,7 @@ Tests located in `src/**/*.test.ts`:
 - `shareUtils.test.ts` - Share text generation
 - `achievementService.test.ts` - Achievement logic
 
-Run with `npm run test` or `npm run test:watch`.
+1,158 tests across 5 test files. Run with `npm run test` or `npm run test:watch`.
 
 ---
 

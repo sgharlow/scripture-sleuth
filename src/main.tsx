@@ -1,4 +1,4 @@
-import { Devvit, type JSONValue } from '@devvit/public-api';
+import { Devvit, useWebView, type JSONValue } from '@devvit/public-api';
 import type { WebViewToDevvitMessage, DevvitToWebViewMessage, InitData, LeaderboardRankData } from './types';
 import { getTodaysPuzzle, submitGuess, getPreviousResult, hasUserPlayedToday } from './services/puzzleService';
 import { getUserProgress } from './services/userService';
@@ -37,164 +37,118 @@ const App: Devvit.CustomPostComponent = (context) => {
   const userId = context.userId ?? 'anonymous';
   const redisCtx = createRedisContext(context);
 
-  // WebView message handler - using the correct pattern from official examples
-  const onMessage = async (msg: JSONValue) => {
-    const message = msg as WebViewToDevvitMessage;
-    console.log('[ScriptureSleuth] Received message from webview:', message.type);
+  // WebView hook — replaces deprecated Blocks renderer <webview> element
+  const webView = useWebView<WebViewToDevvitMessage, DevvitToWebViewMessage>({
+    url: 'index.html',
+    onMessage: async (message, hook) => {
+      console.log('[ScriptureSleuth] Received message from webview:', message.type);
 
-    try {
-      switch (message.type) {
-        case 'INIT': {
-          console.log('[ScriptureSleuth] Processing INIT for user:', userId);
+      try {
+        switch (message.type) {
+          case 'INIT': {
+            console.log('[ScriptureSleuth] Processing INIT for user:', userId);
 
-          // Get today's puzzle from Redis
-          const puzzle = await getTodaysPuzzle(redisCtx, userId);
-          console.log('[ScriptureSleuth] Got puzzle:', puzzle?.id ?? 'none');
+            const puzzle = await getTodaysPuzzle(redisCtx, userId);
+            const userProgress = await getUserProgress(redisCtx, userId);
 
-          // Get user progress from Redis
-          const userProgress = await getUserProgress(redisCtx, userId);
-          console.log('[ScriptureSleuth] Got user progress, streak:', userProgress.currentStreak);
-
-          // Check if user already played today
-          let previousResult = null;
-          if (puzzle) {
-            const alreadyPlayed = await hasUserPlayedToday(redisCtx, userId, puzzle.id);
-            if (alreadyPlayed) {
-              previousResult = await getPreviousResult(redisCtx, userId, puzzle.id);
-              console.log('[ScriptureSleuth] User already played today');
+            let previousResult = null;
+            if (puzzle) {
+              const alreadyPlayed = await hasUserPlayedToday(redisCtx, userId, puzzle.id);
+              if (alreadyPlayed) {
+                previousResult = await getPreviousResult(redisCtx, userId, puzzle.id);
+              }
             }
+
+            const streakRank = await getStreakRank(redisCtx, userId);
+            const accuracyRank = await getAccuracyRank(redisCtx, userId);
+
+            const initData: InitData = {
+              userId,
+              puzzle: puzzle ?? undefined,
+              userProgress,
+              previousResult,
+              streakRank,
+              accuracyRank,
+            };
+
+            hook.postMessage({ type: 'INIT_RESPONSE', data: initData });
+            break;
           }
 
-          // Get leaderboard ranks
-          let streakRank: LeaderboardRankData | null = null;
-          let accuracyRank: LeaderboardRankData | null = null;
-
-          const streakRankData = await getStreakRank(redisCtx, userId);
-          if (streakRankData) {
-            streakRank = streakRankData;
+          case 'SUBMIT_GUESS': {
+            const puzzle = await getTodaysPuzzle(redisCtx, userId);
+            if (!puzzle) {
+              hook.postMessage({ type: 'ERROR', error: 'No puzzle available' });
+              return;
+            }
+            const result = await submitGuess(redisCtx, userId, puzzle.id, message.guessIndex);
+            hook.postMessage({ type: 'GUESS_RESPONSE', result });
+            break;
           }
 
-          const accuracyRankData = await getAccuracyRank(redisCtx, userId);
-          if (accuracyRankData) {
-            accuracyRank = accuracyRankData;
-          }
-
-          const initData: InitData = {
-            userId,
-            puzzle: puzzle ?? undefined,
-            userProgress,
-            previousResult,
-            streakRank,
-            accuracyRank,
-          };
-
-          console.log('[ScriptureSleuth] Sending INIT_RESPONSE');
-          context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, { type: 'INIT_RESPONSE', data: initData });
-          console.log('[ScriptureSleuth] INIT_RESPONSE sent!');
-          break;
-        }
-
-        case 'SUBMIT_GUESS': {
-          // Get today's puzzle ID
-          const puzzle = await getTodaysPuzzle(redisCtx, userId);
-          if (!puzzle) {
-            context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, { type: 'ERROR', error: 'No puzzle available' });
-            return;
-          }
-
-          // Submit the guess
-          const result = await submitGuess(redisCtx, userId, puzzle.id, message.guessIndex);
-          context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, { type: 'GUESS_RESPONSE', result });
-          break;
-        }
-
-        // ===== User Contribution Handlers =====
-
-        case 'SUBMIT_CONTRIBUTION': {
-          console.log('[ScriptureSleuth] Processing SUBMIT_CONTRIBUTION');
-          const username = (await context.reddit.getCurrentUser())?.username ?? 'anonymous';
-          const contribution = await submitContribution(redisCtx, userId, username, message.data);
-          context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
-            type: 'CONTRIBUTION_SUBMITTED',
-            contribution: {
-              id: contribution.id,
-              username: contribution.username,
-              createdAt: contribution.createdAt,
-              promptIdea: contribution.promptIdea,
-              category: contribution.category,
-              aiCommentText: contribution.aiCommentText,
-              aiTells: contribution.aiTells,
-              status: contribution.status,
-              upvotes: contribution.upvotes,
-              downvotes: contribution.downvotes,
-              userVote: null,
-            },
-          });
-          break;
-        }
-
-        case 'VOTE_CONTRIBUTION': {
-          console.log('[ScriptureSleuth] Processing VOTE_CONTRIBUTION');
-          const voteResult = await voteOnContribution(redisCtx, userId, message.contributionId, message.vote);
-          if (voteResult.success && voteResult.contribution) {
-            context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
-              type: 'CONTRIBUTION_VOTED',
-              contribution: voteResult.contribution,
+          case 'SUBMIT_CONTRIBUTION': {
+            const username = (await context.reddit.getCurrentUser())?.username ?? 'anonymous';
+            const contribution = await submitContribution(redisCtx, userId, username, message.data);
+            hook.postMessage({
+              type: 'CONTRIBUTION_SUBMITTED',
+              contribution: {
+                id: contribution.id,
+                username: contribution.username,
+                createdAt: contribution.createdAt,
+                promptIdea: contribution.promptIdea,
+                category: contribution.category,
+                aiCommentText: contribution.aiCommentText,
+                aiTells: contribution.aiTells,
+                status: contribution.status,
+                upvotes: contribution.upvotes,
+                downvotes: contribution.downvotes,
+                userVote: null,
+              },
             });
-          } else {
-            context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
-              type: 'ERROR',
-              error: voteResult.error ?? 'Failed to vote',
-            });
+            break;
           }
-          break;
-        }
 
-        case 'GET_CONTRIBUTIONS': {
-          console.log('[ScriptureSleuth] Processing GET_CONTRIBUTIONS');
-          const contributions = await getContributions(redisCtx, userId, message.filter);
-          context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
-            type: 'CONTRIBUTIONS_LIST',
-            contributions,
-          });
-          break;
-        }
+          case 'VOTE_CONTRIBUTION': {
+            const voteResult = await voteOnContribution(redisCtx, userId, message.contributionId, message.vote);
+            if (voteResult.success && voteResult.contribution) {
+              hook.postMessage({ type: 'CONTRIBUTION_VOTED', contribution: voteResult.contribution });
+            } else {
+              hook.postMessage({ type: 'ERROR', error: voteResult.error ?? 'Failed to vote' });
+            }
+            break;
+          }
 
-        case 'GET_MY_CONTRIBUTIONS': {
-          console.log('[ScriptureSleuth] Processing GET_MY_CONTRIBUTIONS');
-          const myContributions = await getUserContributions(redisCtx, userId);
-          context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
-            type: 'MY_CONTRIBUTIONS',
-            contributions: myContributions,
-          });
-          break;
-        }
+          case 'GET_CONTRIBUTIONS': {
+            const contributions = await getContributions(redisCtx, userId, message.filter);
+            hook.postMessage({ type: 'CONTRIBUTIONS_LIST', contributions });
+            break;
+          }
 
-        case 'GET_TOP_CONTRIBUTORS': {
-          console.log('[ScriptureSleuth] Processing GET_TOP_CONTRIBUTORS');
-          const topContributors = await getTopContributors(redisCtx, 10);
-          context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, {
-            type: 'TOP_CONTRIBUTORS',
-            contributors: topContributors,
-          });
-          break;
+          case 'GET_MY_CONTRIBUTIONS': {
+            const myContributions = await getUserContributions(redisCtx, userId);
+            hook.postMessage({ type: 'MY_CONTRIBUTIONS', contributions: myContributions });
+            break;
+          }
+
+          case 'GET_TOP_CONTRIBUTORS': {
+            const topContributors = await getTopContributors(redisCtx, 10);
+            hook.postMessage({ type: 'TOP_CONTRIBUTORS', contributors: topContributors });
+            break;
+          }
         }
+      } catch (error) {
+        const errorMessage = error instanceof Error ? error.message : 'Unknown error';
+        hook.postMessage({ type: 'ERROR', error: errorMessage });
       }
-    } catch (error) {
-      const errorMessage = error instanceof Error ? error.message : 'Unknown error';
-      context.ui.webView.postMessage<DevvitToWebViewMessage>(WEBVIEW_ID, { type: 'ERROR', error: errorMessage });
-    }
-  };
+    },
+  });
+
+  // Auto-mount the webview on render
+  webView.mount();
 
   return (
-    <vstack height="100%" width="100%">
-      <webview
-        id={WEBVIEW_ID}
-        url="index.html"
-        width="100%"
-        height="100%"
-        onMessage={onMessage}
-      />
+    <vstack height="100%" width="100%" alignment="middle center">
+      <text size="large">Loading Scripture Sleuth...</text>
     </vstack>
   );
 };
@@ -217,11 +171,6 @@ Devvit.addMenuItem({
     const post = await reddit.submitPost({
       title: 'Scripture Sleuth - Can You Spot the Fake Verse?',
       subredditName: subreddit.name,
-      preview: (
-        <vstack height="100%" width="100%" alignment="middle center">
-          <text size="large">Loading ...</text>
-        </vstack>
-      ),
     });
     ui.showToast({ text: 'Created post!' });
     ui.navigateTo(post);

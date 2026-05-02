@@ -114,8 +114,8 @@ scripture-sleuth/
 ## Hackathon
 
 - **Competition**: Reddit Games & Puzzles Hackathon 2026
-- **Deadline**: February 12, 2026 @ 6:00 PM PST
-- **Prize Categories**:
+- **Status**: ✅ Submitted (deadline 2026-02-12 @ 6:00 PM PST). Game is live on Reddit at [r/ScriptureSleuth](https://www.reddit.com/r/ScriptureSleuth/).
+- **Prize Categories entered**:
   - Best Daily Game ($15,000)
   - Best Use of User Contributions ($3,000)
   - Best Mobile Game Play ($3,000)

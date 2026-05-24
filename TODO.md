@@ -1,5 +1,10 @@
 # Scripture Sleuth - Complete Launch Checklist
 
+> **HISTORICAL SNAPSHOT — DO NOT USE AS CURRENT STATE.**
+> Pre-launch snapshot (2026-02-01). Game was submitted ~2026-02-12; puzzle content exhausted ~2026-03-25. Status below is historical.
+
+> **PUZZLE FILE DISCREPANCY:** The inventory table below and Task 10 reference weeks 1-10 (126 puzzles). Only week01-week09 JSON files actually exist in `src/data/bootstrap/`; `week10.json` and any weeks 11-19 are absent from the repository. Actual content covers at most 63 puzzles (9 weeks). The "126 puzzles" / "53 days of runway" figures in this document are inaccurate.
+
 > **Last Updated**: 2026-02-01
 > **Hackathon Deadline**: February 12, 2026, 6:00 PM PST (11 days remaining)
 > **Demo URL**: https://reddit.com/r/ScriptureSleuth

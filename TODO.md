@@ -3,7 +3,7 @@
 > **HISTORICAL SNAPSHOT — DO NOT USE AS CURRENT STATE.**
 > Pre-launch snapshot (2026-02-01). Game was submitted ~2026-02-12; puzzle content exhausted ~2026-03-25. Status below is historical.
 
-> **PUZZLE FILE DISCREPANCY:** The inventory table below and Task 10 reference weeks 1-10 (126 puzzles). Only week01-week09 JSON files actually exist in `src/data/bootstrap/`; `week10.json` and any weeks 11-19 are absent from the repository. Actual content covers at most 63 puzzles (9 weeks). The "126 puzzles" / "53 days of runway" figures in this document are inaccurate.
+> **CONTENT EXTENDED 2026-05-24:** New weeks 10-27 (+126 puzzles, 189 total) added, covering 2026-05-25 -> 2026-09-27 (~4 months). Run `npm run upload` to deploy. The "weeks 1-10 / 53 days runway" figures below are historical.
 
 > **Last Updated**: 2026-02-01
 > **Hackathon Deadline**: February 12, 2026, 6:00 PM PST (11 days remaining)

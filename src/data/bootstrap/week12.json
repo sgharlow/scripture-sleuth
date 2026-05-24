@@ -113,7 +113,7 @@
         },
         {
           "id": "verse_4",
-          "text": "And Esau said, Is he not rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing.",
+          "text": "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing.",
           "reference": "Genesis 27:36",
           "translation": "KJV",
           "linkedSubreddit": "r/AmItheAsshole",
@@ -398,7 +398,7 @@
       "verses": [
         {
           "id": "verse_1",
-          "text": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge.",
+          "text": "Whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God.",
           "reference": "Ruth 1:16",
           "translation": "KJV",
           "linkedSubreddit": "r/relationships",
@@ -422,42 +422,42 @@
         },
         {
           "id": "verse_4",
-          "text": "And the women said unto Naomi, Blessed be the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel.",
-          "reference": "Ruth 4:15",
+          "text": "And Ruth said unto Naomi, Wheresoever thy path may lead, there shall my heart abide also, for loyalty bindeth us closer than blood.",
+          "reference": "Ruth 1:14",
           "translation": "KJV",
           "linkedSubreddit": "",
           "isFake": true
         },
         {
           "id": "verse_5",
-          "text": "And she said, Thy people shall be my people, and thy God my God.",
-          "reference": "Ruth 1:16",
+          "text": "Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, if ought but death part thee and me.",
+          "reference": "Ruth 1:17",
           "translation": "KJV",
-          "linkedSubreddit": "r/Judaism",
+          "linkedSubreddit": "r/GriefSupport",
           "isFake": false
         }
       ],
       "fakeVerseIndex": 3,
       "explanation": {
         "whyFake": [
-          "Ruth 4:14 contains the women's blessing about the kinsman-redeemer, not Ruth 4:15",
-          "Ruth 4:14 reads: 'And the women said unto Naomi, Blessed be the LORD, which hath not left thee this day without a kinsman redeemer, that his name may be famous in Israel'",
-          "Ruth 4:15 actually says: 'And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him'",
-          "The text is authentic KJV from Ruth 4:14 but the reference says 4:15 — off by one verse"
+          "Real Ruth 1:14 reads: \"And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her\" — it contains no such saying",
+          "\"Loyalty bindeth us closer than blood\" is a modern sentiment, not KJV language",
+          "The flowery \"Wheresoever thy path may lead\" is not how the KJV renders Ruth’s pledge",
+          "Ruth’s actual vow of loyalty is in verse 16, not a separate declaration in verse 14"
         ],
         "whyReal": [
-          "Ruth 1:16 contains the famous declaration 'whither thou goest, I will go' — one of scripture's greatest loyalty pledges",
-          "Ruth 2:11 records Boaz acknowledging Ruth's faithfulness to Naomi",
-          "Ruth 2:12 is Boaz's beautiful blessing invoking God's wings as refuge",
-          "Ruth 1:16 (also verse_5) contains the second half of Ruth's pledge: 'thy people shall be my people'"
+          "Ruth 1:16 is Ruth’s famous pledge: \"thy people shall be my people, and thy God my God\"",
+          "Ruth 1:17 continues the vow: \"Where thou diest, will I die\"",
+          "Ruth 2:11 records Boaz recognising Ruth’s faithfulness to Naomi",
+          "Ruth 2:12 is Boaz’s blessing of full reward upon Ruth"
         ],
         "connections": [
-          "Ruth 1:16 -> r/relationships - Ruth's unconditional pledge of loyalty to Naomi",
-          "Ruth 2:11 -> r/family - A stranger's faithfulness to her mother-in-law recognised publicly",
-          "Ruth 2:12 -> r/GetMotivated - God rewarding faithfulness with full recompense",
-          "Ruth 1:16 -> r/Judaism - Ruth's conversion: adopting Israel's people and God as her own"
+          "Ruth 1:16 -> r/relationships - Ruth’s unconditional pledge of loyalty to Naomi",
+          "Ruth 2:11 -> r/family - A stranger’s faithfulness to her mother-in-law recognised publicly",
+          "Ruth 2:12 -> r/GetMotivated - God rewarding faithfulness with a full recompense",
+          "Ruth 1:17 -> r/GriefSupport - Steadfast devotion even unto death"
         ],
-        "difficulty_note": "Expert - The text of Ruth 4:14 is placed under the reference 4:15; the one-verse offset in a short 4-chapter book requires near-memorised familiarity with Ruth"
+        "difficulty_note": "Hard - The fake cites a real reference (Ruth 1:14) but fabricates a flowery loyalty saying; the genuine pledge is Ruth 1:16."
       },
       "metadata": {
         "createdAt": "2026-06-13T10:00:00Z",

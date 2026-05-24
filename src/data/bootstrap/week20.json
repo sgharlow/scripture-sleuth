@@ -487,7 +487,7 @@
         {
           "id": "verse_4",
           "text": "And when the disciples heard it, they fell on their face, and were sore afraid. And Jesus came and touched them, and said, Arise, and be not afraid.",
-          "reference": "Matthew 17:7",
+          "reference": "Matthew 17:6-7",
           "translation": "KJV",
           "linkedSubreddit": "r/Anxiety",
           "isFake": false
@@ -517,7 +517,7 @@
         "connections": [
           "Matthew 17:2 -> r/Christianity - The radiant transformation of Jesus",
           "Mark 9:4 -> r/history - Moses and Elijah appearing across the centuries",
-          "Matthew 17:7 -> r/Anxiety - Jesus calming the terrified disciples"
+          "Matthew 17:6-7 -> r/Anxiety - Jesus calming the terrified disciples"
         ],
         "difficulty_note": "Hard - The fake appends a clause from Luke 9:31 onto the end of the real Mark 9:7; players must know both accounts well enough to recognize the cross-Gospel insertion"
       },

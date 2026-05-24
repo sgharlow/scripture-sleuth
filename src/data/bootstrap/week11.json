@@ -183,7 +183,7 @@
         {
           "id": "verse_3",
           "text": "And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon.",
-          "reference": "Exodus 12:30",
+          "reference": "Exodus 12:29",
           "translation": "KJV",
           "linkedSubreddit": "r/history",
           "isFake": false
@@ -217,13 +217,13 @@
           "Exodus 12:13 contains the famous promise 'when I see the blood, I will pass over you'",
           "Exodus 12:14 establishes the Passover as a perpetual memorial feast",
           "Exodus 12:29-30 records the death of the firstborn at midnight throughout Egypt",
-          "Exodus 12:30 captures Pharaoh and all Egypt rising at midnight to the sound of mourning"
+          "Exodus 12:29 captures Pharaoh and all Egypt rising at midnight to the sound of mourning"
         ],
         "connections": [
           "Exodus 12:13 -> r/Judaism - The blood on the doorposts as the sign of protection",
           "Exodus 12:14 -> r/TrueChristian - Passover as an eternal ordinance pointing to Christ",
           "Exodus 12:29 -> r/history - The final plague that broke Pharaoh's resistance",
-          "Exodus 12:30 -> r/worldhistory - Egypt's night of national mourning"
+          "Exodus 12:29 -> r/worldhistory - Egypt's night of national mourning"
         ],
         "difficulty_note": "Medium - The text is genuine KJV from Exodus 12:8 but cited as 13:8; distinguishing chapter 12 from 13 in Exodus requires careful knowledge"
       },
@@ -260,7 +260,7 @@
         {
           "id": "verse_3",
           "text": "Bless the LORD, O my soul: and all that is within me, bless his holy name.",
-          "reference": "Psalm 104:1",
+          "reference": "Psalm 103:1",
           "translation": "KJV",
           "linkedSubreddit": "r/Christianity",
           "isFake": false
@@ -293,13 +293,13 @@
         "whyReal": [
           "Psalm 27:1 is David's confident declaration of the LORD as light and salvation",
           "Psalm 23:4 is the beloved valley of the shadow of death passage",
-          "Psalm 104:1 opens the great creation psalm with a call to bless the LORD",
+          "Psalm 103:1 opens the great creation psalm with a call to bless the LORD",
           "Psalm 51:10 is David's prayer for a clean heart after his sin with Bathsheba"
         ],
         "connections": [
           "Psalm 27:1 -> r/GetMotivated - Fearlessness rooted in God as light",
           "Psalm 23:4 -> r/GriefSupport - Comfort in the darkest valleys",
-          "Psalm 104:1 -> r/Christianity - All that is within me blessing God",
+          "Psalm 103:1 -> r/Christianity - All that is within me blessing God",
           "Psalm 51:10 -> r/DecidingToBeBetter - David's prayer for renewal after failure"
         ],
         "difficulty_note": "Medium - The fake fuses Psalm 37:4 with content from Psalm 37:5, presenting two verses as one; recognising the composite requires close familiarity with Psalm 37"
@@ -422,7 +422,7 @@
         {
           "id": "verse_4",
           "text": "And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day, and all that night; and when it was morning, the east wind brought the locusts.",
-          "reference": "Exodus 10:12",
+          "reference": "Exodus 10:13",
           "translation": "KJV",
           "linkedSubreddit": "r/nature",
           "isFake": false

@@ -1,0 +1,541 @@
+{
+  "week": 15,
+  "startDate": "2026-06-29",
+  "puzzles": [
+    {
+      "id": "2026-06-29",
+      "dayNumber": 99,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "strength",
+      "theme": "God Is My Strength",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+          "reference": "Psalm 28:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.",
+          "reference": "Exodus 15:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Music",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "I can do all things through Christ which strengtheneth me.",
+          "reference": "Philippians 4:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Be of strong courage and let not your spirit be dismayed, for the Lord thy God shall be thy shield and the strength of thine arm in every battle.",
+          "reference": "Valiance 6:3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "The LORD is my strength and my song; and is become my salvation.",
+          "reference": "Psalm 118:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Valiance\" is not a book of the Bible",
+          "\"Strength of thine arm in every battle\" is not a KJV phrase from any canonical book",
+          "The verse blends themes from Deuteronomy 31:6 and Psalm 28:7 with military language not found in those passages",
+          "Real KJV never uses 'every battle' in this formulation"
+        ],
+        "whyReal": [
+          "Psalm 28:7 is David's declaration that God is his strength and shield, with rejoicing and praise",
+          "Exodus 15:2 is the Song of Moses after crossing the Red Sea — the original 'strength and song' verse",
+          "Psalm 118:14 echoes Exodus 15:2, showing the same formula repeated in the Psalms"
+        ],
+        "connections": [
+          "Psalm 28:7 -> r/Christianity - Heart trusted, helped, greatly rejoices",
+          "Exodus 15:2 -> r/Music - God as strength AND song — the first Hebrew hymn",
+          "Philippians 4:13 -> r/GetMotivated - All things through Christ who strengthens",
+          "Psalm 118:14 -> r/TrueChristian - The Lord is my strength and song"
+        ],
+        "difficulty_note": "Easy - The fake book 'Valiance' is immediately recognizable as non-biblical, and the military language is not found in any KJV strength passage"
+      },
+      "metadata": {
+        "createdAt": "2026-06-29T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-30",
+      "dayNumber": 100,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "meditation",
+      "theme": "Meditate Day & Night",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Be still and ponder the ways of the LORD thy God, meditating upon his statutes morning and evening, that thy soul may find rest and peace.",
+          "reference": "Contemplations 4:1",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "But his delight is in the law of the LORD; and in his law doth he meditate day and night.",
+          "reference": "Psalm 1:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/BibleStudy",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night.",
+          "reference": "Joshua 1:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "My mouth shall speak of wisdom; and the meditation of my heart shall be of understanding.",
+          "reference": "Psalm 49:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "I will meditate also of all thy work, and talk of thy doings.",
+          "reference": "Psalm 77:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "\"Contemplations\" is not a book of the Bible",
+          "\"Morning and evening\" is not the KJV phrasing — the real phrase is 'day and night' (Psalm 1:2, Joshua 1:8)",
+          "\"That thy soul may find rest and peace\" is modern mindfulness language, not KJV idiom",
+          "The fake mimics the theme perfectly but gives itself away with the fake book name and contemporary phrasing"
+        ],
+        "whyReal": [
+          "Psalm 1:2 is the defining meditation verse: delighting in the law and meditating day and night",
+          "Joshua 1:8 is God's direct command to meditate on the law day and night for success",
+          "Psalm 77:12 is Asaph's personal declaration of meditating on all God's works"
+        ],
+        "connections": [
+          "Psalm 1:2 -> r/BibleStudy - Meditating on the law day and night",
+          "Joshua 1:8 -> r/Meditation - The divine command to meditate",
+          "Psalm 49:3 -> r/philosophy - Wisdom spoken, heart's meditation on understanding",
+          "Psalm 77:12 -> r/Christianity - Meditating on all God's works"
+        ],
+        "difficulty_note": "Easy - The fake book 'Contemplations' is a clear tell, and the modern wellness phrasing ('soul may find rest and peace') does not match KJV style"
+      },
+      "metadata": {
+        "createdAt": "2026-06-30T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-01",
+      "dayNumber": 101,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "victory",
+      "theme": "Songs of Victory",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The LORD is a man of war: the LORD is his name.",
+          "reference": "Exodus 15:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Through God we shall do valiantly: for he it is that shall trample down our enemies and scatter them before our faces.",
+          "reference": "Psalm 108:13",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "The LORD is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.",
+          "reference": "Psalm 18:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle.",
+          "reference": "Psalm 24:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AskHistorians",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+          "reference": "Psalm 98:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 108:13 says 'Through God we shall do valiantly: for he it is that shall tread down our enemies'",
+          "The fake changes 'tread down our enemies' to 'trample down our enemies and scatter them before our faces'",
+          "'Trample' is not the KJV word — it is 'tread'; and the appended 'scatter them before our faces' is entirely fabricated",
+          "The real verse is short and direct; the fake inflates it with an extra military clause not present in any KJV psalm"
+        ],
+        "whyReal": [
+          "Exodus 15:3 is from the Song of Moses — 'The LORD is a man of war' is the original victory declaration",
+          "Psalm 18:2 heaps up military images: rock, fortress, deliverer, buckler, high tower",
+          "Psalm 24:8 poses the rhetorical question about the King of glory, mighty in battle",
+          "Psalm 98:1 calls for a new song because God's right hand has won the victory"
+        ],
+        "connections": [
+          "Exodus 15:3 -> r/Christianity - The Lord as warrior, his name declared",
+          "Psalm 18:2 -> r/TrueChristian - Rock, fortress, deliverer, buckler, high tower",
+          "Psalm 24:8 -> r/AskHistorians - The King of glory, mighty in battle",
+          "Psalm 98:1 -> r/MadeMeSmile - Marvellous things, victory by God's holy arm"
+        ],
+        "difficulty_note": "Medium - The fake uses real Psalm 108:13's reference and opening clause, then substitutes 'trample' for 'tread' and appends a fabricated military clause about scattering enemies"
+      },
+      "metadata": {
+        "createdAt": "2026-07-01T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-02",
+      "dayNumber": 102,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "blessing",
+      "theme": "Blessed Is the Man",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Blessed is every one that feareth the LORD; that walketh in his ways.",
+          "reference": "Psalm 128:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Blessed is the man that trusteth in the LORD, and whose hope the LORD is.",
+          "reference": "Jeremiah 17:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed is the man that hath mercy on the poor and the needy: the LORD shall preserve him and keep him alive, and he shall be blessed upon the earth.",
+          "reference": "Psalm 41:1",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Blessed are all they that put their trust in him.",
+          "reference": "Psalm 2:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.",
+          "reference": "Psalm 32:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Forgiveness",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 41:1 says 'Blessed is he that considereth the poor: the LORD will deliver him in time of trouble'",
+          "The fake replaces 'considereth the poor' with 'hath mercy on the poor and the needy' — the real verse says 'considereth', not 'hath mercy'",
+          "The fake also replaces 'the LORD will deliver him in time of trouble' with 'the LORD shall preserve him and keep him alive, and he shall be blessed upon the earth' — pulling language from Psalm 41:2 and blending it into verse 1",
+          "The real Psalm 41:1 is short and direct about 'considering the poor'; the fake expands it with language borrowed from verse 2"
+        ],
+        "whyReal": [
+          "Psalm 128:1 blesses those who fear the Lord and walk in his ways",
+          "Jeremiah 17:7 blesses the man whose hope and trust is in the Lord",
+          "Psalm 32:2 blesses the man to whom God does not impute iniquity — quoted by Paul in Romans 4:8"
+        ],
+        "connections": [
+          "Psalm 128:1 -> r/Christianity - Fear the Lord, walk in his ways",
+          "Jeremiah 17:7 -> r/TrueChristian - Trust and hope placed in the Lord",
+          "Psalm 2:12 -> r/DecidingToBeBetter - All who put their trust in God are blessed",
+          "Psalm 32:2 -> r/Forgiveness - Blessed when iniquity is not imputed"
+        ],
+        "difficulty_note": "Medium - The fake uses real Psalm 41:1's reference but replaces 'considereth the poor' with 'hath mercy on the poor and the needy' and appends language from Psalm 41:2; the real verse is shorter and uses 'considereth'"
+      },
+      "metadata": {
+        "createdAt": "2026-07-02T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-03",
+      "dayNumber": 103,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "kingship",
+      "theme": "The Lord Reigns",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof.",
+          "reference": "Psalm 97:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.",
+          "reference": "Psalm 93:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Say among the heathen that the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.",
+          "reference": "Psalm 96:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/worldnews",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The LORD reigneth; let the people tremble: he sitteth upon the throne of his holiness; let the earth be moved.",
+          "reference": "Psalm 99:1",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "For God is the King of all the earth: sing ye praises with understanding.",
+          "reference": "Psalm 47:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 99:1 says 'The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved'",
+          "The fake replaces 'between the cherubims' with 'upon the throne of his holiness'",
+          "'Throne of his holiness' sounds biblical and appears in Psalm 47:8 ('God sitteth upon the throne of his holiness') but is not in Psalm 99:1",
+          "The real Psalm 99:1 specifically identifies God's dwelling between the cherubims — a reference to the ark of the covenant; the fake swaps this precise detail for generic throne language"
+        ],
+        "whyReal": [
+          "Psalm 97:1 opens the 'enthronement psalms' with rejoicing across the isles",
+          "Psalm 93:1 declares God clothed with majesty; the world stablished (note KJV spelling: 'stablished' not 'established')",
+          "Psalm 96:10 commands proclamation among the nations that the Lord reigns"
+        ],
+        "connections": [
+          "Psalm 97:1 -> r/Christianity - The Lord reigns, isles are glad",
+          "Psalm 93:1 -> r/TrueChristian - Clothed with majesty and strength",
+          "Psalm 96:10 -> r/worldnews - Proclaiming to the nations that the Lord reigns",
+          "Psalm 47:7 -> r/GetMotivated - God is King of all the earth, sing with understanding"
+        ],
+        "difficulty_note": "Hard - The fake replaces 'between the cherubims' (Psalm 99:1, the ark reference) with 'upon the throne of his holiness' (from Psalm 47:8), a plausible-sounding phrase that cross-contaminates two enthronement psalms"
+      },
+      "metadata": {
+        "createdAt": "2026-07-03T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-04",
+      "dayNumber": 104,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "worship",
+      "theme": "Enter His Gates",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.",
+          "reference": "Psalm 100:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.",
+          "reference": "Psalm 100:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Open to me the gates of righteousness: I will go into them, and I will praise the LORD.",
+          "reference": "Psalm 118:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.",
+          "reference": "Psalm 24:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/architecture",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Make a joyful noise unto the LORD, all ye lands. Serve the LORD with gladness: come before his presence with singing.",
+          "reference": "Psalm 100:1-2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 100:1 says 'Make a joyful noise unto the LORD, all ye lands'",
+          "Real Psalm 100:2 says 'Serve the LORD with gladness: come before his presence with singing'",
+          "Both verses are verbatim KJV, but they are two separate verses — not one",
+          "The fake merges them into a single citation 'Psalm 100:1-2' with a period between them, presenting two distinct verses as a single unit — the expert structural fabrication",
+          "Expert players who know Psalm 100 by heart will instantly recognize that verse 1 ends with 'lands' as a complete verse, and verse 2 begins with 'Serve' as a new, separate verse"
+        ],
+        "whyReal": [
+          "Psalm 100:4 is the definitive 'enter his gates with thanksgiving' verse",
+          "Psalm 100:3 establishes the covenant basis: he made us, we are his sheep",
+          "Psalm 118:19 is the pilgrim's cry to open the gates of righteousness",
+          "Psalm 24:7 is the great gate-lifting antiphon for the King of glory's entry"
+        ],
+        "connections": [
+          "Psalm 100:4 -> r/Christianity - Entering with thanksgiving and praise",
+          "Psalm 100:3 -> r/TrueChristian - We are his people, sheep of his pasture",
+          "Psalm 118:19 -> r/Christianity - Open gates of righteousness to praise the Lord",
+          "Psalm 24:7 -> r/architecture - Everlasting doors lifted for the King of glory"
+        ],
+        "difficulty_note": "Expert - Both halves of the fake are genuine verbatim KJV. The fabrication is purely structural: two separate verses (Psalm 100:1 and 100:2) are merged into one citation with a hyphen. Only those who have memorized Psalm 100 as individual verse units will catch this"
+      },
+      "metadata": {
+        "createdAt": "2026-07-04T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-05",
+      "dayNumber": 105,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "zion",
+      "theme": "Zion & Holy Hill",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Great is the LORD, and greatly to be praised in the city of our God, in the hill of his holiness.",
+          "reference": "Psalm 48:1",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "The LORD loveth the gates of Zion more than all the dwellings of Jacob.",
+          "reference": "Psalm 87:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Out of Zion, the perfection of beauty, God hath shined.",
+          "reference": "Psalm 50:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/EarthPorn",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "For the LORD hath chosen Zion; he hath desired it for his habitation.",
+          "reference": "Psalm 132:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+          "reference": "Psalm 122:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/worldnews",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 48:1 says 'Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness'",
+          "The fake changes 'mountain' to 'hill' — a single word substitution",
+          "KJV Psalm 48:1 says 'mountain of his holiness', not 'hill of his holiness'",
+          "This is the hard-level tell: 'hill' and 'mountain' are close synonyms and both appear elsewhere in Psalms (e.g., 'holy hill' in Psalm 2:6, 3:4), making the swap very easy to miss"
+        ],
+        "whyReal": [
+          "Psalm 87:2 declares the Lord's love for the gates of Zion over all other dwellings of Jacob",
+          "Psalm 50:2 describes Zion as 'the perfection of beauty' from which God shines forth",
+          "Psalm 122:6 is the beloved command to pray for Jerusalem's peace"
+        ],
+        "connections": [
+          "Psalm 87:2 -> r/Christianity - Zion beloved above all of Jacob's dwellings",
+          "Psalm 50:2 -> r/EarthPorn - Zion as perfection of beauty",
+          "Psalm 132:13 -> r/TrueChristian - God chose Zion as his habitation",
+          "Psalm 122:6 -> r/worldnews - Praying for the peace of Jerusalem"
+        ],
+        "difficulty_note": "Hard - The fake changes 'mountain' to 'hill' in Psalm 48:1. Both words appear frequently in Psalms ('holy hill' in Psalm 2:6, 'mountain of his holiness' in 48:1), making this one-word swap extremely easy to miss on first reading"
+      },
+      "metadata": {
+        "createdAt": "2026-07-05T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

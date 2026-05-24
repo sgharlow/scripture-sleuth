@@ -1,0 +1,534 @@
+{
+  "week": 17,
+  "startDate": "2026-07-13",
+  "puzzles": [
+    {
+      "id": "2026-07-13",
+      "dayNumber": 113,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "friendship and loyalty",
+      "theme": "Friendship & Loyalty",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "A friend loveth at all times, and a brother is born for adversity.",
+          "reference": "Proverbs 17:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/friendship",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.",
+          "reference": "Proverbs 27:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.",
+          "reference": "Proverbs 27:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Blessed is the man whose companions are steadfast, for they shall lift him in the day of his falling and restore his joy.",
+          "reference": "Friendship 2:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Thine own friend, and thy father's friend, forsake not; neither go into thy brother's house in the day of thy calamity.",
+          "reference": "Proverbs 27:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/family",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Friendship\" is not a book of the Bible",
+          "\"Restore his joy\" is modern motivational language not found in KJV",
+          "\"Lift him in the day of his falling\" echoes Ecclesiastes 4:10 but is reworded into contemporary idiom",
+          "Real scripture about friendship focuses on loyalty and rebuke, not emotional restoration"
+        ],
+        "whyReal": [
+          "Proverbs 17:17 is the classic 'a friend loveth at all times' verse",
+          "Proverbs 27:6 says faithful wounds from a friend are better than an enemy's kisses",
+          "Proverbs 27:17 gives the 'iron sharpeneth iron' image of mutual improvement"
+        ],
+        "connections": [
+          "Proverbs 17:17 -> r/friendship - A true friend loves through all seasons",
+          "Proverbs 27:6 -> r/relationship_advice - Honest friends vs flattering enemies",
+          "Proverbs 27:17 -> r/GetMotivated - Friends sharpen each other"
+        ],
+        "difficulty_note": "Easy - 'Friendship' is an invented book name and the modern emotional language ('restore his joy') is an obvious tell"
+      },
+      "metadata": {
+        "createdAt": "2026-07-13T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-14",
+      "dayNumber": 114,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "wealth and poverty",
+      "theme": "Wealth & Poverty",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The rich and poor meet together: the LORD is the maker of them all.",
+          "reference": "Proverbs 22:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Economics",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.",
+          "reference": "Proverbs 22:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Charity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Wealth gotten by vanity shall be diminished: but he that gathereth by labour shall increase.",
+          "reference": "Proverbs 13:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/personalfinance",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Better is a little with righteousness than great revenues without right.",
+          "reference": "Proverbs 16:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/simpleliving",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The man who trusteth in his riches shall stumble, but the poor in spirit shall inherit abundance from on high.",
+          "reference": "Riches 4:6",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "\"Riches\" is not a book of the Bible",
+          "\"Inherit abundance from on high\" conflates Matthew 5:3 with prosperity-gospel language",
+          "The phrase \"poor in spirit\" is from the Beatitudes (Matthew 5:3) and does not appear in Proverbs",
+          "Real Proverbs passages about wealth are more concrete and less eschatological"
+        ],
+        "whyReal": [
+          "Proverbs 22:2 reminds that God made both rich and poor",
+          "Proverbs 22:9 blesses the generous eye that shares bread with the poor",
+          "Proverbs 13:11 warns that easy wealth vanishes while labour-earned wealth grows"
+        ],
+        "connections": [
+          "Proverbs 22:2 -> r/Economics - God levels the playing field",
+          "Proverbs 22:9 -> r/Charity - Generosity brings blessing",
+          "Proverbs 16:8 -> r/simpleliving - Little with righteousness beats unjust wealth"
+        ],
+        "difficulty_note": "Easy - 'Riches 4:6' is a made-up book; the 'poor in spirit' cross-contamination from Matthew and prosperity-gospel language are additional tells"
+      },
+      "metadata": {
+        "createdAt": "2026-07-14T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-15",
+      "dayNumber": 115,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "righteousness and justice",
+      "theme": "Righteousness & Justice",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Righteousness exalteth a nation: but sin is a reproach to any people.",
+          "reference": "Proverbs 14:34",
+          "translation": "KJV",
+          "linkedSubreddit": "r/politics",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+          "reference": "Proverbs 28:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD.",
+          "reference": "Proverbs 17:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/law",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "But the path of the just is as the shining sun, that groweth brighter unto the perfect day.",
+          "reference": "Proverbs 4:18",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "To do justice and judgment is more acceptable to the LORD than sacrifice.",
+          "reference": "Proverbs 21:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 4:18 says 'But the path of the just is as the shining light, that shineth more and more unto the perfect day'",
+          "The fake omits the opening word 'But' which is present in KJV — a subtle structural change",
+          "More importantly, real Proverbs 4:18 is a genuine verse; for the medium puzzle the fake alters it to 'The path of the just is as the shining sun, that groweth brighter unto the perfect day'",
+          "The substitution of 'sun' for 'light' and 'groweth brighter' for 'shineth more and more' changes familiar KJV phrasing"
+        ],
+        "whyReal": [
+          "Proverbs 14:34 is the famous 'righteousness exalteth a nation' civic verse",
+          "Proverbs 28:1 contrasts the fleeing wicked with the lion-bold righteous",
+          "Proverbs 21:3 places justice and judgment above ritual sacrifice"
+        ],
+        "connections": [
+          "Proverbs 14:34 -> r/politics - National righteousness and reproach",
+          "Proverbs 28:1 -> r/TrueChristian - Righteous boldness vs guilty flight",
+          "Proverbs 21:3 -> r/Christianity - Justice preferred over sacrifice"
+        ],
+        "difficulty_note": "Medium - The fake alters Proverbs 4:18, replacing 'shining light' with 'shining sun' and 'shineth more and more' with 'groweth brighter' — both substitutions feel natural in poetic KJV"
+      },
+      "metadata": {
+        "createdAt": "2026-07-15T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-16",
+      "dayNumber": 116,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "parents and children",
+      "theme": "Parents & Children",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Train up a child in the path he should walk: and when he is grown, he will not turn from it.",
+          "reference": "Proverbs 22:6",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.",
+          "reference": "Proverbs 13:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Parenting",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "A wise son maketh a glad father: but a foolish son is the heaviness of his mother.",
+          "reference": "Proverbs 10:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/family",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The glory of children are their fathers.",
+          "reference": "Proverbs 17:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/daddit",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.",
+          "reference": "Proverbs 22:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/BibleStudy",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 22:6 says 'Train up a child in the way he should go: and when he is old, he will not depart from it'",
+          "The fake text here IS the actual KJV — for the medium puzzle the fake reads: 'Train up a child in the path he should walk: and when he is grown, he will not turn from it'",
+          "The fake swaps 'way' for 'path', 'old' for 'grown', and 'depart from' for 'turn from'",
+          "Each change is tiny and biblically idiomatic, making the substitution easy to overlook"
+        ],
+        "whyReal": [
+          "Proverbs 13:24 is the 'spare the rod, spoil the child' source text",
+          "Proverbs 10:1 opens the main section of Solomon's proverbs with the wise/foolish son contrast",
+          "Proverbs 22:15 teaches that correction drives out childhood foolishness"
+        ],
+        "connections": [
+          "Proverbs 13:24 -> r/Parenting - Loving discipline",
+          "Proverbs 10:1 -> r/family - A wise child gladdens parents",
+          "Proverbs 17:6 -> r/daddit - Fathers are the glory of children"
+        ],
+        "difficulty_note": "Medium - The fake alters Proverbs 22:6 with three small word swaps ('way'→'path', 'old'→'grown', 'depart from'→'turn from') that all sound naturally biblical"
+      },
+      "metadata": {
+        "createdAt": "2026-07-16T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-17",
+      "dayNumber": 117,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "words and truth",
+      "theme": "Words & Truth",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "A lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin.",
+          "reference": "Proverbs 26:28",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueOffMyChest",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "An honest witness delivereth souls: but a deceitful witness speaketh lies.",
+          "reference": "Proverbs 14:25",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "Excellent speech becometh not a fool: much less do lying lips a prince.",
+          "reference": "Proverbs 17:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/politics",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Buy the truth, and sell it not; also wisdom, and instruction, and understanding.",
+          "reference": "Proverbs 23:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The lip of truth shall be established for ever: but a lying tongue is but for a moment.",
+          "reference": "Proverbs 12:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 14:25 says 'A true witness delivereth souls: but a deceitful witness speaketh lies'",
+          "The fake replaces 'true witness' with 'honest witness' — both adjectives feel equally biblical",
+          "'True' and 'honest' are near-synonyms, making this substitution extremely hard to detect",
+          "Only readers with close familiarity with this specific verse will notice the single word change"
+        ],
+        "whyReal": [
+          "Proverbs 26:28 pairs lying and flattery as twin instruments of ruin",
+          "Proverbs 23:23 commands buying truth and never selling wisdom",
+          "Proverbs 12:19 contrasts the eternal lip of truth with the fleeting lying tongue"
+        ],
+        "connections": [
+          "Proverbs 26:28 -> r/TrueOffMyChest - Lies hurt even the liar",
+          "Proverbs 17:7 -> r/politics - Lying lips are unfit for leaders",
+          "Proverbs 23:23 -> r/philosophy - Truth is worth buying and never selling"
+        ],
+        "difficulty_note": "Hard - The fake replaces exactly one word: 'true' with 'honest' in Proverbs 14:25. Both are common KJV adjectives applied to witnesses, making this extremely subtle."
+      },
+      "metadata": {
+        "createdAt": "2026-07-17T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-18",
+      "dayNumber": 118,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "seasons of life",
+      "theme": "Seasons of Life",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "To every thing there is a season, and a time to every purpose under the heaven.",
+          "reference": "Ecclesiastes 3:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted.",
+          "reference": "Ecclesiastes 3:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gardening",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+          "reference": "Ecclesiastes 3:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "A time to love, and a time to hate; a time of war, and a time of peace.",
+          "reference": "Ecclesiastes 3:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/worldnews",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.",
+          "reference": "Ecclesiastes 9:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Real Ecclesiastes 3:11 says 'He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end'",
+          "This IS the actual KJV text — all five verses are genuine Ecclesiastes passages",
+          "Expert twist: This puzzle has no fake verse. The 'seasons of life' theme is fulfilled entirely by authentic scripture",
+          "Players who are suspicious of Ecclesiastes 3:11's unusual phrasing ('set the world in their heart') may doubt it — but it is genuine KJV"
+        ],
+        "whyReal": [
+          "Ecclesiastes 3:1 is the opening of the famous 'time for every purpose' poem",
+          "Ecclesiastes 3:2 lists the first pair: birth and death, planting and uprooting",
+          "Ecclesiastes 3:8 ends the poem with love/hate and war/peace",
+          "Ecclesiastes 9:10 is the Preacher's call to urgent diligence before death",
+          "Ecclesiastes 3:11 is one of the most theologically rich verses — 'eternity in their hearts' — and is completely authentic KJV"
+        ],
+        "connections": [
+          "Ecclesiastes 3:1 -> r/philosophy - Time and purpose for everything",
+          "Ecclesiastes 3:2 -> r/gardening - Time to plant and uproot",
+          "Ecclesiastes 3:8 -> r/worldnews - Time for war and peace",
+          "Ecclesiastes 9:10 -> r/GetMotivated - Work hard while you live"
+        ],
+        "difficulty_note": "Expert - Meta-puzzle: All five verses are genuine KJV Ecclesiastes. Ecclesiastes 3:11's unusual phrase 'set the world in their heart' may trigger suspicion — it is authentic. No fake exists."
+      },
+      "metadata": {
+        "createdAt": "2026-07-18T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-19",
+      "dayNumber": 119,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "anger and self-control",
+      "theme": "Anger & Self-Control",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.",
+          "reference": "Proverbs 16:32",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Stoicism",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.",
+          "reference": "Proverbs 15:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "He that hath no rule over his own spirit is like a city that is broken down, and without walls.",
+          "reference": "Proverbs 25:28",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Make no friendship with an angry man; and with a furious man thou shalt not go.",
+          "reference": "Proverbs 22:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/toxicrelationships",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
+          "reference": "Proverbs 19:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 19:11 says 'The discretion of a man deferreth his anger; and it is his glory to pass over a transgression'",
+          "The fake uses reference 19:12 instead of 19:11 — a one-digit chapter:verse shift",
+          "Real Proverbs 19:12 says 'The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass'",
+          "The reference number is wrong; the text belongs to verse 11, not verse 12"
+        ],
+        "whyReal": [
+          "Proverbs 16:32 ranks self-control above military conquest",
+          "Proverbs 15:18 contrasts the wrathful stirrer with the patient peacemaker",
+          "Proverbs 25:28 compares the uncontrolled spirit to a city without walls"
+        ],
+        "connections": [
+          "Proverbs 16:32 -> r/Stoicism - Ruling the spirit beats conquering cities",
+          "Proverbs 15:18 -> r/relationship_advice - Patience calms conflict",
+          "Proverbs 22:24 -> r/toxicrelationships - Avoid angry companions"
+        ],
+        "difficulty_note": "Hard - The fake text is real KJV (Proverbs 19:11) but is assigned to the wrong verse number (19:12); knowing both verses is required to catch this reference-number error"
+      },
+      "metadata": {
+        "createdAt": "2026-07-19T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

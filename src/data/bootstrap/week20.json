@@ -1,0 +1,531 @@
+{
+  "week": 20,
+  "startDate": "2026-08-03",
+  "puzzles": [
+    {
+      "id": "2026-08-03",
+      "dayNumber": 134,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "love",
+      "theme": "Love Your Neighbor",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.",
+          "reference": "Matthew 22:37",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And the second is like unto it, Thou shalt love thy neighbour as thyself.",
+          "reference": "Matthew 22:39",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HumansBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And whosoever shall seek to love his neighbour in spirit and in truth shall find that love returneth unto him sevenfold, pressed down and running over.",
+          "reference": "Charity 6:14",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+          "reference": "John 13:34",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "But I say unto you which hear, Love your enemies, do good to them which hate you.",
+          "reference": "Luke 6:27",
+          "translation": "KJV",
+          "linkedSubreddit": "r/forgiveness",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "'Charity 6:14' is not a book of the Bible",
+          "'Love returneth unto him sevenfold' echoes prosperity gospel language, not Gospel teaching",
+          "'Pressed down and running over' is borrowed from Luke 6:38 (about giving, not loving neighbors) and misapplied here",
+          "The real Gospels command love without promising a multiplied return on it"
+        ],
+        "whyReal": [
+          "Matthew 22:37 is the Greatest Commandment — love God with heart, soul, and mind",
+          "Matthew 22:39 is the Second Commandment — love your neighbor as yourself",
+          "John 13:34 is Jesus' new commandment to love one another as he loved us"
+        ],
+        "connections": [
+          "Matthew 22:37 -> r/Christianity - The Great Commandment",
+          "Matthew 22:39 -> r/HumansBeingBros - Loving neighbors as yourself",
+          "John 13:34 -> r/TrueChristian - Jesus' new commandment to love one another"
+        ],
+        "difficulty_note": "Easy - 'Charity 6:14' is not a biblical book, and the sevenfold-return promise is prosperity gospel language foreign to the Gospels"
+      },
+      "metadata": {
+        "createdAt": "2026-08-03T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-04",
+      "dayNumber": 135,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "forgiveness",
+      "theme": "Forgiveness & Mercy",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For if ye forgive men their trespasses, your heavenly Father will also forgive you.",
+          "reference": "Matthew 6:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times? Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.",
+          "reference": "Matthew 18:21-22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.",
+          "reference": "Mark 11:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/prayer",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Blessed are those who freely release their grievances unto the LORD, for in the releasing of debts is found the pathway to restoration and inner healing.",
+          "reference": "Mercies 2:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.",
+          "reference": "Luke 23:34",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "'Mercies 2:8' is not a book of the Bible",
+          "'Releasing grievances' and 'inner healing' are therapeutic self-help language, not KJV idiom",
+          "'Pathway to restoration' is a modern counseling phrase not found in scripture",
+          "Real Gospel forgiveness is commanded, not framed as a personal wellness technique"
+        ],
+        "whyReal": [
+          "Matthew 6:14 is from the Lord's Prayer commentary — God forgives those who forgive others",
+          "Matthew 18:21-22 is Peter's seventy-times-seven exchange with Jesus",
+          "Luke 23:34 is Jesus forgiving his crucifiers from the cross"
+        ],
+        "connections": [
+          "Matthew 6:14 -> r/relationship_advice - Forgiveness linked to receiving forgiveness",
+          "Matthew 18:21-22 -> r/Christianity - Unlimited forgiveness: seventy times seven",
+          "Mark 11:25 -> r/prayer - Forgiving others while standing in prayer"
+        ],
+        "difficulty_note": "Easy - 'Mercies 2:8' does not exist, and the therapeutic vocabulary ('inner healing', 'pathway to restoration') is obviously modern"
+      },
+      "metadata": {
+        "createdAt": "2026-08-04T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-05",
+      "dayNumber": 136,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "prodigal",
+      "theme": "The Prodigal Son",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.",
+          "reference": "Luke 15:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.",
+          "reference": "Luke 15:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/confession",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.",
+          "reference": "Luke 15:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And he arose, and came to his father. And when he was still far off, his father rejoiced greatly, and sent servants to meet him with bread and fine raiment.",
+          "reference": "Luke 15:20",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And bring hither the fatted calf, and kill it; and let us eat, and be merry.",
+          "reference": "Luke 15:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/BBQ",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Luke 15:20 reads: the father 'ran, and fell on his neck, and kissed him' — he did not send servants",
+          "The father in the parable ran to his son personally; the fake substitutes servants as intermediaries, reversing the point of the story",
+          "'Bread and fine raiment' is not mentioned in Luke 15:20 — the robe appears in verse 22 as a command after the reunion",
+          "'Rejoiced greatly' replaces the poignant 'had compassion' of the original"
+        ],
+        "whyReal": [
+          "Luke 15:20 (verse_1) is the authentic account of the father running to embrace his returning son",
+          "Luke 15:21 is the son's confession — 'I am no more worthy to be called thy son'",
+          "Luke 15:23 is the father's command to bring the fatted calf and celebrate"
+        ],
+        "connections": [
+          "Luke 15:20 -> r/MadeMeSmile - A father running to embrace his returning child",
+          "Luke 15:21 -> r/confession - Honest confession of unworthiness",
+          "Luke 15:23 -> r/BBQ - Killing the fatted calf for celebration"
+        ],
+        "difficulty_note": "Medium - The fake uses the same reference as the real verse_1 but changes the reunion scene; players must know the parable well enough to catch the substitute of servants for the father's personal run"
+      },
+      "metadata": {
+        "createdAt": "2026-08-05T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-06",
+      "dayNumber": 137,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "light",
+      "theme": "Light & Darkness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+          "reference": "John 8:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness.",
+          "reference": "Luke 11:34",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Ophthalmology",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "In him was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not.",
+          "reference": "John 1:4-5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were righteous.",
+          "reference": "John 3:19",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+          "reference": "Matthew 5:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/CityPorn",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real John 3:19 reads: 'men loved darkness rather than light, because their deeds were evil'",
+          "The fake changes 'evil' to 'righteous', reversing the meaning of the verse entirely",
+          "This is a direct contradiction of the original — John 3:19 is about sinners preferring darkness because their works are evil, not righteous",
+          "The single word substitution ('righteous' for 'evil') is the medium-level tell"
+        ],
+        "whyReal": [
+          "John 8:12 is Jesus' 'I am the light of the world' declaration",
+          "John 1:4-5 is the prologue's statement that the light shines in darkness",
+          "Matthew 5:14 is Jesus calling his disciples the light of the world"
+        ],
+        "connections": [
+          "John 8:12 -> r/Christianity - Christ as the light of the world",
+          "Luke 11:34 -> r/Ophthalmology - The eye as the lamp of the body",
+          "John 1:4-5 -> r/philosophy - Life as the light of men"
+        ],
+        "difficulty_note": "Medium - The fake changes one key word in John 3:19 from 'evil' to 'righteous', completely inverting the verse's meaning; those who know the verse will spot it"
+      },
+      "metadata": {
+        "createdAt": "2026-08-06T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-07",
+      "dayNumber": 138,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "good_samaritan",
+      "theme": "The Good Samaritan",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.",
+          "reference": "Luke 10:30",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him.",
+          "reference": "Luke 10:33",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HumansBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.",
+          "reference": "Luke 10:35",
+          "translation": "KJV",
+          "linkedSubreddit": "r/personalfinance",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Then said Jesus unto him, Go, and do thou likewise.",
+          "reference": "Luke 10:38",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?",
+          "reference": "Luke 10:36",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AskReddit",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real 'Go, and do thou likewise' appears in Luke 10:37, not Luke 10:38",
+          "Luke 10:38 begins a completely different passage: 'Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house'",
+          "The verse text is genuine KJV from the parable, but it is mis-cited by one verse number",
+          "This is a classic hard-mode reference-shift: correct text, wrong address"
+        ],
+        "whyReal": [
+          "Luke 10:30 is the opening of the parable — the man robbed and left for dead on the Jericho road",
+          "Luke 10:33 is the Samaritan arriving and showing compassion",
+          "Luke 10:36 is Jesus' question about who proved to be a neighbor"
+        ],
+        "connections": [
+          "Luke 10:30 -> r/history - Dangerous travel on the ancient Jericho road",
+          "Luke 10:33 -> r/HumansBeingBros - A stranger showing unexpected compassion",
+          "Luke 10:35 -> r/personalfinance - The Samaritan paying for the injured man's care"
+        ],
+        "difficulty_note": "Hard - 'Go, and do thou likewise' is real KJV but belongs to Luke 10:37, not 10:38; Luke 10:38 is the start of the Mary and Martha story"
+      },
+      "metadata": {
+        "createdAt": "2026-08-07T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-08",
+      "dayNumber": 139,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "identity",
+      "theme": "I AM Sayings of Jesus",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.",
+          "reference": "John 15:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gardening",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "I am the good shepherd: the good shepherd giveth his life for the sheep.",
+          "reference": "John 10:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/farming",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+          "reference": "John 14:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.",
+          "reference": "John 6:35",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Breadit",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "I am the door of the sheep: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture, and have life abundantly.",
+          "reference": "John 10:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real John 10:9 reads: 'I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture'",
+          "The fake adds 'of the sheep' to 'I am the door' — Jesus says 'I am the door', not 'the door of the sheep'",
+          "The phrase 'door of the sheep' does appear in John 10:7 ('I am the door of the sheep') but verse 9 has simply 'I am the door'",
+          "The fake also appends 'and have life abundantly' from John 10:10, stitching two adjacent verses together"
+        ],
+        "whyReal": [
+          "John 15:5 is the Vine and Branches I AM saying, verbatim KJV",
+          "John 10:11 is the Good Shepherd I AM saying, verbatim KJV",
+          "John 14:6 is the Way, the Truth, and the Life I AM saying, verbatim KJV"
+        ],
+        "connections": [
+          "John 15:5 -> r/gardening - Vine and branches producing fruit",
+          "John 10:11 -> r/farming - The shepherd who lays down his life",
+          "John 14:6 -> r/philosophy - The exclusive claim to be the way and truth"
+        ],
+        "difficulty_note": "Expert - The fake merges John 10:7 ('I am the door of the sheep') with John 10:9 and appends 'and have life abundantly' from John 10:10; all three source verses are real but no single verse reads exactly this way"
+      },
+      "metadata": {
+        "createdAt": "2026-08-08T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-09",
+      "dayNumber": 140,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "transfiguration",
+      "theme": "The Transfiguration",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light.",
+          "reference": "Matthew 17:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And there appeared unto them Elias with Moses: and they were talking with Jesus.",
+          "reference": "Mark 9:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.",
+          "reference": "Matthew 17:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And when the disciples heard it, they fell on their face, and were sore afraid. And Jesus came and touched them, and said, Arise, and be not afraid.",
+          "reference": "Matthew 17:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Anxiety",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him. And Moses appeared unto them, speaking of his departure.",
+          "reference": "Mark 9:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Mark 9:7 reads: 'And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him'",
+          "The fake appends 'And Moses appeared unto them, speaking of his departure' — Moses was already present from verse 4 onwards; this addition is fabricated",
+          "'Speaking of his departure' is borrowed from Luke 9:31 which describes Moses and Elias speaking of Jesus' 'decease' — but that detail belongs to Luke, not Mark 9:7",
+          "The fake stitches Mark 9:7 with a misattributed clause from Luke 9:31"
+        ],
+        "whyReal": [
+          "Matthew 17:2 is the transfiguration description — face shining as the sun, raiment white as light",
+          "Mark 9:4 is the appearance of Elijah and Moses talking with Jesus",
+          "Matthew 17:5 is the voice from the cloud declaring Jesus the beloved Son"
+        ],
+        "connections": [
+          "Matthew 17:2 -> r/Christianity - The radiant transformation of Jesus",
+          "Mark 9:4 -> r/history - Moses and Elijah appearing across the centuries",
+          "Matthew 17:7 -> r/Anxiety - Jesus calming the terrified disciples"
+        ],
+        "difficulty_note": "Hard - The fake appends a clause from Luke 9:31 onto the end of the real Mark 9:7; players must know both accounts well enough to recognize the cross-Gospel insertion"
+      },
+      "metadata": {
+        "createdAt": "2026-08-09T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

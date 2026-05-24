@@ -1,0 +1,531 @@
+{
+  "week": 26,
+  "startDate": "2026-09-14",
+  "puzzles": [
+    {
+      "id": "2026-09-14",
+      "dayNumber": 176,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "god is faithful",
+      "theme": "God Is Faithful",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations.",
+          "reference": "Deuteronomy 7:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Great is thy faithfulness.",
+          "reference": "Lamentations 3:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/worship",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.",
+          "reference": "1 Corinthians 1:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The LORD thy God shall never forsake thee nor abandon thee, for thou art the apple of his eye and his covenant endureth to all generations.",
+          "reference": "Promises 3:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "If we believe not, yet he abideth faithful: he cannot deny himself.",
+          "reference": "2 Timothy 2:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Theology",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Promises\" is not a book of the Bible",
+          "The text blends language from Deuteronomy 31:6 and Zechariah 2:8 without matching either",
+          "\"Apple of his eye\" and covenant language appear elsewhere in KJV but not at this fabricated reference",
+          "Modern phrasing 'never forsake thee nor abandon thee' is also looser than actual KJV diction"
+        ],
+        "whyReal": [
+          "Deuteronomy 7:9 is the great covenant-faithfulness declaration spanning a thousand generations",
+          "Lamentations 3:23 is the anchor of the 'Great Is Thy Faithfulness' hymn",
+          "2 Timothy 2:13 — even our unbelief cannot make God unfaithful to himself"
+        ],
+        "connections": [
+          "Deuteronomy 7:9 -> r/Christianity - Covenant faithfulness across generations",
+          "Lamentations 3:23 -> r/worship - The hymn's source text",
+          "1 Corinthians 1:9 -> r/TrueChristian - Called into fellowship with Christ"
+        ],
+        "difficulty_note": "Easy - The book 'Promises' does not exist; an obvious fabrication"
+      },
+      "metadata": {
+        "createdAt": "2026-09-14T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-15",
+      "dayNumber": 177,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "end times signs",
+      "theme": "Signs of the End Times",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.",
+          "reference": "Matthew 24:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/worldnews",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.",
+          "reference": "Matthew 24:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/collapse",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And many false prophets shall rise, and shall deceive many.",
+          "reference": "Matthew 24:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Skeptic",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "In the last days perilous times shall come, and men shall seek comfort in earthly pleasures and deny the power of the Spirit that was given to them.",
+          "reference": "2 Timothy 3:1",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "This know also, that in the last days perilous times shall come.",
+          "reference": "2 Timothy 3:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The real 2 Timothy 3:1 says only 'This know also, that in the last days perilous times shall come'",
+          "The fake verse 4 expands the verse with invented content about earthly pleasures and the Spirit",
+          "Verse 5 shows the actual authentic text — the same reference with the real, much shorter wording",
+          "Having both the fake and real text of the same reference in the same puzzle is the easy tell"
+        ],
+        "whyReal": [
+          "Matthew 24:6-7 and 24:11 are Jesus' own enumeration of end-times signs",
+          "2 Timothy 3:1 (verse 5) is the brief but genuine opening of Paul's end-times warning",
+          "All four real verses come from well-known passages on the last days"
+        ],
+        "connections": [
+          "Matthew 24:6 -> r/worldnews - Wars and rumours of wars",
+          "Matthew 24:7 -> r/collapse - Famines, pestilences, earthquakes",
+          "Matthew 24:11 -> r/Skeptic - False prophets deceiving many"
+        ],
+        "difficulty_note": "Easy - Verse 4 and verse 5 share the same reference; only one can be correct, and verse 5 matches the actual KJV text"
+      },
+      "metadata": {
+        "createdAt": "2026-09-15T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-16",
+      "dayNumber": 178,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "isaiah new creation",
+      "theme": "The New Creation",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind.",
+          "reference": "Isaiah 65:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/space",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.",
+          "reference": "Revelation 21:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+          "reference": "2 Corinthians 5:18",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "For as the new heavens and the new earth, which I will make, shall remain before me, saith the LORD, so shall your seed and your name remain.",
+          "reference": "Isaiah 66:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Genealogy",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.",
+          "reference": "Revelation 21:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "The text is genuine KJV (2 Corinthians 5:17), but the reference given is 2 Corinthians 5:18",
+          "Real 2 Corinthians 5:18 reads: 'And all things are of God, who hath reconciled us to himself by Jesus Christ'",
+          "The 'new creature' verse belongs to verse 17, not verse 18",
+          "This off-by-one citation error is the medium-level fabrication"
+        ],
+        "whyReal": [
+          "Isaiah 65:17 is God's own announcement of creating new heavens and a new earth",
+          "Revelation 21:1 is John's vision of that new creation — no more sea",
+          "Revelation 21:5 — 'I make all things new' — is God's throne-room declaration"
+        ],
+        "connections": [
+          "Isaiah 65:17 -> r/space - New heavens and new earth created",
+          "Revelation 21:1 -> r/Christianity - The first earth passed away",
+          "Isaiah 66:22 -> r/Genealogy - Seed and name endure as long as new creation"
+        ],
+        "difficulty_note": "Medium - The text is real but cited one verse too late in the chapter"
+      },
+      "metadata": {
+        "createdAt": "2026-09-16T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-17",
+      "dayNumber": 179,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "jeremiah weeping prophet",
+      "theme": "The Weeping Prophet",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow.",
+          "reference": "Lamentations 1:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.",
+          "reference": "Jeremiah 1:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/prolife",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Cursed be the day wherein I was born: let not the day wherein my mother bare me be blessed.",
+          "reference": "Jeremiah 20:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/depression",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "I sat alone because of thy hand: for thou hast filled me with indignation, and my soul wept in secret places for the sins of thy people.",
+          "reference": "Jeremiah 15:17",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!",
+          "reference": "Jeremiah 9:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Jeremiah 15:17 reads: 'I sat not in the assembly of the mockers, nor rejoiced; I sat alone because of thy hand: for thou hast filled me with indignation'",
+          "The fake adds 'and my soul wept in secret places for the sins of thy people' — a pious-sounding addition not in the text",
+          "The real verse ends at 'indignation'; the weeping addition is invented",
+          "This expansion sounds authentically Jeremianic, making it a convincing medium-difficulty fake"
+        ],
+        "whyReal": [
+          "Lamentations 1:12 is Jeremiah's anguished cry over Jerusalem's suffering",
+          "Jeremiah 1:5 is the famous calling of Jeremiah from the womb — known before birth",
+          "Jeremiah 9:1 is his wish that his eyes were fountains of tears for his people"
+        ],
+        "connections": [
+          "Lamentations 1:12 -> r/GriefSupport - Unmatched sorrow",
+          "Jeremiah 1:5 -> r/prolife - Known before formation in the womb",
+          "Jeremiah 9:1 -> r/Bible - The weeping prophet's fountain of tears"
+        ],
+        "difficulty_note": "Medium - The fake appends an invented weeping clause to a real verse that ends with 'indignation'"
+      },
+      "metadata": {
+        "createdAt": "2026-09-17T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-18",
+      "dayNumber": 180,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "divine promises",
+      "theme": "God's Promises Stand",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.",
+          "reference": "Isaiah 55:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?",
+          "reference": "Numbers 23:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Theology",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.",
+          "reference": "2 Corinthians 1:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever.",
+          "reference": "Isaiah 40:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "For ever, O LORD, thy word is settled in heaven.",
+          "reference": "Psalm 119:89",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The text is genuine KJV but belongs to Isaiah 40:8, not Isaiah 40:9",
+          "Real Isaiah 40:9 reads: 'O Zion, that bringest good tidings, get thee up into the high mountain'",
+          "The grass-and-flower passage is verse 8; citing it as verse 9 is the subtle hard-mode error",
+          "Both verses are in the same chapter, making the single-verse slip easy to miss"
+        ],
+        "whyReal": [
+          "Isaiah 55:11 is God's declaration that his word never returns void",
+          "Numbers 23:19 is Balaam's proclamation: God is not a man that he should lie",
+          "Psalm 119:89 asserts the eternal settlement of God's word in heaven"
+        ],
+        "connections": [
+          "Isaiah 55:11 -> r/Bible - God's word accomplishes its purpose",
+          "Numbers 23:19 -> r/Theology - Divine immutability of promise",
+          "2 Corinthians 1:20 -> r/TrueChristian - All promises are Yes and Amen in Christ"
+        ],
+        "difficulty_note": "Hard - The text is real Isaiah, but the verse number is off by one within the same chapter"
+      },
+      "metadata": {
+        "createdAt": "2026-09-18T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-19",
+      "dayNumber": 181,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "isaiah names god",
+      "theme": "Isaiah's Names for God",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+          "reference": "Isaiah 9:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Thus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I am the first, and I am the last; and beside me there is no God.",
+          "reference": "Isaiah 44:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Theology",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "I am the LORD, and there is none else, there is no God beside me: I girded thee, though thou hast not known me.",
+          "reference": "Isaiah 45:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The LORD of hosts is his name.",
+          "reference": "Isaiah 47:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.",
+          "reference": "Isaiah 55:5",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "The text belongs to Isaiah 54:5, not Isaiah 55:5",
+          "Real Isaiah 55:5 reads: 'Behold, thou shalt call a nation that thou knowest not, and nations that knew not thee shall run unto thee'",
+          "The Maker-husband passage is one chapter earlier at Isaiah 54:5",
+          "This is an expert-level off-by-one chapter error — both chapters are famous and thematically linked"
+        ],
+        "whyReal": [
+          "Isaiah 9:6 lists the five Messianic names — Wonderful, Counsellor, Mighty God, Everlasting Father, Prince of Peace",
+          "Isaiah 44:6 is the first/last declaration — identical language appears in Revelation 1:17",
+          "Isaiah 45:5 is God's absolute monotheism: 'I am the LORD, and there is none else'"
+        ],
+        "connections": [
+          "Isaiah 9:6 -> r/Christianity - Five names of the coming Messiah",
+          "Isaiah 44:6 -> r/Theology - First and last, no God beside me",
+          "Isaiah 45:5 -> r/TrueChristian - Absolute divine uniqueness"
+        ],
+        "difficulty_note": "Expert - The Maker-husband verse is real Isaiah but cited one chapter late; only scholars who know both chapters 54 and 55 will catch it"
+      },
+      "metadata": {
+        "createdAt": "2026-09-19T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-20",
+      "dayNumber": 182,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "hope anchor",
+      "theme": "Hope as an Anchor",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil.",
+          "reference": "Hebrews 6:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/sailing",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.",
+          "reference": "Romans 15:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+          "reference": "1 Corinthians 13:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?",
+          "reference": "Romans 8:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Theology",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Blessed is the man that trusteth in the LORD, and whose hope the LORD is; for he shall be like a tree planted in fertile ground, and his leaves shall never wither.",
+          "reference": "Jeremiah 17:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Jeremiah 17:7-8 reads: 'Blessed is the man that trusteth in the LORD...For he shall be as a tree planted by the waters'",
+          "The fake replaces 'planted by the waters' with 'planted in fertile ground' — subtly altering the famous water imagery",
+          "\"His leaves shall never wither\" is not how the KJV phrases it; real text says 'her leaf shall be green'",
+          "The tree-by-waters image is one of the most recognizable in scripture; altering it to generic 'fertile ground' is the hard-mode tell"
+        ],
+        "whyReal": [
+          "Hebrews 6:19 — hope as a sure and steadfast anchor entering behind the veil",
+          "Romans 15:13 is the 'God of hope' benediction",
+          "1 Corinthians 13:13 — faith, hope, charity; the greatest is charity"
+        ],
+        "connections": [
+          "Hebrews 6:19 -> r/sailing - Hope as an anchor",
+          "Romans 15:13 -> r/Christianity - Abound in hope through the Holy Ghost",
+          "Romans 8:24 -> r/Theology - Hope that is seen is not hope"
+        ],
+        "difficulty_note": "Hard - The fake subtly changes 'planted by the waters' to 'planted in fertile ground' and rewrites the leaf imagery"
+      },
+      "metadata": {
+        "createdAt": "2026-09-20T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

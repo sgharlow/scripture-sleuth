@@ -1,0 +1,533 @@
+{
+  "week": 16,
+  "startDate": "2026-07-06",
+  "puzzles": [
+    {
+      "id": "2026-07-06",
+      "dayNumber": 106,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "fear of the lord",
+      "theme": "Fear of the Lord",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Blessed is he who trembleth before the LORD his God, for the fear of the Almighty shall be his daily portion and his nightly comfort.",
+          "reference": "Blessings 3:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.",
+          "reference": "Psalm 111:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/BibleStudy",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.",
+          "reference": "Proverbs 8:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The fear of the LORD prolongeth days: but the years of the wicked shall be shortened.",
+          "reference": "Proverbs 10:27",
+          "translation": "KJV",
+          "linkedSubreddit": "r/longevity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The fear of the LORD is a fountain of life, to depart from the snares of death.",
+          "reference": "Proverbs 14:27",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "\"Blessings\" is not a book of the Bible",
+          "\"Daily portion and nightly comfort\" is sentimental modern devotional language",
+          "No KJV verse combines fear of God with 'daily portion' and 'nightly comfort' in this way",
+          "The reference number 3:7 follows a plausible pattern but the book name is invented"
+        ],
+        "whyReal": [
+          "Psalm 111:10 is the classic 'fear of the LORD is the beginning of wisdom' verse",
+          "Proverbs 8:13 defines the fear of the LORD as hatred of evil and pride",
+          "Proverbs 14:27 calls the fear of the LORD a fountain of life"
+        ],
+        "connections": [
+          "Psalm 111:10 -> r/BibleStudy - Wisdom begins with fearing God",
+          "Proverbs 8:13 -> r/TrueChristian - Hating evil as an expression of godly fear",
+          "Proverbs 10:27 -> r/longevity - God-fearing life leads to long days"
+        ],
+        "difficulty_note": "Easy - The fake book 'Blessings' doesn't exist and the sentimental phrasing is a clear giveaway"
+      },
+      "metadata": {
+        "createdAt": "2026-07-06T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-07",
+      "dayNumber": 107,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "wisdom and folly",
+      "theme": "Wisdom & Folly",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Happy is the man that findeth wisdom, and the man that getteth understanding.",
+          "reference": "Proverbs 3:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.",
+          "reference": "Proverbs 12:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AmItheAsshole",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Wisdom hath builded her house, she hath hewn out her seven pillars.",
+          "reference": "Proverbs 9:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/architecture",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "A wise heart seeketh knowledge in all its pathways, and the one who embraceth understanding shall never stumble.",
+          "reference": "Wisdom 5:14",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Answer a fool according to his folly, lest he be wise in his own conceit.",
+          "reference": "Proverbs 26:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/facepalm",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Wisdom\" as a standalone book is not in the Protestant KJV canon",
+          "\"All its pathways\" and \"never stumble\" are modern self-help idioms",
+          "The real Proverbs uses concrete imagery, not abstract 'pathways of knowledge'",
+          "No KJV verse promises 'never stumble' for those who seek understanding"
+        ],
+        "whyReal": [
+          "Proverbs 3:13 is the celebrated 'happy is the man that findeth wisdom' verse",
+          "Proverbs 12:15 contrasts the fool's self-righteousness with the wise man's counsel",
+          "Proverbs 9:1 opens Wisdom's great invitation with her seven-pillared house"
+        ],
+        "connections": [
+          "Proverbs 3:13 -> r/GetMotivated - Finding wisdom brings happiness",
+          "Proverbs 12:15 -> r/AmItheAsshole - The fool thinks he is always right",
+          "Proverbs 26:5 -> r/facepalm - Sometimes you must answer a fool"
+        ],
+        "difficulty_note": "Easy - 'Wisdom 5:14' sounds plausible but Wisdom of Solomon is not in Protestant KJV; the modern phrasing is also a tell"
+      },
+      "metadata": {
+        "createdAt": "2026-07-07T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-08",
+      "dayNumber": 108,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "tongue and speech",
+      "theme": "The Tongue & Speech",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.",
+          "reference": "Proverbs 18:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/psychology",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "A soft answer turneth away wrath: but grievous words stir up anger.",
+          "reference": "Proverbs 15:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.",
+          "reference": "Proverbs 17:28",
+          "translation": "KJV",
+          "linkedSubreddit": "r/mildlyinfuriating",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The words of a man's mouth are as deep waters, and the wellspring of wisdom is as a flowing brook.",
+          "reference": "Proverbs 18:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
+          "reference": "Proverbs 21:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 18:4 says 'The words of a man's mouth are as deep waters, and the wellspring of wisdom as a flowing brook'",
+          "The fake subtly inserts 'and' to restructure the verse, changing 'wellspring of wisdom' to 'the wellspring of wisdom is as a flowing brook'",
+          "The actual KJV text reads: 'The words of a man’s mouth are as deep waters, and the wellspring of wisdom as a flowing brook' — without 'is'",
+          "This is a medium challenge: the reference is real but the wording is slightly altered"
+        ],
+        "whyReal": [
+          "Proverbs 18:21 is the famous 'death and life are in the power of the tongue' verse",
+          "Proverbs 15:1 is the classic 'soft answer turneth away wrath' saying",
+          "Proverbs 21:23 warns that controlling speech protects the soul"
+        ],
+        "connections": [
+          "Proverbs 18:21 -> r/psychology - The tongue's power over life and death",
+          "Proverbs 15:1 -> r/relationship_advice - Gentle speech defuses conflict",
+          "Proverbs 21:23 -> r/DecidingToBeBetter - Guarding speech guards the soul"
+        ],
+        "difficulty_note": "Medium - The fake uses a real verse reference (Proverbs 18:4) but inserts 'is' making the grammar slightly off from actual KJV"
+      },
+      "metadata": {
+        "createdAt": "2026-07-08T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-09",
+      "dayNumber": 109,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "diligence and laziness",
+      "theme": "Diligence & Laziness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Go to the ant, thou sluggard; consider her ways, and be wise.",
+          "reference": "Proverbs 6:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/productivity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The hand of the diligent shall bear rule: but the slothful shall be under tribute.",
+          "reference": "Proverbs 12:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/careerguidance",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.",
+          "reference": "Proverbs 22:29",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Entrepreneur",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The slothful man saith, There is a lion abroad; I shall not venture forth lest I be slain in the streets.",
+          "reference": "Proverbs 22:13",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.",
+          "reference": "Proverbs 13:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/personalfinance",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 22:13 says 'The slothful man saith, There is a lion without, I shall be slain in the streets'",
+          "The fake replaces 'without' with 'abroad' and adds 'I shall not venture forth lest' before 'be slain'",
+          "The reference is real but the wording is expanded with an invented phrase",
+          "This tests knowledge of exact KJV — the absurd lion excuse IS in scripture, but not with these extra words"
+        ],
+        "whyReal": [
+          "Proverbs 6:6 is the famous 'go to the ant, thou sluggard' instruction",
+          "Proverbs 22:29 promises that a diligent worker will stand before kings",
+          "Proverbs 13:4 contrasts the sluggard's empty desires with the diligent soul's satisfaction"
+        ],
+        "connections": [
+          "Proverbs 6:6 -> r/productivity - The ant as a model of industry",
+          "Proverbs 22:29 -> r/Entrepreneur - Diligence leads to high places",
+          "Proverbs 13:4 -> r/personalfinance - Diligence produces abundance"
+        ],
+        "difficulty_note": "Medium - The fake uses the real Proverbs 22:13 reference but adds 'abroad' and an extra phrase; the lion excuse IS in the Bible, making players doubt the real verses too"
+      },
+      "metadata": {
+        "createdAt": "2026-07-09T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-10",
+      "dayNumber": 110,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "pride and humility",
+      "theme": "Pride & Humility",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Pride goeth before destruction, and an haughty spirit before a fall.",
+          "reference": "Proverbs 16:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/WinStupidPrizes",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "When pride cometh, then cometh shame: but with the lowly is wisdom.",
+          "reference": "Proverbs 11:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Showerthoughts",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Before destruction the heart of man is haughty, and before honour is humility.",
+          "reference": "Proverbs 18:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Better it is to be of an humble spirit with the lowly, than to divide the spoil with the proud.",
+          "reference": "Proverbs 16:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/simpleliving",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "A man's pride shall bring him low: but honour shall uphold the meek in spirit.",
+          "reference": "Proverbs 29:23",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 29:23 says 'A man's pride shall bring him low: but honour shall uphold the humble in spirit'",
+          "The fake replaces 'humble' with 'meek' — both are biblical words, making this very hard to detect",
+          "'Meek' appears in the Beatitudes (Matthew 5:5) but not in Proverbs 29:23",
+          "The rest of the verse is perfectly accurate, so only exact memorization reveals the swap"
+        ],
+        "whyReal": [
+          "Proverbs 16:18 is the most famous pride-before-a-fall verse in the Bible",
+          "Proverbs 11:2 pairs pride with shame and lowliness with wisdom",
+          "Proverbs 18:12 states that a haughty heart precedes destruction"
+        ],
+        "connections": [
+          "Proverbs 16:18 -> r/WinStupidPrizes - Pride before the fall",
+          "Proverbs 11:2 -> r/Showerthoughts - Shame follows pride, wisdom follows humility",
+          "Proverbs 18:12 -> r/DecidingToBeBetter - Humility before honour"
+        ],
+        "difficulty_note": "Hard - The fake subtly replaces 'humble' with 'meek' in Proverbs 29:23; both words appear in KJV elsewhere, making the swap very hard to detect without memorization"
+      },
+      "metadata": {
+        "createdAt": "2026-07-10T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-11",
+      "dayNumber": 111,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "vanity of life",
+      "theme": "Vanity of Life",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.",
+          "reference": "Ecclesiastes 1:2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.",
+          "reference": "Ecclesiastes 1:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.",
+          "reference": "Ecclesiastes 1:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "One generation passeth away, and another generation cometh: but the earth abideth for ever.",
+          "reference": "Ecclesiastes 1:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/environment",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "That which is crooked cannot be made straight: and that which is wanting cannot be numbered.",
+          "reference": "Ecclesiastes 1:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Stoicism",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "META-PUZZLE TWIST: Ecclesiastes 1:2 IS a real verse — 'Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity' — this is genuine KJV",
+          "Expert challenge: All five verses are authentic Ecclesiastes passages, all from chapter 1",
+          "The irony: A puzzle themed 'Vanity of Life' contains no fake — even the game of finding the fake is vanity",
+          "Players who second-guess the most famous verse ('Vanity of vanities') fall into the trap"
+        ],
+        "whyReal": [
+          "Ecclesiastes 1:2 is the Preacher's opening declaration — one of the most quoted lines in all scripture",
+          "Ecclesiastes 1:18 states that more wisdom brings more grief — the Preacher's painful discovery",
+          "Ecclesiastes 1:4 and 1:11 together paint the picture of generations forgotten",
+          "Ecclesiastes 1:15 concludes that some things simply cannot be fixed — all from chapter 1"
+        ],
+        "connections": [
+          "Ecclesiastes 1:2 -> r/nihilism - All is vanity",
+          "Ecclesiastes 1:18 -> r/philosophy - Knowledge and sorrow intertwined",
+          "Ecclesiastes 1:4 -> r/environment - The earth outlasts every generation",
+          "Ecclesiastes 1:11 -> r/history - Nothing is remembered"
+        ],
+        "difficulty_note": "Expert - Meta-puzzle: All five verses are genuine KJV from Ecclesiastes 1. The puzzle about vanity is itself vain — there is no fake. Players who distrust the most famous verse lose."
+      },
+      "metadata": {
+        "createdAt": "2026-07-11T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-12",
+      "dayNumber": 112,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "heart and mind",
+      "theme": "The Heart & Mind",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+          "reference": "Proverbs 3:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Keep thy heart above all keeping; for out of it proceed the issues of life.",
+          "reference": "Proverbs 4:23",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "As he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.",
+          "reference": "Proverbs 23:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/psychology",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
+          "reference": "Proverbs 18:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/BibleStudy",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "A merry heart doeth good like a medicine: but a broken spirit drieth the bones.",
+          "reference": "Proverbs 17:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Health",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 4:23 says 'Keep thy heart with all diligence; for out of it are the issues of life'",
+          "The fake replaces 'with all diligence' with 'above all keeping' — both sound authentically biblical",
+          "The fake also changes 'are' to 'proceed' — a tiny verb swap that feels natural in KJV style",
+          "Only readers who have memorized the exact phrasing will catch either of these changes"
+        ],
+        "whyReal": [
+          "Proverbs 3:5 is the beloved 'trust in the LORD with all thine heart' verse",
+          "Proverbs 23:7 gives the 'as a man thinketh in his heart, so is he' principle",
+          "Proverbs 17:22 is the famous 'merry heart doeth good like a medicine' saying"
+        ],
+        "connections": [
+          "Proverbs 3:5 -> r/Christianity - Trusting God over one's own understanding",
+          "Proverbs 23:7 -> r/psychology - Thought shapes character",
+          "Proverbs 17:22 -> r/Health - Joyfulness as medicine"
+        ],
+        "difficulty_note": "Hard - The fake subtly rewrites Proverbs 4:23, replacing 'with all diligence' with 'above all keeping' and 'are' with 'proceed' — both changes sound plausibly biblical"
+      },
+      "metadata": {
+        "createdAt": "2026-07-12T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

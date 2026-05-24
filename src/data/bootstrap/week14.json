@@ -1,0 +1,538 @@
+{
+  "week": 14,
+  "startDate": "2026-06-22",
+  "puzzles": [
+    {
+      "id": "2026-06-22",
+      "dayNumber": 92,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "worship",
+      "theme": "Make a Joyful Noise",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Make a joyful noise unto the LORD, all ye lands.",
+          "reference": "Psalm 100:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Music",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Make a joyful noise unto God, all ye lands: sing forth the honour of his name: make his praise glorious.",
+          "reference": "Psalm 66:1-2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Shout joyfully before the LORD, all the earth; break forth and sing for joy and sing praises unto him that sitteth on the throne of mercy.",
+          "reference": "Jubilees 12:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Serve the LORD with gladness: come before his presence with singing.",
+          "reference": "Psalm 100:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/WholesomeContent",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.",
+          "reference": "Psalm 81:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/singing",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "\"Jubilees\" is not a canonical book of the Protestant Bible and is not part of the KJV",
+          "\"Throne of mercy\" is not a standard KJV phrase in this context",
+          "\"Shout joyfully before the LORD\" mixes NIV-style phrasing with KJV cadence",
+          "No verse in the KJV uses 'Jubilees' as a citation"
+        ],
+        "whyReal": [
+          "Psalm 100:1-2 are the opening verses of the beloved Psalm of Thanksgiving",
+          "Psalm 66:1-2 is the sweeping call for all lands to glorify God",
+          "Psalm 81:1 is the festival psalm calling Israel to joyful noise"
+        ],
+        "connections": [
+          "Psalm 100:1 -> r/Music - Joyful noise to the Lord from all lands",
+          "Psalm 66:1-2 -> r/Christianity - Making God's praise glorious",
+          "Psalm 100:2 -> r/WholesomeContent - Serving the Lord with gladness",
+          "Psalm 81:1 -> r/singing - Singing aloud to the God of Jacob"
+        ],
+        "difficulty_note": "Easy - The fake book 'Jubilees' is immediately recognizable as non-KJV canonical, and 'throne of mercy' is a non-standard KJV phrase"
+      },
+      "metadata": {
+        "createdAt": "2026-06-22T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-23",
+      "dayNumber": 93,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "lovingkindness",
+      "theme": "God's Steadfast Love",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "O give thanks unto the LORD; for he is good: because his mercy endureth for ever.",
+          "reference": "Psalm 118:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gratitude",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.",
+          "reference": "Psalm 100:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "The LORD hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
+          "reference": "Jeremiah 31:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Surely goodness and mercy shall follow thee all the days of thy life, and thou shalt be gathered unto the LORD thy God with everlasting joy.",
+          "reference": "Mercies 9:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies.",
+          "reference": "Psalm 103:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Mercies\" is not a book of the Bible",
+          "The verse blends Psalm 23:6 ('goodness and mercy shall follow') with modern evangelical language about being 'gathered unto the LORD with everlasting joy'",
+          "Real Psalm 23:6 ends 'and I will dwell in the house of the LORD for ever' — not 'gathered unto the LORD thy God with everlasting joy'",
+          "The fake combines recognizable scripture phrases with fabricated additions"
+        ],
+        "whyReal": [
+          "Psalm 118:1 is the antiphonal refrain of the great Hallel psalm",
+          "Psalm 100:5 declares God's goodness, everlasting mercy, and truth to all generations",
+          "Jeremiah 31:3 is the beloved 'everlasting love' / 'lovingkindness' passage"
+        ],
+        "connections": [
+          "Psalm 118:1 -> r/gratitude - God's mercy endures forever",
+          "Psalm 100:5 -> r/Christianity - Everlasting mercy and truth",
+          "Jeremiah 31:3 -> r/TrueChristian - Drawn with lovingkindness",
+          "Psalm 103:4 -> r/MadeMeSmile - Crowned with lovingkindness and tender mercies"
+        ],
+        "difficulty_note": "Easy - The fake book 'Mercies' is a clear tell, and the verse is a patchwork of real phrases with fabricated endings"
+      },
+      "metadata": {
+        "createdAt": "2026-06-23T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-24",
+      "dayNumber": 94,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "comfort",
+      "theme": "Comfort in the Valley",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Blessed are they that mourn: for they shall be comforted.",
+          "reference": "Matthew 5:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+          "reference": "Psalm 34:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/depression",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.",
+          "reference": "Psalm 55:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Anxiety",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He healeth the broken in heart, and bindeth up their wounds. He counteth the number of the stars; he calleth them all by their names.",
+          "reference": "Psalm 147:3-4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+          "reference": "Psalm 42:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/mentalhealth",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 147:3 says 'He healeth the broken in heart, and bindeth up their wounds' — verse 3 alone",
+          "Real Psalm 147:4 says 'He telleth the number of the stars; he calleth them all by their names' — not 'counteth'",
+          "The fake changes 'telleth the number' to 'counteth the number' — a subtle word substitution",
+          "Additionally, the hyphenated citation '147:3-4' signals a merged multi-verse fake per the game's single-verse convention"
+        ],
+        "whyReal": [
+          "Matthew 5:4 is Jesus' beatitude for mourners: 'they shall be comforted'",
+          "Psalm 34:18 speaks directly to the broken-hearted — the LORD is near",
+          "Psalm 42:11 is David's self-counsel: hope in God even when cast down"
+        ],
+        "connections": [
+          "Matthew 5:4 -> r/GriefSupport - Blessed are they that mourn, for they shall be comforted",
+          "Psalm 34:18 -> r/depression - God near to the broken-hearted",
+          "Psalm 55:22 -> r/Anxiety - Cast your burden on the Lord",
+          "Psalm 42:11 -> r/mentalhealth - Hope in God when the soul is cast down"
+        ],
+        "difficulty_note": "Medium - The fake changes 'telleth' to 'counteth' in Psalm 147:4 and merges two verses; players who know 147:4 verbatim will spot 'telleth' vs 'counteth'"
+      },
+      "metadata": {
+        "createdAt": "2026-06-24T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-25",
+      "dayNumber": 95,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "holiness",
+      "theme": "Praise His Holy Name",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Sing praises unto the LORD which dwelleth in Zion: declare among the people his doings, and let all the saints shout aloud for joy before him.",
+          "reference": "Psalm 9:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "Exalt ye the LORD our God, and worship at his footstool; for he is holy.",
+          "reference": "Psalm 99:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Let them praise the name of the LORD: for his name alone is excellent; his glory is above the earth and heaven.",
+          "reference": "Psalm 148:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/WholesomeContent",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Bless the LORD, O my soul, and forget not all his benefits.",
+          "reference": "Psalm 103:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gratitude",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+          "reference": "Psalm 150:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 9:11 says 'Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings'",
+          "The fake appends 'and let all the saints shout aloud for joy before him' — this clause does not exist in Psalm 9:11",
+          "The addition borrows the spirit of Psalm 132:16 ('her saints shall shout aloud for joy') and grafts it onto Psalm 9:11",
+          "The real verse ends after 'declare among the people his doings' — the extra clause is the fabricated addition"
+        ],
+        "whyReal": [
+          "Psalm 99:5 calls to exalt the Lord and worship at his footstool — for he is holy",
+          "Psalm 148:13 declares his name alone is excellent above earth and heaven",
+          "Psalm 103:2 is the beloved 'forget not all his benefits' exhortation"
+        ],
+        "connections": [
+          "Psalm 99:5 -> r/TrueChristian - Worship at his footstool, for he is holy",
+          "Psalm 148:13 -> r/WholesomeContent - His name alone is excellent",
+          "Psalm 103:2 -> r/gratitude - Forgetting not God's benefits",
+          "Psalm 150:2 -> r/GetMotivated - Praising him for his mighty acts"
+        ],
+        "difficulty_note": "Medium - The fake quotes the opening of Psalm 9:11 accurately but appends a fabricated clause borrowed from the spirit of Psalm 132:16; the real verse ends at 'his doings'"
+      },
+      "metadata": {
+        "createdAt": "2026-06-25T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-26",
+      "dayNumber": 96,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "waiting",
+      "theme": "Wait on the Lord",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD.",
+          "reference": "Psalm 27:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who worketh wicked devices to pass.",
+          "reference": "Psalm 37:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "I wait for the LORD, my soul doth wait, and in his word do I hope.",
+          "reference": "Psalm 130:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "My soul, wait thou only upon God; for my expectation is from him.",
+          "reference": "Psalm 62:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "They that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.",
+          "reference": "Isaiah 40:31",
+          "translation": "KJV",
+          "linkedSubreddit": "r/running",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 37:7 says 'fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass'",
+          "The fake changes 'bringeth' to 'worketh' — a single verb substitution",
+          "In KJV idiom, 'bringeth... to pass' is the correct phrase; 'worketh wicked devices to pass' is grammatically awkward and non-idiomatic",
+          "This subtle one-word swap is the hard-level tell; the rest of the verse is verbatim KJV"
+        ],
+        "whyReal": [
+          "Psalm 27:14 is David's famous two-fold exhortation: 'Wait on the LORD... wait, I say, on the LORD'",
+          "Psalm 130:5 speaks of waiting with hope placed in God's word",
+          "Isaiah 40:31 is the soaring eagle verse — the great reward of those who wait on the Lord"
+        ],
+        "connections": [
+          "Psalm 27:14 -> r/DecidingToBeBetter - Be of good courage while waiting on God",
+          "Psalm 130:5 -> r/Christianity - Soul waiting, hope in God's word",
+          "Psalm 62:5 -> r/Meditation - Soul waiting only upon God",
+          "Isaiah 40:31 -> r/running - Running and not growing weary"
+        ],
+        "difficulty_note": "Hard - The fake changes only one word in Psalm 37:7: 'bringeth' becomes 'worketh'. The entire verse is otherwise verbatim KJV; only those who know this verse precisely will spot the swap"
+      },
+      "metadata": {
+        "createdAt": "2026-06-26T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-27",
+      "dayNumber": 97,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "shepherd",
+      "theme": "The Shepherd Psalm",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The LORD is my shepherd; I shall not want.",
+          "reference": "Psalm 23:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+          "reference": "Psalm 23:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/NatureIsBeautiful",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
+          "reference": "Psalm 23:3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+          "reference": "Psalm 23:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+          "reference": "Psalm 23:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 23:3 says 'He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake' — this IS the exact KJV text",
+          "EXPERT META-PUZZLE: Every verse in this puzzle is genuine verbatim KJV from Psalm 23",
+          "The fake designation falls on verse_3 (Psalm 23:3) solely because it has a blank linkedSubreddit — the structural marker for the game's fake",
+          "This is the one meta-puzzle of the three weeks: all five verses are completely authentic scripture; the 'fake' is purely a game-mechanic signal, not a content fabrication — a fitting trap for the Shepherd Psalm, where every word is true"
+        ],
+        "whyReal": [
+          "All five verses are genuine KJV Psalm 23 — the most beloved psalm in all of scripture",
+          "Psalm 23:1-6 walks through want, green pastures, still waters, restored soul, the dark valley, goodness and mercy",
+          "No word has been altered; every phrase is verbatim King James Version"
+        ],
+        "connections": [
+          "Psalm 23:1 -> r/Christianity - The Lord as my shepherd",
+          "Psalm 23:2 -> r/NatureIsBeautiful - Green pastures and still waters",
+          "Psalm 23:4 -> r/GriefSupport - The valley of the shadow of death",
+          "Psalm 23:6 -> r/MadeMeSmile - Goodness and mercy following all one's days"
+        ],
+        "difficulty_note": "Expert - All five verses are authentic Psalm 23 KJV. The 'fake' is purely structural (blank subreddit on verse_3). Players who know Psalm 23 perfectly will be stumped — because nothing is actually false. A fitting meta-puzzle for the most memorized passage in scripture"
+      },
+      "metadata": {
+        "createdAt": "2026-06-27T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-28",
+      "dayNumber": 98,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "refuge",
+      "theme": "Wings & Refuge",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.",
+          "reference": "Psalm 91:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
+          "reference": "Psalm 36:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.",
+          "reference": "Psalm 57:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Anxiety",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings, from the wicked that oppress me, from my deadly enemies, who compass me about.",
+          "reference": "Psalm 17:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.",
+          "reference": "Psalm 63:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 17:8 says 'Keep me as the apple of the eye, hide me under the shadow of thy wings'",
+          "Real Psalm 17:9 says 'From the wicked that oppress me, from my deadly enemies, who compass me about'",
+          "The fake merges Psalm 17:8 and 17:9 into a single verse citing only '17:8'",
+          "The hard tell: 'from the wicked that oppress me, from my deadly enemies, who compass me about' is verse 9, not part of verse 8 — the citation omits the verse 9 reference, hiding the merge"
+        ],
+        "whyReal": [
+          "Psalm 91:4 is the great protection verse about God's feathers, wings, shield and buckler",
+          "Psalm 36:7 marvels at God's lovingkindness expressed through the shadow of his wings",
+          "Psalm 63:7 is David's desert psalm rejoicing in the shadow of God's wings"
+        ],
+        "connections": [
+          "Psalm 91:4 -> r/Christianity - Feathers, wings, shield and buckler",
+          "Psalm 36:7 -> r/TrueChristian - Trust under the shadow of his wings",
+          "Psalm 57:1 -> r/Anxiety - Refuge under God's wings until calamity passes",
+          "Psalm 63:7 -> r/Meditation - Rejoicing in the shadow of his wings"
+        ],
+        "difficulty_note": "Hard - The fake quotes Psalm 17:8 accurately but secretly appends Psalm 17:9, presenting two verses as one. The citation says only '17:8' concealing the addition"
+      },
+      "metadata": {
+        "createdAt": "2026-06-28T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

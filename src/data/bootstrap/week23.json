@@ -1,0 +1,531 @@
+{
+  "week": 23,
+  "startDate": "2026-08-24",
+  "puzzles": [
+    {
+      "id": "2026-08-24",
+      "dayNumber": 155,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "love",
+      "theme": "Love One Another",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+          "reference": "John 13:34",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "This is my commandment, That ye love one another, as I have loved you.",
+          "reference": "John 15:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death.",
+          "reference": "1 John 3:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HumansBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.",
+          "reference": "Ephesians 4:32",
+          "translation": "KJV",
+          "linkedSubreddit": "r/RandomActsOfKindness",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Let every man love his neighbour as himself, walking in patience and tender mercies, that peace may reign among the brethren.",
+          "reference": "Community 2:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "\"Community\" is not a book of the Bible",
+          "\"Walking in patience and tender mercies, that peace may reign\" is modern devotional paraphrase language",
+          "The real command to love one's neighbour as oneself comes from Leviticus 19:18 and Matthew 22:39 — not this invented source",
+          "Easy tell: fabricated book name and feel-good modern sentiment"
+        ],
+        "whyReal": [
+          "John 13:34 is Jesus' direct command to love one another as he loved us",
+          "1 John 3:14 links love of fellow believers to passing from death to life",
+          "Ephesians 4:32 commands kindness, tenderheartedness, and forgiveness in Christ"
+        ],
+        "connections": [
+          "John 13:34 -> r/Christianity - The new commandment to love",
+          "1 John 3:14 -> r/HumansBeingBros - Love proves we are alive in Christ",
+          "Ephesians 4:32 -> r/RandomActsOfKindness - Be kind and tenderhearted"
+        ],
+        "difficulty_note": "Easy - The fake book 'Community' and modern devotional phrasing are immediate tells"
+      },
+      "metadata": {
+        "createdAt": "2026-08-24T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-25",
+      "dayNumber": 156,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "armor",
+      "theme": "Spiritual Warfare",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Finally, my brethren, be strong in the Lord, and in the power of his might.",
+          "reference": "Ephesians 6:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Gird up thy mind with the armour of righteousness, and let thy spirit be shielded by the power of the Holy One, that no dart of the enemy shall prevail.",
+          "reference": "Warfare 5:3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "Nay, in all these things we are more than conquerors through him that loved us.",
+          "reference": "Romans 8:37",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour.",
+          "reference": "1 Peter 5:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.",
+          "reference": "James 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/spirituality",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "\"Warfare\" is not a book of the Bible",
+          "\"Gird up thy mind\" conflates 1 Peter 1:13 (gird up the loins of your mind) with Ephesians 6 imagery",
+          "\"Shield by the power of the Holy One\" is invented language not found in KJV",
+          "Easy tell: fabricated book name and blended imagery from multiple real passages"
+        ],
+        "whyReal": [
+          "Ephesians 6:10 opens Paul's armor of God passage with the command to be strong in the Lord",
+          "1 Peter 5:8 warns of the devil walking about as a roaring lion",
+          "James 4:7 gives the two-part remedy: submit to God, resist the devil"
+        ],
+        "connections": [
+          "Ephesians 6:10 -> r/Christianity - Be strong in the Lord",
+          "Romans 8:37 -> r/GetMotivated - More than conquerors",
+          "James 4:7 -> r/spirituality - Submit and resist"
+        ],
+        "difficulty_note": "Easy - The fake book 'Warfare' and the blended imagery of multiple real passages make this a straightforward catch"
+      },
+      "metadata": {
+        "createdAt": "2026-08-25T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-26",
+      "dayNumber": 157,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "fruit",
+      "theme": "Walking in the Spirit",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
+          "reference": "Galatians 5:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "If we live in the Spirit, let us also walk in the Spirit.",
+          "reference": "Galatians 5:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.",
+          "reference": "Romans 8:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "But if the Spirit of him that raised up Jesus from the dead shall quicken your mortal bodies by his Spirit that dwelleth in thee.",
+          "reference": "Romans 8:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+          "reference": "Romans 8:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Romans 8:11 says '...shall also quicken your mortal bodies by his Spirit that dwelleth in you' — ending with 'in you' (plural)",
+          "The fake changes 'in you' to 'in thee' (singular second person)",
+          "In KJV, 'thee' is singular and 'you' is plural; Paul is addressing the whole Roman congregation, so 'you' (plural) is correct",
+          "Medium difficulty: requires knowing the precise KJV pronoun in this specific verse"
+        ],
+        "whyReal": [
+          "Galatians 5:16 is Paul's core command to walk in the Spirit",
+          "Romans 8:5 contrasts fleshly and spiritual mindsets",
+          "Romans 8:1 is the great declaration of no condemnation in Christ Jesus"
+        ],
+        "connections": [
+          "Galatians 5:16 -> r/Christianity - Walk in the Spirit",
+          "Romans 8:5 -> r/DecidingToBeBetter - Mind set on the Spirit",
+          "Romans 8:1 -> r/GriefSupport - No condemnation in Christ"
+        ],
+        "difficulty_note": "Medium - The fake changes 'you' to 'thee' in Romans 8:11, exploiting KJV archaic pronoun variety to hide a subtle number error"
+      },
+      "metadata": {
+        "createdAt": "2026-08-26T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-27",
+      "dayNumber": 158,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "body",
+      "theme": "Many Members, One Body",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For the body is not one member, but many.",
+          "reference": "1 Corinthians 12:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.",
+          "reference": "1 Corinthians 12:26",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.",
+          "reference": "Ephesians 4:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "That there should be no schism in the body; but that the members should have the same care one for another.",
+          "reference": "1 Corinthians 12:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/church",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; for the perfecting of the saints and the building up of the body, that all may attain unto the unity of the faith.",
+          "reference": "Ephesians 4:11-12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Ephesians 4:11-12 says '...for the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ'",
+          "The fake replaces 'for the work of the ministry, for the edifying of the body of Christ' with 'and the building up of the body, that all may attain unto the unity of the faith'",
+          "The phrase 'unity of the faith' is from Ephesians 4:13, not verse 12 — the fake borrows from the next verse",
+          "Medium difficulty: the opening of the verse is correct; the error is in how it concludes"
+        ],
+        "whyReal": [
+          "1 Corinthians 12:14 succinctly states the body is not one member but many",
+          "1 Corinthians 12:26 describes mutual suffering and rejoicing within the body",
+          "1 Corinthians 12:25 commands no schism and equal care among members"
+        ],
+        "connections": [
+          "1 Corinthians 12:26 -> r/TrueChristian - Mutual suffering and rejoicing",
+          "1 Corinthians 12:25 -> r/church - No division; care for one another",
+          "Ephesians 4:16 -> r/relationship_advice - The body grows as every part works"
+        ],
+        "difficulty_note": "Medium - The fake correctly opens Ephesians 4:11-12 but splices in language from verse 13, swapping 'edifying of the body of Christ' for a paraphrase"
+      },
+      "metadata": {
+        "createdAt": "2026-08-27T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-28",
+      "dayNumber": 159,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "perseverance",
+      "theme": "Running the Race",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain.",
+          "reference": "1 Corinthians 9:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/running",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "I have fought a good fight, I have finished my course, I have kept the faith.",
+          "reference": "2 Timothy 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.",
+          "reference": "Hebrews 12:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.",
+          "reference": "1 Corinthians 9:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/fitness",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and pressing forward toward the mark for the prize of the high calling of God.",
+          "reference": "Philippians 3:13",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Philippians 3:13 says '...forgetting those things which are behind, and reaching forth unto those things which are before'",
+          "The fake replaces 'reaching forth unto those things which are before' with 'pressing forward toward the mark for the prize of the high calling of God'",
+          "The phrase about the mark and prize is from Philippians 3:14, not verse 13",
+          "Hard: the opening of the verse is verbatim; the error comes at the end where verse 14 content is merged in"
+        ],
+        "whyReal": [
+          "1 Corinthians 9:24 is Paul's racing metaphor urging believers to run to win",
+          "2 Timothy 4:7 is Paul's triumphant deathbed declaration",
+          "Hebrews 12:2 calls believers to fix their eyes on Jesus, the pioneer and perfecter of faith"
+        ],
+        "connections": [
+          "1 Corinthians 9:24 -> r/running - Run the race to obtain the prize",
+          "1 Corinthians 9:25 -> r/fitness - Temperate discipline for an eternal crown",
+          "Hebrews 12:2 -> r/Christianity - Looking unto Jesus the finisher of faith"
+        ],
+        "difficulty_note": "Hard - The fake opens with verbatim Philippians 3:13 but replaces its ending with the content of verse 14, crossing the verse boundary invisibly"
+      },
+      "metadata": {
+        "createdAt": "2026-08-28T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-29",
+      "dayNumber": 160,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "love",
+      "theme": "Charity: The More Excellent Way",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+          "reference": "1 Corinthians 13:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up.",
+          "reference": "1 Corinthians 13:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.",
+          "reference": "1 Corinthians 13:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Charity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.",
+          "reference": "1 Corinthians 13:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And now abideth faith, hope, love, these three; but the greatest of these is love.",
+          "reference": "1 Corinthians 13:13",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real 1 Corinthians 13:13 (KJV) says 'And now abideth faith, hope, charity, these three; but the greatest of these is charity'",
+          "The fake substitutes 'love' for 'charity' — the NIV/ESV rendering — in a puzzle set in KJV",
+          "Expert difficulty: the sentence structure and meaning are identical; only the translation choice of 'charity' vs. 'love' distinguishes it",
+          "The KJV consistently renders the Greek 'agape' as 'charity' throughout 1 Corinthians 13, never 'love'"
+        ],
+        "whyReal": [
+          "1 Corinthians 13:1 correctly uses 'charity' in KJV",
+          "1 Corinthians 13:4 uses 'charity' four times — all verbatim KJV",
+          "1 Corinthians 13:8 opens with 'Charity never faileth' — the authentic KJV word"
+        ],
+        "connections": [
+          "1 Corinthians 13:1 -> r/Christianity - Without charity, words are noise",
+          "1 Corinthians 13:3 -> r/Charity - Even generosity is hollow without charity",
+          "1 Corinthians 13:4 -> r/relationship_advice - Charity is kind and not jealous"
+        ],
+        "difficulty_note": "Expert - The fake swaps KJV 'charity' for modern 'love' in 13:13; every real verse uses 'charity' correctly, making the translation substitution extremely subtle"
+      },
+      "metadata": {
+        "createdAt": "2026-08-29T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-30",
+      "dayNumber": 161,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "grace",
+      "theme": "Grace Abounding",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For the grace of God that bringeth salvation hath appeared to all men.",
+          "reference": "Titus 2:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ.",
+          "reference": "2 Peter 3:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Being justified freely by his grace through the redemption that is in Christ Jesus.",
+          "reference": "Romans 3:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And if by grace, then is it no more of works: otherwise grace is no more grace.",
+          "reference": "Romans 11:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/theology",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "For sin shall not have dominion over you: for ye are not under the law, but under grace and in the Spirit of holiness.",
+          "reference": "Romans 6:14",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Romans 6:14 says 'For sin shall not have dominion over you: for ye are not under the law, but under grace' — the verse ends there",
+          "The fake appends 'and in the Spirit of holiness' which is fabricated; it does not appear in Romans 6:14",
+          "The phrase 'Spirit of holiness' appears in Romans 1:4 in a completely different context",
+          "Hard: the first half of the verse is verbatim KJV; the fabrication is limited to a short appended phrase"
+        ],
+        "whyReal": [
+          "Titus 2:11 announces grace appearing to all men for salvation",
+          "2 Peter 3:18 commands growth in grace and knowledge of Christ",
+          "Romans 11:6 logically argues grace and works are mutually exclusive categories"
+        ],
+        "connections": [
+          "Titus 2:11 -> r/Christianity - Grace appeared to all men",
+          "2 Peter 3:18 -> r/DecidingToBeBetter - Grow in grace",
+          "Romans 11:6 -> r/theology - Grace is not of works"
+        ],
+        "difficulty_note": "Hard - The fake appends 'and in the Spirit of holiness' to Romans 6:14, which otherwise ends correctly; the addition is short but completely fabricated"
+      },
+      "metadata": {
+        "createdAt": "2026-08-30T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "week": 24,
+  "startDate": "2026-08-31",
+  "puzzles": [
+    {
+      "id": "2026-08-31",
+      "dayNumber": 162,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "perseverance",
+      "theme": "Strength & Endurance",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "I can do all things through Christ which strengtheneth me.",
+          "reference": "Philippians 4:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+          "reference": "Galatians 6:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "He giveth power to the faint; and to them that have no might he increaseth strength.",
+          "reference": "Isaiah 40:29",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The Lord is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+          "reference": "Psalm 28:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Strengthen ye the weak hands, confirm the feeble knees, and speak comfort to those that stumble, lest they fall in the day of testing.",
+          "reference": "Perseverance 3:3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "\"Perseverance\" is not a book of the Bible",
+          "The real verse about strengthening weak hands comes from Isaiah 35:3, but the wording here is a free paraphrase",
+          "\"Speak comfort to those that stumble, lest they fall in the day of testing\" is fabricated modern devotional language",
+          "Easy tell: invented book name and paraphrased content that sounds biblical but is not verbatim KJV"
+        ],
+        "whyReal": [
+          "Philippians 4:13 is the iconic verse on doing all things through Christ",
+          "Galatians 6:9 encourages believers not to grow weary in well-doing",
+          "Psalm 28:7 is David's praise for God as his strength and shield"
+        ],
+        "connections": [
+          "Philippians 4:13 -> r/GetMotivated - Strength through Christ",
+          "Galatians 6:9 -> r/DecidingToBeBetter - Do not faint in well-doing",
+          "Psalm 28:7 -> r/TrueChristian - Heart trusted in God and helped"
+        ],
+        "difficulty_note": "Easy - The fake book 'Perseverance' and the paraphrased content are immediate tells"
+      },
+      "metadata": {
+        "createdAt": "2026-08-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-01",
+      "dayNumber": 163,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "faith",
+      "theme": "Faith Without Works",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Whosoever believeth and acteth upon his belief shall receive the crown of righteousness, for faith that is lived is faith that is pleasing.",
+          "reference": "Works 1:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "For as the body without the spirit is dead, so faith without works is dead also.",
+          "reference": "James 2:26",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.",
+          "reference": "James 2:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "But wilt thou know, O vain man, that faith without works is dead?",
+          "reference": "James 2:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?",
+          "reference": "James 2:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AskChristians",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "\"Works\" is not a book of the Bible",
+          "\"Crown of righteousness\" appears in 2 Timothy 4:8, not in a book called 'Works 1:9'",
+          "\"Faith that is lived is faith that is pleasing\" is modern devotional sentiment, not KJV language",
+          "Easy tell: fabricated book name and mixed modern phrasing"
+        ],
+        "whyReal": [
+          "James 2:26 uses the body-without-spirit analogy for faith without works",
+          "James 2:18 is the famous challenge: show me your faith without works",
+          "James 2:14 opens the faith-and-works argument with a rhetorical question"
+        ],
+        "connections": [
+          "James 2:26 -> r/Christianity - Faith without works is dead",
+          "James 2:18 -> r/TrueChristian - Show faith through works",
+          "James 2:14 -> r/AskChristians - Can faith alone save?"
+        ],
+        "difficulty_note": "Easy - The fake book 'Works' and modern devotional phrasing stand out immediately against the genuine James 2 verses"
+      },
+      "metadata": {
+        "createdAt": "2026-09-01T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-02",
+      "dayNumber": 164,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "love",
+      "theme": "God Is Love",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "He that loveth not knoweth not God; for God is love.",
+          "reference": "1 John 4:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.",
+          "reference": "1 John 4:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might have peace through him.",
+          "reference": "1 John 4:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.",
+          "reference": "1 John 4:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+          "reference": "1 John 4:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Anxiety",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Real 1 John 4:9 says '...that God sent his only begotten Son into the world, that we might live through him'",
+          "The fake replaces 'that we might live through him' with 'that we might have peace through him'",
+          "This borrows from Romans 5:1 ('we have peace with God through our Lord Jesus Christ') to make the substitution sound plausible",
+          "Medium difficulty: the reference is real, and the verse opening is verbatim; only the final clause is swapped"
+        ],
+        "whyReal": [
+          "1 John 4:8 gives the foundational definition 'God is love'",
+          "1 John 4:10 defines love by God's initiative — sending Christ as propitiation",
+          "1 John 4:18 declares perfect love casts out fear"
+        ],
+        "connections": [
+          "1 John 4:8 -> r/Christianity - God is love",
+          "1 John 4:10 -> r/GriefSupport - God loved us first",
+          "1 John 4:18 -> r/Anxiety - Perfect love casts out fear"
+        ],
+        "difficulty_note": "Medium - The fake correctly opens 1 John 4:9 but swaps 'live' for 'have peace'; the borrowed phrase from Romans 5:1 makes the change sound biblical"
+      },
+      "metadata": {
+        "createdAt": "2026-09-02T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-03",
+      "dayNumber": 165,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "fruit",
+      "theme": "Fruit of the Spirit: Peace & Joy",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.",
+          "reference": "Philippians 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.",
+          "reference": "Isaiah 26:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Rejoice in the Lord alway: and again I say, Rejoice.",
+          "reference": "Philippians 4:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.",
+          "reference": "John 15:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto thee. Let not your heart be troubled, neither let it be afraid.",
+          "reference": "John 14:27",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real John 14:27 says 'Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid'",
+          "The fake changes the second 'give I unto you' to 'give I unto thee' — substituting the singular second-person pronoun for the plural",
+          "In KJV, Jesus is addressing his disciples collectively, so the plural 'you' is correct throughout this verse",
+          "Medium difficulty: the change is a single pronoun and requires knowing whether this verse uses 'thee' or 'you'"
+        ],
+        "whyReal": [
+          "Philippians 4:7 is the beloved 'peace that passes all understanding' verse",
+          "Isaiah 26:3 promises perfect peace to the mind stayed on God",
+          "John 15:11 gives Jesus' stated purpose: that his joy might remain in his disciples"
+        ],
+        "connections": [
+          "Philippians 4:7 -> r/Christianity - Peace beyond understanding",
+          "Isaiah 26:3 -> r/Meditation - Mind stayed on God receives perfect peace",
+          "Philippians 4:4 -> r/GetMotivated - Rejoice in the Lord always"
+        ],
+        "difficulty_note": "Medium - The fake swaps 'you' for 'thee' mid-verse in John 14:27, mixing KJV singular and plural pronouns in a verse that uses plural throughout"
+      },
+      "metadata": {
+        "createdAt": "2026-09-03T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-04",
+      "dayNumber": 166,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "faith",
+      "theme": "Faith in Action",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.",
+          "reference": "Romans 1:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Jesus said unto him, If thou canst believe, all things are possible to him that believeth.",
+          "reference": "Mark 9:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and nothing shall be impossible unto you.",
+          "reference": "Matthew 17:20",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.",
+          "reference": "Romans 1:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Verily I say unto you, Whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.",
+          "reference": "Mark 11:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/spirituality",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Real Matthew 17:20 says '...ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you'",
+          "The fake drops the clause 'and it shall remove' — skipping from 'yonder place' directly to 'and nothing shall be impossible'",
+          "The omission removes a key verbal echo that confirms the mountain actually moves before the conclusion",
+          "Hard difficulty: the verse is well-known, but the missing middle clause is easy to overlook because the meaning still flows"
+        ],
+        "whyReal": [
+          "Romans 1:17 is the theological anchor 'The just shall live by faith' (cited from Habakkuk 2:4)",
+          "Mark 9:23 contains Jesus' promise that all things are possible to the one who believes",
+          "Mark 11:23 is Jesus' teaching on mountain-moving faith without doubt"
+        ],
+        "connections": [
+          "Romans 1:17 -> r/Christianity - The just shall live by faith",
+          "Mark 9:23 -> r/GetMotivated - All things possible to the believer",
+          "Mark 11:23 -> r/spirituality - Speak to the mountain without doubting"
+        ],
+        "difficulty_note": "Hard - The fake drops 'and it shall remove' from Matthew 17:20; the verse opening and closing are correct, making the missing middle clause easy to miss"
+      },
+      "metadata": {
+        "createdAt": "2026-09-04T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-05",
+      "dayNumber": 167,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "armor",
+      "theme": "The Full Armor of God",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.",
+          "reference": "Ephesians 6:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.",
+          "reference": "Ephesians 6:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness.",
+          "reference": "Ephesians 6:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/spirituality",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And your feet shod with the preparation of the gospel of peace; above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked one.",
+          "reference": "Ephesians 6:15-16",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God.",
+          "reference": "Ephesians 6:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/LifeAdvice",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Ephesians 6:15 says 'And your feet shod with the preparation of the gospel of peace' — correct",
+          "Real Ephesians 6:16 says 'Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked' — ending with 'the wicked', not 'the wicked one'",
+          "The fake adds 'one' after 'wicked' — this is NIV/ESV language; the KJV says simply 'the wicked'",
+          "Expert difficulty: both verses are correctly joined; the single added word 'one' requires very precise KJV knowledge to catch"
+        ],
+        "whyReal": [
+          "Ephesians 6:11 is the command to put on the full armor of God",
+          "Ephesians 6:12 identifies the true adversaries as spiritual forces, not flesh and blood",
+          "Ephesians 6:17 specifies the helmet of salvation and sword of the Spirit"
+        ],
+        "connections": [
+          "Ephesians 6:11 -> r/Christianity - Put on the whole armor",
+          "Ephesians 6:12 -> r/TrueChristian - Wrestling against spiritual powers",
+          "Ephesians 6:17 -> r/LifeAdvice - Helmet and sword for daily life"
+        ],
+        "difficulty_note": "Expert - The fake correctly combines Ephesians 6:15-16 but appends 'one' after 'wicked'; KJV says 'the wicked' not 'the wicked one', a single-word difference requiring very precise KJV memory"
+      },
+      "metadata": {
+        "createdAt": "2026-09-05T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-06",
+      "dayNumber": 168,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "body",
+      "theme": "Gifts of the Spirit",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Now concerning spiritual gifts, brethren, I would not have you ignorant. There are diversities of gifts, and each man shall find his portion as the Spirit appointeth.",
+          "reference": "1 Corinthians 12:1",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "But the manifestation of the Spirit is given to every man to profit withal.",
+          "reference": "1 Corinthians 12:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.",
+          "reference": "1 Corinthians 12:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith.",
+          "reference": "Romans 12:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/church",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.",
+          "reference": "1 Corinthians 14:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AskChristians",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Real 1 Corinthians 12:1 says 'Now concerning spiritual gifts, brethren, I would not have you ignorant' — the first sentence is correct",
+          "The fake appends 'There are diversities of gifts, and each man shall find his portion as the Spirit appointeth' which is fabricated",
+          "The real verse 1 ends after 'ignorant'; the content about diversities of gifts belongs to verse 4",
+          "Hard: the opening sentence is verbatim; the fabricated addition is worded in archaic KJV style to obscure the splice"
+        ],
+        "whyReal": [
+          "1 Corinthians 12:7 states every believer receives a manifestation of the Spirit for the common good",
+          "1 Corinthians 12:11 clarifies the same Spirit distributes gifts as he wills",
+          "1 Corinthians 14:1 prioritizes charity and the gift of prophecy above other gifts"
+        ],
+        "connections": [
+          "1 Corinthians 12:7 -> r/Christianity - Gifts given for communal profit",
+          "Romans 12:6 -> r/church - Gifts proportional to each person's faith",
+          "1 Corinthians 14:1 -> r/AskChristians - Pursue charity and prophesy"
+        ],
+        "difficulty_note": "Hard - The fake opens with verbatim 1 Corinthians 12:1 then appends fabricated content about 'each man shall find his portion' in archaic KJV style"
+      },
+      "metadata": {
+        "createdAt": "2026-09-06T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "week": 27,
+  "startDate": "2026-09-21",
+  "puzzles": [
+    {
+      "id": "2026-09-21",
+      "dayNumber": 183,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "isaiah servant songs",
+      "theme": "Good News from Isaiah",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound.",
+          "reference": "Isaiah 61:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation.",
+          "reference": "Isaiah 52:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/hiking",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold your God!",
+          "reference": "Isaiah 40:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/mountains",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Go ye therefore into all the world and proclaim the good news, baptizing them in the name of the Father and the Son and the Holy Spirit, for the kingdom is at hand.",
+          "reference": "Isaiah 61:2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness.",
+          "reference": "Isaiah 61:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Isaiah 61:2 actually reads: 'To proclaim the acceptable year of the LORD, and the day of vengeance of our God'",
+          "The fake substitutes the Great Commission text from Matthew 28:19 and assigns it to Isaiah",
+          "Trinitarian baptismal formula language does not appear in Isaiah",
+          "\"For the kingdom is at hand\" is New Testament phrasing; Isaiah would say 'acceptable year of the LORD'"
+        ],
+        "whyReal": [
+          "Isaiah 61:1 is the text Jesus read in the Nazareth synagogue in Luke 4:18",
+          "Isaiah 52:7 is the 'beautiful feet' verse celebrating gospel messengers",
+          "Isaiah 61:3 gives the beloved 'beauty for ashes' promise"
+        ],
+        "connections": [
+          "Isaiah 61:1 -> r/Christianity - The anointed one's mission",
+          "Isaiah 52:7 -> r/hiking - Beautiful feet on the mountains",
+          "Isaiah 61:3 -> r/GriefSupport - Beauty for ashes, joy for mourning"
+        ],
+        "difficulty_note": "Easy - The fake inserts clear New Testament Great Commission language into an Isaiah reference"
+      },
+      "metadata": {
+        "createdAt": "2026-09-21T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-22",
+      "dayNumber": 184,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "god's sovereignty",
+      "theme": "God's Sovereignty",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The earth is the LORD's, and the fulness thereof; the world, and they that dwell therein.",
+          "reference": "Psalm 24:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/environment",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places.",
+          "reference": "Psalm 135:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Theology",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof.",
+          "reference": "Psalm 97:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/worship",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Thus saith the LORD, the heaven is my throne, and the earth is my footstool: where is the house that ye build unto me? and where is the place of my rest?",
+          "reference": "Isaiah 66:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "All the nations of the earth are as nothing before him; he raiseth up kings and bringeth them down, and the stars of heaven bow at his word.",
+          "reference": "Sovereignty 1:3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "\"Sovereignty\" is not a book of the Bible",
+          "The content loosely echoes Daniel 2:21 and Isaiah 40:17 but matches neither exactly",
+          "\"Stars of heaven bow at his word\" is invented poetic language not found in scripture",
+          "The fabricated book name is the obvious tell for this easy puzzle"
+        ],
+        "whyReal": [
+          "Psalm 24:1 opens with the famous declaration of God's ownership of all creation",
+          "Psalm 135:6 declares God does whatever he pleases in heaven and earth",
+          "Isaiah 66:1 records God's own words: heaven is my throne, earth my footstool"
+        ],
+        "connections": [
+          "Psalm 24:1 -> r/environment - The earth belongs to the LORD",
+          "Psalm 97:1 -> r/worship - The LORD reigns; let the earth rejoice",
+          "Isaiah 66:1 -> r/Christianity - Heaven throne, earth footstool"
+        ],
+        "difficulty_note": "Easy - The book 'Sovereignty' does not exist in the Bible canon"
+      },
+      "metadata": {
+        "createdAt": "2026-09-22T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-23",
+      "dayNumber": 185,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "revelation beast judgment",
+      "theme": "Judgment in Revelation",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life.",
+          "reference": "Revelation 20:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Theology",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And whosoever was not found written in the book of life was cast into the lake of fire.",
+          "reference": "Revelation 20:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.",
+          "reference": "Revelation 14:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.",
+          "reference": "Revelation 15:2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him.",
+          "reference": "Revelation 6:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/books",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Revelation 15:1 describes the seven angels with seven last plagues, not verse 2",
+          "Revelation 15:2 actually reads: 'And I saw as it were a sea of glass mingled with fire'",
+          "The seven-angels-seven-plagues description belongs to verse 1, not verse 2",
+          "The off-by-one verse error is the medium-difficulty fabrication"
+        ],
+        "whyReal": [
+          "Revelation 20:12 depicts the great white throne judgment with books opened",
+          "Revelation 20:15 — those not in the book of life cast into the lake of fire",
+          "Revelation 6:8 — the pale horse whose rider is Death, one of scripture's most vivid images"
+        ],
+        "connections": [
+          "Revelation 20:12 -> r/Theology - The great white throne judgment scene",
+          "Revelation 14:7 -> r/TrueChristian - The eternal gospel's call to worship",
+          "Revelation 6:8 -> r/books - Death on the pale horse"
+        ],
+        "difficulty_note": "Medium - The text about seven angels is real Revelation but belongs to verse 1, not verse 2"
+      },
+      "metadata": {
+        "createdAt": "2026-09-23T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-24",
+      "dayNumber": 186,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "isaiah highway",
+      "theme": "The Highway of Holiness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.",
+          "reference": "Isaiah 40:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/roadtrip",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein.",
+          "reference": "Isaiah 35:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians.",
+          "reference": "Isaiah 19:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Cast ye up, cast ye up, prepare the way, take up the stumblingblock out of the way of my people.",
+          "reference": "Isaiah 57:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Theology",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And there shall be a great highway from Assyria for the remnant of his people, which shall be left, as there was to Israel in the day that he came up out of the land of Egypt.",
+          "reference": "Isaiah 11:16",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Isaiah 11:16 reads exactly: 'And there shall be an highway for the remnant of his people, which shall be left, from Assyria'",
+          "The fake says 'a great highway from Assyria' — but the KJV says 'an highway...from Assyria' not 'a great highway'",
+          "The real verse also places the remnant clause differently in the sentence structure",
+          "The word 'great' is a subtle addition not in the actual KJV text"
+        ],
+        "whyReal": [
+          "Isaiah 40:3 is the famous 'highway in the desert' prophecy fulfilled by John the Baptist",
+          "Isaiah 35:8 names it 'The way of holiness' — wayfaring men shall not err therein",
+          "Isaiah 57:14 commands the removal of stumbling blocks from the people's path"
+        ],
+        "connections": [
+          "Isaiah 40:3 -> r/roadtrip - The desert highway prepared for God",
+          "Isaiah 35:8 -> r/Christianity - The Holy Way for the redeemed",
+          "Isaiah 19:23 -> r/history - Egypt and Assyria joined by a highway in prophecy"
+        ],
+        "difficulty_note": "Medium - The fake inserts the word 'great' and reorders the relative clause of Isaiah 11:16"
+      },
+      "metadata": {
+        "createdAt": "2026-09-24T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-25",
+      "dayNumber": 187,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "isaiah suffering servant",
+      "theme": "Prophecy & Fulfillment",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.",
+          "reference": "Isaiah 7:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder.",
+          "reference": "Isaiah 9:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel.",
+          "reference": "Micah 5:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.",
+          "reference": "Zechariah 12:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.",
+          "reference": "Zechariah 9:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The text belongs to Zechariah 12:10, not Zechariah 12:11",
+          "Real Zechariah 12:11 reads: 'In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon'",
+          "The piercing-and-mourning verse is verse 10; attributing it to verse 11 is the hard-level error",
+          "Both verses share mourning imagery, making the off-by-one swap very convincing"
+        ],
+        "whyReal": [
+          "Isaiah 7:14 is the virgin-Immanuel sign given to Ahaz, fulfilled in Matthew 1:23",
+          "Micah 5:2 names Bethlehem as the birthplace of the eternal ruler — cited by the scribes in Matthew 2",
+          "Zechariah 9:9 is the triumphal entry prophecy fulfilled on Palm Sunday"
+        ],
+        "connections": [
+          "Isaiah 7:14 -> r/Christianity - Immanuel born of a virgin",
+          "Isaiah 9:6 -> r/TrueChristian - A child born, a son given",
+          "Zechariah 9:9 -> r/Bible - The king riding on a donkey"
+        ],
+        "difficulty_note": "Hard - Zechariah 12:10 and 12:11 are adjacent; the mourning language makes the swap difficult to detect"
+      },
+      "metadata": {
+        "createdAt": "2026-09-25T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-26",
+      "dayNumber": 188,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "revelation alpha omega",
+      "theme": "The Alpha and Omega",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.",
+          "reference": "Revelation 1:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.",
+          "reference": "Revelation 21:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Theology",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "I am Alpha and Omega, the first and the last.",
+          "reference": "Revelation 1:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Thus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I am the first, and I am the last; and beside me there is no God.",
+          "reference": "Isaiah 44:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "I am Alpha and Omega, the beginning and the end, the first and the last, which holdeth the seven stars in his right hand.",
+          "reference": "Revelation 22:13",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Revelation 22:13 reads: 'I am Alpha and Omega, the beginning and the end, the first and the last' — this is accurate",
+          "The fake appends 'which holdeth the seven stars in his right hand' — a phrase from Revelation 2:1, not 22:13",
+          "Revelation 22:13 contains only the threefold title; the seven-stars imagery belongs to a different chapter",
+          "Expert players must know that 22:13 is a pure title verse with no imagery appended"
+        ],
+        "whyReal": [
+          "Revelation 1:8 is the first Alpha-Omega declaration: 'which is, and which was, and which is to come'",
+          "Revelation 21:6 links Alpha-Omega to the gift of the water of life",
+          "Isaiah 44:6 anticipates the Alpha-Omega concept: first, last, no God beside me"
+        ],
+        "connections": [
+          "Revelation 1:8 -> r/Christianity - The eternal self-identification of the Almighty",
+          "Revelation 21:6 -> r/Theology - Alpha and Omega offers water of life freely",
+          "Revelation 1:11 -> r/TrueChristian - First and last: the risen Christ's voice"
+        ],
+        "difficulty_note": "Expert - The three Alpha-Omega titles are genuine but the appended seven-stars clause is transplanted from Revelation 2:1"
+      },
+      "metadata": {
+        "createdAt": "2026-09-26T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-27",
+      "dayNumber": 189,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "isaiah comfort zion",
+      "theme": "Comfort for Zion",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the LORD.",
+          "reference": "Isaiah 54:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/infertility",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee.",
+          "reference": "Isaiah 54:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.",
+          "reference": "Isaiah 55:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Frugal",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Seek ye the LORD while he may be found, call ye upon him while he is near: Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.",
+          "reference": "Isaiah 55:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so are my thoughts higher than your thoughts.",
+          "reference": "Isaiah 55:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Isaiah 55:8-9 reads: 'For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts'",
+          "The fake changes 'so are my ways higher than your ways' to 'so are my thoughts higher than your thoughts'",
+          "The authentic verse says 'my ways higher than your ways' first; the fake substitutes 'thoughts' for 'ways' in the comparison",
+          "This single-word swap (ways → thoughts) in a beloved verse is the hard-mode tell"
+        ],
+        "whyReal": [
+          "Isaiah 54:1 commands barren Zion to sing — more children than the married wife",
+          "Isaiah 54:10 promises that even if mountains depart, God's kindness will not",
+          "Isaiah 55:1 is the free invitation to come to the waters without money"
+        ],
+        "connections": [
+          "Isaiah 54:1 -> r/infertility - The barren commanded to sing",
+          "Isaiah 54:10 -> r/Christianity - Mountains removed; God's covenant stands",
+          "Isaiah 55:1 -> r/Frugal - Come buy wine and milk without price"
+        ],
+        "difficulty_note": "Hard - The fake swaps 'ways' for 'thoughts' in the famous higher-heavens comparison of Isaiah 55:8-9"
+      },
+      "metadata": {
+        "createdAt": "2026-09-27T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

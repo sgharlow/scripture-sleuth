@@ -1,0 +1,531 @@
+{
+  "week": 18,
+  "startDate": "2026-07-20",
+  "puzzles": [
+    {
+      "id": "2026-07-20",
+      "dayNumber": 120,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "god's sovereignty",
+      "theme": "God's Sovereignty & Providence",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+          "reference": "Proverbs 3:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "A man's heart deviseth his way: but the LORD directeth his steps.",
+          "reference": "Proverbs 16:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "There are many devices in a man's heart; nevertheless the counsel of the LORD, that shall stand.",
+          "reference": "Proverbs 19:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The LORD hath made all things for himself: yea, even the wicked for the day of evil.",
+          "reference": "Proverbs 16:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Theology",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The LORD holdeth the destiny of every man in his hand, and turneth the hearts of rulers as rivers of water.",
+          "reference": "Proverbs 16:1",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 16:1 says 'The preparations of the heart in man, and the answer of the tongue, is from the LORD'",
+          "The fake replaces the whole verse with 'holdeth the destiny' and 'turneth the hearts of rulers as rivers of water'",
+          "The river/heart image is from Proverbs 21:1 ('The king's heart is in the hand of the LORD, as the rivers of water'), not Proverbs 16:1",
+          "The fake merges two different verses and assigns them to a third reference — an obvious fabrication"
+        ],
+        "whyReal": [
+          "Proverbs 3:5 is the beloved 'trust in the LORD with all thine heart' verse",
+          "Proverbs 16:9 teaches that God directs the steps man devises",
+          "Proverbs 19:21 asserts that God's counsel stands above all human plans"
+        ],
+        "connections": [
+          "Proverbs 3:5 -> r/Christianity - Trust God over your own understanding",
+          "Proverbs 16:9 -> r/philosophy - Human planning meets divine direction",
+          "Proverbs 19:21 -> r/TrueChristian - God's counsel always prevails"
+        ],
+        "difficulty_note": "Easy - The fake mashes two real verses (Prov 21:1 and Prov 16:1) and assigns them to a wrong reference; 'holdeth the destiny' is also modern phrasing not found in KJV"
+      },
+      "metadata": {
+        "createdAt": "2026-07-20T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-21",
+      "dayNumber": 121,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "hope and trust",
+      "theme": "Hope & Trust in God",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Hope long deferred maketh the heart sick: but a desire fulfilled is as a tree of life.",
+          "reference": "Proverbs 13:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "In all thy ways acknowledge him, and he shall direct thy paths.",
+          "reference": "Proverbs 3:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "The name of the LORD is a strong tower: the righteous runneth into it, and is safe.",
+          "reference": "Proverbs 18:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Commit thy works unto the LORD, and thy thoughts shall be established.",
+          "reference": "Proverbs 16:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/productivity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The horse is prepared against the day of battle: but safety is of the LORD.",
+          "reference": "Proverbs 21:31",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 13:12 says 'Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life'",
+          "Wait — this IS the actual KJV verse! For this easy puzzle the fake slightly alters it: 'Hope long deferred maketh the heart sick: but a desire fulfilled is as a tree of life'",
+          "The fake adds 'long' before 'deferred' and rewrites the second clause with 'desire fulfilled' and 'as a tree of life'",
+          "The real KJV says 'when the desire cometh' — not 'a desire fulfilled'; the addition of 'long' also changes the text"
+        ],
+        "whyReal": [
+          "Proverbs 3:6 is the companion verse to 3:5 — acknowledge God in all ways",
+          "Proverbs 18:10 images the LORD's name as a strong tower for the righteous",
+          "Proverbs 21:31 teaches that human preparation does not guarantee victory — only God gives safety"
+        ],
+        "connections": [
+          "Proverbs 3:6 -> r/Christianity - Acknowledge God for directed paths",
+          "Proverbs 18:10 -> r/TrueChristian - God's name as a refuge",
+          "Proverbs 16:3 -> r/productivity - Commit work to God for established thoughts"
+        ],
+        "difficulty_note": "Easy - The fake alters Proverbs 13:12 by adding 'long' and rewriting the second clause; the changes are detectable because they make the verse wordier than KJV's typically terse style"
+      },
+      "metadata": {
+        "createdAt": "2026-07-21T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-22",
+      "dayNumber": 122,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "knowledge and understanding",
+      "theme": "Knowledge & Understanding",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.",
+          "reference": "Proverbs 15:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/BibleStudy",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Through wisdom is a house builded; and by knowledge it is established.",
+          "reference": "Proverbs 24:3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "My son, if thou wilt receive my words, and hide my commandments with thee; So that thou incline thine ear unto wisdom, and apply thine heart to understanding.",
+          "reference": "Proverbs 2:1-2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Parenting",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "For the LORD giveth wisdom: out of his mouth cometh knowledge and understanding.",
+          "reference": "Proverbs 2:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.",
+          "reference": "Proverbs 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 24:3 says 'Through wisdom is an house builded; and by understanding it is established'",
+          "This IS the actual KJV verse — for the medium puzzle the fake reads: 'Through wisdom is a house builded; and by knowledge it is established'",
+          "The fake replaces 'understanding' with 'knowledge' in the second clause",
+          "Real Proverbs 24:3 uses 'wisdom' and 'understanding' as its paired virtues; 'knowledge' appears in verse 4"
+        ],
+        "whyReal": [
+          "Proverbs 15:14 contrasts the understanding heart's pursuit of knowledge with the fool's feast on foolishness",
+          "Proverbs 2:1-2 opens Solomon's call for the son to receive wisdom and understanding",
+          "Proverbs 4:7 declares wisdom the 'principal thing' and urges getting understanding"
+        ],
+        "connections": [
+          "Proverbs 15:14 -> r/BibleStudy - Seeking knowledge vs feeding on foolishness",
+          "Proverbs 2:1-2 -> r/Parenting - A father's charge to pursue wisdom",
+          "Proverbs 4:7 -> r/philosophy - Wisdom is the chief pursuit"
+        ],
+        "difficulty_note": "Medium - The fake replaces 'understanding' with 'knowledge' in Proverbs 24:3; both words appear together frequently in Proverbs, making the swap hard to detect without memorization"
+      },
+      "metadata": {
+        "createdAt": "2026-07-22T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-23",
+      "dayNumber": 123,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "life and death",
+      "theme": "Life & Death",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "There is a way that seemeth right unto a man, but the end thereof are the ways of death.",
+          "reference": "Proverbs 16:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.",
+          "reference": "Proverbs 13:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "In the path of righteousness is life; and in that way there is no death.",
+          "reference": "Proverbs 12:28",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself.",
+          "reference": "Ecclesiastes 10:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Showerthoughts",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "For length of days, and long life, and peace, shall they add to thee.",
+          "reference": "Proverbs 3:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/longevity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 12:28 says 'In the way of righteousness is life; and in the pathway thereof there is no death'",
+          "This IS the actual KJV verse — for the medium puzzle the fake reads: 'In the path of righteousness is life; and in that way there is no death'",
+          "The fake replaces 'way of righteousness' with 'path of righteousness' and simplifies 'in the pathway thereof there is no death' to 'in that way there is no death'",
+          "'Way' and 'path' are both common KJV synonyms making the swap natural, and the shortened clause removes KJV's characteristic elaboration"
+        ],
+        "whyReal": [
+          "Proverbs 16:25 is the 'there is a way that seemeth right' warning — it appears identically in Proverbs 14:12",
+          "Proverbs 13:9 contrasts the rejoicing light of the righteous with the extinguished lamp of the wicked",
+          "Proverbs 3:2 promises length of days as the reward of following divine commands"
+        ],
+        "connections": [
+          "Proverbs 16:25 -> r/philosophy - Self-deception leads to death",
+          "Proverbs 13:9 -> r/Christianity - The righteous light shines; the wicked lamp fails",
+          "Proverbs 3:2 -> r/longevity - God's ways add years and peace"
+        ],
+        "difficulty_note": "Medium - The fake alters Proverbs 12:28 by swapping 'way' for 'path' and compressing the second clause; the changes reduce the verse's characteristic KJV redundancy"
+      },
+      "metadata": {
+        "createdAt": "2026-07-23T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-24",
+      "dayNumber": 124,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "diligence wisdom",
+      "theme": "Diligence in Wisdom",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Which having no guide, overseer, or ruler, provideth her meat in the summer, and gathereth her food in the harvest.",
+          "reference": "Proverbs 6:7-8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/productivity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.",
+          "reference": "Proverbs 31:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/earlybird",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house.",
+          "reference": "Proverbs 24:27",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DIY",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
+          "reference": "Ecclesiastes 10:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HomeImprovement",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "She looketh well to the ways of her household, and eateth not the bread of idleness.",
+          "reference": "Proverbs 31:28",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 31:27 says 'She looketh well to the ways of her household, and eateth not the bread of idleness'",
+          "The fake assigns this text to Proverbs 31:28 — one verse off",
+          "Proverbs 31:28 actually says 'Her children arise up, and call her blessed; her husband also, and he praiseth her'",
+          "This reference-number error requires knowing Proverbs 31 verse-by-verse to catch"
+        ],
+        "whyReal": [
+          "Proverbs 6:7-8 describes the ant's self-directed industry through summer and harvest",
+          "Proverbs 31:15 shows the excellent woman rising before dawn to provide for her household",
+          "Ecclesiastes 10:18 warns that slothfulness causes buildings — and lives — to decay"
+        ],
+        "connections": [
+          "Proverbs 6:7-8 -> r/productivity - The ant needs no supervisor to be diligent",
+          "Proverbs 31:15 -> r/earlybird - Rising early to serve the household",
+          "Proverbs 24:27 -> r/DIY - Prepare the field before building the house"
+        ],
+        "difficulty_note": "Hard - The fake text is genuine KJV (Proverbs 31:27) but is assigned the wrong verse number (31:28); identifying it requires knowing both verses by number"
+      },
+      "metadata": {
+        "createdAt": "2026-07-24T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-25",
+      "dayNumber": 125,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "pleasure and meaning",
+      "theme": "Pleasure & Meaning",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.",
+          "reference": "Ecclesiastes 2:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/hedonism",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Wherefore I perceive that there is nothing better, than that a man should eat and drink, and that he should make his soul enjoy good in his labour.",
+          "reference": "Ecclesiastes 2:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/food",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry.",
+          "reference": "Ecclesiastes 8:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/party",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "There is nothing better for a person than to enjoy his work, because that is his reward; for who can show him what will happen after him?",
+          "reference": "Ecclesiastes 3:22",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "For God giveth to a man that is good in his sight wisdom, and knowledge, and joy.",
+          "reference": "Ecclesiastes 2:26",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Ecclesiastes 3:22 says 'Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?'",
+          "The fake uses modern English: 'person' instead of 'man', 'enjoy his work' instead of 'rejoice in his own works', 'reward' instead of 'portion'",
+          "The phrase 'who can show him what will happen after him?' modernizes the KJV 'who shall bring him to see what shall be after him?'",
+          "The NIV/ESV register throughout this fake verse contrasts sharply with genuine KJV diction"
+        ],
+        "whyReal": [
+          "Ecclesiastes 2:1 records the Preacher's experiment with pleasure — and its verdict of vanity",
+          "Ecclesiastes 2:24 is the first 'eat, drink, and enjoy your labour' commendation in the book",
+          "Ecclesiastes 2:26 attributes wisdom, knowledge, and joy directly to God's gift"
+        ],
+        "connections": [
+          "Ecclesiastes 2:1 -> r/hedonism - Even pleasure is vanity",
+          "Ecclesiastes 2:24 -> r/food - Enjoying food and labour is a gift",
+          "Ecclesiastes 8:15 -> r/party - Mirth commended under the sun"
+        ],
+        "difficulty_note": "Expert - The fake translates Ecclesiastes 3:22 into NIV/ESV-style modern English; spotting it requires recognizing that KJV uses 'rejoice', 'portion', and 'shall bring him to see' — not the modern equivalents used here"
+      },
+      "metadata": {
+        "createdAt": "2026-07-25T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-07-26",
+      "dayNumber": 126,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "excellent woman",
+      "theme": "The Excellent Woman",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Who can find a virtuous woman? for her worth is far above rubies.",
+          "reference": "Proverbs 31:10",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "Strength and honour are her clothing; and she shall rejoice in time to come.",
+          "reference": "Proverbs 31:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TwoXChromosomes",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "She openeth her mouth with wisdom; and in her tongue is the law of kindness.",
+          "reference": "Proverbs 31:26",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.",
+          "reference": "Proverbs 31:30",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Her children arise up, and call her blessed; her husband also, and he praiseth her.",
+          "reference": "Proverbs 31:28",
+          "translation": "KJV",
+          "linkedSubreddit": "r/family",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Real Proverbs 31:10 says 'Who can find a virtuous woman? for her price is far above rubies'",
+          "This IS the actual KJV verse — for the hard puzzle the fake reads: 'Who can find a virtuous woman? for her worth is far above rubies'",
+          "The fake replaces 'price' with 'worth' — a single word swap that feels like an improvement on archaic 'price'",
+          "KJV consistently uses 'price' (not 'worth') in this verse; modern translations often use 'worth' or 'value', making this a translation-awareness test"
+        ],
+        "whyReal": [
+          "Proverbs 31:25 clothes the excellent woman in strength and honour",
+          "Proverbs 31:26 gives her wisdom on her tongue and the law of kindness",
+          "Proverbs 31:30 teaches that fear of the LORD — not beauty — brings true praise"
+        ],
+        "connections": [
+          "Proverbs 31:25 -> r/TwoXChromosomes - Strength and honour as a woman's clothing",
+          "Proverbs 31:26 -> r/relationship_advice - Wisdom and kindness in speech",
+          "Proverbs 31:30 -> r/Christianity - Fear of the LORD above outward beauty"
+        ],
+        "difficulty_note": "Hard - The fake swaps 'price' for 'worth' in Proverbs 31:10; modern readers may even prefer 'worth' as it sounds more natural, which is exactly why the swap is hard to catch"
+      },
+      "metadata": {
+        "createdAt": "2026-07-26T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

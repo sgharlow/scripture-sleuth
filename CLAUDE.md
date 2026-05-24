@@ -123,7 +123,7 @@ Tests located in `src/**/*.test.ts`:
 - `shareUtils.test.ts` - Share text generation
 - `achievementService.test.ts` - Achievement logic
 
-~1,032 tests across 5 test files (approx, unverified by run — prior "1,158" figure was erroneous; the parameterized puzzleData suite expands to ~962 cases across 63 puzzles/9 weeks, plus ~70 cases in the other 4 files). Run with `npm run test` or `npm run test:watch`.
+1,158 tests across 5 test files (VERIFIED via `npm run test` on 2026-05-24: 1,088 in puzzleData.test.ts covering weeks 1-9 + 70 across the other 4 files). New weeks 10-27 are covered by `allWeeks.test.ts`. Run with `npm run test` or `npm run test:watch`.
 
 ---
 

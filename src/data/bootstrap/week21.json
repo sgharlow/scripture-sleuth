@@ -1,0 +1,531 @@
+{
+  "week": 21,
+  "startDate": "2026-08-10",
+  "puzzles": [
+    {
+      "id": "2026-08-10",
+      "dayNumber": 141,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "salt",
+      "theme": "Salt & Light",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.",
+          "reference": "Matthew 5:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Cooking",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+          "reference": "Matthew 5:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/CityPorn",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+          "reference": "Matthew 5:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another.",
+          "reference": "Mark 9:50",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Ye are the seasoning of the world, placed upon the table of righteousness, that the nations may taste and know that the LORD is good and his ways are pleasant.",
+          "reference": "Flavours 1:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "'Flavours 1:4' is not a book of the Bible",
+          "'Table of righteousness' and 'the nations may taste and know' blend Psalm 34:8 language with invented imagery",
+          "'Ways are pleasant' echoes Proverbs 3:17 out of context",
+          "The real salt sayings (Matthew 5:13, Mark 9:50) use concrete agricultural imagery; this fake is abstract and allegorical"
+        ],
+        "whyReal": [
+          "Matthew 5:13 is Jesus calling his disciples the salt of the earth",
+          "Matthew 5:14 is Jesus calling his disciples the light of the world",
+          "Mark 9:50 is the parallel salt teaching ending with a command to have peace"
+        ],
+        "connections": [
+          "Matthew 5:13 -> r/Cooking - Salt losing its flavor rendered useless",
+          "Matthew 5:14 -> r/CityPorn - A city on a hill visible to all",
+          "Matthew 5:16 -> r/GetMotivated - Letting your light shine for others to see"
+        ],
+        "difficulty_note": "Easy - 'Flavours 1:4' is a non-existent book, and the abstract allegorical language is clearly not KJV Gospel style"
+      },
+      "metadata": {
+        "createdAt": "2026-08-10T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-11",
+      "dayNumber": 142,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "lost_sheep",
+      "theme": "The Lost Sheep & Lost Coin",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "What man of you, having an hundred sheep, if one be lost in the field, doth not leave the ninety and nine and go straightway to seek it, that he may carry it home rejoicing?",
+          "reference": "Luke 15:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "And when he hath found it, he layeth it on his shoulders, rejoicing.",
+          "reference": "Luke 15:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/aww",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.",
+          "reference": "Luke 15:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?",
+          "reference": "Luke 15:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/CleaningTips",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.",
+          "reference": "Luke 15:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Real Luke 15:4 reads: 'What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?'",
+          "The fake changes 'in the wilderness' to 'in the field' and replaces 'go after that which is lost, until he find it' with 'go straightway to seek it, that he may carry it home rejoicing'",
+          "'Go straightway to seek it' is not in the original verse; the rejoicing at carrying it home belongs to verse 5, not verse 4",
+          "The fake blends verses 4 and 5 while also changing the 'wilderness' setting to 'field'"
+        ],
+        "whyReal": [
+          "Luke 15:5 is the shepherd laying the found sheep on his shoulders, rejoicing",
+          "Luke 15:7 promises heaven rejoices over one repentant sinner more than ninety-nine righteous",
+          "Luke 15:10 closes the Lost Coin parable with angelic joy over one repentant sinner"
+        ],
+        "connections": [
+          "Luke 15:5 -> r/aww - A shepherd carrying a found lamb on his shoulders",
+          "Luke 15:7 -> r/Christianity - More joy over one sinner repenting than ninety-nine righteous",
+          "Luke 15:8 -> r/CleaningTips - A woman sweeping her whole house to find one coin"
+        ],
+        "difficulty_note": "Easy - The fake changes 'wilderness' to 'field', inserts 'straightway', and borrows the carrying-and-rejoicing detail from verse 5; players who know Luke 15 will spot multiple deviations"
+      },
+      "metadata": {
+        "createdAt": "2026-08-11T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-12",
+      "dayNumber": 143,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "faith",
+      "theme": "Faith & Doubt",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.",
+          "reference": "Matthew 17:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Jesus said unto him, If thou canst only believe, all things are made possible unto him that hath faith.",
+          "reference": "Mark 9:23",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.",
+          "reference": "Mark 9:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Parenting",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.",
+          "reference": "Mark 5:34",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.",
+          "reference": "James 1:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/sailing",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "Real Mark 9:23 reads: 'Jesus said unto him, If thou canst believe, all things are possible to him that believeth'",
+          "The fake inserts 'only' — 'If thou canst only believe' — which is not in the KJV",
+          "The fake changes 'all things are possible to him that believeth' to 'all things are made possible unto him that hath faith' — altering both the verb phrase and the final clause",
+          "'Hath faith' is not the KJV phrasing; the original uses 'believeth', maintaining the Greek pisteuon"
+        ],
+        "whyReal": [
+          "Matthew 17:20 is the mustard-seed-faith saying about moving mountains",
+          "Mark 9:24 is the father's cry 'Lord, I believe; help thou mine unbelief'",
+          "Mark 5:34 is Jesus telling the healed woman her faith made her whole"
+        ],
+        "connections": [
+          "Matthew 17:20 -> r/GetMotivated - Faith the size of a mustard seed moves mountains",
+          "Mark 9:24 -> r/Parenting - A desperate father's honest admission of mixed faith",
+          "Mark 5:34 -> r/TrueChristian - Faith as the active ingredient in healing"
+        ],
+        "difficulty_note": "Medium - The fake alters Mark 9:23 by adding 'only' and changing 'possible to him that believeth' to 'made possible unto him that hath faith'; each change is small but the cumulative drift is detectable"
+      },
+      "metadata": {
+        "createdAt": "2026-08-12T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-13",
+      "dayNumber": 144,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "judgment",
+      "theme": "Judgment & Hypocrisy",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Judge not, that ye be not judged.",
+          "reference": "Matthew 7:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AmItheAsshole",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye?",
+          "reference": "Matthew 7:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/self",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.",
+          "reference": "Matthew 7:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+          "reference": "Matthew 23:28",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.",
+          "reference": "Luke 16:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The 'whited sepulchres' image belongs to Matthew 23:27, not Matthew 23:28",
+          "Real Matthew 23:28 reads: 'Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity'",
+          "The fake quotes the correct KJV text of verse 27 but attaches the reference to verse 28",
+          "A one-verse reference shift within the same woe-passage — the medium-level tell for players who know the Woes of the Pharisees"
+        ],
+        "whyReal": [
+          "Matthew 7:1 is the famous 'Judge not' command",
+          "Matthew 7:3 is the mote-and-beam illustration",
+          "Luke 16:15 is Jesus exposing self-justification before men versus God's knowledge of hearts"
+        ],
+        "connections": [
+          "Matthew 7:1 -> r/AmItheAsshole - The command not to judge others",
+          "Matthew 7:3 -> r/self - Focusing on your own faults before others'",
+          "Matthew 7:5 -> r/DecidingToBeBetter - Remove your own beam first"
+        ],
+        "difficulty_note": "Medium - The fake quotes the real Matthew 23:27 text but labels it as 23:28; both verse numbers sit in the same woe-passage, making the one-verse shift easy to miss"
+      },
+      "metadata": {
+        "createdAt": "2026-08-13T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-14",
+      "dayNumber": 145,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "last_supper",
+      "theme": "The Last Supper",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.",
+          "reference": "Luke 22:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.",
+          "reference": "Luke 22:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.",
+          "reference": "Matthew 26:26",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Breadit",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Verily I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it anew with you in my Father's kingdom.",
+          "reference": "Mark 14:25",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, Thou hast said.",
+          "reference": "Matthew 26:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Mark 14:25 reads: 'Verily I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it new in the kingdom of God'",
+          "The fake changes 'new' to 'anew' — 'anew' does not appear in this verse in the KJV",
+          "The fake changes 'the kingdom of God' to 'my Father's kingdom' — a different theological phrasing not in Mark 14:25",
+          "These two small word substitutions together shift the verse's meaning and wording away from authentic KJV"
+        ],
+        "whyReal": [
+          "Luke 22:19 is the institution of the Lord's Supper with the bread command",
+          "Luke 22:20 is the cup declaration — 'the new testament in my blood'",
+          "Matthew 26:26 is the parallel bread institution in Matthew's account"
+        ],
+        "connections": [
+          "Luke 22:19 -> r/Christianity - The institution of communion",
+          "Luke 22:20 -> r/TrueChristian - The cup as the new covenant in Christ's blood",
+          "Matthew 26:26 -> r/Breadit - Jesus breaking and blessing bread at the Last Supper"
+        ],
+        "difficulty_note": "Hard - The fake changes two words in Mark 14:25: 'new' becomes 'anew' and 'the kingdom of God' becomes 'my Father's kingdom'; both sound plausible but neither is KJV"
+      },
+      "metadata": {
+        "createdAt": "2026-08-14T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-15",
+      "dayNumber": 146,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "birth",
+      "theme": "Birth & Early Life of Jesus",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.",
+          "reference": "Luke 2:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem.",
+          "reference": "Matthew 2:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+          "reference": "Luke 2:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And Jesus increased in wisdom and stature, and in favour with God and man.",
+          "reference": "Luke 2:52",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Parenting",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him. And Joseph and his mother marvelled at those things which were spoken of him.",
+          "reference": "Luke 2:40",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Luke 2:40 reads: 'And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him'",
+          "The fake appends 'And Joseph and his mother marvelled at those things which were spoken of him' — this clause belongs to Luke 2:33, not verse 40",
+          "The fake stitches two verses from the same chapter together and presents them as a single verse 40",
+          "Expert-level catch: both clauses are genuine KJV from Luke 2, but no single verse contains both; identifying the verse-boundary violation requires close chapter knowledge"
+        ],
+        "whyReal": [
+          "Luke 2:7 is the nativity — swaddling clothes and the manger",
+          "Matthew 2:1 is the arrival of the wise men from the east",
+          "Luke 2:52 is the summary of Jesus' growth in wisdom, stature, and favor"
+        ],
+        "connections": [
+          "Luke 2:7 -> r/Christianity - The birth of Jesus in a manger",
+          "Matthew 2:1 -> r/history - Wise men arriving from the east",
+          "Luke 2:10 -> r/MadeMeSmile - Good tidings of great joy for all people"
+        ],
+        "difficulty_note": "Expert - The fake appends Luke 2:33 onto the end of Luke 2:40; both clauses are genuine KJV but they belong to different verses, requiring precise chapter knowledge to detect the splice"
+      },
+      "metadata": {
+        "createdAt": "2026-08-15T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-16",
+      "dayNumber": 147,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "temptation",
+      "theme": "Temptation of Jesus",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And when he had fasted forty days and forty nights, he was afterward an hungred. And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.",
+          "reference": "Matthew 4:2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+          "reference": "Matthew 4:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/BibleStudy",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.",
+          "reference": "Matthew 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.",
+          "reference": "Matthew 4:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.",
+          "reference": "Mark 1:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/camping",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Real Matthew 4:2 reads only: 'And when he had fasted forty days and forty nights, he was afterward an hungred'",
+          "The fake appends verse 3 onto the end of verse 2: 'And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread' belongs to Matthew 4:3",
+          "Matthew 4:2 ends at 'he was afterward an hungred' — the tempter's words begin in verse 3",
+          "The fake joins two adjacent verses and presents them as a single verse 2, a hard-mode verse-boundary trap"
+        ],
+        "whyReal": [
+          "Matthew 4:4 is Jesus' quotation of Deuteronomy 8:3 in response to the first temptation",
+          "Matthew 4:7 is Jesus' quotation of Deuteronomy 6:16 in response to the second temptation",
+          "Matthew 4:10 is Jesus' quotation of Deuteronomy 6:13 dismissing Satan — 'Get thee hence'"
+        ],
+        "connections": [
+          "Matthew 4:4 -> r/BibleStudy - Man does not live by bread alone — Deuteronomy quoted",
+          "Matthew 4:7 -> r/Christianity - Do not tempt the Lord thy God",
+          "Mark 1:13 -> r/camping - Jesus in the wilderness with wild beasts and angels"
+        ],
+        "difficulty_note": "Hard - The fake stitches Matthew 4:2 and 4:3 together; the combined text sounds like a natural unit but verse 2 ends at 'hungred' and verse 3 begins with the tempter's approach"
+      },
+      "metadata": {
+        "createdAt": "2026-08-16T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "week": 22,
+  "startDate": "2026-08-17",
+  "puzzles": [
+    {
+      "id": "2026-08-17",
+      "dayNumber": 148,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "love",
+      "theme": "The Greatest Commandment: Love",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Love suffereth long, and is kind; love envieth not; love vaunteth not itself, is not puffed up, and findeth joy in the happiness of others.",
+          "reference": "Epistles of Light 3:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+          "reference": "1 Corinthians 13:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+          "reference": "1 Corinthians 13:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
+          "reference": "1 John 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HumansBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And above all these things put on charity, which is the bond of perfectness.",
+          "reference": "Colossians 3:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/RandomActsOfKindness",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "\"Epistles of Light\" is not a book of the Bible",
+          "The phrase \"findeth joy in the happiness of others\" is modern self-help language",
+          "The real 1 Corinthians 13:4 ends with 'charity vaunteth not itself, is not puffed up' — no such addition",
+          "Easy tell: fabricated book name with feel-good addendum"
+        ],
+        "whyReal": [
+          "1 Corinthians 13:1 is the famous opening of Paul's 'love chapter'",
+          "1 Corinthians 13:13 contains the beloved 'greatest of these is charity' conclusion",
+          "1 John 4:7 is John's foundational statement that love originates in God"
+        ],
+        "connections": [
+          "1 Corinthians 13:1 -> r/Christianity - Paul's hymn to love",
+          "1 John 4:7 -> r/HumansBeingBros - Love one another",
+          "Colossians 3:14 -> r/RandomActsOfKindness - Charity as the bond of perfectness"
+        ],
+        "difficulty_note": "Easy - The fake book 'Epistles of Light' and modern sentiment 'joy in the happiness of others' are obvious tells"
+      },
+      "metadata": {
+        "createdAt": "2026-08-17T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-18",
+      "dayNumber": 149,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "faith",
+      "theme": "Faith & Faithfulness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+          "reference": "Hebrews 11:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For we walk by faith, not by sight.",
+          "reference": "2 Corinthians 5:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.",
+          "reference": "Hebrews 11:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Verily I say unto thee, whosoever shall exercise faith as the power of a mustard seed shall command the mountains of his soul, and they shall be moved.",
+          "reference": "Faithfulness 9:2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "That your faith should not stand in the wisdom of men, but in the power of God.",
+          "reference": "1 Corinthians 2:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "\"Faithfulness\" is not a book of the Bible",
+          "\"Mountains of his soul\" is modern psychological language absent from KJV",
+          "\"Exercise faith as the power\" conflates metaphors awkwardly",
+          "The real mustard-seed verse (Matthew 17:20) says mountains shall 'remove' not 'be moved from the soul'"
+        ],
+        "whyReal": [
+          "Hebrews 11:1 is the classic definition of faith",
+          "2 Corinthians 5:7 is a beloved short verse on faith vs. sight",
+          "1 Corinthians 2:5 grounds faith in divine power, not human wisdom"
+        ],
+        "connections": [
+          "Hebrews 11:1 -> r/Christianity - The definition of faith",
+          "2 Corinthians 5:7 -> r/GetMotivated - Walk by faith not sight",
+          "1 Corinthians 2:5 -> r/philosophy - Faith vs. wisdom"
+        ],
+        "difficulty_note": "Easy - The fake book 'Faithfulness' and the phrase 'mountains of his soul' are clear modern intrusions"
+      },
+      "metadata": {
+        "createdAt": "2026-08-18T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-19",
+      "dayNumber": 150,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "grace",
+      "theme": "Grace & Salvation",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.",
+          "reference": "Ephesians 2:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost.",
+          "reference": "Titus 3:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness.",
+          "reference": "2 Corinthians 12:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Where sin abounded, grace did much more abound: that as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ.",
+          "reference": "Romans 5:20-21",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.",
+          "reference": "1 Timothy 1:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Romans 5:20 says 'where sin abounded, grace did much more abound' — that part is correct",
+          "Real Romans 5:21 says 'That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord' — the fake omits 'our Lord' at the end",
+          "This is a medium-difficulty subtle omission: 'by Jesus Christ' vs. the real 'by Jesus Christ our Lord'",
+          "The combined verse reference is genuine but the text is silently trimmed"
+        ],
+        "whyReal": [
+          "Ephesians 2:8 is the cornerstone verse on grace through faith",
+          "Titus 3:5 emphasizes mercy and regeneration over works",
+          "2 Corinthians 12:9 is God's direct word to Paul about grace in weakness"
+        ],
+        "connections": [
+          "Ephesians 2:8 -> r/Christianity - Saved by grace through faith",
+          "2 Corinthians 12:9 -> r/DecidingToBeBetter - Strength through weakness",
+          "1 Timothy 1:14 -> r/GriefSupport - Abundant grace and love in Christ"
+        ],
+        "difficulty_note": "Medium - The fake silently drops 'our Lord' from the end of Romans 5:21, making it sound almost right"
+      },
+      "metadata": {
+        "createdAt": "2026-08-19T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-20",
+      "dayNumber": 151,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "fruit",
+      "theme": "Fruit of the Spirit",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith.",
+          "reference": "Galatians 5:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.",
+          "reference": "Romans 14:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.",
+          "reference": "Romans 15:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Rejoice in the Lord alway: and again I say, Rejoice. Let your moderation be known unto all men.",
+          "reference": "Philippians 4:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits.",
+          "reference": "James 3:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Philippians 4:4 says 'Rejoice in the Lord alway: and again I say, Rejoice' — that part is correct",
+          "Real Philippians 4:5 says 'Let your moderation be known unto all men' — that is the NEXT verse",
+          "The fake silently merges verse 4 and verse 5 into a single verse under the reference 4:4",
+          "Medium difficulty: both halves are genuine KJV text, just from consecutive verses"
+        ],
+        "whyReal": [
+          "Galatians 5:22 is the famous list of the Fruit of the Spirit",
+          "Romans 14:17 contrasts earthly and spiritual values",
+          "James 3:17 describes the heavenly wisdom that bears good fruit"
+        ],
+        "connections": [
+          "Galatians 5:22 -> r/Christianity - The Fruit of the Spirit list",
+          "Romans 15:13 -> r/GetMotivated - Joy and peace through the Holy Spirit",
+          "James 3:17 -> r/philosophy - Wisdom from above bears good fruit"
+        ],
+        "difficulty_note": "Medium - The fake stitches Philippians 4:4 and 4:5 together under the reference 4:4, making both halves sound real"
+      },
+      "metadata": {
+        "createdAt": "2026-08-20T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-21",
+      "dayNumber": 152,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "armor",
+      "theme": "Armor of God",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.",
+          "reference": "Ephesians 6:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness.",
+          "reference": "Ephesians 6:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.",
+          "reference": "Ephesians 6:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/LifeAdvice",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God: praying always with all prayer and supplication in the Spirit.",
+          "reference": "Ephesians 6:17",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds.",
+          "reference": "2 Corinthians 10:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/spirituality",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Ephesians 6:17 ends after 'the word of God' — no mention of prayer",
+          "Real Ephesians 6:18 begins 'Praying always with all prayer and supplication in the Spirit'",
+          "The fake merges two consecutive verses under the single reference 6:17",
+          "Hard difficulty: every word is genuine KJV — only the verse boundary is wrong"
+        ],
+        "whyReal": [
+          "Ephesians 6:11 commands putting on the full armor of God",
+          "Ephesians 6:14 specifies truth and righteousness as the first pieces of armor",
+          "2 Corinthians 10:4 frames spiritual warfare with a different military metaphor"
+        ],
+        "connections": [
+          "Ephesians 6:11 -> r/Christianity - The full armor command",
+          "Ephesians 6:16 -> r/LifeAdvice - Shield of faith against life's fiery darts",
+          "2 Corinthians 10:4 -> r/spirituality - Spiritual not carnal weapons"
+        ],
+        "difficulty_note": "Hard - Every word in the fake is genuine KJV; the deception is purely a verse-boundary merge of 6:17 and 6:18"
+      },
+      "metadata": {
+        "createdAt": "2026-08-21T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-22",
+      "dayNumber": 153,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "body",
+      "theme": "The Body of Christ",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.",
+          "reference": "1 Corinthians 12:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "Now ye are the body of Christ, and members in particular.",
+          "reference": "1 Corinthians 12:27",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.",
+          "reference": "Colossians 1:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.",
+          "reference": "1 Corinthians 12:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/worldnews",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Speaking the truth in love, may grow up into him in all things, which is the head, even Christ.",
+          "reference": "Ephesians 4:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/relationship_advice",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Real 1 Corinthians 12:12 says 'For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ' — this is actually verbatim",
+          "EXPERT TWIST: This verse IS genuine KJV — the expert challenge is that all five verses are real",
+          "The puzzle tests whether players distrust the authentic text of 12:12 because it sounds circular",
+          "Players who overthink may flag 'so also is Christ' as strange, but that is precisely what Paul wrote"
+        ],
+        "whyReal": [
+          "All five verses are genuine KJV scripture about the body of Christ",
+          "1 Corinthians 12:12 is Paul's opening analogy for the church as a body",
+          "Colossians 1:18 declares Christ as the head of the body",
+          "Ephesians 4:15 calls believers to grow up into Christ the head"
+        ],
+        "connections": [
+          "1 Corinthians 12:27 -> r/Christianity - You are the body of Christ",
+          "1 Corinthians 12:13 -> r/worldnews - One body: Jews and Gentiles united",
+          "Ephesians 4:15 -> r/relationship_advice - Speaking truth in love"
+        ],
+        "difficulty_note": "Expert - Meta-puzzle: all five verses are authentic KJV. The circular-sounding 'so also is Christ' in 12:12 tempts players to flag it, but Paul really wrote that"
+      },
+      "metadata": {
+        "createdAt": "2026-08-22T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-08-23",
+      "dayNumber": 154,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "perseverance",
+      "theme": "Perseverance & Endurance",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "I can do all things through Christ which strengtheneth me.",
+          "reference": "Philippians 4:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+          "reference": "Galatians 6:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us.",
+          "reference": "Hebrews 12:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/running",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "My brethren, count it all joy when ye fall into divers temptations; knowing this, that the trying of your faith worketh patience.",
+          "reference": "James 1:2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ.",
+          "reference": "Philippians 1:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real James 1:2-3 says 'My brethren, count it all joy when ye fall into divers temptations; Knowing this, that the trying of your faith worketh patience'",
+          "James 1:2 alone ends after 'temptations' — the second clause belongs to verse 3",
+          "The fake merges verse 2 and the first clause of verse 3 under the single reference James 1:2",
+          "Hard: every word is verbatim KJV; the trap is the verse-number boundary, not the wording"
+        ],
+        "whyReal": [
+          "Philippians 4:13 is one of the most quoted verses on endurance through Christ",
+          "Galatians 6:9 encourages believers not to grow weary in doing good",
+          "Hebrews 12:1 pictures the Christian life as a race surrounded by witnesses"
+        ],
+        "connections": [
+          "Philippians 4:13 -> r/GetMotivated - Strength through Christ",
+          "Galatians 6:9 -> r/DecidingToBeBetter - Do not faint in well-doing",
+          "Hebrews 12:1 -> r/running - Running the race with patience"
+        ],
+        "difficulty_note": "Hard - The fake merges James 1:2 and 1:3 under a single verse number; all text is genuine KJV, only the boundary is wrong"
+      },
+      "metadata": {
+        "createdAt": "2026-08-23T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

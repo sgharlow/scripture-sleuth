@@ -1,0 +1,531 @@
+{
+  "week": 25,
+  "startDate": "2026-09-07",
+  "puzzles": [
+    {
+      "id": "2026-09-07",
+      "dayNumber": 169,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "isaiah comfort",
+      "theme": "Comfort from Isaiah",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+          "reference": "Prophecies 14:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "Comfort ye, comfort ye my people, saith your God.",
+          "reference": "Isaiah 40:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/SupportGroups",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "He giveth power to the faint; and to them that have no might he increaseth strength.",
+          "reference": "Isaiah 40:29",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.",
+          "reference": "Isaiah 40:31",
+          "translation": "KJV",
+          "linkedSubreddit": "r/running",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Fear not, O Jacob my servant; and thou, Jesurun, whom I have chosen: For I will pour water upon him that is thirsty, and floods upon the dry ground.",
+          "reference": "Isaiah 44:2-3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "\"Prophecies\" is not a book of the Bible",
+          "The text is a near-copy of Isaiah 41:10 but with altered wording and a fabricated reference",
+          "\"Right hand of my righteousness\" echoes real Isaiah 41:10 but the book name is invented",
+          "Real scripture would cite Isaiah, not a non-existent book called Prophecies"
+        ],
+        "whyReal": [
+          "Isaiah 40:1 opens the great comfort section of Isaiah with God's direct command",
+          "Isaiah 40:29 and 40:31 are beloved verses on divine strength and renewal",
+          "Isaiah 44:2-3 uses the name Jeshurun (a poetic name for Israel) and promises living water"
+        ],
+        "connections": [
+          "Isaiah 40:1 -> r/SupportGroups - God's comfort commanded to his people",
+          "Isaiah 40:29 -> r/GetMotivated - Strength given to the weary",
+          "Isaiah 40:31 -> r/running - Eagles' wings and running without weariness"
+        ],
+        "difficulty_note": "Easy - The book name 'Prophecies' does not exist in the Bible; an obvious tell"
+      },
+      "metadata": {
+        "createdAt": "2026-09-07T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-08",
+      "dayNumber": 170,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "names of god",
+      "theme": "Names & Attributes of God",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "God is our refuge and strength, a very present help in trouble.",
+          "reference": "Psalm 46:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "The LORD is my shepherd; I shall not want.",
+          "reference": "Psalm 23:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.",
+          "reference": "Revelation 4:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "For I am the LORD, I change not; therefore ye sons of Jacob are not consumed.",
+          "reference": "Malachi 3:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Theology",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?",
+          "reference": "Psalm 27:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Anxiety",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "The text belongs to Zephaniah 3:17, not Revelation 4:11",
+          "Revelation 4:11 actually reads: 'Thou art worthy, O Lord, to receive glory and honour and power'",
+          "Assigning a beautiful Zephaniah verse to Revelation is a deliberate reference mismatch",
+          "Players who know Revelation 4 will recognize the worship scene does not match this text"
+        ],
+        "whyReal": [
+          "Psalm 46:1 is the famous 'God is our refuge' declaration",
+          "Psalm 23:1 is perhaps the most recognized verse in all scripture",
+          "Malachi 3:6 declares God's immutability — 'I change not'"
+        ],
+        "connections": [
+          "Psalm 46:1 -> r/Christianity - God as refuge and strength",
+          "Psalm 23:1 -> r/TrueChristian - The Shepherd psalm",
+          "Psalm 27:1 -> r/Anxiety - Light and salvation, no fear"
+        ],
+        "difficulty_note": "Easy - Revelation 4:11 is a famous doxology; the text given is clearly from Zephaniah"
+      },
+      "metadata": {
+        "createdAt": "2026-09-08T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-09",
+      "dayNumber": 171,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "jeremiah hope",
+      "theme": "Jeremiah's Promise of Hope",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
+          "reference": "Jeremiah 29:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.",
+          "reference": "Jeremiah 33:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/prayer",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Thus saith the LORD, the God of Israel; Like these good figs, so will I acknowledge them that are carried away captive of Judah, whom I have sent out of this place into the land of the Chaldeans for their good.",
+          "reference": "Jeremiah 24:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And ye shall seek me, and find me, when ye shall search for me with all your heart, and I will be found of thee, saith the LORD: and I will turn again thy captivity.",
+          "reference": "Lamentations 3:57",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah.",
+          "reference": "Jeremiah 31:31",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The text belongs to Jeremiah 29:13-14, not Lamentations 3:57",
+          "Lamentations 3:57 actually reads: 'Thou drewest near in the day that I called upon thee: thou saidst, Fear not'",
+          "The reference mismatch is the fabrication — the words are real Jeremiah, but the citation is wrong",
+          "Players who know Lamentations will recognize the mismatch immediately"
+        ],
+        "whyReal": [
+          "Jeremiah 29:11 is the beloved 'plans to prosper you' verse in KJV's 'expected end' wording",
+          "Jeremiah 33:3 is called 'God's phone number' — call and he will answer",
+          "Jeremiah 31:31 announces the new covenant, quoted extensively in Hebrews"
+        ],
+        "connections": [
+          "Jeremiah 29:11 -> r/GetMotivated - God's thoughts of peace toward us",
+          "Jeremiah 33:3 -> r/prayer - The divine invitation to call upon God",
+          "Jeremiah 31:31 -> r/Bible - The new covenant prophecy"
+        ],
+        "difficulty_note": "Medium - The text is authentic Jeremiah wording but the reference given is from Lamentations"
+      },
+      "metadata": {
+        "createdAt": "2026-09-09T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-10",
+      "dayNumber": 172,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "light darkness",
+      "theme": "Light in Darkness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.",
+          "reference": "Isaiah 9:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee.",
+          "reference": "Isaiah 60:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Sunrise",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.",
+          "reference": "1 John 2:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof.",
+          "reference": "Revelation 21:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/space",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Yea, though I walk through the valley of the shadow of death, thy light shall go before me and thy presence shall be my dwelling place forever.",
+          "reference": "Psalm 23:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 23:4 reads: 'Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me'",
+          "The fake replaces 'I will fear no evil' with modern reassurance language about light and a 'dwelling place'",
+          "\"Thy presence shall be my dwelling place forever\" is not in Psalm 23",
+          "Players who know the rod-and-staff imagery of the Shepherd Psalm will catch this immediately"
+        ],
+        "whyReal": [
+          "Isaiah 9:2 is the great Messianic light prophecy, quoted in Matthew 4:16",
+          "Isaiah 60:1 opens the glorious 'Arise, shine' passage about God's glory",
+          "Revelation 21:23 describes the new Jerusalem lit by the Lamb — no sun needed"
+        ],
+        "connections": [
+          "Isaiah 9:2 -> r/Christianity - Light dawning on those in darkness",
+          "Isaiah 60:1 -> r/Sunrise - The glory of the LORD rising",
+          "Revelation 21:23 -> r/space - A city needing no sun or moon"
+        ],
+        "difficulty_note": "Medium - The fake borrows Psalm 23's famous opening but replaces the well-known ending"
+      },
+      "metadata": {
+        "createdAt": "2026-09-10T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-11",
+      "dayNumber": 173,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "restoration",
+      "theme": "Restoration & Renewal",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
+          "reference": "Joel 2:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
+          "reference": "Psalm 23:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/SelfImprovement",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.",
+          "reference": "Isaiah 43:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Futurology",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+          "reference": "2 Corinthians 5:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Thus saith the LORD; Again there shall be heard in this place the voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, and the voice of them that shall say, Praise the LORD of hosts: for the LORD is good; for his mercy endureth for ever.",
+          "reference": "Jeremiah 33:10",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Jeremiah 33:10-11 does include voices of joy and a bride/bridegroom, but verse 10 alone reads: 'Thus saith the LORD; Again there shall be heard in this place, which ye say shall be desolate without man and without beast, even in the cities of Judah, and in the streets of Jerusalem'",
+          "The fake merges content from Jeremiah 33:10 and 33:11 into a single false verse 10",
+          "The praise conclusion 'for the LORD is good; for his mercy endureth for ever' belongs to verse 11, not verse 10",
+          "This subtle chapter-and-verse conflation is the hard-mode tell"
+        ],
+        "whyReal": [
+          "Joel 2:25 is the famous promise to restore what the locust has eaten",
+          "Psalm 23:3 — 'He restoreth my soul' — is one of the most memorized lines in the Psalms",
+          "Isaiah 43:19 announces God's new thing: a way in the wilderness, rivers in the desert"
+        ],
+        "connections": [
+          "Joel 2:25 -> r/DecidingToBeBetter - Restoration of lost years",
+          "Psalm 23:3 -> r/SelfImprovement - Soul restored, led in righteousness",
+          "Isaiah 43:19 -> r/Futurology - New thing springing forth"
+        ],
+        "difficulty_note": "Hard - The fake blends two consecutive Jeremiah verses into one, a subtle verse-boundary error"
+      },
+      "metadata": {
+        "createdAt": "2026-09-11T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-12",
+      "dayNumber": 174,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "revelation promises",
+      "theme": "Promises of Revelation",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+          "reference": "Revelation 21:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "He that overcometh shall inherit all things; and I will be his God, and he shall be my son.",
+          "reference": "Revelation 21:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.",
+          "reference": "Revelation 22:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/rivers",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.",
+          "reference": "Revelation 22:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Behold, I stand at the door, and knock: and if any man will open the door of his heart unto me, I will come in to him, and will sup with him, and he with me.",
+          "reference": "Revelation 3:20",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Revelation 3:20 reads: 'Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me'",
+          "The fake inserts 'of his heart unto me' — a common paraphrase not present in the KJV text",
+          "\"If any man will open the door of his heart\" is a modern evangelistic addition, not the KJV wording",
+          "Expert players must distinguish between the beloved paraphrase and the exact KJV: 'if any man hear my voice, and open the door'"
+        ],
+        "whyReal": [
+          "Revelation 21:4 is one of the most comforting promises in scripture — no more tears or death",
+          "Revelation 21:7 promises heirship to all who overcome",
+          "Revelation 22:1 describes the river of life flowing from God's throne"
+        ],
+        "connections": [
+          "Revelation 21:4 -> r/GriefSupport - No more death or sorrow",
+          "Revelation 21:7 -> r/Christianity - Overcomers shall inherit all things",
+          "Revelation 22:1 -> r/rivers - The crystal-clear river of life"
+        ],
+        "difficulty_note": "Expert - The fake adds 'of his heart unto me', a famous modern paraphrase not in the actual KJV text of Revelation 3:20"
+      },
+      "metadata": {
+        "createdAt": "2026-09-12T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-13",
+      "dayNumber": 175,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "isaiah servant",
+      "theme": "The Servant of the LORD",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.",
+          "reference": "Isaiah 42:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.",
+          "reference": "Isaiah 53:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MentalHealth",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+          "reference": "Isaiah 53:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He was oppressed, and he was afflicted, yet he opened not his mouth: he was led as a sheep to the slaughter, and as a lamb before her shearers is dumb, so he openeth not his mouth.",
+          "reference": "Isaiah 53:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.",
+          "reference": "Isaiah 53:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Bible",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The text given matches Isaiah 53:7, not Isaiah 53:8",
+          "Real Isaiah 53:8 reads: 'He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living'",
+          "The verse about the silent lamb before shearers is verse 7, not verse 8",
+          "This off-by-one verse citation is the subtle hard-mode fabrication"
+        ],
+        "whyReal": [
+          "Isaiah 42:1 is the first Servant Song, echoed at Jesus' baptism in Matthew 3:17",
+          "Isaiah 53:3 describes the Man of Sorrows — one of the most powerful Messianic portraits",
+          "Isaiah 53:5 is the healing-by-stripes verse, frequently quoted in the New Testament"
+        ],
+        "connections": [
+          "Isaiah 42:1 -> r/Christianity - The chosen Servant in whom God delights",
+          "Isaiah 53:3 -> r/MentalHealth - Despised, rejected, acquainted with grief",
+          "Isaiah 53:6 -> r/Bible - All have gone astray like sheep"
+        ],
+        "difficulty_note": "Hard - The text is genuine KJV but cited as verse 8 when it actually belongs to verse 7"
+      },
+      "metadata": {
+        "createdAt": "2026-09-13T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

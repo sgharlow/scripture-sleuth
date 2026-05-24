@@ -1,0 +1,545 @@
+{
+  "week": 11,
+  "startDate": "2026-06-01",
+  "puzzles": [
+    {
+      "id": "2026-06-01",
+      "dayNumber": 71,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "garden",
+      "theme": "Garden of Eden",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.",
+          "reference": "Genesis 2:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gardening",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.",
+          "reference": "Genesis 2:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/botany",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.",
+          "reference": "Genesis 3:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/confession",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And they were both naked, the man and his wife, and were not ashamed.",
+          "reference": "Genesis 2:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/naturism",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Blessed are they who dwell in harmony with all living things, for they shall know the peace of the garden and find wholeness within themselves.",
+          "reference": "Eden 1:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "'Eden' is not a book of the Bible",
+          "'Harmony with all living things' is modern eco-spirituality language",
+          "'Find wholeness within themselves' is self-actualisation language foreign to KJV",
+          "The real garden narrative focuses on God's commands and humanity's disobedience, not inner wellness"
+        ],
+        "whyReal": [
+          "Genesis 2:8 records God planting the garden in the east of Eden",
+          "Genesis 2:9 describes the two named trees: the tree of life and the tree of knowledge",
+          "Genesis 2:25 is the pre-Fall state of innocence: naked and unashamed",
+          "Genesis 3:13 captures Eve's confession about the serpent's deception"
+        ],
+        "connections": [
+          "Genesis 2:8 -> r/gardening - God as the original gardener",
+          "Genesis 2:9 -> r/botany - The two trees at the garden's centre",
+          "Genesis 2:25 -> r/naturism - Innocence before the Fall",
+          "Genesis 3:13 -> r/confession - Eve's account of how sin entered"
+        ],
+        "difficulty_note": "Easy - 'Eden' is not a biblical book, and the wellness language is an immediate tell"
+      },
+      "metadata": {
+        "createdAt": "2026-06-01T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-02",
+      "dayNumber": 72,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "commandments",
+      "theme": "The Ten Commandments",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Thou shalt have no other gods before me.",
+          "reference": "Exodus 20:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.",
+          "reference": "Exodus 20:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/family",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Thou shalt not bear false witness against thy neighbour.",
+          "reference": "Exodus 20:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/legaladvice",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Remember to honour each day with gratitude and purposeful living, for a life lived with mindfulness is pleasing unto the Lord.",
+          "reference": "Statutes 4:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's.",
+          "reference": "Exodus 20:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Frugal",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "'Statutes' is not a book of the Bible",
+          "'Mindfulness' is a contemporary wellness and meditation term not found in KJV",
+          "'Gratitude and purposeful living' is modern self-improvement language",
+          "The real Sabbath commandment (Exodus 20:8) calls to remember the day of rest, not 'mindful living'"
+        ],
+        "whyReal": [
+          "Exodus 20:3 is the first commandment: no other gods before the LORD",
+          "Exodus 20:12 is the fifth commandment: honour father and mother",
+          "Exodus 20:16 is the ninth commandment: no false witness",
+          "Exodus 20:17 is the tenth commandment: do not covet"
+        ],
+        "connections": [
+          "Exodus 20:3 -> r/Christianity - The first and foundational commandment",
+          "Exodus 20:12 -> r/family - Honouring parents as a divine command",
+          "Exodus 20:16 -> r/legaladvice - The prohibition on false testimony",
+          "Exodus 20:17 -> r/Frugal - Contentment with what one has"
+        ],
+        "difficulty_note": "Easy - 'Statutes' is not a biblical book, and 'mindfulness' is a modern buzzword that belongs to no KJV passage"
+      },
+      "metadata": {
+        "createdAt": "2026-06-02T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-03",
+      "dayNumber": 73,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "passover",
+      "theme": "The Passover",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you.",
+          "reference": "Exodus 12:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Judaism",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever.",
+          "reference": "Exodus 12:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon.",
+          "reference": "Exodus 12:30",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it.",
+          "reference": "Exodus 13:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.",
+          "reference": "Exodus 12:30",
+          "translation": "KJV",
+          "linkedSubreddit": "r/worldhistory",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The instruction to eat the lamb roasted with unleavened bread and bitter herbs belongs to Exodus 12:8, not Exodus 13:8",
+          "Exodus 13:8 actually says: 'And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt'",
+          "The text is authentic KJV from Exodus 12:8 but cited as 13:8 — wrong chapter",
+          "This tests whether players recognise the Passover meal instructions belong to chapter 12, not 13"
+        ],
+        "whyReal": [
+          "Exodus 12:13 contains the famous promise 'when I see the blood, I will pass over you'",
+          "Exodus 12:14 establishes the Passover as a perpetual memorial feast",
+          "Exodus 12:29-30 records the death of the firstborn at midnight throughout Egypt",
+          "Exodus 12:30 captures Pharaoh and all Egypt rising at midnight to the sound of mourning"
+        ],
+        "connections": [
+          "Exodus 12:13 -> r/Judaism - The blood on the doorposts as the sign of protection",
+          "Exodus 12:14 -> r/TrueChristian - Passover as an eternal ordinance pointing to Christ",
+          "Exodus 12:29 -> r/history - The final plague that broke Pharaoh's resistance",
+          "Exodus 12:30 -> r/worldhistory - Egypt's night of national mourning"
+        ],
+        "difficulty_note": "Medium - The text is genuine KJV from Exodus 12:8 but cited as 13:8; distinguishing chapter 12 from 13 in Exodus requires careful knowledge"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-04",
+      "dayNumber": 74,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "psalms",
+      "theme": "Psalms of David",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?",
+          "reference": "Psalm 27:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+          "reference": "Psalm 23:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Bless the LORD, O my soul: and all that is within me, bless his holy name.",
+          "reference": "Psalm 104:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Delight thyself also in the LORD; and he shall give thee the desires of thine heart. Commit thy ways unto him, and he shall direct thy paths.",
+          "reference": "Psalm 37:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Create in me a clean heart, O God; and renew a right spirit within me.",
+          "reference": "Psalm 51:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Psalm 37:4 actually reads only: 'Delight thyself also in the LORD; and he shall give thee the desires of thine heart'",
+          "The second sentence 'Commit thy ways unto him, and he shall direct thy paths' belongs to Proverbs 3:6 (loosely) or is fabricated addition",
+          "More precisely, Psalm 37:5 reads 'Commit thy way unto the LORD; trust also in him; and he shall bring it to pass' — the second sentence blends Psalm 37:5 into verse 4",
+          "Combining two separate verses under one reference makes this a fabricated composite"
+        ],
+        "whyReal": [
+          "Psalm 27:1 is David's confident declaration of the LORD as light and salvation",
+          "Psalm 23:4 is the beloved valley of the shadow of death passage",
+          "Psalm 104:1 opens the great creation psalm with a call to bless the LORD",
+          "Psalm 51:10 is David's prayer for a clean heart after his sin with Bathsheba"
+        ],
+        "connections": [
+          "Psalm 27:1 -> r/GetMotivated - Fearlessness rooted in God as light",
+          "Psalm 23:4 -> r/GriefSupport - Comfort in the darkest valleys",
+          "Psalm 104:1 -> r/Christianity - All that is within me blessing God",
+          "Psalm 51:10 -> r/DecidingToBeBetter - David's prayer for renewal after failure"
+        ],
+        "difficulty_note": "Medium - The fake fuses Psalm 37:4 with content from Psalm 37:5, presenting two verses as one; recognising the composite requires close familiarity with Psalm 37"
+      },
+      "metadata": {
+        "createdAt": "2026-06-04T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-05",
+      "dayNumber": 75,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "burning_bush",
+      "theme": "The Burning Bush",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.",
+          "reference": "Exodus 3:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Damnthatsinteresting",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground.",
+          "reference": "Exodus 3:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you.",
+          "reference": "Exodus 3:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Judaism",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And Moses said unto God, Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?",
+          "reference": "Exodus 3:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And Moses hid his face; for he was afraid to look upon God.",
+          "reference": "Exodus 3:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Moses's question 'Who am I, that I should go unto Pharaoh' appears in Exodus 3:11, not Exodus 3:12",
+          "Exodus 3:12 is God's response: 'And he said, Certainly I will be with thee; and this shall be a token unto thee, that I have sent thee'",
+          "The content is authentic KJV from Exodus 3:11 but is cited as verse 12",
+          "The one-verse displacement requires precise knowledge of the burning bush dialogue sequence"
+        ],
+        "whyReal": [
+          "Exodus 3:2 describes the bush burning without being consumed — the miracle that stopped Moses",
+          "Exodus 3:5 contains God's command to remove sandals on holy ground",
+          "Exodus 3:6 records Moses hiding his face in fear before God",
+          "Exodus 3:15 reveals God's full covenant name linking Abraham, Isaac, and Jacob"
+        ],
+        "connections": [
+          "Exodus 3:2 -> r/Damnthatsinteresting - A bush that burns without burning up",
+          "Exodus 3:5 -> r/TrueChristian - The holiness of the ground where God speaks",
+          "Exodus 3:6 -> r/philosophy - The human response to encountering the divine",
+          "Exodus 3:15 -> r/Judaism - God's covenant name through the patriarchs"
+        ],
+        "difficulty_note": "Hard - Moses's humble question is real KJV (Exodus 3:11) but is cited as Exodus 3:12; requires knowing the exact verse order of the burning bush conversation"
+      },
+      "metadata": {
+        "createdAt": "2026-06-05T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-06",
+      "dayNumber": 76,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "plagues",
+      "theme": "Plagues of Egypt",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me.",
+          "reference": "Exodus 8:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And the LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.",
+          "reference": "Exodus 9:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/farming",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And the LORD said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt.",
+          "reference": "Exodus 10:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Damnthatsinteresting",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day, and all that night; and when it was morning, the east wind brought the locusts.",
+          "reference": "Exodus 10:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/nature",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.",
+          "reference": "Exodus 12:31",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "The text of verse_5 matches Exodus 12:30, not Exodus 12:31",
+          "Exodus 12:30 reads: 'And Pharaoh rose up in the night...and there was not a house where there was not one dead'",
+          "Exodus 12:31 actually says: 'And he called for Moses and Aaron by night, and said, Rise up, and get you forth from among my people'",
+          "The content is authentic but assigned to the wrong verse by one number — a very subtle expert-level trap"
+        ],
+        "whyReal": [
+          "Exodus 8:20 records the 'Let my people go' command before the plague of flies",
+          "Exodus 9:6 reports the death of Egypt's cattle while Israel's livestock survived",
+          "Exodus 10:21 introduces the ninth plague: darkness that could be felt",
+          "Exodus 10:13 (context) describes the east wind bringing locusts overnight"
+        ],
+        "connections": [
+          "Exodus 8:20 -> r/history - The repeated divine demand to Pharaoh",
+          "Exodus 9:6 -> r/farming - Livestock plague: Egypt's cattle wiped out",
+          "Exodus 10:21 -> r/Damnthatsinteresting - Darkness thick enough to be felt",
+          "Exodus 10:13 -> r/nature - The east wind as agent of the locust plague"
+        ],
+        "difficulty_note": "Expert - The text is word-perfect KJV from Exodus 12:30 but cited as 12:31; one verse off in a very famous passage, requiring almost memorised knowledge of Exodus 12"
+      },
+      "metadata": {
+        "createdAt": "2026-06-06T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-07",
+      "dayNumber": 77,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "covenant",
+      "theme": "God's Covenant with Israel",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine.",
+          "reference": "Exodus 19:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Judaism",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the LORD hath made with you concerning all these words.",
+          "reference": "Exodus 24:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation.",
+          "reference": "Exodus 34:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations.",
+          "reference": "Deuteronomy 8:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And I will walk among you, and will be your God, and ye shall be my people.",
+          "reference": "Leviticus 26:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "This verse belongs to Deuteronomy 7:9, not Deuteronomy 8:9",
+          "Deuteronomy 7:9 reads: 'Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations'",
+          "Deuteronomy 8:9 actually describes the land of Canaan: 'A land wherein thou shalt eat bread without scarceness, thou shalt not lack any thing in it; a land whose stones are iron'",
+          "The content is real KJV but placed in the wrong chapter of Deuteronomy"
+        ],
+        "whyReal": [
+          "Exodus 19:5 contains the covenant promise: Israel as God's 'peculiar treasure'",
+          "Exodus 24:8 records Moses sprinkling blood as the seal of the covenant — a passage cited in Hebrews",
+          "Exodus 34:10 records God renewing the covenant after the golden calf episode",
+          "Leviticus 26:12 contains the beautiful covenant formula: 'I will be your God, and ye shall be my people'"
+        ],
+        "connections": [
+          "Exodus 19:5 -> r/Judaism - Israel chosen as God's treasured possession",
+          "Exodus 24:8 -> r/TrueChristian - Blood of the covenant, echoed at the Last Supper",
+          "Exodus 34:10 -> r/history - Covenant renewed after Israel's greatest failure",
+          "Leviticus 26:12 -> r/Christianity - The covenant formula repeated through both Testaments"
+        ],
+        "difficulty_note": "Hard - The verse is real KJV from Deuteronomy 7:9, but cited as 8:9; the one-chapter gap requires detailed knowledge of Deuteronomy's structure"
+      },
+      "metadata": {
+        "createdAt": "2026-06-07T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

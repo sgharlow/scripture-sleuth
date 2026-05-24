@@ -1,0 +1,537 @@
+{
+  "week": 13,
+  "startDate": "2026-06-15",
+  "puzzles": [
+    {
+      "id": "2026-06-15",
+      "dayNumber": 85,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "shepherd",
+      "theme": "The Good Shepherd",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Blessed are the sheep who follow the voice of their shepherd, for they shall never hunger nor thirst in the green fields of his merciful keeping.",
+          "reference": "Pastures 3:2",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "My sheep hear my voice, and I know them, and they follow me.",
+          "reference": "John 10:27",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "I am the good shepherd: the good shepherd giveth his life for the sheep.",
+          "reference": "John 10:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom, and shall gently lead those that are with young.",
+          "reference": "Isaiah 40:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AnimalsBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.",
+          "reference": "John 10:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/NatureIsBeautiful",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "\"Pastures\" is not a book of the Bible",
+          "\"Green fields of his merciful keeping\" is modern devotional language, not KJV idiom",
+          "The phrasing \"hunger nor thirst\" conflates separate biblical images without a real source"
+        ],
+        "whyReal": [
+          "John 10:27 is Jesus' own declaration that his sheep hear his voice",
+          "John 10:11 is Jesus' direct declaration as the Good Shepherd who gives his life",
+          "Isaiah 40:11 is a famous prophetic shepherd image about God's tender care for lambs"
+        ],
+        "connections": [
+          "John 10:27 -> r/Meditation - Hearing the shepherd's voice",
+          "John 10:11 -> r/Christianity - The Good Shepherd lays down his life",
+          "Isaiah 40:11 -> r/AnimalsBeingBros - Gathering lambs and carrying them tenderly",
+          "John 10:9 -> r/NatureIsBeautiful - The door to the sheepfold, finding pasture"
+        ],
+        "difficulty_note": "Easy - The fake book 'Pastures' and modern devotional phrasing are obvious tells"
+      },
+      "metadata": {
+        "createdAt": "2026-06-15T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-16",
+      "dayNumber": 86,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "praise",
+      "theme": "Songs of Praise",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.",
+          "reference": "Psalm 95:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Music",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Lift up your hearts and voices in harmony, giving thanks unto the Most High for every blessing poured upon your life and household.",
+          "reference": "Hymns 5:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.",
+          "reference": "Psalm 9:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+          "reference": "Psalm 150:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/WholesomeContent",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Bless the LORD, O my soul: and all that is within me, bless his holy name.",
+          "reference": "Psalm 103:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "\"Hymns\" is not a book of the Bible",
+          "\"Every blessing poured upon your life and household\" is contemporary prosperity-gospel language",
+          "\"Lift up your hearts and voices in harmony\" sounds like a modern worship song lyric, not KJV"
+        ],
+        "whyReal": [
+          "Psalm 95:1 opens the great call to worship, 'O come let us sing'",
+          "Psalm 150:6 is the grand finale of the entire Psalter — everything with breath praising God",
+          "Psalm 103:1 is David's beloved soul-stirring self-exhortation to bless the Lord"
+        ],
+        "connections": [
+          "Psalm 95:1 -> r/Music - Joyful noise and singing",
+          "Psalm 9:1 -> r/Christianity - Praising with whole heart",
+          "Psalm 150:6 -> r/WholesomeContent - Everything that breathes praises the Lord",
+          "Psalm 103:1 -> r/TrueChristian - Soul blessing God's holy name"
+        ],
+        "difficulty_note": "Easy - The fake book 'Hymns' and modern worship-song phrasing are clear tells"
+      },
+      "metadata": {
+        "createdAt": "2026-06-16T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-17",
+      "dayNumber": 87,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "refuge",
+      "theme": "God Is My Refuge",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "God is our refuge and strength, a very present help in trouble.",
+          "reference": "Psalm 46:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Anxiety",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.",
+          "reference": "Psalm 91:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
+          "reference": "Psalm 9:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/SupportForBereavedParents",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He shall cover thee with his feathers, and thou shalt find perfect rest beneath the shelter of his wings, and no evil shall come nigh thy dwelling place.",
+          "reference": "Psalm 91:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "In thee, O LORD, do I put my trust: let me never be put to confusion.",
+          "reference": "Psalm 71:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 91:4 says 'He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler'",
+          "The fake adds 'perfect rest' and 'no evil shall come nigh thy dwelling place' — the latter belongs to Psalm 91:10, not verse 4",
+          "The authentic verse speaks of truth as shield and buckler, which is entirely absent from the fake",
+          "Combining two separate verses and altering the meaning is the medium-difficulty tell"
+        ],
+        "whyReal": [
+          "Psalm 46:1 is the thunderous opening that inspired Luther's 'A Mighty Fortress'",
+          "Psalm 91:1 is the opening of the great protection psalm",
+          "Psalm 9:9 identifies the Lord as refuge specifically for the oppressed"
+        ],
+        "connections": [
+          "Psalm 46:1 -> r/Anxiety - God as a very present help in trouble",
+          "Psalm 91:1 -> r/Christianity - Abiding under God's shadow",
+          "Psalm 9:9 -> r/SupportForBereavedParents - Refuge for the oppressed",
+          "Psalm 71:1 -> r/Meditation - Trusting in the Lord, not confused"
+        ],
+        "difficulty_note": "Medium - The fake uses a real reference (Psalm 91:4) but conflates it with Psalm 91:10 and omits the 'shield and buckler' clause"
+      },
+      "metadata": {
+        "createdAt": "2026-06-17T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-18",
+      "dayNumber": 88,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "thanksgiving",
+      "theme": "Thanksgiving & Gratitude",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "O give thanks unto the LORD; for he is good: for his mercy endureth for ever.",
+          "reference": "Psalm 136:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gratitude",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+          "reference": "1 Thessalonians 5:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the LORD.",
+          "reference": "Psalm 116:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "In every season of life, give thanks from a grateful heart, for the Lord delighteth in the praises of those who remember his benefits with joy.",
+          "reference": "Colossians 3:17",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O most High.",
+          "reference": "Psalm 92:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Real Colossians 3:17 says 'And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him'",
+          "The fake replaces the actual verse with vague devotional language about 'every season of life'",
+          "\"Delighteth in the praises of those who remember his benefits with joy\" is fabricated — not in Colossians",
+          "The real verse is about doing ALL things in Christ's name, not a general thanksgiving formula"
+        ],
+        "whyReal": [
+          "Psalm 136:1 is the antiphonal psalm where every verse ends 'his mercy endureth for ever'",
+          "1 Thessalonians 5:18 is Paul's sweeping command to give thanks in EVERY thing",
+          "Psalm 92:1 declares it 'a good thing' to give thanks — the Sabbath psalm"
+        ],
+        "connections": [
+          "Psalm 136:1 -> r/gratitude - God's enduring mercy",
+          "1 Thessalonians 5:18 -> r/Christianity - Giving thanks in everything as God's will",
+          "Psalm 116:17 -> r/TrueChristian - Sacrifice of thanksgiving",
+          "Psalm 92:1 -> r/MadeMeSmile - It is good to give thanks"
+        ],
+        "difficulty_note": "Medium - The fake uses a real verse reference (Colossians 3:17) but replaces the content with warm-sounding devotional filler"
+      },
+      "metadata": {
+        "createdAt": "2026-06-18T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-19",
+      "dayNumber": 89,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "trust",
+      "theme": "Trust in the Lord",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+          "reference": "Proverbs 3:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/DecidingToBeBetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "It is better to trust in the LORD than to put confidence in man.",
+          "reference": "Psalm 118:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.",
+          "reference": "Psalm 125:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass.",
+          "reference": "Psalm 37:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Blessed is the man that trusteth in the LORD, and whose hope the LORD is, and he shall flourish like a tree planted by the rivers of living water.",
+          "reference": "Jeremiah 17:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Real Jeremiah 17:7-8 says 'Blessed is the man that trusteth in the LORD, and whose hope the LORD is. For he shall be as a tree planted by the waters'",
+          "The fake inserts 'rivers of living water' — a phrase from John 7:38, not Jeremiah",
+          "The authentic Jeremiah verse says 'planted by the waters' not 'rivers of living water'",
+          "This subtle cross-contamination from John's gospel is the hard-level tell"
+        ],
+        "whyReal": [
+          "Proverbs 3:5 is perhaps the most memorized trust verse in the entire Bible",
+          "Psalm 118:8 is the exact center of the Bible and declares trust in the Lord over man",
+          "Psalm 37:5 is David's famous call to commit our way to God"
+        ],
+        "connections": [
+          "Proverbs 3:5 -> r/DecidingToBeBetter - Trusting God, not one's own understanding",
+          "Psalm 118:8 -> r/Christianity - The Lord over human confidence",
+          "Psalm 125:1 -> r/GetMotivated - Unmovable as Mount Zion",
+          "Psalm 37:5 -> r/TrueChristian - Committing one's way to the Lord"
+        ],
+        "difficulty_note": "Hard - The fake subtly transplants 'rivers of living water' from John 7:38 into Jeremiah 17:7, which says only 'planted by the waters'"
+      },
+      "metadata": {
+        "createdAt": "2026-06-19T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-20",
+      "dayNumber": 90,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "ascent",
+      "theme": "Songs of Ascent",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "My help cometh from the LORD, which made heaven and earth. He will not suffer thy foot to be moved: he that keepeth thee will not slumber.",
+          "reference": "Psalm 121:2-3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "I was glad when they said unto me, Let us go into the house of the LORD.",
+          "reference": "Psalm 122:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+          "reference": "Psalm 133:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HumansBeingBros",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "They that sow in tears shall reap in joy.",
+          "reference": "Psalm 126:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.",
+          "reference": "Psalm 127:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Architecture",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 121:2 says 'My help cometh from the LORD, which made heaven and earth' — that part is authentic",
+          "Real Psalm 121:3 says 'He will not suffer thy foot to be moved: he that keepeth thee will not slumber' — also authentic individually",
+          "The fake merges two separate KJV verses into one citation labeled '121:2-3', which is not how the game cites individual verses",
+          "Expert players will notice both sub-verses are real but the merged hyphenated citation is the fabrication — this is the subtlest possible fake: two true halves joined dishonestly"
+        ],
+        "whyReal": [
+          "Psalm 122:1 is the famous pilgrim's joy at entering Jerusalem — a genuine Song of Ascent",
+          "Psalm 133:1 is the unity psalm, 'how good and pleasant' for brethren together",
+          "Psalm 126:5 is the harvest of joy after tears — one of the most beloved Psalms of Ascent",
+          "Psalm 127:1 warns that unless the Lord builds, all human labour is vain"
+        ],
+        "connections": [
+          "Psalm 122:1 -> r/Christianity - Glad to go to the house of the Lord",
+          "Psalm 133:1 -> r/HumansBeingBros - Brethren dwelling in unity",
+          "Psalm 126:5 -> r/MadeMeSmile - Sowing tears, reaping joy",
+          "Psalm 127:1 -> r/Architecture - The Lord must build the house"
+        ],
+        "difficulty_note": "Expert - Every word of the fake is genuine KJV, but two verses (121:2 and 121:3) are silently merged into one hyphenated citation. The fabrication is structural, not textual — the hardest kind to detect"
+      },
+      "metadata": {
+        "createdAt": "2026-06-20T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-06-21",
+      "dayNumber": 91,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "deliverance",
+      "theme": "Deliverance & Rescue",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Many are the afflictions of the righteous: but the LORD delivereth him out of them all.",
+          "reference": "Psalm 34:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings. And he hath put a new song in my mouth, even praise unto our God.",
+          "reference": "Psalm 40:2-3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "This poor man cried, and the LORD heard him, and saved him out of all his troubles.",
+          "reference": "Psalm 34:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/povertyfinance",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.",
+          "reference": "Psalm 18:48",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?",
+          "reference": "Psalm 27:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "Real Psalm 40:2 says 'He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings' — verse 2 ends there",
+          "Real Psalm 40:3 begins 'And he hath put a new song in my mouth, even praise unto our God' — a separate verse",
+          "The fake combines both verses into one long verse and labels it 'Psalm 40:2-3', which is not how the KJV cites individual verses",
+          "The subtle tell is the hyphenated reference — KJV puzzles cite a single verse; the merged citation is the hard-level fabrication marker"
+        ],
+        "whyReal": [
+          "Psalm 34:19 is a cornerstone of Christian hope: many afflictions come, but God delivers from all",
+          "Psalm 34:6 pairs beautifully — the poor man's cry answered by the Lord",
+          "Psalm 27:1 is one of the most powerful declarations of fearlessness through divine deliverance"
+        ],
+        "connections": [
+          "Psalm 34:19 -> r/Christianity - God delivers the righteous from all afflictions",
+          "Psalm 34:6 -> r/povertyfinance - The poor man cried and the Lord heard",
+          "Psalm 18:48 -> r/TrueChristian - Delivered from enemies and the violent man",
+          "Psalm 27:1 -> r/GetMotivated - Light, salvation, strength — whom shall I fear?"
+        ],
+        "difficulty_note": "Hard - Both verses in the fake (40:2 and 40:3) are individually real KJV, but they are silently merged into one citation. The hyphenated reference 'Psalm 40:2-3' masquerades as a single verse, which is the fabrication"
+      },
+      "metadata": {
+        "createdAt": "2026-06-21T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

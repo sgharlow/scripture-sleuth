@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-06-22",
-      "dayNumber": 92,
+      "dayNumber": 82,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "worship",
@@ -80,7 +80,7 @@
     },
     {
       "id": "2026-06-23",
-      "dayNumber": 93,
+      "dayNumber": 83,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "lovingkindness",
@@ -156,7 +156,7 @@
     },
     {
       "id": "2026-06-24",
-      "dayNumber": 94,
+      "dayNumber": 84,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "comfort",
@@ -232,7 +232,7 @@
     },
     {
       "id": "2026-06-25",
-      "dayNumber": 95,
+      "dayNumber": 85,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "holiness",
@@ -308,7 +308,7 @@
     },
     {
       "id": "2026-06-26",
-      "dayNumber": 96,
+      "dayNumber": 86,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "waiting",
@@ -384,7 +384,7 @@
     },
     {
       "id": "2026-06-27",
-      "dayNumber": 97,
+      "dayNumber": 87,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "shepherd",
@@ -460,7 +460,7 @@
     },
     {
       "id": "2026-06-28",
-      "dayNumber": 98,
+      "dayNumber": 88,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "refuge",

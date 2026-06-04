@@ -1,0 +1,545 @@
+{
+  "week": 30,
+  "startDate": "2026-10-12",
+  "puzzles": [
+    {
+      "id": "2026-10-12",
+      "dayNumber": 194,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "light",
+      "theme": "Light in the Darkness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "As long as I am in the world, I am the light of the world.",
+          "reference": "John 9:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.",
+          "reference": "1 John 1:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Let your light shine within and find the spark of the divine that dwelleth in every soul, and ye shall radiate peace unto the universe.",
+          "reference": "Illumination 2:5",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "I am come a light into the world, that whosoever believeth on me should not abide in darkness.",
+          "reference": "John 12:46",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "For thou wilt light my candle: the LORD my God will enlighten my darkness.",
+          "reference": "Psalm 18:28",
+          "translation": "KJV",
+          "linkedSubreddit": "r/science",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "'Illumination' is not a book of the Bible",
+          "'The spark of the divine that dwelleth in every soul' is New Age and pantheistic language, not biblical",
+          "'Radiate peace unto the universe' is modern spiritual-wellness phrasing foreign to the KJV",
+          "Scripture calls believers to let their light shine before men so God is glorified, not to find an inner divine spark"
+        ],
+        "whyReal": [
+          "John 9:5 is Jesus' word before healing the blind man: 'I am the light of the world'",
+          "1 John 1:5 declares that God is light with no darkness at all",
+          "John 12:46 says Christ came as light so believers need not abide in darkness",
+          "Psalm 18:28 trusts the LORD to light the believer's candle and lift the darkness"
+        ],
+        "connections": [
+          "John 9:5 -> r/GetMotivated - 'I am the light of the world'",
+          "1 John 1:5 -> r/Christianity - God is light, no darkness in him",
+          "John 12:46 -> r/MadeMeSmile - Light come into the world for believers",
+          "Psalm 18:28 -> r/science - 'The LORD my God will enlighten my darkness'"
+        ],
+        "difficulty_note": "Easy - 'Illumination' is no biblical book, and the inner-divine-spark wellness language is an immediate giveaway"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-13",
+      "dayNumber": 195,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "comfort",
+      "theme": "Comfort for the Weary",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+          "reference": "Matthew 11:28",
+          "translation": "KJV",
+          "linkedSubreddit": "r/CasualConversation",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Be still, and breathe, and let thy worries float away upon the waters, for tomorrow shall take thought for the things of itself.",
+          "reference": "Serenity 3:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
+          "reference": "John 14:27",
+          "translation": "KJV",
+          "linkedSubreddit": "r/decidingtobebetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Casting all your care upon him; for he careth for you.",
+          "reference": "1 Peter 5:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Anxiety",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+          "reference": "Philippians 4:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "'Serenity' is not a book of the Bible",
+          "'Be still, and breathe' and 'let thy worries float away' are modern mindfulness and meditation instructions",
+          "The phrase loosely lifts 'take thought for the things of itself' from Matthew 6:34 and reframes it as relaxation advice",
+          "Scripture answers anxiety with prayer and trust in God, not with breathwork and letting cares 'float away'"
+        ],
+        "whyReal": [
+          "Matthew 11:28 is Jesus' invitation to the weary to come and find rest",
+          "1 Peter 5:7 urges casting all care on God because he cares for you",
+          "John 14:27 gives Christ's peace, unlike the peace the world gives",
+          "Philippians 4:6 commands prayer with thanksgiving in place of anxiety"
+        ],
+        "connections": [
+          "Matthew 11:28 -> r/CasualConversation - An open invitation to the burdened",
+          "1 Peter 5:7 -> r/Anxiety - Handing your worry to the One who cares",
+          "John 14:27 -> r/decidingtobebetter - A peace the world cannot manufacture",
+          "Philippians 4:6 -> r/Meditation - Prayer as the antidote to worry"
+        ],
+        "difficulty_note": "Easy - 'Serenity' is not a biblical book, and the breathing-and-floating language is unmistakably modern mindfulness"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-14",
+      "dayNumber": 196,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "faith",
+      "theme": "Heroes of Faith",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house.",
+          "reference": "Hebrews 11:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/woodworking",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous.",
+          "reference": "Hebrews 11:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/solotravel",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "By faith Daniel stopped the mouths of the lions, and by faith the three children walked unharmed amid the burning flames of the furnace.",
+          "reference": "Hebrews 11:33",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter.",
+          "reference": "Hebrews 11:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/decidingtobebetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "By faith the walls of Jericho fell down, after they were compassed about seven days.",
+          "reference": "Hebrews 11:30",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Hebrews 11:33 actually reads: 'Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions'",
+          "It does not name Daniel or 'the three children' by name, and 'walked unharmed amid the burning flames' is not its wording",
+          "The fake personalises the general summary, naming individuals the text deliberately leaves unnamed",
+          "Daniel and the fiery furnace are real accounts (Daniel 6 and Daniel 3), but Hebrews 11:33-34 describes them anonymously"
+        ],
+        "whyReal": [
+          "Hebrews 11:7 honours Noah's faith in building the ark",
+          "Hebrews 11:4 honours Abel's more excellent sacrifice",
+          "Hebrews 11:24 honours Moses refusing the privileges of Pharaoh's court",
+          "Hebrews 11:30 honours the faith by which Jericho's walls fell"
+        ],
+        "connections": [
+          "Hebrews 11:7 -> r/woodworking - Noah building the ark by faith",
+          "Hebrews 11:4 -> r/solotravel - Abel's righteous offering",
+          "Hebrews 11:24 -> r/decidingtobebetter - Moses turning his back on privilege",
+          "Hebrews 11:30 -> r/Christianity - The walls of Jericho falling by faith"
+        ],
+        "difficulty_note": "Medium - The fake captures the spirit of Hebrews 11:33-34 but invents named heroes; the chapter pointedly keeps these examples anonymous"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-15",
+      "dayNumber": 197,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "harvest",
+      "theme": "Sowing and Reaping",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.",
+          "reference": "Galatians 6:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gardening",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.",
+          "reference": "Psalm 126:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GriefSupport",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "The harvest truly is plenteous, but the labourers are few.",
+          "reference": "Matthew 9:37",
+          "translation": "KJV",
+          "linkedSubreddit": "r/farming",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.",
+          "reference": "Ecclesiastes 11:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/homestead",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Whoso soweth in the morning with a glad heart shall gather a double portion, and the LORD shall multiply his barns sevenfold.",
+          "reference": "Ecclesiastes 11:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "Ecclesiastes 11:9 actually begins: 'Rejoice, O young man, in thy youth... but know thou, that for all these things God will bring thee into judgment'",
+          "The fake fabricates a prosperity promise of a 'double portion' and 'barns sevenfold' that the text never makes",
+          "Ecclesiastes 11:6 does counsel sowing in the morning and evening, but promises no guaranteed multiplied reward",
+          "The sevenfold-barns language is prosperity-gospel embellishment, foreign to the sober tone of Ecclesiastes"
+        ],
+        "whyReal": [
+          "Galatians 6:7 states the law of sowing and reaping",
+          "Psalm 126:6 promises the weeping sower will return rejoicing with his sheaves",
+          "Matthew 9:37 laments a plentiful harvest with few labourers",
+          "Ecclesiastes 11:4 warns that the over-cautious farmer never sows or reaps"
+        ],
+        "connections": [
+          "Galatians 6:7 -> r/gardening - You reap exactly what you plant",
+          "Psalm 126:6 -> r/GriefSupport - The weeping sower returning with sheaves",
+          "Matthew 9:37 -> r/farming - A ripe harvest needing more hands",
+          "Ecclesiastes 11:4 -> r/homestead - Waiting for perfect weather means never planting"
+        ],
+        "difficulty_note": "Medium - The fake sounds like an Ecclesiastes harvest proverb, but that book promises no guaranteed multiplied yield; the real 11:9 turns to youth and judgment"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-16",
+      "dayNumber": 198,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "prophets",
+      "theme": "The Call of the Prophets",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And the LORD said unto Amos, Go, anoint thee a successor among the herdsmen of Tekoa, that the word I have spoken depart not from the land.",
+          "reference": "Amos 7:14",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.",
+          "reference": "Isaiah 6:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/volunteer",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth.",
+          "reference": "Jeremiah 1:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/publicspeaking",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.",
+          "reference": "Ezekiel 2:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
+          "reference": "Jonah 1:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/CityPorn",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Amos 7:14 actually reads: 'I was no prophet, neither was I a prophet's son; but I was an herdman, and a gatherer of sycomore fruit'",
+          "Amos is told to prophesy himself, not to 'anoint a successor among the herdsmen'",
+          "The anointing-a-successor motif belongs to Elijah and Elisha (1 Kings 19), not to Amos",
+          "The fake borrows Amos's herdsman identity and the right book and chapter, but invents a commission the text never gives"
+        ],
+        "whyReal": [
+          "Isaiah 6:8 records Isaiah's volunteering: 'Here am I; send me'",
+          "Jeremiah 1:9 describes the LORD touching Jeremiah's mouth with his words",
+          "Ezekiel 2:1 commands Ezekiel to stand and receive God's speech",
+          "Jonah 1:2 sends Jonah to cry against Nineveh"
+        ],
+        "connections": [
+          "Isaiah 6:8 -> r/volunteer - Isaiah stepping forward to be sent",
+          "Jeremiah 1:9 -> r/publicspeaking - God's words placed in the prophet's mouth",
+          "Ezekiel 2:1 -> r/GetMotivated - 'Stand upon thy feet'",
+          "Jonah 1:2 -> r/CityPorn - The great city of Nineveh marked for warning"
+        ],
+        "difficulty_note": "Hard - The fake correctly recalls Amos the herdsman of Tekoa and cites the right chapter, but invents a 'successor' commission lifted from the Elijah-Elisha narrative"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-17",
+      "dayNumber": 199,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "beatitudes",
+      "theme": "The Beatitudes",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+          "reference": "Matthew 5:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Blessed are the meek: for they shall inherit the earth.",
+          "reference": "Matthew 5:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/humility",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.",
+          "reference": "Matthew 5:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Blessed are the patient in tribulation: for they shall be comforted in the fulness of time.",
+          "reference": "Matthew 5:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.",
+          "reference": "Matthew 5:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HumansBeingBros",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Matthew 5:11 actually reads: 'Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake'",
+          "There is no Beatitude for 'the patient in tribulation' — the recognised Beatitudes are poor in spirit, mourn, meek, hunger for righteousness, merciful, pure in heart, peacemakers, and persecuted",
+          "'Comforted in the fulness of time' fuses 'they shall be comforted' (5:4) with the unrelated phrase 'fulness of time' from Galatians 4:4",
+          "The fake invents a brand-new Beatitude in flawless KJV cadence and assigns it the right verse number"
+        ],
+        "whyReal": [
+          "Matthew 5:3 blesses the poor in spirit",
+          "Matthew 5:5 blesses the meek who inherit the earth",
+          "Matthew 5:10 blesses those persecuted for righteousness",
+          "Matthew 5:12 calls the persecuted to rejoice for their reward in heaven"
+        ],
+        "connections": [
+          "Matthew 5:3 -> r/Christianity - The first Beatitude",
+          "Matthew 5:5 -> r/humility - The meek inheriting the earth",
+          "Matthew 5:10 -> r/TrueChristian - Blessing on the persecuted",
+          "Matthew 5:12 -> r/HumansBeingBros - 'Rejoice, and be exceeding glad'"
+        ],
+        "difficulty_note": "Expert - The fake is a perfectly phrased Beatitude that simply does not exist; only knowing the eight genuine Beatitudes by heart exposes the counterfeit ninth"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-18",
+      "dayNumber": 200,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "resurrection",
+      "theme": "The Resurrection",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "But now is Christ risen from the dead, and become the firstfruits of them that slept.",
+          "reference": "1 Corinthians 15:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.",
+          "reference": "John 11:43",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And the angel rolled back the stone and sat upon it, saying, Why seek ye the dead among the living? for he is not here, but goeth before you into Galilee.",
+          "reference": "Mark 16:6",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Why seek ye the living among the dead? He is not here, but is risen.",
+          "reference": "Luke 24:5-6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "For as in Adam all die, even so in Christ shall all be made alive.",
+          "reference": "1 Corinthians 15:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Mark 16:6 actually reads: 'And he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here'",
+          "The fake reverses the real saying: it is 'Why seek ye the living among the dead?' (Luke 24:5), not 'the dead among the living'",
+          "In Matthew 28:2 the angel rolls back the stone and sits on it, but in Mark 16 the women find the stone already rolled away and a young man sitting within",
+          "The verse blends details from three different resurrection accounts and inverts the famous question"
+        ],
+        "whyReal": [
+          "1 Corinthians 15:20 proclaims Christ risen as the firstfruits of the dead",
+          "John 11:43 is Jesus' cry raising Lazarus: 'Lazarus, come forth'",
+          "Luke 24:5-6 asks 'Why seek ye the living among the dead?'",
+          "1 Corinthians 15:22 contrasts death in Adam with life in Christ"
+        ],
+        "connections": [
+          "1 Corinthians 15:20 -> r/Christianity - Christ the firstfruits of resurrection",
+          "John 11:43 -> r/TrueChristian - 'Lazarus, come forth'",
+          "Luke 24:5-6 -> r/MadeMeSmile - The angels' joyful question at the tomb",
+          "1 Corinthians 15:22 -> r/philosophy - Death in Adam, life in Christ"
+        ],
+        "difficulty_note": "Hard - The fake stitches together Matthew's stone-rolling angel with an inverted form of Luke's famous question, then mislabels it Mark 16:6"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    }
+  ]
+}

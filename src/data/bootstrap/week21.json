@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-08-10",
-      "dayNumber": 141,
+      "dayNumber": 131,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "salt",
@@ -79,7 +79,7 @@
     },
     {
       "id": "2026-08-11",
-      "dayNumber": 142,
+      "dayNumber": 132,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "lost_sheep",
@@ -154,7 +154,7 @@
     },
     {
       "id": "2026-08-12",
-      "dayNumber": 143,
+      "dayNumber": 133,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "faith",
@@ -229,7 +229,7 @@
     },
     {
       "id": "2026-08-13",
-      "dayNumber": 144,
+      "dayNumber": 134,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "judgment",
@@ -304,7 +304,7 @@
     },
     {
       "id": "2026-08-14",
-      "dayNumber": 145,
+      "dayNumber": 135,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "last_supper",
@@ -379,7 +379,7 @@
     },
     {
       "id": "2026-08-15",
-      "dayNumber": 146,
+      "dayNumber": 136,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "birth",
@@ -454,7 +454,7 @@
     },
     {
       "id": "2026-08-16",
-      "dayNumber": 147,
+      "dayNumber": 137,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "temptation",

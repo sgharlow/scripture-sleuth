@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-07-27",
-      "dayNumber": 127,
+      "dayNumber": 117,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "beatitudes",
@@ -79,7 +79,7 @@
     },
     {
       "id": "2026-07-28",
-      "dayNumber": 128,
+      "dayNumber": 118,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "parables",
@@ -154,7 +154,7 @@
     },
     {
       "id": "2026-07-29",
-      "dayNumber": 129,
+      "dayNumber": 119,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "sermon",
@@ -229,7 +229,7 @@
     },
     {
       "id": "2026-07-30",
-      "dayNumber": 130,
+      "dayNumber": 120,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "miracles",
@@ -304,7 +304,7 @@
     },
     {
       "id": "2026-07-31",
-      "dayNumber": 131,
+      "dayNumber": 121,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "prayer",
@@ -379,7 +379,7 @@
     },
     {
       "id": "2026-08-01",
-      "dayNumber": 132,
+      "dayNumber": 122,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "kingdom",
@@ -454,7 +454,7 @@
     },
     {
       "id": "2026-08-02",
-      "dayNumber": 133,
+      "dayNumber": 123,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "disciples",

@@ -3,239 +3,8 @@
   "startDate": "2026-06-01",
   "puzzles": [
     {
-      "id": "2026-06-01",
-      "dayNumber": 71,
-      "difficulty": "easy",
-      "dayOfWeek": "monday",
-      "category": "garden",
-      "theme": "Garden of Eden",
-      "verses": [
-        {
-          "id": "verse_1",
-          "text": "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.",
-          "reference": "Genesis 2:8",
-          "translation": "KJV",
-          "linkedSubreddit": "r/gardening",
-          "isFake": false
-        },
-        {
-          "id": "verse_2",
-          "text": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.",
-          "reference": "Genesis 2:9",
-          "translation": "KJV",
-          "linkedSubreddit": "r/botany",
-          "isFake": false
-        },
-        {
-          "id": "verse_3",
-          "text": "And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.",
-          "reference": "Genesis 3:13",
-          "translation": "KJV",
-          "linkedSubreddit": "r/confession",
-          "isFake": false
-        },
-        {
-          "id": "verse_4",
-          "text": "And they were both naked, the man and his wife, and were not ashamed.",
-          "reference": "Genesis 2:25",
-          "translation": "KJV",
-          "linkedSubreddit": "r/naturism",
-          "isFake": false
-        },
-        {
-          "id": "verse_5",
-          "text": "Blessed are they who dwell in harmony with all living things, for they shall know the peace of the garden and find wholeness within themselves.",
-          "reference": "Eden 1:8",
-          "translation": "KJV",
-          "linkedSubreddit": "",
-          "isFake": true
-        }
-      ],
-      "fakeVerseIndex": 4,
-      "explanation": {
-        "whyFake": [
-          "'Eden' is not a book of the Bible",
-          "'Harmony with all living things' is modern eco-spirituality language",
-          "'Find wholeness within themselves' is self-actualisation language foreign to KJV",
-          "The real garden narrative focuses on God's commands and humanity's disobedience, not inner wellness"
-        ],
-        "whyReal": [
-          "Genesis 2:8 records God planting the garden in the east of Eden",
-          "Genesis 2:9 describes the two named trees: the tree of life and the tree of knowledge",
-          "Genesis 2:25 is the pre-Fall state of innocence: naked and unashamed",
-          "Genesis 3:13 captures Eve's confession about the serpent's deception"
-        ],
-        "connections": [
-          "Genesis 2:8 -> r/gardening - God as the original gardener",
-          "Genesis 2:9 -> r/botany - The two trees at the garden's centre",
-          "Genesis 2:25 -> r/naturism - Innocence before the Fall",
-          "Genesis 3:13 -> r/confession - Eve's account of how sin entered"
-        ],
-        "difficulty_note": "Easy - 'Eden' is not a biblical book, and the wellness language is an immediate tell"
-      },
-      "metadata": {
-        "createdAt": "2026-06-01T10:00:00Z",
-        "createdBy": "scripture_curator",
-        "reviewed": true
-      }
-    },
-    {
-      "id": "2026-06-02",
-      "dayNumber": 72,
-      "difficulty": "easy",
-      "dayOfWeek": "tuesday",
-      "category": "commandments",
-      "theme": "The Ten Commandments",
-      "verses": [
-        {
-          "id": "verse_1",
-          "text": "Thou shalt have no other gods before me.",
-          "reference": "Exodus 20:3",
-          "translation": "KJV",
-          "linkedSubreddit": "r/Christianity",
-          "isFake": false
-        },
-        {
-          "id": "verse_2",
-          "text": "Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.",
-          "reference": "Exodus 20:12",
-          "translation": "KJV",
-          "linkedSubreddit": "r/family",
-          "isFake": false
-        },
-        {
-          "id": "verse_3",
-          "text": "Thou shalt not bear false witness against thy neighbour.",
-          "reference": "Exodus 20:16",
-          "translation": "KJV",
-          "linkedSubreddit": "r/legaladvice",
-          "isFake": false
-        },
-        {
-          "id": "verse_4",
-          "text": "Remember to honour each day with gratitude and purposeful living, for a life lived with mindfulness is pleasing unto the Lord.",
-          "reference": "Statutes 4:11",
-          "translation": "KJV",
-          "linkedSubreddit": "",
-          "isFake": true
-        },
-        {
-          "id": "verse_5",
-          "text": "Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's.",
-          "reference": "Exodus 20:17",
-          "translation": "KJV",
-          "linkedSubreddit": "r/Frugal",
-          "isFake": false
-        }
-      ],
-      "fakeVerseIndex": 3,
-      "explanation": {
-        "whyFake": [
-          "'Statutes' is not a book of the Bible",
-          "'Mindfulness' is a contemporary wellness and meditation term not found in KJV",
-          "'Gratitude and purposeful living' is modern self-improvement language",
-          "The real Sabbath commandment (Exodus 20:8) calls to remember the day of rest, not 'mindful living'"
-        ],
-        "whyReal": [
-          "Exodus 20:3 is the first commandment: no other gods before the LORD",
-          "Exodus 20:12 is the fifth commandment: honour father and mother",
-          "Exodus 20:16 is the ninth commandment: no false witness",
-          "Exodus 20:17 is the tenth commandment: do not covet"
-        ],
-        "connections": [
-          "Exodus 20:3 -> r/Christianity - The first and foundational commandment",
-          "Exodus 20:12 -> r/family - Honouring parents as a divine command",
-          "Exodus 20:16 -> r/legaladvice - The prohibition on false testimony",
-          "Exodus 20:17 -> r/Frugal - Contentment with what one has"
-        ],
-        "difficulty_note": "Easy - 'Statutes' is not a biblical book, and 'mindfulness' is a modern buzzword that belongs to no KJV passage"
-      },
-      "metadata": {
-        "createdAt": "2026-06-02T10:00:00Z",
-        "createdBy": "scripture_curator",
-        "reviewed": true
-      }
-    },
-    {
-      "id": "2026-06-03",
-      "dayNumber": 73,
-      "difficulty": "medium",
-      "dayOfWeek": "wednesday",
-      "category": "passover",
-      "theme": "The Passover",
-      "verses": [
-        {
-          "id": "verse_1",
-          "text": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you.",
-          "reference": "Exodus 12:13",
-          "translation": "KJV",
-          "linkedSubreddit": "r/Judaism",
-          "isFake": false
-        },
-        {
-          "id": "verse_2",
-          "text": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever.",
-          "reference": "Exodus 12:14",
-          "translation": "KJV",
-          "linkedSubreddit": "r/TrueChristian",
-          "isFake": false
-        },
-        {
-          "id": "verse_3",
-          "text": "And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon.",
-          "reference": "Exodus 12:29",
-          "translation": "KJV",
-          "linkedSubreddit": "r/history",
-          "isFake": false
-        },
-        {
-          "id": "verse_4",
-          "text": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it.",
-          "reference": "Exodus 13:8",
-          "translation": "KJV",
-          "linkedSubreddit": "",
-          "isFake": true
-        },
-        {
-          "id": "verse_5",
-          "text": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.",
-          "reference": "Exodus 12:30",
-          "translation": "KJV",
-          "linkedSubreddit": "r/worldhistory",
-          "isFake": false
-        }
-      ],
-      "fakeVerseIndex": 3,
-      "explanation": {
-        "whyFake": [
-          "The instruction to eat the lamb roasted with unleavened bread and bitter herbs belongs to Exodus 12:8, not Exodus 13:8",
-          "Exodus 13:8 actually says: 'And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt'",
-          "The text is authentic KJV from Exodus 12:8 but cited as 13:8 — wrong chapter",
-          "This tests whether players recognise the Passover meal instructions belong to chapter 12, not 13"
-        ],
-        "whyReal": [
-          "Exodus 12:13 contains the famous promise 'when I see the blood, I will pass over you'",
-          "Exodus 12:14 establishes the Passover as a perpetual memorial feast",
-          "Exodus 12:29-30 records the death of the firstborn at midnight throughout Egypt",
-          "Exodus 12:29 captures Pharaoh and all Egypt rising at midnight to the sound of mourning"
-        ],
-        "connections": [
-          "Exodus 12:13 -> r/Judaism - The blood on the doorposts as the sign of protection",
-          "Exodus 12:14 -> r/TrueChristian - Passover as an eternal ordinance pointing to Christ",
-          "Exodus 12:29 -> r/history - The final plague that broke Pharaoh's resistance",
-          "Exodus 12:29 -> r/worldhistory - Egypt's night of national mourning"
-        ],
-        "difficulty_note": "Medium - The text is genuine KJV from Exodus 12:8 but cited as 13:8; distinguishing chapter 12 from 13 in Exodus requires careful knowledge"
-      },
-      "metadata": {
-        "createdAt": "2026-06-03T10:00:00Z",
-        "createdBy": "scripture_curator",
-        "reviewed": true
-      }
-    },
-    {
       "id": "2026-06-04",
-      "dayNumber": 74,
+      "dayNumber": 64,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "psalms",
@@ -312,7 +81,7 @@
     },
     {
       "id": "2026-06-05",
-      "dayNumber": 75,
+      "dayNumber": 65,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "burning_bush",
@@ -389,7 +158,7 @@
     },
     {
       "id": "2026-06-06",
-      "dayNumber": 76,
+      "dayNumber": 66,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "plagues",
@@ -466,7 +235,7 @@
     },
     {
       "id": "2026-06-07",
-      "dayNumber": 77,
+      "dayNumber": 67,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "covenant",

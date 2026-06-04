@@ -1,0 +1,545 @@
+{
+  "week": 31,
+  "startDate": "2026-10-19",
+  "puzzles": [
+    {
+      "id": "2026-10-19",
+      "dayNumber": 201,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "courage",
+      "theme": "Be Strong and of Good Courage",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.",
+          "reference": "Deuteronomy 31:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For I the LORD thy God will hold thy right hand, saying unto thee, Fear not; I will help thee.",
+          "reference": "Isaiah 41:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Anxiety",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Stay strong and believe in yourself, for the courage thou seekest already dwelleth within thy heart, and no foe can stand against thine inner light.",
+          "reference": "Valour 5:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "What time I am afraid, I will trust in thee.",
+          "reference": "Psalm 56:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/decidingtobebetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, will be with thee.",
+          "reference": "1 Chronicles 28:20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "'Valour' is not a book of the Bible",
+          "'Believe in yourself' and 'the courage already dwelleth within thy heart' are modern self-empowerment slogans",
+          "Biblical courage is grounded in God's presence ('the LORD thy God is with thee'), not in an 'inner light' within the self",
+          "'No foe can stand against thine inner light' is motivational-poster language, not Scripture"
+        ],
+        "whyReal": [
+          "Deuteronomy 31:6 charges Israel to be strong, for God will not fail nor forsake them",
+          "Isaiah 41:13 promises God holding the believer's right hand: 'Fear not; I will help thee'",
+          "Psalm 56:3 expresses trust in God in the moment of fear",
+          "1 Chronicles 28:20 is David's charge to Solomon to be strong and unafraid"
+        ],
+        "connections": [
+          "Deuteronomy 31:6 -> r/GetMotivated - 'He will not fail thee, nor forsake thee'",
+          "Isaiah 41:13 -> r/Anxiety - God holding your right hand",
+          "Psalm 56:3 -> r/decidingtobebetter - Trusting God when afraid",
+          "1 Chronicles 28:20 -> r/Christianity - David's charge to build with courage"
+        ],
+        "difficulty_note": "Easy - 'Valour' is not a biblical book, and 'believe in yourself / inner light' is self-help language, the opposite of courage rooted in God's presence"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-20",
+      "dayNumber": 202,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "prayer",
+      "theme": "The Lord's Prayer",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Our Father which art in heaven, Hallowed be thy name.",
+          "reference": "Matthew 6:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Thy kingdom come, Thy will be done in earth, as it is in heaven.",
+          "reference": "Matthew 6:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Grant us, O Lord, prosperity in our labours, and crown our households with abundance, that we may want for nothing all our days.",
+          "reference": "Matthew 6:12",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.",
+          "reference": "Luke 11:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/decidingtobebetter",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+          "reference": "Luke 11:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Meditation",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Matthew 6:12 actually reads: 'And forgive us our debts, as we forgive our debtors'",
+          "The Lord's Prayer asks for daily bread and forgiveness, not for 'prosperity' and 'abundance' so we 'want for nothing'",
+          "'Crown our households with abundance' is prosperity-gospel language alien to the model prayer",
+          "The fake replaces the petition for forgiveness with a request for material wealth"
+        ],
+        "whyReal": [
+          "Matthew 6:9 opens the Lord's Prayer with 'Our Father which art in heaven'",
+          "Matthew 6:10 prays 'Thy kingdom come, Thy will be done'",
+          "Luke 11:4 is Luke's form of the prayer for forgiveness and deliverance",
+          "Luke 11:9 follows the prayer with 'Ask, and it shall be given you'"
+        ],
+        "connections": [
+          "Matthew 6:9 -> r/Christianity - The opening of the Lord's Prayer",
+          "Matthew 6:10 -> r/TrueChristian - 'Thy kingdom come'",
+          "Luke 11:4 -> r/decidingtobebetter - Forgiveness and deliverance from evil",
+          "Luke 11:9 -> r/Meditation - 'Ask, seek, knock'"
+        ],
+        "difficulty_note": "Easy - The Lord's Prayer petitions for bread and forgiveness; the prosperity request for abundance is plainly out of character"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-21",
+      "dayNumber": 203,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "water",
+      "theme": "Living Water",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.",
+          "reference": "John 7:37",
+          "translation": "KJV",
+          "linkedSubreddit": "r/hydrohomies",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.",
+          "reference": "John 4:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/springs",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is.",
+          "reference": "Psalm 63:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/deer",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And whosoever drinketh from the river of the Lord shall thirst no more, neither shall the sun smite him, for the waters thereof flow from the throne unto all the thirsty lands.",
+          "reference": "John 7:39",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And the Spirit and the bride say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.",
+          "reference": "Revelation 22:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/EarthPorn",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "John 7:39 actually reads: 'But this spake he of the Spirit, which they that believe on him should receive' — it is John's explanation, not a poetic promise",
+          "The 'river from the throne' belongs to Revelation 22:1, and 'neither shall the sun light on them' to Revelation 7:16, both grafted onto a John reference",
+          "John 7:38 does speak of 'rivers of living water,' but verse 39 is the narrator's gloss about the Holy Spirit",
+          "The fake fuses Revelation imagery into the wrong Gospel verse"
+        ],
+        "whyReal": [
+          "John 7:37 is Jesus' cry: 'If any man thirst, let him come unto me, and drink'",
+          "John 4:14 promises water becoming a well springing up to everlasting life",
+          "Psalm 63:1 thirsts for God in a dry and thirsty land where no water is",
+          "Revelation 22:17 offers the water of life freely to whoever will"
+        ],
+        "connections": [
+          "John 7:37 -> r/hydrohomies - 'If any man thirst, let him come and drink'",
+          "John 4:14 -> r/springs - A well springing up to eternal life",
+          "Psalm 63:1 -> r/deer - The soul thirsting in a dry land",
+          "Revelation 22:17 -> r/EarthPorn - The free water of life"
+        ],
+        "difficulty_note": "Medium - The fake weaves Revelation's river-from-the-throne into a John citation; recognising that John 7:39 is the Spirit-explanation, not a water promise, unmasks it"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-22",
+      "dayNumber": 204,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "kings",
+      "theme": "Kings of Israel",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "But now thy kingdom shall not continue: the LORD hath sought him a man after his own heart, and the LORD hath commanded him to be captain over his people.",
+          "reference": "1 Samuel 13:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel?",
+          "reference": "1 Samuel 16:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/leadership",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And king Solomon spake unto the people, saying, A wise king buildeth his throne upon the necks of his enemies, and his sword shall not return empty to the sheath.",
+          "reference": "1 Kings 5:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Lo, I have given thee a wise and an understanding heart; so that there was none like thee before thee, neither after thee shall any arise like unto thee.",
+          "reference": "1 Kings 3:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.",
+          "reference": "2 Samuel 7:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/judges",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "1 Kings 5:7 actually concerns Hiram king of Tyre rejoicing over Solomon's request for timber to build the temple",
+          "Solomon is famed for wisdom and temple-building, not for a brutal saying about thrones built on enemies' necks",
+          "'His sword shall not return empty' echoes Isaiah 55:11 and 2 Samuel war imagery, fused into a fake Solomon proverb",
+          "The militaristic boast contradicts Solomon's whole reign of peace (his name means peace) and the context of 1 Kings 5"
+        ],
+        "whyReal": [
+          "1 Samuel 13:14 foretells a king after God's own heart replacing Saul",
+          "1 Samuel 16:1 sends Samuel to anoint a new king after Saul's rejection",
+          "1 Kings 3:12 records God granting Solomon an unequalled wise heart",
+          "2 Samuel 7:16 promises David an everlasting throne"
+        ],
+        "connections": [
+          "1 Samuel 13:14 -> r/history - The kingdom torn from Saul for David",
+          "1 Samuel 16:1 -> r/leadership - The throne passing from Saul to David",
+          "1 Kings 3:12 -> r/GetMotivated - A wise heart like no other",
+          "2 Samuel 7:16 -> r/judges - David's throne established for ever"
+        ],
+        "difficulty_note": "Medium - The fake cites a real 1 Kings chapter, but 1 Kings 5 is about Hiram supplying temple timber; the bloodthirsty throne-saying contradicts peaceable Solomon"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-23",
+      "dayNumber": 205,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "miracles",
+      "theme": "Miracles of Jesus",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm.",
+          "reference": "Matthew 8:26",
+          "translation": "KJV",
+          "linkedSubreddit": "r/weather",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And in the fourth watch of the night Jesus went unto them, walking on the sea.",
+          "reference": "Matthew 14:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Damnthatsinteresting",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Then took he the seven loaves, and as he brake them and gave thanks, the multitude beheld the loaves multiply within his very hands, that all might see the wonder thereof.",
+          "reference": "Mark 8:6",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise.",
+          "reference": "Mark 5:41",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?",
+          "reference": "John 11:40",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Mark 8:6 actually reads: 'And he commanded the people to sit down on the ground: and he took the seven loaves, and gave thanks, and brake, and gave to his disciples to set before them; and they did set them before the people'",
+          "The Gospels never describe the loaves visibly multiplying 'within his very hands' for the crowd to behold — the miracle is reported, not narrated as a spectacle",
+          "The fake adds a dramatised, on-camera multiplication the restrained Gospel text deliberately avoids",
+          "Real KJV miracle accounts state the result plainly without theatrical embellishment"
+        ],
+        "whyReal": [
+          "Matthew 8:26 is Jesus stilling the storm and rebuking the winds and sea",
+          "Matthew 14:25 records Jesus walking on the sea",
+          "Mark 5:41 raises Jairus's daughter with 'Talitha cumi'",
+          "John 11:40 precedes the raising of Lazarus"
+        ],
+        "connections": [
+          "Matthew 8:26 -> r/weather - A word that calms wind and waves",
+          "Matthew 14:25 -> r/Damnthatsinteresting - Walking upon the water",
+          "Mark 5:41 -> r/MadeMeSmile - 'Damsel, I say unto thee, arise'",
+          "John 11:40 -> r/TrueChristian - 'If thou wouldest believe, thou shouldest see'"
+        ],
+        "difficulty_note": "Hard - The fake opens with genuine feeding-miracle vocabulary and the right verse, but invents a visible 'loaves multiplying in his hands' spectacle absent from the sober Gospel record"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-24",
+      "dayNumber": 206,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "armor",
+      "theme": "The Armour of God",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.",
+          "reference": "Ephesians 6:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.",
+          "reference": "1 Thessalonians 5:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.",
+          "reference": "Colossians 2:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/swords",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And bind upon thy arm the gauntlet of faith, and gird thy waist with the girdle of patience, that no fiery dart pierce thee unawares.",
+          "reference": "Ephesians 6:15",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints.",
+          "reference": "Ephesians 6:18",
+          "translation": "KJV",
+          "linkedSubreddit": "r/medievalarmor",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Ephesians 6:15 actually reads: 'And your feet shod with the preparation of the gospel of peace'",
+          "There is no 'gauntlet of faith' or 'girdle of patience' in the armour of God — the genuine pieces are the belt of truth, breastplate of righteousness, gospel-shod feet, shield of faith, helmet of salvation, and sword of the Spirit",
+          "The fake invents extra armour pieces not in Paul's list and assigns them the right verse number",
+          "'Fiery dart' is borrowed from the real shield of faith (Ephesians 6:16), reinforcing the illusion"
+        ],
+        "whyReal": [
+          "Ephesians 6:13 commands taking the whole armour of God to stand in the evil day",
+          "1 Thessalonians 5:8 names the breastplate of faith and love and the helmet of hope",
+          "Colossians 2:15 shows Christ openly triumphing over the powers of darkness",
+          "Ephesians 6:18 closes the armour passage with praying always in the Spirit"
+        ],
+        "connections": [
+          "Ephesians 6:13 -> r/Christianity - Standing in the evil day in full armour",
+          "1 Thessalonians 5:8 -> r/TrueChristian - The breastplate of faith and love",
+          "Colossians 2:15 -> r/swords - Christ's victory over principalities and powers",
+          "Ephesians 6:18 -> r/medievalarmor - Prayer as the warrior's constant watch"
+        ],
+        "difficulty_note": "Expert - The fake invents a 'gauntlet of faith' and 'girdle of patience' between the real verses 14 and 16; only knowing every genuine piece of the armour exposes the counterfeit"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-25",
+      "dayNumber": 207,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "vine",
+      "theme": "The True Vine",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "I am the true vine, and my Father is the husbandman.",
+          "reference": "John 15:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/winemaking",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.",
+          "reference": "John 15:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gardening",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.",
+          "reference": "John 15:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/pruning",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And the branch that beareth wild grapes shall be cast into the winepress of mine anger, and the dresser of the vineyard shall remember it no more for ever.",
+          "reference": "John 15:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.",
+          "reference": "John 15:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "John 15:7 actually reads: 'If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you'",
+          "The 'wild grapes' belong to Isaiah's vineyard song (Isaiah 5:2-4), and 'the winepress of mine anger' to Revelation 14:19 and Isaiah 63:3, not to John 15",
+          "John 15:7 is a gracious promise about abiding and answered prayer, not a threat of wrath",
+          "The fake transplants Old Testament and Revelation judgment imagery onto the gentle vine discourse"
+        ],
+        "whyReal": [
+          "John 15:1 names Christ the true vine and the Father the husbandman",
+          "John 15:4 says a branch bears fruit only by abiding in the vine",
+          "John 15:2 describes the Father pruning fruitful branches",
+          "John 15:8 says bearing much fruit glorifies the Father"
+        ],
+        "connections": [
+          "John 15:1 -> r/winemaking - Christ the true vine",
+          "John 15:4 -> r/gardening - Bearing fruit only by abiding in the vine",
+          "John 15:2 -> r/pruning - Pruning the fruitful branch to bear more",
+          "John 15:8 -> r/Christianity - Fruitfulness glorifying the Father"
+        ],
+        "difficulty_note": "Hard - The fake replaces the real John 15:7 promise about answered prayer with 'wild grapes' and 'winepress of anger' imagery imported from Isaiah and Revelation"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    }
+  ]
+}

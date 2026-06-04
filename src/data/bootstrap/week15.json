@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-06-29",
-      "dayNumber": 99,
+      "dayNumber": 89,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "strength",
@@ -80,7 +80,7 @@
     },
     {
       "id": "2026-06-30",
-      "dayNumber": 100,
+      "dayNumber": 90,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "meditation",
@@ -156,7 +156,7 @@
     },
     {
       "id": "2026-07-01",
-      "dayNumber": 101,
+      "dayNumber": 91,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "victory",
@@ -233,7 +233,7 @@
     },
     {
       "id": "2026-07-02",
-      "dayNumber": 102,
+      "dayNumber": 92,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "blessing",
@@ -309,7 +309,7 @@
     },
     {
       "id": "2026-07-03",
-      "dayNumber": 103,
+      "dayNumber": 93,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "kingship",
@@ -385,7 +385,7 @@
     },
     {
       "id": "2026-07-04",
-      "dayNumber": 104,
+      "dayNumber": 94,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "worship",
@@ -463,7 +463,7 @@
     },
     {
       "id": "2026-07-05",
-      "dayNumber": 105,
+      "dayNumber": 95,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "zion",

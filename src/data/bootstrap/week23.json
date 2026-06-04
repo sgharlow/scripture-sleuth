@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-08-24",
-      "dayNumber": 155,
+      "dayNumber": 145,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "love",
@@ -79,7 +79,7 @@
     },
     {
       "id": "2026-08-25",
-      "dayNumber": 156,
+      "dayNumber": 146,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "armor",
@@ -154,7 +154,7 @@
     },
     {
       "id": "2026-08-26",
-      "dayNumber": 157,
+      "dayNumber": 147,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "fruit",
@@ -229,7 +229,7 @@
     },
     {
       "id": "2026-08-27",
-      "dayNumber": 158,
+      "dayNumber": 148,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "body",
@@ -304,7 +304,7 @@
     },
     {
       "id": "2026-08-28",
-      "dayNumber": 159,
+      "dayNumber": 149,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "perseverance",
@@ -379,7 +379,7 @@
     },
     {
       "id": "2026-08-29",
-      "dayNumber": 160,
+      "dayNumber": 150,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "love",
@@ -454,7 +454,7 @@
     },
     {
       "id": "2026-08-30",
-      "dayNumber": 161,
+      "dayNumber": 151,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "grace",

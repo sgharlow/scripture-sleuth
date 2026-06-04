@@ -1,0 +1,545 @@
+{
+  "week": 32,
+  "startDate": "2026-10-26",
+  "puzzles": [
+    {
+      "id": "2026-10-26",
+      "dayNumber": 208,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "joy",
+      "theme": "Rejoice in the Lord",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.",
+          "reference": "Psalm 16:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/happy",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Therefore with joy shall ye draw water out of the wells of salvation.",
+          "reference": "Isaiah 12:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.",
+          "reference": "Psalm 98:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/MadeMeSmile",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The joy of the LORD is your strength.",
+          "reference": "Nehemiah 8:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Begin each morning with a grateful heart, and let positive energy guide thy steps, for joy is a choice thou makest anew each day.",
+          "reference": "Gladness 2:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "'Gladness' is not a book of the Bible",
+          "'Positive energy' and 'joy is a choice thou makest' are modern self-help and pop-psychology phrases",
+          "Biblical joy flows from the LORD ('the joy of the LORD is your strength'), not from cultivating 'positive energy' within",
+          "'Begin each morning with a grateful heart' reads like a motivational journal prompt, not Scripture"
+        ],
+        "whyReal": [
+          "Psalm 16:11 finds fulness of joy in God's presence",
+          "Isaiah 12:3 draws water with joy from the wells of salvation",
+          "Nehemiah 8:10 declares the joy of the LORD to be our strength",
+          "Psalm 98:4 calls all the earth to make a joyful noise to the LORD"
+        ],
+        "connections": [
+          "Psalm 16:11 -> r/happy - Fulness of joy in God's presence",
+          "Isaiah 12:3 -> r/GetMotivated - Joy drawn from the wells of salvation",
+          "Nehemiah 8:10 -> r/Christianity - The joy of the LORD as strength",
+          "Psalm 98:4 -> r/MadeMeSmile - A joyful noise from all the earth"
+        ],
+        "difficulty_note": "Easy - 'Gladness' is no biblical book, and 'positive energy / joy is a choice' is plainly modern self-help wording"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-27",
+      "dayNumber": 209,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "providence",
+      "theme": "Consider the Birds",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?",
+          "reference": "Matthew 6:26",
+          "translation": "KJV",
+          "linkedSubreddit": "r/birdwatching",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith?",
+          "reference": "Matthew 6:30",
+          "translation": "KJV",
+          "linkedSubreddit": "r/flowers",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But the eagle that mounteth toward the sun shall not weary, for the Lord hath given unto every creeping thing and every winged fowl a portion sufficient for its season.",
+          "reference": "Matthew 6:31",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?",
+          "reference": "Luke 12:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/birding",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+          "reference": "Matthew 6:33",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Matthew 6:31 actually reads: 'Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?'",
+          "The eagle 'mounting toward the sun' is a nature-poem flourish absent from the Sermon on the Mount",
+          "'A portion sufficient for its season' loosely echoes Psalm 104:27 but is not in Matthew 6",
+          "The genuine passage contrasts anxious humans with carefree birds and flowers, not with soaring eagles"
+        ],
+        "whyReal": [
+          "Matthew 6:26 says God feeds the birds who neither sow nor reap",
+          "Matthew 6:30 reasons that God who clothes the grass will clothe his people",
+          "Luke 12:24 points to the ravens fed without storehouse or barn",
+          "Matthew 6:33 commands seeking first the kingdom of God"
+        ],
+        "connections": [
+          "Matthew 6:26 -> r/birdwatching - Birds fed by the heavenly Father",
+          "Matthew 6:30 -> r/flowers - Grass clothed today, gone tomorrow",
+          "Luke 12:24 -> r/birding - Ravens fed without barns",
+          "Matthew 6:33 -> r/Christianity - Seeking the kingdom first"
+        ],
+        "difficulty_note": "Easy - The eagle-toward-the-sun imagery is out of place in the Sermon on the Mount, which speaks of birds and lilies, not soaring eagles"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-28",
+      "dayNumber": 210,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "mountains",
+      "theme": "Mountains of God",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "My help cometh from the LORD, which made heaven and earth.",
+          "reference": "Psalm 121:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/hiking",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Thy righteousness is like the great mountains; thy judgments are a great deep: O LORD, thou preservest man and beast.",
+          "reference": "Psalm 36:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/mountains",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing.",
+          "reference": "Isaiah 55:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/EarthPorn",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And the LORD shall set his throne upon the highest mountain, and the peoples shall climb thereunto with offerings of gold and frankincense in their hands.",
+          "reference": "Micah 4:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "As the mountains are round about Jerusalem, so the LORD is round about his people from henceforth even for ever.",
+          "reference": "Psalm 125:2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/CityPorn",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Micah 4:7 actually reads: 'And I will make her that halted a remnant... and the LORD shall reign over them in mount Zion from henceforth, even for ever'",
+          "The image of peoples climbing with 'gold and frankincense' borrows from the Magi (Matthew 2:11) and Isaiah 60:6, not Micah 4",
+          "Micah 4:1-2 speaks of nations flowing up to the mountain of the LORD to learn his ways, not of carrying tribute up a literal peak",
+          "The fake builds a plausible Zion scene from borrowed pieces and assigns it the wrong content for Micah 4:7"
+        ],
+        "whyReal": [
+          "Psalm 121:2 declares help comes from the LORD, maker of heaven and earth",
+          "Psalm 36:6 likens God's righteousness to the great mountains",
+          "Isaiah 55:12 pictures mountains breaking into singing",
+          "Psalm 125:2 surrounds God's people as mountains surround Jerusalem"
+        ],
+        "connections": [
+          "Psalm 121:2 -> r/hiking - Help from the Maker of heaven and earth",
+          "Psalm 36:6 -> r/mountains - Righteousness like the great mountains",
+          "Isaiah 55:12 -> r/EarthPorn - Mountains singing for joy",
+          "Psalm 125:2 -> r/CityPorn - The hills encircling Jerusalem"
+        ],
+        "difficulty_note": "Medium - The fake assembles a believable Zion-tribute scene from Magi and Isaiah 60 imagery, but Micah 4:7 actually proclaims the LORD reigning in Zion forever"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-29",
+      "dayNumber": 211,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "exodus",
+      "theme": "Crossing the Red Sea",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And Moses said unto the people, Fear ye not, stand still, and see the salvation of the LORD, which he will shew to you to day.",
+          "reference": "Exodus 14:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left.",
+          "reference": "Exodus 14:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Damnthatsinteresting",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And it came to pass, that in the morning watch the LORD looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians.",
+          "reference": "Exodus 14:24",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And Miriam took a timbrel in her hand, and led the daughters of Israel in a song upon the far shore, saying, The depths have covered them; they sank into the bottom like a stone.",
+          "reference": "Exodus 14:31",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Who is like unto thee, O LORD, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?",
+          "reference": "Exodus 15:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Exodus 14:31 actually reads: 'And Israel saw that great work which the LORD did upon the Egyptians: and the people feared the LORD, and believed the LORD, and his servant Moses'",
+          "Miriam taking a timbrel belongs to Exodus 15:20, and 'they sank into the bottom like a stone' to the Song of Moses in Exodus 15:5 — both are chapter 15, not 14:31",
+          "The fake gathers genuine phrases from the next chapter and mislabels them as Exodus 14:31",
+          "Exodus 14 ends with Israel's fear and faith; Miriam's song does not begin until chapter 15"
+        ],
+        "whyReal": [
+          "Exodus 14:13 is Moses' charge to stand still and see God's salvation",
+          "Exodus 14:22 describes Israel crossing on dry ground between walls of water",
+          "Exodus 14:24 records the LORD troubling the Egyptian host at the morning watch",
+          "Exodus 15:11 sings 'Who is like unto thee, O LORD, among the gods?'"
+        ],
+        "connections": [
+          "Exodus 14:13 -> r/GetMotivated - 'Stand still, and see the salvation of the LORD'",
+          "Exodus 14:22 -> r/Damnthatsinteresting - Walls of water on either side",
+          "Exodus 14:24 -> r/history - The Egyptian army thrown into confusion",
+          "Exodus 15:11 -> r/TrueChristian - 'Who is like unto thee, O LORD?'"
+        ],
+        "difficulty_note": "Medium - Every phrase in the fake is real KJV, but Miriam's timbrel (15:20) and 'sank like a stone' (15:5) belong to chapter 15, not to Exodus 14:31"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-30",
+      "dayNumber": 212,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "endtimes",
+      "theme": "The Day of the Lord",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise.",
+          "reference": "2 Peter 3:10",
+          "translation": "KJV",
+          "linkedSubreddit": "r/space",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.",
+          "reference": "Matthew 24:30",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.",
+          "reference": "Joel 2:31",
+          "translation": "KJV",
+          "linkedSubreddit": "r/space",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And no man knoweth the day nor the hour, save he that hath numbered the falling of the leaves and the turning of the seven seasons of the end.",
+          "reference": "Matthew 24:36",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Watch therefore: for ye know not what hour your Lord doth come.",
+          "reference": "Matthew 24:42",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Matthew 24:36 actually reads: 'But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only'",
+          "The point of the real verse is that the timing is hidden from everyone except the Father — there is no one who has 'numbered the falling of the leaves'",
+          "'The turning of the seven seasons of the end' is invented apocalyptic decoration with no basis in the text",
+          "The fake contradicts the verse's whole meaning by implying someone can calculate the end"
+        ],
+        "whyReal": [
+          "2 Peter 3:10 says the day of the Lord comes like a thief in the night",
+          "Matthew 24:30 foretells the Son of man coming in the clouds",
+          "Joel 2:31 describes the sun darkened and moon turned to blood",
+          "Matthew 24:42 commands watchfulness since the hour is unknown"
+        ],
+        "connections": [
+          "2 Peter 3:10 -> r/space - The heavens passing away with a roar",
+          "Matthew 24:30 -> r/TrueChristian - The Son of man coming on the clouds",
+          "Joel 2:31 -> r/space - Sun darkened, moon turned to blood",
+          "Matthew 24:42 -> r/Christianity - 'Watch, for ye know not the hour'"
+        ],
+        "difficulty_note": "Hard - The fake inverts Matthew 24:36: the verse insists only the Father knows the day, yet the counterfeit invents a figure who has 'numbered' the signs of the end"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-31",
+      "dayNumber": 213,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "wilderness",
+      "theme": "The Temptation in the Wilderness",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.",
+          "reference": "Matthew 4:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/CampingandHiking",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.",
+          "reference": "Matthew 4:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Breadit",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple.",
+          "reference": "Matthew 4:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/heights",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And the devil said unto him, Bow down but once and worship me, and I will give thee dominion over the hosts of heaven and the keys of the deep.",
+          "reference": "Matthew 4:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Then the devil leaveth him, and, behold, angels came and ministered unto him.",
+          "reference": "Matthew 4:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Matthew 4:9 actually reads: 'And saith unto him, All these things will I give thee, if thou wilt fall down and worship me'",
+          "The devil offers 'all the kingdoms of the world, and the glory of them' (Matthew 4:8), not 'dominion over the hosts of heaven and the keys of the deep'",
+          "Satan cannot offer the hosts of heaven; the real temptation is over the kingdoms of the earth",
+          "'The keys of the deep' borrows from Revelation 9:1 and 20:1, grafted into the wilderness temptation"
+        ],
+        "whyReal": [
+          "Matthew 4:1 sets the scene: Jesus led into the wilderness to be tempted",
+          "Matthew 4:3 is the first temptation, to turn stones into bread",
+          "Matthew 4:5 places Jesus on the pinnacle of the temple",
+          "Matthew 4:11 closes the temptation as the devil departs and angels minister to Jesus"
+        ],
+        "connections": [
+          "Matthew 4:1 -> r/CampingandHiking - Forty days in the wilderness",
+          "Matthew 4:3 -> r/Breadit - 'Command that these stones be made bread'",
+          "Matthew 4:5 -> r/heights - The pinnacle of the temple",
+          "Matthew 4:11 -> r/TrueChristian - Angels minister after the devil departs"
+        ],
+        "difficulty_note": "Expert - The fake keeps the worship-for-power bargain but swaps the kingdoms of the world for 'the hosts of heaven and the keys of the deep,' an offer Satan never makes and never could"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-11-01",
+      "dayNumber": 214,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "salvation",
+      "theme": "Salvation by Grace",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.",
+          "reference": "Romans 5:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ.",
+          "reference": "Romans 5:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For God so loved the world, that whosoever turneth from his sins and walketh in righteousness shall earn the reward of life everlasting.",
+          "reference": "Ephesians 2:9",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_4",
+          "text": "For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.",
+          "reference": "2 Corinthians 5:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.",
+          "reference": "1 Timothy 1:15",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 2,
+      "explanation": {
+        "whyFake": [
+          "Ephesians 2:9 actually reads: 'Not of works, lest any man should boast'",
+          "The fake teaches the exact opposite of the surrounding passage: it says salvation is earned by turning from sin and walking in righteousness",
+          "It opens with the famous words of John 3:16 ('For God so loved the world') and then bends them into a works-based reward",
+          "Ephesians 2:8-9 insists salvation is the gift of God, 'not of works, lest any man should boast' — the fake makes it a wage to be earned"
+        ],
+        "whyReal": [
+          "Romans 5:8 shows God's love: Christ died for us while we were yet sinners",
+          "Romans 5:1 says we are justified by faith and have peace with God",
+          "2 Corinthians 5:21 makes Christ sin for us that we might be made righteous",
+          "1 Timothy 1:15 declares Christ came to save sinners"
+        ],
+        "connections": [
+          "Romans 5:8 -> r/Christianity - Christ dying for us while we were sinners",
+          "Romans 5:1 -> r/TrueChristian - Justified by faith, at peace with God",
+          "2 Corinthians 5:21 -> r/Christianity - The great exchange of righteousness",
+          "1 Timothy 1:15 -> r/philosophy - 'Christ Jesus came... to save sinners'"
+        ],
+        "difficulty_note": "Hard - The fake mimics John 3:16's opening and lands on Ephesians 2:9, but reverses the verse's meaning: it preaches earning salvation where the real text says 'not of works, lest any man should boast'"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    }
+  ]
+}

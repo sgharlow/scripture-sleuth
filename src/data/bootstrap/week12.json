@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-06-08",
-      "dayNumber": 78,
+      "dayNumber": 68,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "babel",
@@ -81,7 +81,7 @@
     },
     {
       "id": "2026-06-09",
-      "dayNumber": 79,
+      "dayNumber": 69,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "jacob",
@@ -158,7 +158,7 @@
     },
     {
       "id": "2026-06-10",
-      "dayNumber": 80,
+      "dayNumber": 70,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "solomon",
@@ -236,7 +236,7 @@
     },
     {
       "id": "2026-06-11",
-      "dayNumber": 81,
+      "dayNumber": 71,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "samson",
@@ -313,7 +313,7 @@
     },
     {
       "id": "2026-06-12",
-      "dayNumber": 82,
+      "dayNumber": 72,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "elijah",
@@ -390,7 +390,7 @@
     },
     {
       "id": "2026-06-13",
-      "dayNumber": 83,
+      "dayNumber": 73,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "ruth",
@@ -467,7 +467,7 @@
     },
     {
       "id": "2026-06-14",
-      "dayNumber": 84,
+      "dayNumber": 74,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "moses_farewell",

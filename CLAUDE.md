@@ -123,7 +123,9 @@ Tests located in `src/**/*.test.ts`:
 - `shareUtils.test.ts` - Share text generation
 - `achievementService.test.ts` - Achievement logic
 
-1,158 tests across 5 test files (VERIFIED via `npm run test` on 2026-05-24: 1,088 in puzzleData.test.ts covering weeks 1-9 + 70 across the other 4 files). New weeks 10-27 are covered by `allWeeks.test.ts`. Run with `npm run test` or `npm run test:watch`.
+3,133 tests across 6 test files (VERIFIED via `npm run test` on 2026-06-03). `allWeeks.test.ts` is a disk-reading full-inventory validator that auto-covers new week files. Run with `npm run test` or `npm run test:watch`.
+
+**Puzzle content (2026-06-03):** 219 puzzles through 2026-11-06 (weeks 01-33). The never-served 2026-05-25..06-03 "dry window" puzzles (the 5-24 extension was committed but never uploaded) were re-dated +126 days to 9-28..10-07 (weeks 28-29, `scripts/redate-dry-window-2026-06-03.mjs`), and 30 new puzzles added for 10-08..11-06 (weeks 29-33; KJV-verbatim audited, zero real-verse reuse vs the prior corpus). Deployed + installed on r/ScriptureSleuth same day.
 
 ---
 

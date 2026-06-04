@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-09-14",
-      "dayNumber": 176,
+      "dayNumber": 166,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "god is faithful",
@@ -79,7 +79,7 @@
     },
     {
       "id": "2026-09-15",
-      "dayNumber": 177,
+      "dayNumber": 167,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "end times signs",
@@ -154,7 +154,7 @@
     },
     {
       "id": "2026-09-16",
-      "dayNumber": 178,
+      "dayNumber": 168,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "isaiah new creation",
@@ -229,7 +229,7 @@
     },
     {
       "id": "2026-09-17",
-      "dayNumber": 179,
+      "dayNumber": 169,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "jeremiah weeping prophet",
@@ -304,7 +304,7 @@
     },
     {
       "id": "2026-09-18",
-      "dayNumber": 180,
+      "dayNumber": 170,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "divine promises",
@@ -379,7 +379,7 @@
     },
     {
       "id": "2026-09-19",
-      "dayNumber": 181,
+      "dayNumber": 171,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "isaiah names god",
@@ -454,7 +454,7 @@
     },
     {
       "id": "2026-09-20",
-      "dayNumber": 182,
+      "dayNumber": 172,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "hope anchor",

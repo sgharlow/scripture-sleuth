@@ -1,0 +1,545 @@
+{
+  "week": 29,
+  "startDate": "2026-10-05",
+  "puzzles": [
+    {
+      "id": "2026-10-05",
+      "dayNumber": 187,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "garden",
+      "theme": "Garden of Eden",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.",
+          "reference": "Genesis 2:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/gardening",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.",
+          "reference": "Genesis 2:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/botany",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.",
+          "reference": "Genesis 3:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/confession",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And they were both naked, the man and his wife, and were not ashamed.",
+          "reference": "Genesis 2:25",
+          "translation": "KJV",
+          "linkedSubreddit": "r/naturism",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Blessed are they who dwell in harmony with all living things, for they shall know the peace of the garden and find wholeness within themselves.",
+          "reference": "Eden 1:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        }
+      ],
+      "fakeVerseIndex": 4,
+      "explanation": {
+        "whyFake": [
+          "'Eden' is not a book of the Bible",
+          "'Harmony with all living things' is modern eco-spirituality language",
+          "'Find wholeness within themselves' is self-actualisation language foreign to KJV",
+          "The real garden narrative focuses on God's commands and humanity's disobedience, not inner wellness"
+        ],
+        "whyReal": [
+          "Genesis 2:8 records God planting the garden in the east of Eden",
+          "Genesis 2:9 describes the two named trees: the tree of life and the tree of knowledge",
+          "Genesis 2:25 is the pre-Fall state of innocence: naked and unashamed",
+          "Genesis 3:13 captures Eve's confession about the serpent's deception"
+        ],
+        "connections": [
+          "Genesis 2:8 -> r/gardening - God as the original gardener",
+          "Genesis 2:9 -> r/botany - The two trees at the garden's centre",
+          "Genesis 2:25 -> r/naturism - Innocence before the Fall",
+          "Genesis 3:13 -> r/confession - Eve's account of how sin entered"
+        ],
+        "difficulty_note": "Easy - 'Eden' is not a biblical book, and the wellness language is an immediate tell"
+      },
+      "metadata": {
+        "createdAt": "2026-06-01T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-06",
+      "dayNumber": 188,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "commandments",
+      "theme": "The Ten Commandments",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Thou shalt have no other gods before me.",
+          "reference": "Exodus 20:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.",
+          "reference": "Exodus 20:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/family",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "Thou shalt not bear false witness against thy neighbour.",
+          "reference": "Exodus 20:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/legaladvice",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Remember to honour each day with gratitude and purposeful living, for a life lived with mindfulness is pleasing unto the Lord.",
+          "reference": "Statutes 4:11",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's.",
+          "reference": "Exodus 20:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Frugal",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "'Statutes' is not a book of the Bible",
+          "'Mindfulness' is a contemporary wellness and meditation term not found in KJV",
+          "'Gratitude and purposeful living' is modern self-improvement language",
+          "The real Sabbath commandment (Exodus 20:8) calls to remember the day of rest, not 'mindful living'"
+        ],
+        "whyReal": [
+          "Exodus 20:3 is the first commandment: no other gods before the LORD",
+          "Exodus 20:12 is the fifth commandment: honour father and mother",
+          "Exodus 20:16 is the ninth commandment: no false witness",
+          "Exodus 20:17 is the tenth commandment: do not covet"
+        ],
+        "connections": [
+          "Exodus 20:3 -> r/Christianity - The first and foundational commandment",
+          "Exodus 20:12 -> r/family - Honouring parents as a divine command",
+          "Exodus 20:16 -> r/legaladvice - The prohibition on false testimony",
+          "Exodus 20:17 -> r/Frugal - Contentment with what one has"
+        ],
+        "difficulty_note": "Easy - 'Statutes' is not a biblical book, and 'mindfulness' is a modern buzzword that belongs to no KJV passage"
+      },
+      "metadata": {
+        "createdAt": "2026-06-02T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-07",
+      "dayNumber": 189,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "passover",
+      "theme": "The Passover",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you.",
+          "reference": "Exodus 12:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Judaism",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever.",
+          "reference": "Exodus 12:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon.",
+          "reference": "Exodus 12:29",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it.",
+          "reference": "Exodus 13:8",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.",
+          "reference": "Exodus 12:30",
+          "translation": "KJV",
+          "linkedSubreddit": "r/worldhistory",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The instruction to eat the lamb roasted with unleavened bread and bitter herbs belongs to Exodus 12:8, not Exodus 13:8",
+          "Exodus 13:8 actually says: 'And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt'",
+          "The text is authentic KJV from Exodus 12:8 but cited as 13:8 — wrong chapter",
+          "This tests whether players recognise the Passover meal instructions belong to chapter 12, not 13"
+        ],
+        "whyReal": [
+          "Exodus 12:13 contains the famous promise 'when I see the blood, I will pass over you'",
+          "Exodus 12:14 establishes the Passover as a perpetual memorial feast",
+          "Exodus 12:29-30 records the death of the firstborn at midnight throughout Egypt",
+          "Exodus 12:29 captures Pharaoh and all Egypt rising at midnight to the sound of mourning"
+        ],
+        "connections": [
+          "Exodus 12:13 -> r/Judaism - The blood on the doorposts as the sign of protection",
+          "Exodus 12:14 -> r/TrueChristian - Passover as an eternal ordinance pointing to Christ",
+          "Exodus 12:29 -> r/history - The final plague that broke Pharaoh's resistance",
+          "Exodus 12:29 -> r/worldhistory - Egypt's night of national mourning"
+        ],
+        "difficulty_note": "Medium - The text is genuine KJV from Exodus 12:8 but cited as 13:8; distinguishing chapter 12 from 13 in Exodus requires careful knowledge"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-08",
+      "dayNumber": 190,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "creation",
+      "theme": "The Heavens Declare",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And God set the lights of heaven in their courses, that man might measure his days by the turning of the spheres and number his seasons by the wandering stars.",
+          "reference": "Psalm 19:7",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "O LORD our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.",
+          "reference": "Psalm 8:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/astrophotography",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "He telleth the number of the stars; he calleth them all by their names.",
+          "reference": "Psalm 147:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/space",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained.",
+          "reference": "Psalm 8:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Astronomy",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number.",
+          "reference": "Isaiah 40:26",
+          "translation": "KJV",
+          "linkedSubreddit": "r/cosmology",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "Psalm 19:7 actually reads: 'The law of the LORD is perfect, converting the soul' — it turns from the heavens to the law",
+          "'The turning of the spheres' and 'wandering stars' invoke Greek and medieval astronomy, not the Hebrew psalm",
+          "The verse number is genuine but the content is fabricated to extend the creation imagery of Psalm 19:1-6",
+          "Psalm 19 pivots at verse 7 to praise God's commandments, not to teach calendar-keeping by the stars"
+        ],
+        "whyReal": [
+          "Psalm 8:1 proclaims God's glory set above the heavens",
+          "Psalm 147:4 says God names every star individually",
+          "Psalm 8:3 marvels at the moon and stars as the work of God's fingers",
+          "Isaiah 40:26 calls the reader to look up and behold the One who created the starry host"
+        ],
+        "connections": [
+          "Psalm 8:1 -> r/astrophotography - God's glory set above the heavens",
+          "Psalm 147:4 -> r/space - Every star numbered and named",
+          "Psalm 8:3 -> r/Astronomy - The moon and stars as divine handiwork",
+          "Isaiah 40:26 -> r/cosmology - Beholding the One who brought out the heavenly host"
+        ],
+        "difficulty_note": "Medium - The reference Psalm 19:7 is real and falls within the same psalm, but that verse turns to the law of the LORD, not to astronomy; the classical 'spheres' language is the tell"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-09",
+      "dayNumber": 191,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "wisdom",
+      "theme": "The Beginning of Wisdom",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.",
+          "reference": "Proverbs 1:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!",
+          "reference": "Proverbs 16:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/LifeProTips",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.",
+          "reference": "Ecclesiastes 7:12",
+          "translation": "KJV",
+          "linkedSubreddit": "r/personalfinance",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "The wise man storeth up understanding as a merchant gathereth fine pearls, but the fool scattereth his learning upon the wind and is left with empty hands.",
+          "reference": "Proverbs 7:24",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+          "reference": "James 1:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Proverbs 7:24 actually reads: 'Hearken unto me now therefore, O ye children, and attend to the words of my mouth'",
+          "Proverbs 7 is the warning against the seductive woman, not a discourse on storing up understanding",
+          "The 'merchant gathering pearls' image borrows from the Gospel parable (Matthew 13:45-46) and is grafted onto a Proverbs reference",
+          "The antithetical 'wise man / fool' couplet is constructed in proverbial style but appears nowhere in Scripture"
+        ],
+        "whyReal": [
+          "Proverbs 1:7 names the fear of the LORD the beginning of knowledge",
+          "Proverbs 16:16 prizes wisdom and understanding above gold and silver",
+          "Ecclesiastes 7:12 compares wisdom and money as defences, crowning wisdom for giving life",
+          "James 1:5 promises God-given wisdom to whoever asks in faith"
+        ],
+        "connections": [
+          "Proverbs 1:7 -> r/GetMotivated - The fear of the LORD as the start of knowledge",
+          "Proverbs 16:16 -> r/LifeProTips - Wisdom worth more than gold or silver",
+          "Ecclesiastes 7:12 -> r/personalfinance - Wisdom and money as twin defences",
+          "James 1:5 -> r/Christianity - Asking God for wisdom freely given"
+        ],
+        "difficulty_note": "Hard - The fabricated proverb is fluent and parallel in form, citing a real Proverbs chapter; only knowing that Proverbs 7 warns against temptation exposes it"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-10",
+      "dayNumber": 192,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "creation",
+      "theme": "The Days of Creation",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
+          "reference": "Genesis 1:5",
+          "translation": "KJV",
+          "linkedSubreddit": "r/space",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And God called the firmament Heaven. And the evening and the morning were the second day.",
+          "reference": "Genesis 1:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Astronomy",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.",
+          "reference": "Genesis 1:16",
+          "translation": "KJV",
+          "linkedSubreddit": "r/sun",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And God saw the light, that it was good: and God divided the day from the night, and set a season for the sowing and a season for the reaping.",
+          "reference": "Genesis 1:4",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.",
+          "reference": "Genesis 1:22",
+          "translation": "KJV",
+          "linkedSubreddit": "r/marinebiology",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Genesis 1:4 actually reads: 'And God saw the light, that it was good: and God divided the light from the darkness'",
+          "The verse divides 'the light from the darkness,' not 'the day from the night,' and says nothing of sowing and reaping",
+          "The added clause about a season to sow and reap echoes Ecclesiastes 3 and Genesis 8:22, grafted onto day one of creation",
+          "Seedtime and harvest do not appear until after the Flood (Genesis 8:22), so the imagery is out of place on the first day"
+        ],
+        "whyReal": [
+          "Genesis 1:5 names Day and Night and closes the first day",
+          "Genesis 1:8 names the firmament Heaven and closes the second day",
+          "Genesis 1:16 records the two great lights and the stars",
+          "Genesis 1:22 blesses the sea creatures and birds to be fruitful and multiply"
+        ],
+        "connections": [
+          "Genesis 1:5 -> r/space - The first division of light and darkness",
+          "Genesis 1:8 -> r/Astronomy - The naming of the heavens",
+          "Genesis 1:16 -> r/sun - The greater and lesser lights",
+          "Genesis 1:22 -> r/marinebiology - The blessing of the creatures of the sea"
+        ],
+        "difficulty_note": "Expert - The opening clause is verbatim Genesis 1:4, but the ending swaps 'light from darkness' for 'day from night' and inserts seedtime-and-harvest language that belongs after the Flood"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-11",
+      "dayNumber": 193,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "shepherd",
+      "theme": "The Good Shepherd",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.",
+          "reference": "John 10:28",
+          "translation": "KJV",
+          "linkedSubreddit": "r/sheep",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "For thus saith the Lord GOD; Behold, I, even I, will both search my sheep, and seek them out.",
+          "reference": "Ezekiel 34:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/dogs",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "For he is our God; and we are the people of his pasture, and the sheep of his hand.",
+          "reference": "Psalm 95:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/lostredditors",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And the shepherd that loseth one sheep shall not rest until he hath built a wall about the ninety and nine, lest the wolf scatter them in the night.",
+          "reference": "John 10:14",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And he shall stand and feed in the strength of the LORD, in the majesty of the name of the LORD his God.",
+          "reference": "Micah 5:4",
+          "translation": "KJV",
+          "linkedSubreddit": "r/farming",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "John 10:14 actually reads: 'I am the good shepherd, and know my sheep, and am known of mine'",
+          "The 'ninety and nine' belong to the lost-sheep parable in Luke 15 and Matthew 18, where the shepherd leaves them to seek the one — he does not build a wall about them",
+          "Building a wall while a lost sheep remains untended inverts the whole point of the parable, where the shepherd goes after the one",
+          "The verse stitches Luke 15 imagery onto a John 10 reference and contradicts both"
+        ],
+        "whyReal": [
+          "John 10:28 promises eternal life and that none can pluck the sheep from his hand",
+          "Ezekiel 34:11 has God himself search out and seek his scattered sheep",
+          "Psalm 95:7 calls us the people of his pasture and the sheep of his hand",
+          "Micah 5:4 foretells the shepherd-ruler feeding the flock in the strength of the LORD"
+        ],
+        "connections": [
+          "John 10:28 -> r/sheep - Sheep held securely in the shepherd's hand",
+          "Ezekiel 34:11 -> r/dogs - God seeking out every scattered sheep",
+          "Psalm 95:7 -> r/lostredditors - The sheep of his pasture and his hand",
+          "Micah 5:4 -> r/farming - The shepherd feeding in the LORD's strength"
+        ],
+        "difficulty_note": "Hard - The fake mimics shepherd language and cites John 10, but inverts the lost-sheep parable: the true shepherd leaves the ninety-nine to seek the one, he does not wall them in"
+      },
+      "metadata": {
+        "createdAt": "2026-06-03T10:00:00Z",
+        "createdBy": "curator_1",
+        "reviewed": true
+      }
+    }
+  ]
+}

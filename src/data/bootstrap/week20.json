@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-08-03",
-      "dayNumber": 134,
+      "dayNumber": 124,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "love",
@@ -79,7 +79,7 @@
     },
     {
       "id": "2026-08-04",
-      "dayNumber": 135,
+      "dayNumber": 125,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "forgiveness",
@@ -154,7 +154,7 @@
     },
     {
       "id": "2026-08-05",
-      "dayNumber": 136,
+      "dayNumber": 126,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "prodigal",
@@ -229,7 +229,7 @@
     },
     {
       "id": "2026-08-06",
-      "dayNumber": 137,
+      "dayNumber": 127,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "light",
@@ -304,7 +304,7 @@
     },
     {
       "id": "2026-08-07",
-      "dayNumber": 138,
+      "dayNumber": 128,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "good_samaritan",
@@ -379,7 +379,7 @@
     },
     {
       "id": "2026-08-08",
-      "dayNumber": 139,
+      "dayNumber": 129,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "identity",
@@ -454,7 +454,7 @@
     },
     {
       "id": "2026-08-09",
-      "dayNumber": 140,
+      "dayNumber": 130,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "transfiguration",

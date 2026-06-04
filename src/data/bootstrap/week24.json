@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-08-31",
-      "dayNumber": 162,
+      "dayNumber": 152,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "perseverance",
@@ -79,7 +79,7 @@
     },
     {
       "id": "2026-09-01",
-      "dayNumber": 163,
+      "dayNumber": 153,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "faith",
@@ -154,7 +154,7 @@
     },
     {
       "id": "2026-09-02",
-      "dayNumber": 164,
+      "dayNumber": 154,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "love",
@@ -229,7 +229,7 @@
     },
     {
       "id": "2026-09-03",
-      "dayNumber": 165,
+      "dayNumber": 155,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "fruit",
@@ -304,7 +304,7 @@
     },
     {
       "id": "2026-09-04",
-      "dayNumber": 166,
+      "dayNumber": 156,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "faith",
@@ -379,7 +379,7 @@
     },
     {
       "id": "2026-09-05",
-      "dayNumber": 167,
+      "dayNumber": 157,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "armor",
@@ -454,7 +454,7 @@
     },
     {
       "id": "2026-09-06",
-      "dayNumber": 168,
+      "dayNumber": 158,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "body",

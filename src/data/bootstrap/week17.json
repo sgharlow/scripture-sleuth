@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-07-13",
-      "dayNumber": 113,
+      "dayNumber": 103,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "friendship and loyalty",
@@ -79,7 +79,7 @@
     },
     {
       "id": "2026-07-14",
-      "dayNumber": 114,
+      "dayNumber": 104,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "wealth and poverty",
@@ -154,7 +154,7 @@
     },
     {
       "id": "2026-07-15",
-      "dayNumber": 115,
+      "dayNumber": 105,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "righteousness and justice",
@@ -229,7 +229,7 @@
     },
     {
       "id": "2026-07-16",
-      "dayNumber": 116,
+      "dayNumber": 106,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "parents and children",
@@ -304,7 +304,7 @@
     },
     {
       "id": "2026-07-17",
-      "dayNumber": 117,
+      "dayNumber": 107,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "words and truth",
@@ -379,7 +379,7 @@
     },
     {
       "id": "2026-07-18",
-      "dayNumber": 118,
+      "dayNumber": 108,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "seasons of life",
@@ -457,7 +457,7 @@
     },
     {
       "id": "2026-07-19",
-      "dayNumber": 119,
+      "dayNumber": 109,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "anger and self-control",

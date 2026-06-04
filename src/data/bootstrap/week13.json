@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-06-15",
-      "dayNumber": 85,
+      "dayNumber": 75,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "shepherd",
@@ -79,7 +79,7 @@
     },
     {
       "id": "2026-06-16",
-      "dayNumber": 86,
+      "dayNumber": 76,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "praise",
@@ -154,7 +154,7 @@
     },
     {
       "id": "2026-06-17",
-      "dayNumber": 87,
+      "dayNumber": 77,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "refuge",
@@ -230,7 +230,7 @@
     },
     {
       "id": "2026-06-18",
-      "dayNumber": 88,
+      "dayNumber": 78,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "thanksgiving",
@@ -306,7 +306,7 @@
     },
     {
       "id": "2026-06-19",
-      "dayNumber": 89,
+      "dayNumber": 79,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "trust",
@@ -382,7 +382,7 @@
     },
     {
       "id": "2026-06-20",
-      "dayNumber": 90,
+      "dayNumber": 80,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "ascent",
@@ -459,7 +459,7 @@
     },
     {
       "id": "2026-06-21",
-      "dayNumber": 91,
+      "dayNumber": 81,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "deliverance",

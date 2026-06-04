@@ -1,0 +1,545 @@
+{
+  "week": 28,
+  "startDate": "2026-09-28",
+  "puzzles": [
+    {
+      "id": "2026-09-28",
+      "dayNumber": 180,
+      "difficulty": "easy",
+      "dayOfWeek": "monday",
+      "category": "creation",
+      "theme": "Creation & Genesis",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Blessed is the soul that findeth rest in the works of the Creator, for the universe is his handwriting and all creation speaketh his glory.",
+          "reference": "Illuminations 3:5",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_2",
+          "text": "And God said, Let there be light: and there was light.",
+          "reference": "Genesis 1:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/space",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.",
+          "reference": "Genesis 1:31",
+          "translation": "KJV",
+          "linkedSubreddit": "r/nature",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "So God created man in his own image, in the image of God created he him; male and female created he them.",
+          "reference": "Genesis 1:27",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AskAnthropology",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep.",
+          "reference": "Genesis 1:1-2",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Astronomy",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 0,
+      "explanation": {
+        "whyFake": [
+          "'Illuminations' is not a book of the Bible",
+          "'The universe is his handwriting' is modern devotional language entirely absent from KJV",
+          "'All creation speaketh his glory' is a paraphrase of Psalm 19 repackaged in non-KJV phrasing",
+          "Real creation passages in Genesis are spare and declarative — not poetic wellness prose"
+        ],
+        "whyReal": [
+          "Genesis 1:3 is God's first spoken command: 'Let there be light'",
+          "Genesis 1:27 declares humanity made in the image of God",
+          "Genesis 1:31 closes the sixth day with God's declaration that all was 'very good'",
+          "Genesis 1:1-2 opens the entire Bible with the creation of heaven and earth"
+        ],
+        "connections": [
+          "Genesis 1:3 -> r/space - Light created before stars or sun",
+          "Genesis 1:27 -> r/AskAnthropology - The image of God in human beings",
+          "Genesis 1:31 -> r/nature - God's completed creation declared good",
+          "Genesis 1:1-2 -> r/Astronomy - The formless earth before creation's order"
+        ],
+        "difficulty_note": "Easy - 'Illuminations' is not a biblical book, and the devotional wellness language is an immediate tell"
+      },
+      "metadata": {
+        "createdAt": "2026-05-25T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-29",
+      "dayNumber": 181,
+      "difficulty": "easy",
+      "dayOfWeek": "tuesday",
+      "category": "flood",
+      "theme": "Noah & the Flood",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.",
+          "reference": "Genesis 7:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Survival",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Blessed are the faithful who prepare for the storms of life, gathering their loved ones and their provisions against the rising waters of adversity.",
+          "reference": "Preparations 2:14",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_3",
+          "text": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged.",
+          "reference": "Genesis 8:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/floods",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.",
+          "reference": "Genesis 9:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/environment",
+          "isFake": false
+        },
+        {
+          "id": "verse_5",
+          "text": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
+          "reference": "Genesis 9:13",
+          "translation": "KJV",
+          "linkedSubreddit": "r/weather",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 1,
+      "explanation": {
+        "whyFake": [
+          "'Preparations' is not a book of the Bible",
+          "'Storms of life' and 'rising waters of adversity' are modern metaphorical language",
+          "'Provisions against adversity' is self-help phrasing completely absent from KJV",
+          "Real Noah passages focus on obedience to God's direct command, not self-sufficiency"
+        ],
+        "whyReal": [
+          "Genesis 7:1 records God's invitation to Noah and his household to enter the ark",
+          "Genesis 8:1 is the pivotal moment God remembers Noah and the flood begins to subside",
+          "Genesis 9:11 contains God's promise that a flood will never again destroy all life",
+          "Genesis 9:13 introduces the rainbow as the sign of the covenant"
+        ],
+        "connections": [
+          "Genesis 7:1 -> r/Survival - Noah's divinely commanded preparedness",
+          "Genesis 8:1 -> r/floods - The waters receding after the great flood",
+          "Genesis 9:11 -> r/environment - God's covenant with the natural world",
+          "Genesis 9:13 -> r/weather - The rainbow as covenant sign"
+        ],
+        "difficulty_note": "Easy - 'Preparations' is a non-existent book, and the self-help motivational language is an obvious tell"
+      },
+      "metadata": {
+        "createdAt": "2026-05-26T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-09-30",
+      "dayNumber": 182,
+      "difficulty": "medium",
+      "dayOfWeek": "wednesday",
+      "category": "abraham",
+      "theme": "Abraham & the Covenant",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee.",
+          "reference": "Genesis 12:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/travel",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And he believed in the LORD; and he counted it to him for righteousness.",
+          "reference": "Genesis 15:6",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Christianity",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And Abraham stretched forth his hand, and took the knife to slay his son. And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.",
+          "reference": "Genesis 22:10-11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.",
+          "reference": "Genesis 22:14",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left.",
+          "reference": "Genesis 13:9",
+          "translation": "KJV",
+          "linkedSubreddit": "r/family",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The text shown is actually Genesis 22:13, not Genesis 22:14",
+          "Genesis 22:13 says 'And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns'",
+          "Genesis 22:14 actually reads: 'And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen'",
+          "The content is authentic KJV text but has been deliberately assigned to the wrong verse number"
+        ],
+        "whyReal": [
+          "Genesis 12:1 is God's call to Abram to leave his homeland for an unknown land",
+          "Genesis 15:6 is the foundational faith-as-righteousness verse, later quoted in Romans 4 and James 2",
+          "Genesis 22:10-11 captures the climactic moment before the angel stops Abraham",
+          "Genesis 13:9 shows Abraham's generosity in giving Lot first choice of the land"
+        ],
+        "connections": [
+          "Genesis 12:1 -> r/travel - Abram called to journey to an unknown destination",
+          "Genesis 15:6 -> r/Christianity - Faith counted as righteousness",
+          "Genesis 22:10-11 -> r/TrueChristian - The supreme test of Abraham's obedience",
+          "Genesis 13:9 -> r/family - Abraham's gracious resolution of a family dispute"
+        ],
+        "difficulty_note": "Medium - The text is real KJV but cited as verse 22:14 when it belongs to verse 22:13; tests precise verse-number knowledge"
+      },
+      "metadata": {
+        "createdAt": "2026-05-27T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-01",
+      "dayNumber": 183,
+      "difficulty": "medium",
+      "dayOfWeek": "thursday",
+      "category": "joseph",
+      "theme": "Joseph & His Brothers",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours.",
+          "reference": "Genesis 37:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/parenting",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And they said one to another, Behold, this dreamer cometh. Come now therefore, and let us slay him, and cast him into some pit.",
+          "reference": "Genesis 37:19-20",
+          "translation": "KJV",
+          "linkedSubreddit": "r/siblings",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And Joseph said unto his brethren, I am Joseph; doth my father yet live? And his brethren could not answer him; for they were troubled at his presence.",
+          "reference": "Genesis 45:3",
+          "translation": "KJV",
+          "linkedSubreddit": "r/FamilyIssues",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.",
+          "reference": "Genesis 51:20",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, there is none so discreet and wise as thou art.",
+          "reference": "Genesis 41:39",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "Genesis does not have a chapter 51 — the book ends at chapter 50",
+          "The verse content closely paraphrases Genesis 50:20 but is cited as the non-existent '51:20'",
+          "The actual verse is Genesis 50:20: 'But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive'",
+          "An impossible chapter number is the giveaway for careful readers"
+        ],
+        "whyReal": [
+          "Genesis 37:3 introduces the famous coat of many colours and Jacob's favouritism",
+          "Genesis 37:19-20 captures the brothers' murderous plot against Joseph",
+          "Genesis 45:3 is the dramatic moment Joseph reveals his identity to his stunned brothers",
+          "Genesis 41:39 records Pharaoh recognising Joseph's God-given wisdom"
+        ],
+        "connections": [
+          "Genesis 37:3 -> r/parenting - Parental favouritism and its lasting consequences",
+          "Genesis 37:19-20 -> r/siblings - Sibling jealousy taken to an extreme",
+          "Genesis 45:3 -> r/FamilyIssues - A family reunion after decades of estrangement",
+          "Genesis 41:39 -> r/GetMotivated - Joseph's rise from prisoner to second-in-command"
+        ],
+        "difficulty_note": "Medium - The text is near-verbatim from Genesis 50:20, but the chapter number '51' does not exist in Genesis; catches those who know the content but not the reference"
+      },
+      "metadata": {
+        "createdAt": "2026-05-28T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-02",
+      "dayNumber": 184,
+      "difficulty": "hard",
+      "dayOfWeek": "friday",
+      "category": "exodus",
+      "theme": "Moses & the Exodus",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.",
+          "reference": "Exodus 3:14",
+          "translation": "KJV",
+          "linkedSubreddit": "r/philosophy",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.",
+          "reference": "Exodus 14:21",
+          "translation": "KJV",
+          "linkedSubreddit": "r/AskScience",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.",
+          "reference": "Exodus 33:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/TrueChristian",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Now Moses was very meek, above all the men which were upon the face of the earth.",
+          "reference": "Exodus 12:3",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.",
+          "reference": "Exodus 13:19",
+          "translation": "KJV",
+          "linkedSubreddit": "r/history",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "This verse belongs to Numbers 12:3, not Exodus 12:3",
+          "Numbers 12:3 reads: 'Now the man Moses was very meek, above all the men which were upon the face of the earth'",
+          "Exodus 12:3 says: 'Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb'",
+          "The content is authentic KJV but placed in the wrong book entirely"
+        ],
+        "whyReal": [
+          "Exodus 3:14 contains the famous divine name: 'I AM THAT I AM'",
+          "Exodus 14:21 describes Moses parting the Red Sea with his outstretched hand",
+          "Exodus 33:11 records God speaking with Moses face to face as with a friend",
+          "Exodus 13:19 is the touching detail that Moses carried Joseph's bones as Joseph had requested"
+        ],
+        "connections": [
+          "Exodus 3:14 -> r/philosophy - The ontological mystery of God's self-identification",
+          "Exodus 14:21 -> r/AskScience - The mechanics of the parting of the sea",
+          "Exodus 13:19 -> r/history - Joseph's dying wish fulfilled four centuries later",
+          "Exodus 33:11 -> r/TrueChristian - Intimate friendship with God"
+        ],
+        "difficulty_note": "Hard - The text of Numbers 12:3 is placed in Exodus with a plausible-sounding reference (12:3); only those who know Moses's meekness is in Numbers will catch it"
+      },
+      "metadata": {
+        "createdAt": "2026-05-29T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-03",
+      "dayNumber": 185,
+      "difficulty": "expert",
+      "dayOfWeek": "saturday",
+      "category": "david",
+      "theme": "David the Shepherd King",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "And Samuel said unto Jesse, Are here all thy children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him.",
+          "reference": "1 Samuel 16:11",
+          "translation": "KJV",
+          "linkedSubreddit": "r/farming",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel.",
+          "reference": "1 Samuel 17:45",
+          "translation": "KJV",
+          "linkedSubreddit": "r/GetMotivated",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.",
+          "reference": "1 Samuel 16:7",
+          "translation": "KJV",
+          "linkedSubreddit": "r/psychology",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "And David danced before the LORD with all his might; and David was girded with a linen ephod.",
+          "reference": "2 Samuel 6:15",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "The LORD is my shepherd; I shall not want.",
+          "reference": "Psalm 23:1",
+          "translation": "KJV",
+          "linkedSubreddit": "r/poetry",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "David dancing before the LORD in a linen ephod is recorded in 2 Samuel 6:14, not 6:15",
+          "2 Samuel 6:14 reads: 'And David danced before the LORD with all his might; and David was girded with a linen ephod'",
+          "2 Samuel 6:15 actually reads: 'So David and all the house of Israel brought up the ark of the LORD with shouting, and with the sound of the trumpet'",
+          "The text is perfectly authentic KJV — the verse number is wrong by exactly one, making this an expert-level challenge"
+        ],
+        "whyReal": [
+          "1 Samuel 16:7 is God's famous declaration that he looks on the heart, not outward appearance",
+          "1 Samuel 16:11 records the scene where young David is fetched from keeping the sheep",
+          "1 Samuel 17:45 is David's bold declaration to Goliath before combat",
+          "Psalm 23:1 is the most beloved of all David's psalms"
+        ],
+        "connections": [
+          "1 Samuel 16:11 -> r/farming - David the shepherd boy called from the fields",
+          "1 Samuel 17:45 -> r/GetMotivated - Facing giants in the name of the LORD",
+          "1 Samuel 16:7 -> r/psychology - God's perspective on inner character over appearance",
+          "Psalm 23:1 -> r/poetry - The immortal shepherd psalm of David"
+        ],
+        "difficulty_note": "Expert - The verse text is word-perfect KJV from 2 Samuel 6:14, but is cited as 6:15; only those with precise knowledge of this passage will notice the one-verse error"
+      },
+      "metadata": {
+        "createdAt": "2026-05-30T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    },
+    {
+      "id": "2026-10-04",
+      "dayNumber": 186,
+      "difficulty": "hard",
+      "dayOfWeek": "sunday",
+      "category": "daniel",
+      "theme": "Daniel in Babylon",
+      "verses": [
+        {
+          "id": "verse_1",
+          "text": "But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank.",
+          "reference": "Daniel 1:8",
+          "translation": "KJV",
+          "linkedSubreddit": "r/HealthyFood",
+          "isFake": false
+        },
+        {
+          "id": "verse_2",
+          "text": "Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.",
+          "reference": "Daniel 6:23",
+          "translation": "KJV",
+          "linkedSubreddit": "r/miracles",
+          "isFake": false
+        },
+        {
+          "id": "verse_3",
+          "text": "As for these four children, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams.",
+          "reference": "Daniel 1:17",
+          "translation": "KJV",
+          "linkedSubreddit": "r/Dreams",
+          "isFake": false
+        },
+        {
+          "id": "verse_4",
+          "text": "Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.",
+          "reference": "Daniel 6:17",
+          "translation": "KJV",
+          "linkedSubreddit": "",
+          "isFake": true
+        },
+        {
+          "id": "verse_5",
+          "text": "And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
+          "reference": "Daniel 2:44",
+          "translation": "KJV",
+          "linkedSubreddit": "r/worldnews",
+          "isFake": false
+        }
+      ],
+      "fakeVerseIndex": 3,
+      "explanation": {
+        "whyFake": [
+          "The king's hopeful words 'Thy God whom thou servest continually, he will deliver thee' appear in Daniel 6:16, not 6:17",
+          "Daniel 6:16 records the king casting Daniel in and speaking those words of hope",
+          "Daniel 6:17 actually says: 'And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet and with the signet of his lords'",
+          "The fake merges casting into the den (verse 16) with the stone sealing (verse 17) and wrong-numbers the reference"
+        ],
+        "whyReal": [
+          "Daniel 1:8 establishes Daniel's foundational resolve not to be defiled by Babylon's food",
+          "Daniel 6:23 is the triumphant rescue narrative: Daniel unharmed because he trusted God",
+          "Daniel 1:17 credits God as the source of Daniel's wisdom and dream interpretation",
+          "Daniel 2:44 is the great prophetic declaration of God's eternal indestructible kingdom"
+        ],
+        "connections": [
+          "Daniel 1:8 -> r/HealthyFood - Daniel's dietary conviction in Babylon",
+          "Daniel 6:23 -> r/miracles - Surviving the lions' den unharmed by faith",
+          "Daniel 1:17 -> r/Dreams - Daniel's God-given gift of dream interpretation",
+          "Daniel 2:44 -> r/worldnews - God's kingdom outlasting all earthly empires"
+        ],
+        "difficulty_note": "Hard - The fake conflates content from Daniel 6:16 and assigns it to 6:17; requires detailed chapter knowledge to distinguish"
+      },
+      "metadata": {
+        "createdAt": "2026-05-31T10:00:00Z",
+        "createdBy": "scripture_curator",
+        "reviewed": true
+      }
+    }
+  ]
+}

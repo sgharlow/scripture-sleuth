@@ -4,7 +4,7 @@
   "puzzles": [
     {
       "id": "2026-07-06",
-      "dayNumber": 106,
+      "dayNumber": 96,
       "difficulty": "easy",
       "dayOfWeek": "monday",
       "category": "fear of the lord",
@@ -79,7 +79,7 @@
     },
     {
       "id": "2026-07-07",
-      "dayNumber": 107,
+      "dayNumber": 97,
       "difficulty": "easy",
       "dayOfWeek": "tuesday",
       "category": "wisdom and folly",
@@ -154,7 +154,7 @@
     },
     {
       "id": "2026-07-08",
-      "dayNumber": 108,
+      "dayNumber": 98,
       "difficulty": "medium",
       "dayOfWeek": "wednesday",
       "category": "tongue and speech",
@@ -229,7 +229,7 @@
     },
     {
       "id": "2026-07-09",
-      "dayNumber": 109,
+      "dayNumber": 99,
       "difficulty": "medium",
       "dayOfWeek": "thursday",
       "category": "diligence and laziness",
@@ -304,7 +304,7 @@
     },
     {
       "id": "2026-07-10",
-      "dayNumber": 110,
+      "dayNumber": 100,
       "difficulty": "hard",
       "dayOfWeek": "friday",
       "category": "pride and humility",
@@ -379,7 +379,7 @@
     },
     {
       "id": "2026-07-11",
-      "dayNumber": 111,
+      "dayNumber": 101,
       "difficulty": "expert",
       "dayOfWeek": "saturday",
       "category": "vanity of life",
@@ -456,7 +456,7 @@
     },
     {
       "id": "2026-07-12",
-      "dayNumber": 112,
+      "dayNumber": 102,
       "difficulty": "hard",
       "dayOfWeek": "sunday",
       "category": "heart and mind",

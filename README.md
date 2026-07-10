@@ -1,5 +1,9 @@
 # Scripture Sleuth
 
+[![Skill Crossroads](https://skillcrossroads.com/api/badge/sgharlow/scripture-sleuth.svg)](https://skillcrossroads.com/s/sgharlow/scripture-sleuth)
+
+Claude Code artifacts graded by [Skill Crossroads](https://skillcrossroads.com) — click the badge for the evidence-cited scorecard.
+
 Daily Reddit game where players identify the fake Bible verse among 5 options. Built for the Reddit Games & Puzzles Hackathon 2026.
 
 ## Play Now

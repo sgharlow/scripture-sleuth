@@ -29,3 +29,4 @@ walkthrough/
 !.env.example
 !.env.*.example
 !.env.template
+.beacon-cache/

@@ -136,3 +136,7 @@ MIT
 ---
 
 *Scripture Sleuth: One of these verses isn't real. Can you spot the fake?*
+
+---
+
+**Repo size note:** this repository is ~37MB because the Devvit listing assets (high-resolution subreddit banners and icons in `assets/`) live in the current tree by requirement — they are functional, not stray build output. Documented per the 2026-07 portfolio size audit; a history rewrite was evaluated and declined (little reclaim, submitted-app risk).

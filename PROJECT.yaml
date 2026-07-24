@@ -12,7 +12,7 @@ ladder: live-proven
 derived:
   test_count: "npx vitest run 2>&1 | grep 'Tests '   # live 2026-07-24: 3133 passing, 6 files"
   puzzle_count: "node -e \"const fs=require('fs'),p='src/data/bootstrap';let t=0;for(const f of fs.readdirSync(p)){if(!f.endsWith('.json'))continue;const j=JSON.parse(fs.readFileSync(p+'/'+f,'utf8'));t+=Array.isArray(j)?j.length:(j.puzzles?.length||0);}console.log(t)\"   # live 2026-07-24: 219, through ~2026-11-06"
-  deployed_version: "node -p \"require('./package.json').version\"   # local 2026-07-24: 0.0.11 — NOTE: MEMORY claims 'deployed v0.1.4'; reconcile against the live Devvit app version before quoting either"
+  deployed_version: "npx devvit list installs   # RESOLVED 2026-07-24: prod r/ScriptureSleuth runs v0.1.4 (devvit-side version); package.json (0.0.11) is a local dev counter, NOT the deployed marker — never compare the two"
   head: "git rev-parse --short HEAD"
   branch: "git branch --show-current"
 

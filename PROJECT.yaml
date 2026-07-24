@@ -1,0 +1,38 @@
+# Machine-readable project contract (roadmap-discipline rules, global CLAUDE.md 2026-07-01).
+# Volatile numbers live in derived: as commands, never hand-copied into prose.
+
+name: scripture-sleuth
+description: Daily Reddit game (Devvit) — Bible-verse deduction puzzle. Live on r/ScriptureSleuth.
+authoritative_plan: PROJECT.yaml   # TODO.md is a HISTORICAL pre-launch snapshot (superseded 2026-07-24)
+
+# live-proven: deployed, scheduler posting daily, hackathon submitted ~2026-02-12.
+# Free community game — "used" = daily Reddit players, not customers.
+ladder: live-proven
+
+derived:
+  test_count: "npx vitest run 2>&1 | grep 'Tests '   # live 2026-07-24: 3133 passing, 6 files"
+  puzzle_count: "node -e \"const fs=require('fs'),p='src/data/bootstrap';let t=0;for(const f of fs.readdirSync(p)){if(!f.endsWith('.json'))continue;const j=JSON.parse(fs.readFileSync(p+'/'+f,'utf8'));t+=Array.isArray(j)?j.length:(j.puzzles?.length||0);}console.log(t)\"   # live 2026-07-24: 219, through ~2026-11-06"
+  deployed_version: "node -p \"require('./package.json').version\"   # local 2026-07-24: 0.0.11 — NOTE: MEMORY claims 'deployed v0.1.4'; reconcile against the live Devvit app version before quoting either"
+  head: "git rev-parse --short HEAD"
+  branch: "git branch --show-current"
+
+gates:
+  - id: content-runway
+    metric: days_of_scheduled_puzzles_remaining (bootstrap content ends ~2026-11-06)
+    target: "PROPOSED: extend or decide sunset >= 14 days before exhaustion (i.e. by 2026-10-23)"
+    kill: "PROPOSED: no extension decision by 2026-10-23 -> post a farewell/completed banner puzzle and let the scheduler run out cleanly (never a silent dead subreddit — this game already went silently dark once, ~2026-03-25 to 05-24)"
+    owner: steve
+    due: 2026-10-23
+
+market:
+  competitors_doc: "not authored — daily-puzzle Reddit games; free community game, not a commercial entrant"
+  wtp_evidence: none
+  demand_signal: "organic — r/ScriptureSleuth daily players (uninstrumented beyond Reddit-native metrics)"
+
+monetization_path: "none by design — free community/hackathon game; kill condition lives on the content-runway gate"
+
+post_event_plan: >-
+  Hackathon (Reddit Games & Puzzles 2026) submitted ~2026-02-12; deadline passed.
+  Win: publicize + consider content automation. Lose/no-verdict (current state): zombie-prevention
+  is the content-runway gate above. Precedent: content silently exhausted 2026-03-25 and the game
+  ran dark for ~2 months before the 05-24 extension — the gate exists so that never recurs.

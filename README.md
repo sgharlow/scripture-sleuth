@@ -43,7 +43,7 @@ The **fake** verse has no natural subreddit connection - it's just generic "bibl
 - **Leaderboards**: Compete on streak and accuracy rankings
 - **User Contributions**: Submit your own fake verse ideas
 - **Community Stats**: See how your guess compares to others
-- **126 Curated Puzzles**: 4+ months of daily content
+- **Curated Daily Puzzles**: bootstrap content through early Nov 2026 (live count: run the `puzzle_count` command in PROJECT.yaml — 219 as of 2026-07-24)
 
 ## Tech Stack
 

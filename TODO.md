@@ -1,7 +1,7 @@
 # Scripture Sleuth - Complete Launch Checklist
 
-> **HISTORICAL SNAPSHOT — DO NOT USE AS CURRENT STATE.**
-> Pre-launch snapshot (2026-02-01). Game was submitted ~2026-02-12; puzzle content exhausted ~2026-03-25. Status below is historical.
+> **HISTORICAL SNAPSHOT — DO NOT USE AS CURRENT STATE. SUPERSEDED BY PROJECT.yaml (2026-07-24).**
+> Pre-launch snapshot (2026-02-01). Game was submitted ~2026-02-12; puzzle content exhausted ~2026-03-25 then re-extended 2026-05-24 (now through ~2026-11-06). Current status, gates, and the post-event plan live in `PROJECT.yaml`.
 
 > **CONTENT EXTENDED 2026-05-24:** New weeks 10-27 (+126 puzzles, 189 total) added, covering 2026-05-25 -> 2026-09-27 (~4 months). Run `npm run upload` to deploy. The "weeks 1-10 / 53 days runway" figures below are historical.
 

@@ -23,7 +23,13 @@ gates:
     kill: "no extension decision by 2026-10-23 -> post a farewell/completed banner puzzle and let the scheduler run out cleanly (never a silent dead subreddit — this game already went silently dark once, ~2026-03-25 to 05-24)"
     owner: steve
     due: 2026-10-23
-
+    runway_read_2026_09_25: >-
+      READ FROM THE REPO (Steve: "DO: read the runway now", /daily-priority): src/data holds 219 dated
+      puzzle ids, first 2026-02-01, LAST 2026-11-06 (42 days from the read), 60 missing days inside the
+      range (the 2026-03-25 → 05-24 dark period). Exhaustion = the day after 2026-11-06; the "≥ 14 days
+      before" rule makes the decision deadline 2026-10-23 — the same day as `due`, so this gate has NO
+      slack: the decision is owed ON 10-23, not by it. Live subreddit read blocked (reddit JSON returns
+      HTML to scripts); re-read the last posted Day N in a browser before ruling.
     ratified: 2026-09-25   # Steve, /daily-priority AskUserQuestion: "ratify all three as written" — target + kill above were PROPOSED (tagged 2026-07-24) until today
 market:
   competitors_doc: "not authored — daily-puzzle Reddit games; free community game, not a commercial entrant"

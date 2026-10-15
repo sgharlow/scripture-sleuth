@@ -31,6 +31,9 @@ gates:
       slack: the decision is owed ON 10-23, not by it. Live subreddit read blocked (reddit JSON returns
       HTML to scripts); re-read the last posted Day N in a browser before ruling.
     ratified: 2026-09-25   # Steve, /daily-priority AskUserQuestion: "ratify all three as written" — target + kill above were PROPOSED (tagged 2026-07-24) until today
+    decision: "SUNSET (Steve, 2026-10-15, AskUserQuestion in /daily-priority). Option B of __project-docs/content-runway-brief-2026-10-14.md: a 'Series complete' post on the first day past the last puzzle (2026-11-07), then the daily job stops. Never a silent dead subreddit."
+    status: met
+    met: 2026-10-15
 market:
   competitors_doc: "not authored — daily-puzzle Reddit games; free community game, not a commercial entrant"
   wtp_evidence: none

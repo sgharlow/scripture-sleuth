@@ -63,6 +63,23 @@ export async function setCurrentPuzzleId(
 }
 
 /**
+ * Series sunset: the ID of the one "Series complete" post, once it has been posted
+ */
+export async function getSeriesCompletePostId(
+  ctx: RedisContext
+): Promise<string | null> {
+  const id = await ctx.redis.get(REDIS_KEYS.seriesCompletePost());
+  return id || null;
+}
+
+export async function setSeriesCompletePostId(
+  ctx: RedisContext,
+  postId: string
+): Promise<void> {
+  await ctx.redis.set(REDIS_KEYS.seriesCompletePost(), postId);
+}
+
+/**
  * Get all puzzle IDs from the index
  * Note: Uses JSON string since Devvit Redis doesn't support List operations
  */

@@ -5,7 +5,13 @@
 
 import { Devvit } from '@devvit/public-api';
 import type { RedisContext } from '../services/redisKeys';
-import { getPuzzle, setCurrentPuzzleId } from '../services/redisService';
+import {
+  getPuzzle,
+  setCurrentPuzzleId,
+  getPuzzleIndex,
+  getSeriesCompletePostId,
+  setSeriesCompletePostId,
+} from '../services/redisService';
 import { ensurePuzzlesLoaded } from '../services/bootstrapService';
 import { getInventoryStatus, formatInventoryReport } from '../services/inventoryService';
 
@@ -49,6 +55,13 @@ export function registerDailyPuzzleJob(): void {
         const puzzle = await getPuzzle(redisCtx, todayId);
 
         if (!puzzle) {
+          // Past the last scheduled puzzle: the series has ended (sunset ruling 2026-10-15)
+          const lastPuzzleId = await getLastPuzzleId(redisCtx);
+          if (lastPuzzleId && todayId > lastPuzzleId) {
+            await postSeriesComplete(context, redisCtx, lastPuzzleId);
+            return;
+          }
+
           console.error(`[DailyPuzzle] No puzzle found for ${todayId}`);
           // Send modmail alert
           await sendMissingPuzzleAlert(context, todayId);
@@ -86,6 +99,51 @@ export function registerDailyPuzzleJob(): void {
       }
     },
   });
+}
+
+/**
+ * Get the date of the last scheduled puzzle (puzzle IDs are YYYY-MM-DD)
+ */
+async function getLastPuzzleId(redisCtx: RedisContext): Promise<string | null> {
+  const index = await getPuzzleIndex(redisCtx);
+  if (index.length === 0) return null;
+  return [...index].sort()[index.length - 1];
+}
+
+/**
+ * Sunset: post ONE "Series complete" post, then stop the daily job.
+ * The post ID is stored in Redis only after the post succeeds, so a failed
+ * post is retried on the next run and a successful one is never repeated.
+ */
+async function postSeriesComplete(
+  context: Pick<Devvit.Context, 'reddit' | 'scheduler'>,
+  redisCtx: RedisContext,
+  lastPuzzleId: string
+): Promise<void> {
+  const existingPostId = await getSeriesCompletePostId(redisCtx);
+
+  if (existingPostId) {
+    console.log(`[DailyPuzzle] Series already complete (post ${existingPostId}), nothing to post`);
+  } else {
+    const lastPuzzle = await getPuzzle(redisCtx, lastPuzzleId);
+    const finalDay = lastPuzzle ? `Day ${lastPuzzle.dayNumber} (${lastPuzzleId})` : lastPuzzleId;
+    const subreddit = await context.reddit.getCurrentSubreddit();
+
+    const post = await context.reddit.submitPost({
+      title: 'Series Complete: Thank You for Playing Scripture Sleuth!',
+      subredditName: subreddit.name,
+      text:
+        `Scripture Sleuth has finished its daily series. ${finalDay} was the final puzzle, ` +
+        'and no new puzzles will be posted.\n\n' +
+        'Thank you to everyone who played, kept a streak going, and shared puzzle ideas along the way.',
+    });
+
+    await setSeriesCompletePostId(redisCtx, post.id);
+    console.log(`[DailyPuzzle] Created Series complete post ${post.id}`);
+  }
+
+  // The series has ended: stop the daily job
+  await cancelDailyJob(context);
 }
 
 /**
@@ -146,7 +204,7 @@ export async function scheduleDailyJob(context: Devvit.Context): Promise<void> {
 /**
  * Cancel the daily job (used on app uninstall)
  */
-export async function cancelDailyJob(context: Devvit.Context): Promise<void> {
+export async function cancelDailyJob(context: Pick<Devvit.Context, 'scheduler'>): Promise<void> {
   try {
     const jobs = await context.scheduler.listJobs();
     for (const job of jobs) {

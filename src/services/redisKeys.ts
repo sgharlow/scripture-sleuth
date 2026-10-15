@@ -8,6 +8,7 @@ export const REDIS_KEYS = {
   puzzle: (id: string) => `puzzle:${id}`,                     // puzzle:2026-01-20
   puzzleIndex: () => `puzzle:index`,                          // List of all puzzle IDs
   currentPuzzle: () => `puzzle:current`,                      // Today's puzzle ID
+  seriesCompletePost: () => `series:complete:postId`,         // Post ID of the one "Series complete" post (set = series ended)
 
   // User data
   userProgress: (userId: string) => `user:${userId}:progress`,

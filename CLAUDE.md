@@ -123,9 +123,11 @@ Tests located in `src/**/*.test.ts`:
 - `shareUtils.test.ts` - Share text generation
 - `achievementService.test.ts` - Achievement logic
 
-3,133 tests across 6 test files (VERIFIED via `npm run test` on 2026-06-03). `allWeeks.test.ts` is a disk-reading full-inventory validator that auto-covers new week files. Run with `npm run test` or `npm run test:watch`.
+Run `npm run test` for the current count (never copy a count here; it drifts). `allWeeks.test.ts` is a disk-reading full-inventory validator that auto-covers new week files. Run with `npm run test` or `npm run test:watch`.
 
 **Puzzle content (2026-06-03):** 219 puzzles through 2026-11-06 (weeks 01-33). The never-served 2026-05-25..06-03 "dry window" puzzles (the 5-24 extension was committed but never uploaded) were re-dated +126 days to 9-28..10-07 (weeks 28-29, `scripts/redate-dry-window-2026-06-03.mjs`), and 30 new puzzles added for 10-08..11-06 (weeks 29-33; KJV-verbatim audited, zero real-verse reuse vs the prior corpus). Deployed + installed on r/ScriptureSleuth same day.
+
+**Status (2026-10-15): SUNSET ruled by Steve.** The last puzzle is 2026-11-06; on the first daily run after it (2026-11-07) the scheduler posts one "Series Complete" post (id kept in Redis `series:complete:postId`) and cancels `daily-puzzle-post`. See PROJECT.yaml `content-runway`. **Installed version: 0.1.5** (installed 2026-10-15; check with `npx devvit list installs ScriptureSleuth`). Devvit tracks the uploaded version itself, so `devvit.yaml`'s `version:` is not the deployed version.
 
 ---
 

@@ -34,6 +34,7 @@ gates:
     decision: "SUNSET (Steve, 2026-10-15, AskUserQuestion in /daily-priority). Option B of __project-docs/content-runway-brief-2026-10-14.md: a 'Series complete' post on the first day past the last puzzle (2026-11-07), then the daily job stops. Never a silent dead subreddit."
     status: met
     met: 2026-10-15
+    post_upgrade_proof_2026_10_16: "live-proven after the v0.1.5 install: `npx devvit logs r/ScriptureSleuth --since=1d` shows '[DailyPuzzle] Created post t3_1x7vysn for Day 199' and '[HealthCheck] Inventory status: 7 days of runway' (reddit itself is blocked to WebFetch and Chrome, so devvit logs is the read path)"
 market:
   competitors_doc: "not authored — daily-puzzle Reddit games; free community game, not a commercial entrant"
   wtp_evidence: none
